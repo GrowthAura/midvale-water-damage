@@ -5,6 +5,11 @@
 // The Doc's 4-row water-category table (missed by the plain-text extract)
 // is included verbatim from doc-raw.json.
 
+// Subpath prefix for plain <img> srcs (Next's basePath does NOT prefix
+// them — Belleville lesson). Next's <Link> auto-prefixes with basePath,
+// so NEVER hand-prefix Link hrefs (double-prefix).
+export const ASSET_PREFIX = "/midvale-water-damage";
+
 export const SITE = {
   brand: "Water Damage Restoration Midvale UT",
   city: "Midvale",
@@ -342,9 +347,36 @@ export const FAQ = [
 
 export const ALL_ROUTES: string[] = [
   "/",
-  ...SERVICES.map((s) => `/${s.slug}`),
-  `/${GUIDE.slug}`,
-  ...LOCATIONS.map((l) => `/locations/${l.slug}`),
+  "/about",
+  "/contact",
+  "/emergency-water-extraction",
+  "/basement-flooding-cleanup",
+  "/window-well-flooding",
+  "/burst-pipe-water-damage",
+  "/sewage-backup-cleanup",
+  "/water-heater-leak-cleanup",
+  "/swamp-cooler-leak-water-damage",
+  "/ceiling-water-damage",
+  "/crawl-space-water-damage",
+  "/hardwood-floor-cabinet-drying",
+  "/condo-apartment-water-damage",
+  "/commercial-water-damage",
+  "/storm-flood-damage",
+  "/mold-remediation",
+  "/water-leak-detection",
+  "/water-damage-repair",
+  "/locations/cottonwood-heights-ut",
+  "/locations/south-salt-lake-ut",
+  "/locations/magna-ut",
+  "/midvale-water-sewer-emergency-contacts",
+  "/privacy-policy",
+  "/terms-of-use",
+  "/disclaimer",
+  "/resources/frozen-pipes-midvale",
+  "/resources/winterize-swamp-cooler-utah",
+  "/resources/upstairs-unit-leak-who-pays-utah",
+  "/resources/can-mold-grow-in-utah",
+  "/resources/basement-flooding-spring-snowmelt-utah",
 ];
 
 // HERO + A-to-Z ROUND (2026-11-10): one UNIQUE darkened photographic hero
@@ -377,6 +409,19 @@ export const HERO_IMAGE: Record<string, PageImage> = {
   "cottonwood-heights-ut": { src: "/images/heroes/cottonwood-heights-ut.webp", alt: "Bench homes below the snowy Wasatch canyons in Cottonwood Heights, Utah" },
   "south-salt-lake-ut": { src: "/images/heroes/south-salt-lake-ut.webp", alt: "Apartment and warehouse buildings in South Salt Lake, Utah at dusk" },
   "magna-ut": { src: "/images/heroes/magna-ut.webp", alt: "Older homes on historic Main Street in Magna, Utah at dusk" },
+  // REBUILD (2026-11-12): 10 new heroes, fresh for Midvale only — same
+  // photographic dark/moody style, metadata stripped, no "AI" word.
+  // Keys are route slugs (blogs keyed "resources/<slug>").
+  "about": { src: "/images/heroes/about.webp", alt: "Midvale water damage restoration crew with extraction equipment outside a home at dusk" },
+  "contact": { src: "/images/heroes/contact.webp", alt: "Restoration crew answering an emergency call beside drying equipment in a dark Midvale home" },
+  "privacy-policy": { src: "/images/heroes/privacy-policy.webp", alt: "Customer paperwork and a laptop on a desk in a dim Midvale office" },
+  "terms-of-use": { src: "/images/heroes/terms-of-use.webp", alt: "Printed documents and a pen on a desk in a dim office" },
+  "disclaimer": { src: "/images/heroes/disclaimer.webp", alt: "Technician inspecting a water-damaged wall with a moisture meter in a dark room" },
+  "resources/frozen-pipes-midvale": { src: "/images/heroes/frozen-pipes-midvale.webp", alt: "Frozen burst pipe with ice in a dark Midvale crawl space" },
+  "resources/winterize-swamp-cooler-utah": { src: "/images/heroes/winterize-swamp-cooler-utah.webp", alt: "Rooftop swamp cooler covered for winter on a snowy Midvale roof" },
+  "resources/upstairs-unit-leak-who-pays-utah": { src: "/images/heroes/upstairs-unit-leak-who-pays-utah.webp", alt: "Water dripping from an apartment ceiling into the unit below in Midvale" },
+  "resources/can-mold-grow-in-utah": { src: "/images/heroes/can-mold-grow-in-utah.webp", alt: "Mold growth on damp drywall in a dark Midvale basement corner" },
+  "resources/basement-flooding-spring-snowmelt-utah": { src: "/images/heroes/basement-flooding-spring-snowmelt-utah.webp", alt: "Spring snowmelt water seeping across a Midvale basement floor" },
 };
 
 export const CARD_IMAGE: Record<string, PageImage> = {

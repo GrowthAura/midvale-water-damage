@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { SITE, HERO, SERVICES, NEIGHBORHOODS, WHY_HOMES, PROCESS, CATEGORY_TABLE, COSTS, LOCATIONS, GUIDE, FAQ, HERO_IMAGE, CARD_IMAGE } from "@/lib/content";
+import { SITE, HERO, SERVICES, NEIGHBORHOODS, WHY_HOMES, PROCESS, CATEGORY_TABLE, COSTS, LOCATIONS, FAQ, HERO_IMAGE, CARD_IMAGE } from "@/lib/content";
 import { HeroButtons, Reveal, JsonLd, TEL_HREF, PhotoHero } from "@/components/site";
 import { CardImage } from "@/components/panels";
 
@@ -65,7 +65,7 @@ export default function HomePage() {
 
       {/* 1 — HERO: photo hero. Intro is IN the hero, trust chips are IN the
           hero (the separate copper trust band is gone — no duplication). */}
-      <PhotoHero image={HERO_IMAGE.home.src} alt={HERO_IMAGE.home.alt} eyebrow={HERO.eyebrow} h1={HERO.h1} intro={HERO.intro} />
+      <PhotoHero image={HERO_IMAGE.home.src} alt={HERO_IMAGE.home.alt} eyebrow={HERO.eyebrow} h1={HERO.h1} intro={HERO.intro} trust={HERO.trust} />
 
       {/* 2 — What causes most water damage */}
       <section className="section">
@@ -94,13 +94,16 @@ export default function HomePage() {
           <div className="card-grid">
             {SERVICES.map((s, i) => (
               <article className="card" key={s.slug}>
-                <CardImage src={CARD_IMAGE[s.slug].src} alt={CARD_IMAGE[s.slug].alt} />
+                <Link className="card-img-link" href={`/${s.slug}`}>
+                  <CardImage src={CARD_IMAGE[s.slug].src} alt={CARD_IMAGE[s.slug].alt} />
+                </Link>
                 <div className="card-body">
-                  <h3>{s.h3}</h3>
-                  <p>{s.summary}</p>
-                  <Link className="card-link" href={`/${s.slug}`}>
-                    {s.anchor}
+                  <Link href={`/${s.slug}`}>
+                    <h3>{s.h3}</h3>
                   </Link>
+                  <p>
+                    {s.summary} {s.anchor} (/{s.slug}/)
+                  </p>
                 </div>
               </article>
             ))}
@@ -228,8 +231,7 @@ export default function HomePage() {
               Most Utah homeowners policies cover sudden water damage, like a burst pipe or a failed water heater. Gradual leaks, groundwater seepage and surface flooding are often excluded, and sewer backups usually need a separate backup endorsement. Condo owners deal with both an HOA master policy and their own HO-6, and renters rely on a renters policy for belongings.
             </p>
             <p>
-              We give you what adjusters ask for: dated photos, moisture maps, daily drying logs and a clear list of removed materials. Good records are a big part of water mitigation Midvale 84047 claims moving smoothly. If water came from an upstairs unit, see{" "}
-              <Link href="/condo-apartment-water-damage">Condo &amp; Apartment Water Damage</Link>.
+              We give you what adjusters ask for: dated photos, moisture maps, daily drying logs and a clear list of removed materials. Good records are a big part of water mitigation Midvale 84047 claims moving smoothly. If water came from an upstairs unit, see Condo &amp; Apartment Water Damage (/condo-apartment-water-damage/).
             </p>
           </Reveal>
         </div>
@@ -251,8 +253,7 @@ export default function HomePage() {
               </li>
             </ul>
             <p>
-              For sewer backups, the{" "}
-              <Link href={`/${GUIDE.slug}`}>Midvale Water &amp; Sewer Emergency Contacts</Link> page lists who to call about the public line.
+              For sewer backups, the Midvale Water &amp; Sewer Emergency Contacts page (/midvale-water-sewer-emergency-contacts/) lists who to call about the public line.
             </p>
           </Reveal>
         </div>
@@ -270,14 +271,13 @@ export default function HomePage() {
           <div className="card-grid">
             {LOCATIONS.map((l, i) => (
               <article className="card" key={l.slug}>
-                <CardImage src={CARD_IMAGE[l.slug].src} alt={CARD_IMAGE[l.slug].alt} />
+                <Link className="card-img-link" href={`/locations/${l.slug}`}>
+                  <CardImage src={CARD_IMAGE[l.slug].src} alt={CARD_IMAGE[l.slug].alt} />
+                </Link>
                 <div className="card-body">
                   <p>
-                    <strong>{l.lead}</strong> {l.rest}
+                    <strong>{l.lead}</strong> {l.rest} {l.anchor} (/locations/{l.slug}/)
                   </p>
-                  <Link className="card-link" href={`/locations/${l.slug}`}>
-                    {l.anchor}
-                  </Link>
                 </div>
               </article>
             ))}

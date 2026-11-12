@@ -6,7 +6,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState, type ReactNode } from "react";
-import { SITE, SERVICES, LOCATIONS, GUIDE } from "@/lib/content";
+import { SITE, SERVICES, LOCATIONS, GUIDE, ASSET_PREFIX } from "@/lib/content";
 
 export const TEL_HREF = `tel:${SITE.phoneTel}`;
 
@@ -46,6 +46,7 @@ export function PhotoHero({
   h1,
   intro,
   breadcrumb,
+  trust,
 }: {
   image: string;
   alt: string;
@@ -53,10 +54,13 @@ export function PhotoHero({
   h1: string;
   intro: string;
   breadcrumb?: ReactNode;
+  // Trust chips render ONLY when passed (page.trustChips). Null/omitted
+  // (tabs 24-31) -> NO trust line, never invented chips.
+  trust?: readonly string[] | null;
 }) {
   return (
     <section className="hero hero-photo">
-      <img className="hero-img" src={image} alt={alt} width={1600} height={900} fetchPriority="high" />
+      <img className="hero-img" src={ASSET_PREFIX + image} alt={alt} width={1600} height={900} fetchPriority="high" />
       <div className="hero-shade" aria-hidden="true" />
       <div className="wrap hero-content">
         {breadcrumb}
@@ -64,7 +68,9 @@ export function PhotoHero({
         <h1>{h1}</h1>
         <p className="intro">{intro}</p>
         <HeroButtons />
-        <p className="hero-trust">24/7 Emergency Line · Local to Midvale 84047 · Clean, Gray &amp; Sewage Water · Insurance-Ready Photo Logs</p>
+        {trust && trust.length > 0 ? (
+          <p className="hero-trust">{trust.join(" · ")}</p>
+        ) : null}
       </div>
     </section>
   );

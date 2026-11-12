@@ -3,6 +3,7 @@
 // file, so the panels live here. No raster image anywhere on the site:
 // fresh inline SVG/CSS branded panels only. No photo is claimed to be a
 // real job photo; no AI word, no AI metadata.
+import { ASSET_PREFIX } from "@/lib/content";
 const GLYPHS: Record<string, JSX.Element> = {
   drop: <path d="M32 6C32 6 14 26 14 40a18 18 0 0 0 36 0C50 26 32 6 32 6Z" />,
   waves: (
@@ -62,5 +63,5 @@ export function servicePanel(slug: string, index: number) {
    Replaces the SVG panel on service + area cards. One unique photo per
    card, different scene from that page's hero image. */
 export function CardImage({ src, alt }: { src: string; alt: string }) {
-  return <img className="card-img" src={src} alt={alt} width={800} height={450} loading="lazy" />;
+  return <img className="card-img" src={ASSET_PREFIX + src} alt={alt} width={800} height={450} loading="lazy" />;
 }

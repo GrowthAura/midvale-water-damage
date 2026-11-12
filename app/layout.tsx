@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { SITE } from "@/lib/content";
+import { SITE, ASSET_PREFIX } from "@/lib/content";
 import { Header, StickyBar, FooterSwitch } from "@/components/site";
 import "./globals.css";
 
@@ -8,7 +8,10 @@ export const metadata: Metadata = {
   title: SITE.metaTitle,
   description: SITE.metaDescription,
   robots: { index: true, follow: true },
-  icons: { icon: "/favicon.svg" },
+  // Next's Metadata API does NOT apply basePath to icons (verified in the
+  // built HTML: a bare "/favicon.svg" stayed bare on all 32 pages) —
+  // so the icon path is hand-prefixed with ASSET_PREFIX, like plain <img>.
+  icons: { icon: `${ASSET_PREFIX}/favicon.svg` },
   openGraph: {
     type: "website",
     locale: "en_US",

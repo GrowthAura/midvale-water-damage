@@ -162,6 +162,12 @@ a:hover { color: var(--copper-dark); }
 .card-body p { flex: 1; }
 .card-link { font-size: 18px; font-weight: 700; color: var(--copper-dark); }
 .card-link:hover { color: var(--pine); }
+/* REBUILD 2026-11-12: card h3 + card image are wrapped in <Link> (the
+   old .card-link element is gone). The wrapped h3 must look exactly like
+   the bare h3 was — no underline, same colour — and the image link must
+   stay a block so the 16:9 image box is unchanged. */
+.card-body h3 a { text-decoration: none; color: inherit; }
+.card-img-link { display: block; }
 
 /* ---------- two-column blocks ---------- */
 .split { display: grid; grid-template-columns: 1fr 1fr; gap: 32px; margin-top: 24px; }
