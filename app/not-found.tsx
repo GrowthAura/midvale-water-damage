@@ -17,7 +17,8 @@ export default function NotFound() {
         <h1>Page Not Found</h1>
         <p>Sorry — this page does not exist. You can go back to the homepage or call us any hour.</p>
         <p>
-          <Link href="/">Back to the homepage</Link>
+          {/* P3-1: no home prefetch here either — same basePath .txt 404. */}
+          <Link href="/" prefetch={false}>Back to the homepage</Link>
         </p>
         <HeroButtons />
       </div>

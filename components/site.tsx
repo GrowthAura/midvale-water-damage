@@ -87,26 +87,66 @@ const HEADER_SERVICES = [
 export function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const menuBtnRef = useRef<HTMLButtonElement>(null);
+  const menuScrollY = useRef(0);
   const pathname = usePathname();
   // Close the menu on navigation and on Escape (focus returns to the button).
   useEffect(() => {
     setMenuOpen(false);
   }, [pathname]);
+  // Restore the pre-menu scroll position — ONLY on an explicit close
+  // (Escape / menu-button toggle), never on navigation: a menu-link click
+  // navigates and Next scrolls the new page to top. The restore runs in a
+  // double rAF so layout settles and it lands exactly.
+  const restoreMenuScroll = () => {
+    const y = menuScrollY.current;
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => window.scrollTo(0, y));
+    });
+  };
   useEffect(() => {
     if (!menuOpen) return;
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") {
         setMenuOpen(false);
+        restoreMenuScroll();
         menuBtnRef.current?.focus();
       }
     };
     document.addEventListener("keydown", onKey);
     return () => document.removeEventListener("keydown", onKey);
   }, [menuOpen]);
+  // P3-3 scroll lock while the mobile menu is open (2026-11-12): body
+  // position:fixed + overflow:hidden (overflow:hidden alone does NOT lock
+  // scroll in Chromium). Scroll position is captured here and restored
+  // ONLY by explicit closes (Escape / menu-button toggle) via
+  // restoreMenuScroll — the cleanup below only clears styles, so a
+  // menu-link navigation can never be dragged back to the old position.
+  useEffect(() => {
+    if (!menuOpen) return;
+    menuScrollY.current = window.scrollY;
+    const body = document.body;
+    body.style.position = "fixed";
+    body.style.top = `-${menuScrollY.current}px`;
+    body.style.left = "0";
+    body.style.right = "0";
+    body.style.overflow = "hidden";
+    return () => {
+      body.style.position = "";
+      body.style.top = "";
+      body.style.left = "";
+      body.style.right = "";
+      body.style.overflow = "";
+    };
+  }, [menuOpen]);
   return (
     <header className="site-header">
       <div className="wrap header-inner">
-        <Link className="brand" href="/">
+        {/* P3-1: prefetch={false} on home links — the static export carries
+            the home flight payload as /midvale-water-damage/index.txt, but
+            Next prefetches it as /midvale-water-damage.txt -> 404 console
+            noise on every page. Other routes have <slug>.txt and prefetch
+            fine, so only home links are affected. */}
+        <Link className="brand" href="/" prefetch={false}>
           <span className="brand-mark" aria-hidden="true">
             <svg viewBox="0 0 32 32" width="30" height="30">
               <path d="M16 3C16 3 6 14 6 20a10 10 0 0 0 20 0C26 14 16 3 16 3Z" fill="#c26a24" />
@@ -118,7 +158,7 @@ export function Header() {
           </span>
         </Link>
         <nav id="main-nav" className={`main-nav${menuOpen ? " open" : ""}`} aria-label="Main">
-          <Link href="/" onClick={() => setMenuOpen(false)}>
+          <Link href="/" prefetch={false} onClick={() => setMenuOpen(false)}>
             Home
           </Link>
           {HEADER_SERVICES.map((slug) => {
@@ -137,7 +177,12 @@ export function Header() {
           aria-expanded={menuOpen}
           aria-controls="main-nav"
           aria-label="Menu"
-          onClick={() => setMenuOpen((v) => !v)}
+          onClick={() => {
+            // Toggle-close restores the pre-menu scroll position (same as
+            // Escape); opening just opens. Never restores on navigation.
+            if (menuOpen) restoreMenuScroll();
+            setMenuOpen((v) => !v);
+          }}
         >
           <span aria-hidden="true" />
         </button>
@@ -205,6 +250,44 @@ export function Footer({ showMap }: { showMap: boolean }) {
             ))}
           </ul>
         </nav>
+        {/* P2-1 fix 2026-11-12: the 10 new routes (About, Contact, legal,
+            5 blogs) were orphans — 0 inbound links. Footer is chrome, so
+            they link from here; body copy gains no links. */}
+        <nav aria-label="About and resources">
+          <p className="footer-h">About &amp; Resources</p>
+          <ul>
+            <li>
+              <Link href="/about">About</Link>
+            </li>
+            <li>
+              <Link href="/contact">Contact</Link>
+            </li>
+            <li>
+              <Link href="/privacy-policy">Privacy Policy</Link>
+            </li>
+            <li>
+              <Link href="/terms-of-use">Terms of Use</Link>
+            </li>
+            <li>
+              <Link href="/disclaimer">Disclaimer</Link>
+            </li>
+            <li>
+              <Link href="/resources/frozen-pipes-midvale">Frozen Pipes in Midvale</Link>
+            </li>
+            <li>
+              <Link href="/resources/winterize-swamp-cooler-utah">Swamp Cooler Winterizing Checklist</Link>
+            </li>
+            <li>
+              <Link href="/resources/upstairs-unit-leak-who-pays-utah">Upstairs Leak: Who Pays?</Link>
+            </li>
+            <li>
+              <Link href="/resources/can-mold-grow-in-utah">Can Mold Grow in Utah?</Link>
+            </li>
+            <li>
+              <Link href="/resources/basement-flooding-spring-snowmelt-utah">Basement Flooding &amp; Spring Snowmelt</Link>
+            </li>
+          </ul>
+        </nav>
         <nav aria-label="Help">
           <p className="footer-h">Emergency Help</p>
           <ul>
@@ -212,10 +295,10 @@ export function Footer({ showMap }: { showMap: boolean }) {
               <Link href={`/${GUIDE.slug}`}>Midvale Water &amp; Sewer Emergency Contacts</Link>
             </li>
             <li>
-              <Link href="/#faq">Water Damage Restoration FAQ</Link>
+              <Link href="/#faq" prefetch={false}>Water Damage Restoration FAQ</Link>
             </li>
             <li>
-              <Link href="/#services">All Midvale Services</Link>
+              <Link href="/#services" prefetch={false}>All Midvale Services</Link>
             </li>
             <li>
               <a href={TEL_HREF}>Call {SITE.phoneDisplay}</a>
@@ -274,7 +357,18 @@ export function Breadcrumb({ items }: { items: { label: string; href?: string }[
       <ol>
         {items.map((it, i) => (
           <li key={i}>
-            {it.href ? <Link href={it.href}>{it.label}</Link> : <span aria-current="page">{it.label}</span>}
+            {it.href ? (
+              // P3-1: home crumb ("/" or "/#...") never prefetches — same
+              // basePath .txt 404 as the logo link; other crumbs prefetch fine.
+              <Link
+                href={it.href}
+                prefetch={it.href === "/" || it.href.startsWith("/#") ? false : undefined}
+              >
+                {it.label}
+              </Link>
+            ) : (
+              <span aria-current="page">{it.label}</span>
+            )}
           </li>
         ))}
       </ol>

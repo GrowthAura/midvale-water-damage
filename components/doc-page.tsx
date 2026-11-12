@@ -7,6 +7,7 @@
 import type { ReactNode } from "react";
 import { SITE, HERO_IMAGE } from "@/lib/content";
 import { Breadcrumb, HeroButtons, JsonLd, PhotoHero } from "@/components/site";
+import ContactForm from "@/components/contact-form";
 import pagesData from "@/lib/pages-data.json";
 
 export type DocSegment = { t: string; b: boolean };
@@ -215,6 +216,16 @@ export default function DocPage({
         return;
       }
       body.push(<p key={i}>{renderSegments(b.segments, `p${i}`)}</p>);
+      // P2-3 (2026-11-12): the Contact tab names its submit button in this
+      // paragraph ("[Send My Request]") — the actual form (template chrome,
+      // excluded from the verbatim diff) renders right after it, where the
+      // doc says the form belongs. Contact route only.
+      if (
+        page.route === "/contact" &&
+        b.segments.map((s) => s.t).join("") === "[Send My Request]"
+      ) {
+        body.push(<ContactForm key={`contact-form-${i}`} />);
+      }
       return;
     }
     if (b.type === "ul" || b.type === "ol") {

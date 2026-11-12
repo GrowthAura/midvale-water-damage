@@ -172,14 +172,13 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* 7 — Water categories + table */}
+      {/* 7 — Water categories + table (P3-2 fix 2026-11-12: doc order is
+          H2 -> table -> "Clean water turns into gray water..." paragraph;
+          the paragraph used to render BEFORE the table — swapped back). */}
       <section className="section alt">
         <div className="wrap">
           <Reveal>
             <h2>Clean, Gray or Sewage Water: Why the Category Matters</h2>
-            <p>
-              Clean water turns into gray water in about 48 hours as bacteria grow, so speed changes the whole job.
-            </p>
           </Reveal>
           <div className="table-wrap">
             <table>
@@ -201,6 +200,9 @@ export default function HomePage() {
               </tbody>
             </table>
           </div>
+          <p>
+            Clean water turns into gray water in about 48 hours as bacteria grow, so speed changes the whole job.
+          </p>
         </div>
       </section>
 

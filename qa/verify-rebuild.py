@@ -334,7 +334,7 @@ report["site"]["sitemap_locs"] = len(locs)
 report["site"]["sitemap_lastmods"] = len(lastmods)
 report["site"]["sitemap_lastmod_values"] = sorted(set(lastmods))
 report["site"]["sitemap_urls"] = locs
-exp_locs = {"http://localhost:3000" + ("" if r == "/" else r) for r in all_routes}
+exp_locs = {"http://localhost:3000" + ("/" if r == "/" else r) for r in all_routes}  # FIX 2026-11-12: homepage loc is http://localhost:3000/ WITH slash (correct form); the old "" produced the A1 false P1 in the rebuild verification.
 if set(locs) != exp_locs:
     report["problems"].append({"sev": "P1", "what": "sitemap loc set != 31 routes", "missing": sorted(exp_locs - set(locs)), "extra": sorted(set(locs) - exp_locs)})
 if sorted(set(lastmods)) != ["2026-11-12"]:
