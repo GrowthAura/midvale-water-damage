@@ -1,0 +1,494 @@
+{
+ "site_images": {},
+ "md5_matches_past": [],
+ "ahash_flags": [
+  {
+   "hero": "about.webp",
+   "flags": []
+  },
+  {
+   "hero": "contact.webp",
+   "flags": []
+  },
+  {
+   "hero": "privacy-policy.webp",
+   "flags": []
+  },
+  {
+   "hero": "terms-of-use.webp",
+   "flags": []
+  },
+  {
+   "hero": "disclaimer.webp",
+   "flags": []
+  },
+  {
+   "hero": "frozen-pipes-midvale.webp",
+   "flags": []
+  },
+  {
+   "hero": "winterize-swamp-cooler-utah.webp",
+   "flags": []
+  },
+  {
+   "hero": "upstairs-unit-leak-who-pays-utah.webp",
+   "flags": []
+  },
+  {
+   "hero": "can-mold-grow-in-utah.webp",
+   "flags": []
+  },
+  {
+   "hero": "basement-flooding-spring-snowmelt-utah.webp",
+   "flags": []
+  }
+ ],
+ "metadata": {
+  "about.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": false
+  },
+  "contact.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": true
+  },
+  "privacy-policy.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": false
+  },
+  "terms-of-use.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": true
+  },
+  "disclaimer.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": true
+  },
+  "frozen-pipes-midvale.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": true
+  },
+  "winterize-swamp-cooler-utah.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": false
+  },
+  "upstairs-unit-leak-who-pays-utah.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": false
+  },
+  "can-mold-grow-in-utah.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": true
+  },
+  "basement-flooding-spring-snowmelt-utah.webp": {
+   "pil_info": {
+    "loop": "1",
+    "background": "(255, 255, 255, 255)"
+   },
+   "exif": {},
+   "generator_markers": [],
+   "ai_word_in_head": true
+  }
+ },
+ "ai_word_hits": [],
+ "dims": {
+  "public/images/heroes/home.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 117632
+  },
+  "public/images/heroes/emergency-water-extraction.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 135252
+  },
+  "public/images/heroes/basement-flooding-cleanup.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 104374
+  },
+  "public/images/heroes/window-well-flooding.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 99048
+  },
+  "public/images/heroes/cottonwood-heights-ut.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 186490
+  },
+  "public/images/heroes/south-salt-lake-ut.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 118182
+  },
+  "public/images/heroes/magna-ut.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 186350
+  },
+  "public/images/heroes/burst-pipe-water-damage.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 136456
+  },
+  "public/images/heroes/ceiling-water-damage.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 79226
+  },
+  "public/images/heroes/commercial-water-damage.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 126414
+  },
+  "public/images/heroes/condo-apartment-water-damage.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 99832
+  },
+  "public/images/heroes/crawl-space-water-damage.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 130680
+  },
+  "public/images/heroes/hardwood-floor-cabinet-drying.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 110058
+  },
+  "public/images/heroes/midvale-water-sewer-emergency-contacts.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 101364
+  },
+  "public/images/heroes/mold-remediation.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 129972
+  },
+  "public/images/heroes/sewage-backup-cleanup.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 125556
+  },
+  "public/images/heroes/storm-flood-damage.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 122916
+  },
+  "public/images/heroes/swamp-cooler-leak-water-damage.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 140070
+  },
+  "public/images/heroes/water-damage-repair.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 31788
+  },
+  "public/images/heroes/water-heater-leak-cleanup.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 76284
+  },
+  "public/images/heroes/water-leak-detection.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 60344
+  },
+  "public/images/heroes/about.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 141716
+  },
+  "public/images/heroes/contact.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 91090
+  },
+  "public/images/heroes/privacy-policy.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 48202
+  },
+  "public/images/heroes/terms-of-use.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 52514
+  },
+  "public/images/heroes/disclaimer.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 112174
+  },
+  "public/images/heroes/frozen-pipes-midvale.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 158778
+  },
+  "public/images/heroes/winterize-swamp-cooler-utah.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 117358
+  },
+  "public/images/heroes/upstairs-unit-leak-who-pays-utah.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 101790
+  },
+  "public/images/heroes/can-mold-grow-in-utah.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 148676
+  },
+  "public/images/heroes/basement-flooding-spring-snowmelt-utah.webp": {
+   "size": [
+    1600,
+    1066
+   ],
+   "bytes": 141566
+  },
+  "public/images/cards/cottonwood-heights-ut.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 160370
+  },
+  "public/images/cards/south-salt-lake-ut.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 75764
+  },
+  "public/images/cards/magna-ut.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 69624
+  },
+  "public/images/cards/emergency-water-extraction.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 64750
+  },
+  "public/images/cards/basement-flooding-cleanup.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 85614
+  },
+  "public/images/cards/window-well-flooding.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 122410
+  },
+  "public/images/cards/burst-pipe-water-damage.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 103254
+  },
+  "public/images/cards/crawl-space-water-damage.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 99886
+  },
+  "public/images/cards/hardwood-floor-cabinet-drying.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 52188
+  },
+  "public/images/cards/condo-apartment-water-damage.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 36132
+  },
+  "public/images/cards/commercial-water-damage.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 47330
+  },
+  "public/images/cards/storm-flood-damage.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 103488
+  },
+  "public/images/cards/mold-remediation.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 50338
+  },
+  "public/images/cards/water-leak-detection.webp": {
+   "size": [
+    1200,
+    800
+   ],
+   "bytes": 43180
+  },
+  "public/images/cards/water-damage-repair.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 52342
+  },
+  "public/images/cards/ceiling-water-damage.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 28798
+  },
+  "public/images/cards/sewage-backup-cleanup.webp": {
+   "size": [
+    1200,
+    675
+   ],
+   "bytes": 75256
+  },
+  "public/images/cards/swamp-cooler-leak-water-damage.webp": {
+   "size": [
+    1200,
+    800
+   ],
+   "bytes": 81220
+  },
+  "public/images/cards/water-heater-leak-cleanup.webp": {
+   "size": [
+    1200,
+    800
+   ],
+   "bytes": 49694
+  }
+ },
+ "past_file_count": 4618,
+ "site_image_count": 50,
+ "site_md5_dup_groups": {}
+}

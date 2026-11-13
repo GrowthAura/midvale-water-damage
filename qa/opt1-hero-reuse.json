@@ -1,0 +1,111 @@
+{
+ "corpus_size": 2269,
+ "corpus_by_site": {
+  "biohazard-cleanup-oklahoma": 90,
+  "cape-coral-water-damage": 45,
+  "chesterfield-water-damage": 22,
+  "elyria-water-damage": 111,
+  "high-desert-water-restoration": 35,
+  "mcdonough-water-damage": 78,
+  "midvale-water-damage": 107,
+  "naples-water-damage-site": 174,
+  "plano-water-damage": 514,
+  "plano3-water-damage": 467,
+  "tulsa-water-damage-site": 626
+ },
+ "candidates": {
+  "pexels-40701216": {
+   "md5": "dc3a7d128fa2bac075f741bffb34b752",
+   "md5_hits": [],
+   "closest": [
+    {
+     "aHash8": 12,
+     "aHash16": 58,
+     "file": "/home/hatch/workspace/plano3-water-damage/public/images/laundry-room-9669475.webp"
+    },
+    {
+     "aHash8": 12,
+     "aHash16": 75,
+     "file": "/home/hatch/workspace/tulsa-water-damage-site/images/claremore-university-area-480.webp"
+    },
+    {
+     "aHash8": 12,
+     "aHash16": 75,
+     "file": "/home/hatch/workspace/tulsa-water-damage-site/images/claremore-university-area-800.webp"
+    },
+    {
+     "aHash8": 12,
+     "aHash16": 75,
+     "file": "/home/hatch/workspace/tulsa-water-damage-site/images/claremore-university-area.webp"
+    },
+    {
+     "aHash8": 13,
+     "aHash16": 70,
+     "file": "/home/hatch/workspace/tulsa-water-damage-site/images/owasso-neighborhood-street-480.webp"
+    }
+   ]
+  },
+  "gen-disclaimer": {
+   "md5": "a7fca883b79dcd3583bf321a4db6e8aa",
+   "md5_hits": [],
+   "closest": [
+    {
+     "aHash8": 4,
+     "aHash16": 43,
+     "file": "/home/hatch/workspace/plano3-water-damage/public/images/wet-tile-9376351-400.webp"
+    },
+    {
+     "aHash8": 4,
+     "aHash16": 43,
+     "file": "/home/hatch/workspace/plano3-water-damage/public/images/wet-tile-9376351-800.webp"
+    },
+    {
+     "aHash8": 4,
+     "aHash16": 43,
+     "file": "/home/hatch/workspace/plano3-water-damage/public/images/wet-tile-9376351.webp"
+    },
+    {
+     "aHash8": 5,
+     "aHash16": 52,
+     "file": "/home/hatch/workspace/elyria-water-damage/public/images/hero-blog-first-steps-after-water-damage.webp"
+    },
+    {
+     "aHash8": 8,
+     "aHash16": 59,
+     "file": "/home/hatch/workspace/midvale-water-damage/public/images/body/ceiling-water-damage-3.webp"
+    }
+   ]
+  },
+  "gen-upstairs": {
+   "md5": "e70e550b3fb4abf5c518d28864c7cf7e",
+   "md5_hits": [],
+   "closest": [
+    {
+     "aHash8": 10,
+     "aHash16": 61,
+     "file": "/home/hatch/workspace/plano3-water-damage/public/images/plumber-work-29226620.webp"
+    },
+    {
+     "aHash8": 11,
+     "aHash16": 68,
+     "file": "/home/hatch/workspace/biohazard-cleanup-oklahoma/public/images/technician-kitchen-disinfection-oklahoma.jpg"
+    },
+    {
+     "aHash8": 13,
+     "aHash16": 60,
+     "file": "/home/hatch/workspace/high-desert-water-restoration/images/palmdale-ca-street.webp"
+    },
+    {
+     "aHash8": 14,
+     "aHash16": 60,
+     "file": "/home/hatch/workspace/high-desert-water-restoration/images/desert-storm-tehachapi-ca.webp"
+    },
+    {
+     "aHash8": 14,
+     "aHash16": 68,
+     "file": "/home/hatch/workspace/naples-water-damage-site/images/gallery/burst-pipe-water-damage-naples-fl-before-03.jpg"
+    }
+   ]
+  }
+ }
+}

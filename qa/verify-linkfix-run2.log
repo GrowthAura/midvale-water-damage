@@ -1,0 +1,45 @@
+pages: 31  problems: 0
+body-links=143 card-links=19 kept-total=162
+missing words total=0 extra=749 main=47094 expected-visible=46345 path-tokens-subtracted=552
+FAQ data=142 ld=142 tables=43/43
+orphans=[] footer-navs={'Services': 8, 'Nearby cities': 3, 'About and resources': 10, 'Help': 4}
+paren hits in out/: html/txt/xml/css=0 js/webp=7
+   JS/WEBP: _next/static/chunks/258-b960f4150bc35b57.js '(/^[a-zA-Z]{1,}:\\/\\//)' | (e,t,n){let f;let d="string"==typeof t?t:(0,o.formatWithValidation)(t),p=d.match(/^[a-zA-Z]{1,}:\/\//),h=p?d.slice(p[0].length):d;if((h.split("?",1)[0]||"").mat
+   JS/WEBP: _next/static/chunks/main-c5947df2447149d3.js '(/^[a-zA-Z]{1,}:\\/\\//)' | (e,t,r){let f;let d="string"==typeof t?t:(0,o.formatWithValidation)(t),p=d.match(/^[a-zA-Z]{1,}:\/\//),h=p?d.slice(p[0].length):d;if((h.split("?",1)[0]||"").mat
+   JS/WEBP: _next/static/chunks/polyfills-42372ed130431b0a.js '(/.?/)' | ).length||4!==".".split(/(.?)(.?)/).length||".".split(/()()/).length>1||"".split(/.?/).length;pc("split",function(t,e,r){var n="0".split(void 0,0).length?functi
+   JS/WEBP: _next/static/chunks/polyfills-42372ed130431b0a.js '(/\\r?\\n/)' | rs:(t=i.getAllResponseHeaders()||"",e=new tb,t.replace(/\r?\n[\t ]+/g," ").split(/\r?\n/).forEach(function(t){var r=t.split(":"),n=r.shift().trim();if(n){var o=
+   JS/WEBP: images/cards/basement-flooding-cleanup.webp '(/s\t6f\x01"\r(\x0fsUcZqрA\'a\x15E@%6&\x7f2\ne"\x1e/^O\x1f}\x13\x05r`u%\x05\x17+\x020/' | BINARY webp bytes
+   JS/WEBP: images/heroes/condo-apartment-water-damage.webp '(/Y$L÷wM:ăQ(\x0c\x027\x19PNAQ Ey\x19[Xt˕d<\x06H#YFEׁ~\x0bq\x1139|' | BINARY webp bytes
+   JS/WEBP: images/heroes/water-heater-leak-cleanup.webp "(/w&٪M.#~R\x18{vt\x0e\x17(-HG7\nq'\x1bJc[Vum.21g-7/Mm" | BINARY webp bytes
+--- per page ---
+/: main=2115 expVis=2103 miss=0 extra=12 full=FULL body=1/1 card=19/19 segMiss=0 segReord=0 faq=6/6 h1=True title=True meta=True
+/about: main=945 expVis=925 miss=0 extra=20 full=FULL body=16/16 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/contact: main=764 expVis=688 miss=0 extra=76 full=FULL body=1/1 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/emergency-water-extraction: main=1797 expVis=1776 miss=0 extra=21 full=FULL body=7/7 card=0/0 segMiss=0 segReord=0 faq=6/6 h1=True title=True meta=True
+/basement-flooding-cleanup: main=1702 expVis=1681 miss=0 extra=21 full=FULL body=5/5 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/window-well-flooding: main=1782 expVis=1759 miss=0 extra=23 full=FULL body=2/2 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/burst-pipe-water-damage: main=1868 expVis=1845 miss=0 extra=23 full=FULL body=5/5 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/sewage-backup-cleanup: main=1737 expVis=1715 miss=0 extra=22 full=FULL body=3/3 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/water-heater-leak-cleanup: main=1706 expVis=1683 miss=0 extra=23 full=FULL body=7/7 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/swamp-cooler-leak-water-damage: main=1650 expVis=1626 miss=0 extra=24 full=FULL body=2/2 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/ceiling-water-damage: main=1636 expVis=1614 miss=0 extra=22 full=FULL body=6/6 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/crawl-space-water-damage: main=1654 expVis=1631 miss=0 extra=23 full=FULL body=3/3 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/hardwood-floor-cabinet-drying: main=1777 expVis=1755 miss=0 extra=22 full=FULL body=4/4 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/condo-apartment-water-damage: main=1774 expVis=1749 miss=0 extra=25 full=FULL body=4/4 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/commercial-water-damage: main=1700 expVis=1677 miss=0 extra=23 full=FULL body=4/4 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/storm-flood-damage: main=1645 expVis=1623 miss=0 extra=22 full=FULL body=5/5 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/mold-remediation: main=1714 expVis=1694 miss=0 extra=20 full=FULL body=7/7 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/water-leak-detection: main=1756 expVis=1733 miss=0 extra=23 full=FULL body=6/6 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/water-damage-repair: main=1555 expVis=1533 miss=0 extra=22 full=FULL body=6/6 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/locations/cottonwood-heights-ut: main=1766 expVis=1739 miss=0 extra=27 full=FULL body=8/8 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/locations/south-salt-lake-ut: main=1860 expVis=1833 miss=0 extra=27 full=FULL body=13/13 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/locations/magna-ut: main=1833 expVis=1808 miss=0 extra=25 full=FULL body=9/9 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/midvale-water-sewer-emergency-contacts: main=1278 expVis=1259 miss=0 extra=19 full=FULL body=3/3 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/privacy-policy: main=528 expVis=508 miss=0 extra=20 full=FULL body=0/0 card=0/0 segMiss=0 segReord=0 faq=0/0 h1=True title=True meta=True
+/terms-of-use: main=476 expVis=455 miss=0 extra=21 full=FULL body=0/0 card=0/0 segMiss=0 segReord=0 faq=0/0 h1=True title=True meta=True
+/disclaimer: main=312 expVis=293 miss=0 extra=19 full=FULL body=0/0 card=0/0 segMiss=0 segReord=0 faq=0/0 h1=True title=True meta=True
+/resources/frozen-pipes-midvale: main=1686 expVis=1658 miss=0 extra=28 full=FULL body=3/3 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/resources/winterize-swamp-cooler-utah: main=1534 expVis=1514 miss=0 extra=20 full=FULL body=3/3 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/resources/upstairs-unit-leak-who-pays-utah: main=1571 expVis=1545 miss=0 extra=26 full=FULL body=2/2 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/resources/can-mold-grow-in-utah: main=1485 expVis=1459 miss=0 extra=26 full=FULL body=4/4 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True
+/resources/basement-flooding-spring-snowmelt-utah: main=1488 expVis=1464 miss=0 extra=24 full=FULL body=4/4 card=0/0 segMiss=0 segReord=0 faq=5/5 h1=True title=True meta=True

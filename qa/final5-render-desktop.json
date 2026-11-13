@@ -1,0 +1,2995 @@
+{
+  "viewport": "1440x900",
+  "base": "http://127.0.0.1:8350/midvale-water-damage",
+  "routes_checked": 31,
+  "generated": "2026-11-13 07:02 UTC",
+  "method_notes": [
+    "Hero button pair (.hero-buttons) measured: <header> holds only the phone link (.header-phone); 'Request Emergency Help' lives in the hero, above the fold at scroll-0.",
+    "Scroll-through before measuring so loading=lazy images fetch; img counts are post-scroll.",
+    "Google Maps embed failures counted separately as environmental (sandbox has no external internet)."
+  ],
+  "results": [
+    {
+      "route": "/",
+      "url": "http://127.0.0.1:8350/midvale-water-damage",
+      "slug": "home",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "24/7 Water Damage Restoration in Midvale, UT 84047",
+      "title": "Water Damage Restoration Midvale UT | 24/7 Emergency Crew Dispatched Now",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 503.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 559.1,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 503.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 559.1,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 20,
+      "img_broken": [],
+      "img_rendered": 20,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Most Midvale water damage comes from frozen or bur"
+        },
+        {
+          "size": "19px",
+          "text": "The calendar tells the story. Winter brings split "
+        },
+        {
+          "size": "19px",
+          "text": "Every water problem needs a different plan. As a f"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Emergency Line \u00b7 Local to Midvale 84047 \u00b7 Clean, Gray &",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 79,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 12062,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot_note": "full-page attempt 2 failed: Page.screenshot: Protocol error (Page.captureScreenshot): Unable to capture screenshot\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  -",
+      "screenshot": "qa/render-final5/desktop/home.png",
+      "screenshot_mode": "full_page_segmented",
+      "ok": true,
+      "img_total_slow": 20,
+      "img_rendered_slow": 20,
+      "img_broken_slow": [],
+      "contrast_opacity_aware": {
+        "sampled": 162,
+        "worst10": [
+          {
+            "ratio": 5.65,
+            "text": "Midvale, UT",
+            "tag": "SPAN",
+            "cls": "brand-city",
+            "size": "18px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "header-phone",
+            "size": "18px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "btn btn-call",
+            "size": "19px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "btn btn-call",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Emergency Water Extraction",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Basement Flooding Cleanup",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Window Well Flooding",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Burst & Frozen Pipe Cleanup",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Sewage Backup Cleanup",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Water Heater & Appliance Leaks",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          }
+        ]
+      },
+      "screenshot_segments": 15
+    },
+    {
+      "route": "/about",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/about",
+      "slug": "about",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "About Our Midvale Water Damage Restoration Team",
+      "title": "About Us | Midvale, UT Water Damage Restoration Team",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "A local crew answers calls 24/7, dispatches immedi"
+        },
+        {
+          "size": "19px",
+          "text": "When water damage happens, most people don't want "
+        },
+        {
+          "size": "19px",
+          "text": "We're a water damage company in Midvale, Utah focu"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Emergency Line \u00b7 Local to Midvale 84047 \u00b7 Drying to Reb",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 65,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 6835,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/about.png",
+      "screenshot_mode": "full_page",
+      "ok": true,
+      "contrast_opacity_aware": {
+        "sampled": 133,
+        "worst10": [
+          {
+            "ratio": 5.65,
+            "text": "Midvale, UT",
+            "tag": "SPAN",
+            "cls": "brand-city",
+            "size": "18px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "header-phone",
+            "size": "18px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "btn btn-call",
+            "size": "19px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "btn btn-call",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Emergency Water Extraction",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Basement Flooding Cleanup",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Window Well Flooding",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Burst Pipe Water Damage",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Sewage Backup Cleanup",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Water Heater & Appliance Leak Cleanup",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          }
+        ]
+      }
+    },
+    {
+      "route": "/contact",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/contact",
+      "slug": "contact",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Call for 24/7 Water Damage Help in Midvale, UT 84047",
+      "title": "Contact | 24/7 Water Damage Help in Midvale, UT 84047",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 487.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 543.1,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 487.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 543.1,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Shut off the main water valve, cut power to wet ro"
+        },
+        {
+          "size": "19px",
+          "text": "Those few steps limit how far the water spreads an"
+        },
+        {
+          "size": "19px",
+          "text": "The fastest way to contact water damage restoratio"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "Answered 24/7 \u00b7 Midvale 84047 & Nearby \u00b7 Homes & Businesses ",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 61,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 6825,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/contact.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/emergency-water-extraction",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/emergency-water-extraction",
+      "slug": "emergency-water-extraction",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+      "title": "Emergency Water Extraction Midvale UT | Standing Water Pumped Out Now",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 551.7,
+        "w": 322,
+        "h": 56,
+        "bottom": 607.7,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 551.7,
+        "w": 322,
+        "h": 56,
+        "bottom": 607.7,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Within the first few hours. After 24 to 48 hours, "
+        },
+        {
+          "size": "19px",
+          "text": "Water does not sit still. It runs to the lowest po"
+        },
+        {
+          "size": "19px",
+          "text": "Every Midvale extraction follows the same order, s"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Pump-Out \u00b7 Basements to Upper Floors \u00b7 Clean, Gray & Se",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 87,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 10285,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/emergency-water-extraction.png",
+      "screenshot_mode": "full_page",
+      "ok": true,
+      "contrast_opacity_aware": {
+        "sampled": 172,
+        "worst10": [
+          {
+            "ratio": 5.65,
+            "text": "Midvale, UT",
+            "tag": "SPAN",
+            "cls": "brand-city",
+            "size": "18px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "header-phone",
+            "size": "18px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "btn btn-call",
+            "size": "19px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "btn btn-call",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Hardwood Floor & Cabinet Drying",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Basements",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Basement Flooding Cleanup",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Kitchens and Laundry Rooms",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Water Heater & Appliance Leak Cleanup",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Upper Floors, Condos and Townhomes",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          }
+        ]
+      }
+    },
+    {
+      "route": "/basement-flooding-cleanup",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/basement-flooding-cleanup",
+      "slug": "basement-flooding-cleanup",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047",
+      "title": "Basement Flooding Cleanup Midvale UT | Emergency Pump-Out & Drying",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Snowmelt and heavy watering saturate Midvale's cla"
+        },
+        {
+          "size": "19px",
+          "text": "This is called hydrostatic pressure. Most of the S"
+        },
+        {
+          "size": "19px",
+          "text": "Finding the source decides the cleanup plan, the d"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Basement Pump-Out \u00b7 Finished Basements \u00b7 Groundwater & ",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 69,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9282,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/basement-flooding-cleanup.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/window-well-flooding",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/window-well-flooding",
+      "slug": "window-well-flooding",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047",
+      "title": "Window Well Flooding Midvale UT | 24/7 Basement Water Cleanup",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Window wells catch snowmelt, roof runoff and summe"
+        },
+        {
+          "size": "19px",
+          "text": "A window well is a metal or plastic liner around a"
+        },
+        {
+          "size": "19px",
+          "text": "Do not break the window glass to drain the well in"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Response \u00b7 Basement Bedrooms & Egress Windows \u00b7 Snowmel",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 75,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9580,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/window-well-flooding.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/burst-pipe-water-damage",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/burst-pipe-water-damage",
+      "slug": "burst-pipe-water-damage",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047",
+      "title": "Burst Pipe Water Damage Midvale UT | Emergency Frozen Pipe Cleanup",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Along uninsulated rim joists, cantilevered floors "
+        },
+        {
+          "size": "19px",
+          "text": "Salt Lake Valley winters swing between mild days a"
+        },
+        {
+          "size": "19px",
+          "text": "Every minute the water runs adds to the damage. Kn"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Freeze-Season Response \u00b7 Inside-Wall Drying \u00b7 Thermal M",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 89,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9638,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/burst-pipe-water-damage.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/sewage-backup-cleanup",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/sewage-backup-cleanup",
+      "slug": "sewage-backup-cleanup",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+      "title": "Sewage Backup Cleanup Midvale UT | Emergency Category 3 Response",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Stop using water, then call your sewer provider to"
+        },
+        {
+          "size": "19px",
+          "text": "The first call matters because the fix depends on "
+        },
+        {
+          "size": "19px",
+          "text": "Every sewer backup Midvale homeowners deal with tr"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Biohazard Response \u00b7 Category 3 Protocols \u00b7 HEPA Air Cl",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 81,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9654,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/sewage-backup-cleanup.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/water-heater-leak-cleanup",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/water-heater-leak-cleanup",
+      "slug": "water-heater-leak-cleanup",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047",
+      "title": "Water Heater Leak Cleanup Midvale UT | 24/7 Appliance Flood Response",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Yes. Hard water leaves scale in the tank bottom, w"
+        },
+        {
+          "size": "19px",
+          "text": "Midvale's drinking water comes from city wells and"
+        },
+        {
+          "size": "19px",
+          "text": "Most Midvale water heaters sit in a basement utili"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Appliance Flood Response \u00b7 Utility Rooms & Kitchens \u00b7 U",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 81,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9568,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/water-heater-leak-cleanup.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/swamp-cooler-leak-water-damage",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/swamp-cooler-leak-water-damage",
+      "slug": "swamp-cooler-leak-water-damage",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047",
+      "title": "Swamp Cooler Leak Water Damage Midvale UT | Fast Ceiling Dry-Out",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "A stuck float valve, clogged drain pan, cracked re"
+        },
+        {
+          "size": "19px",
+          "text": "Evaporative coolers work well in Utah's dry summer"
+        },
+        {
+          "size": "19px",
+          "text": "Every swamp cooler leaking through ceiling Midvale"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Response \u00b7 Attic & Ceiling Drying \u00b7 Wet Insulation Remo",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 88,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9162,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/swamp-cooler-leak-water-damage.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/ceiling-water-damage",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/ceiling-water-damage",
+      "slug": "ceiling-water-damage",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Professional Ceiling Water Damage Repair in Midvale, UT 84047",
+      "title": "Ceiling Water Damage Repair Midvale UT | Emergency Leak Dry-Out",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Turn off power to that room, move belongings, set "
+        },
+        {
+          "size": "19px",
+          "text": "Drywall is strong when dry and weak when wet. As w"
+        },
+        {
+          "size": "19px",
+          "text": "Water dripping from a light fixture means water ha"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Emergency Response \u00b7 Safe Ceiling Drainage \u00b7 Texture-Ma",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 73,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9310,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/ceiling-water-damage.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/crawl-space-water-damage",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/crawl-space-water-damage",
+      "slug": "crawl-space-water-damage",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047",
+      "title": "Crawl Space Water Damage Midvale UT | Emergency Drying & Cleanup",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Many older homes near Historic Main Street and Cen"
+        },
+        {
+          "size": "19px",
+          "text": "Midvale's oldest neighborhoods were built when cra"
+        },
+        {
+          "size": "19px",
+          "text": "If you notice any of these, look through the acces"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Response \u00b7 Low-Clearance Equipment \u00b7 Sewage in Crawl Sp",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 72,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9100,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/crawl-space-water-damage.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/hardwood-floor-cabinet-drying",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/hardwood-floor-cabinet-drying",
+      "slug": "hardwood-floor-cabinet-drying",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+      "title": "Hardwood Floor Water Damage Midvale UT | Save Floors & Cabinets",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Often, yes. If drying starts fast, floor-drying ma"
+        },
+        {
+          "size": "19px",
+          "text": "Wood soaks up water and swells, and it gives that "
+        },
+        {
+          "size": "19px",
+          "text": "Knowing what your floor is doing tells you how bad"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Response \u00b7 Floor Drying Mats \u00b7 Counters Stay in Place \u00b7",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 91,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9778,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot_note": "full-page attempt 2 failed: Page.screenshot: Protocol error (Page.captureScreenshot): Unable to capture screenshot\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  -",
+      "screenshot": "qa/render-final5/desktop/hardwood-floor-cabinet-drying.png",
+      "screenshot_mode": "full_page_segmented",
+      "ok": true,
+      "screenshot_segments": 12
+    },
+    {
+      "route": "/condo-apartment-water-damage",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/condo-apartment-water-damage",
+      "slug": "condo-apartment-water-damage",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047",
+      "title": "Condo Water Damage Midvale UT | 24/7 Unit-to-Unit Leak Cleanup",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 606.7,
+        "w": 322,
+        "h": 56,
+        "bottom": 662.7,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 606.7,
+        "w": 322,
+        "h": 56,
+        "bottom": 662.7,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "It depends on where the leak started and your HOA "
+        },
+        {
+          "size": "19px",
+          "text": "Utah condo and townhome communities run on two lay"
+        },
+        {
+          "size": "19px",
+          "text": "If you find a water leak from upstairs unit ceilin"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Multi-Unit Response \u00b7 Unit-by-Unit Records \u00b7 Owners, Re",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 103,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 10315,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/condo-apartment-water-damage.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/commercial-water-damage",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/commercial-water-damage",
+      "slug": "commercial-water-damage",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047",
+      "title": "Commercial Water Damage Restoration Midvale UT | 24/7 Business Response",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Small office or shop leaks are often dried in abou"
+        },
+        {
+          "size": "19px",
+          "text": "The biggest factor isn't the size of the leak; it'"
+        },
+        {
+          "size": "19px",
+          "text": "The Fort Union corridor and Union Park Ave hold me"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Business Response \u00b7 After-Hours Drying \u00b7 Offices, Retai",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 96,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 10112,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/commercial-water-damage.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/storm-flood-damage",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/storm-flood-damage",
+      "slug": "storm-flood-damage",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047",
+      "title": "Storm Water Damage Midvale UT | Emergency Flash Flood Cleanup",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 551.7,
+        "w": 322,
+        "h": 56,
+        "bottom": 607.7,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 551.7,
+        "w": 322,
+        "h": 56,
+        "bottom": 607.7,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Short, heavy summer cloudbursts overload older sto"
+        },
+        {
+          "size": "19px",
+          "text": "Midvale's storm drain system is one of the city's "
+        },
+        {
+          "size": "19px",
+          "text": "Flash flood cleanup Midvale homes need is not the "
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Storm Response \u00b7 Mud & Debris Removal \u00b7 Contaminated Wa",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 97,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 10232,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/storm-flood-damage.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/mold-remediation",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/mold-remediation",
+      "slug": "mold-remediation",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Professional Mold Remediation in Midvale, UT 84047",
+      "title": "Mold Remediation Midvale UT | Fast Post-Leak Mold Removal",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Yes. Utah's outdoor air is dry, but a wet wall cav"
+        },
+        {
+          "size": "19px",
+          "text": "The dry air outside doesn't reach the inside of a "
+        },
+        {
+          "size": "19px",
+          "text": "Wood paneling, drywall and carpet over cold concre"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "Containment First \u00b7 HEPA Air Scrubbing \u00b7 Source Removal, Not",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 82,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 10131,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/mold-remediation.png",
+      "screenshot_mode": "full_page",
+      "ok": true,
+      "img_total_slow": 4,
+      "img_rendered_slow": 4,
+      "img_broken_slow": [],
+      "contrast_opacity_aware": {
+        "sampled": 166,
+        "worst10": [
+          {
+            "ratio": 5.65,
+            "text": "Midvale, UT",
+            "tag": "SPAN",
+            "cls": "brand-city",
+            "size": "18px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "header-phone",
+            "size": "18px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "btn btn-call",
+            "size": "19px"
+          },
+          {
+            "ratio": 5.65,
+            "text": "(385) 337-3560",
+            "tag": "A",
+            "cls": "btn btn-call",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Finished Basements",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Basement Flooding Cleanup",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Behind Walls",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Water Leak Detection",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Attics",
+            "tag": "H3",
+            "cls": "",
+            "size": "24px"
+          },
+          {
+            "ratio": 8.96,
+            "text": "Swamp Cooler Leak Water Damage",
+            "tag": "A",
+            "cls": "body-link",
+            "size": "19px"
+          }
+        ]
+      }
+    },
+    {
+      "route": "/water-leak-detection",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/water-leak-detection",
+      "slug": "water-leak-detection",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+      "title": "Water Leak Detection Midvale UT | Emergency Hidden Leak Finding",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Thermal imaging shows cool, wet areas behind drywa"
+        },
+        {
+          "size": "19px",
+          "text": "Wet materials show up cooler than dry ones on a th"
+        },
+        {
+          "size": "19px",
+          "text": "Before calling, you can check for a leak yourself:"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "Thermal Imaging \u00b7 Moisture Mapping \u00b7 Few or No Holes \u00b7 Repor",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 98,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 10326,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/water-leak-detection.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/water-damage-repair",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/water-damage-repair",
+      "slug": "water-damage-repair",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047",
+      "title": "Water Damage Repair Midvale UT | Drywall & Floor Rebuild After a Leak",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Like-for-like drywall and flooring often needs non"
+        },
+        {
+          "size": "19px",
+          "text": "Most rebuild work after a leak is replacing what w"
+        },
+        {
+          "size": "19px",
+          "text": "The slowest part of most water damage claims is th"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "Drying to Rebuild, One Crew \u00b7 Texture & Paint Matching \u00b7 Flo",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 81,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 9264,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/water-damage-repair.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/locations/cottonwood-heights-ut",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/locations/cottonwood-heights-ut",
+      "slug": "locations__cottonwood-heights-ut",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121",
+      "title": "Water Damage Restoration Cottonwood Heights UT | 24/7 Emergency Help",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Homes below Big and Little Cottonwood canyons sit "
+        },
+        {
+          "size": "19px",
+          "text": "Cottonwood Heights sits on sloping ground between "
+        },
+        {
+          "size": "19px",
+          "text": "Water damage here follows the seasons more closely"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Emergency Line \u00b7 Serving 84121 & 84093 \u00b7 Basements, Roo",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 96,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": false,
+      "page_height": 10231,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/locations__cottonwood-heights-ut.png",
+      "screenshot_mode": "full_page",
+      "ok": true,
+      "img_total_slow": 4,
+      "img_rendered_slow": 4,
+      "img_broken_slow": []
+    },
+    {
+      "route": "/locations/south-salt-lake-ut",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/locations/south-salt-lake-ut",
+      "slug": "locations__south-salt-lake-ut",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Emergency Water Damage Restoration in South Salt Lake, UT 84115",
+      "title": "Water Damage Restoration South Salt Lake UT | Emergency Crew Dispatched",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Tell the property manager right away, shut off the"
+        },
+        {
+          "size": "19px",
+          "text": "Many South Salt Lake residents rent, and in a floo"
+        },
+        {
+          "size": "19px",
+          "text": "South Salt Lake is a mix of apartment communities,"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Emergency Line \u00b7 Apartments, Homes & Warehouses \u00b7 Sewag",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 103,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": false,
+      "page_height": 10840,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/locations__south-salt-lake-ut.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/locations/magna-ut",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/locations/magna-ut",
+      "slug": "locations__magna-ut",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Local Water Damage Restoration in Magna, UT 84044",
+      "title": "Water Damage Restoration Magna UT | Local 24/7 Emergency Cleanup",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 551.7,
+        "w": 322,
+        "h": 56,
+        "bottom": 607.7,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 551.7,
+        "w": 322,
+        "h": 56,
+        "bottom": 607.7,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 4,
+      "img_broken": [],
+      "img_rendered": 4,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Many homes near Magna's historic Main Street are d"
+        },
+        {
+          "size": "19px",
+          "text": "Homes near Magna's Main Street and the surrounding"
+        },
+        {
+          "size": "19px",
+          "text": "Knowing what's in your walls tells you what's most"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "24/7 Emergency Line \u00b7 Serving All of 84044 \u00b7 Older Homes & C",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 108,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": false,
+      "page_height": 10677,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/locations__magna-ut.png",
+      "screenshot_mode": "full_page",
+      "ok": true,
+      "img_total_slow": 4,
+      "img_rendered_slow": 4,
+      "img_broken_slow": []
+    },
+    {
+      "route": "/midvale-water-sewer-emergency-contacts",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/midvale-water-sewer-emergency-contacts",
+      "slug": "midvale-water-sewer-emergency-contacts",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Midvale Water & Sewer Emergency Contacts (84047)",
+      "title": "Midvale Sewer Backup Who to Call | Water & Sewer Emergency Contacts 84047",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 487.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 543.1,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 487.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 543.1,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Midvale has more than one sewer provider, includin"
+        },
+        {
+          "size": "19px",
+          "text": "Sewer service in Midvale isn't run by one agency f"
+        },
+        {
+          "size": "19px",
+          "text": "Use this Midvale sewer district lookup table to fi"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "Sewer Provider Contacts \u00b7 Shut-Off Steps \u00b7 Sandbag Info \u00b7 24",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 63,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 7150,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/midvale-water-sewer-emergency-contacts.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/privacy-policy",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/privacy-policy",
+      "slug": "privacy-policy",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Privacy Policy",
+      "title": "Privacy Policy",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 367.5,
+        "w": 322,
+        "h": 56,
+        "bottom": 423.5,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 367.5,
+        "w": 322,
+        "h": 56,
+        "bottom": 423.5,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "This Privacy Policy explains how this website coll"
+        },
+        {
+          "size": "19px",
+          "text": "Information you give us. When you fill out a form "
+        },
+        {
+          "size": "19px",
+          "text": "Information collected automatically. Like most web"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 31,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 4792,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/privacy-policy.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/terms-of-use",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/terms-of-use",
+      "slug": "terms-of-use",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Terms of Use",
+      "title": "Terms of Use",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 367.5,
+        "w": 322,
+        "h": 56,
+        "bottom": 423.5,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 367.5,
+        "w": 322,
+        "h": 56,
+        "bottom": 423.5,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "These Terms of Use apply to your use of this websi"
+        },
+        {
+          "size": "19px",
+          "text": "You may use this website for lawful, personal and "
+        },
+        {
+          "size": "19px",
+          "text": "The content on this website, including text, image"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 24,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 4519,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/terms-of-use.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/disclaimer",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/disclaimer",
+      "slug": "disclaimer",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Disclaimer",
+      "title": "Disclaimer",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 367.5,
+        "w": 322,
+        "h": 56,
+        "bottom": 423.5,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 367.5,
+        "w": 322,
+        "h": 56,
+        "bottom": 423.5,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "The information on this website is provided for ge"
+        },
+        {
+          "size": "19px",
+          "text": "Water damage can involve electrical hazards, conta"
+        },
+        {
+          "size": "19px",
+          "text": "Price ranges on this website are general estimates"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 15,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 3720,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/disclaimer.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/resources/frozen-pipes-midvale",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/resources/frozen-pipes-midvale",
+      "slug": "resources__frozen-pipes-midvale",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts",
+      "title": "How to Keep Pipes From Freezing in Midvale | What to Do If One Bursts",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Exposed pipes can freeze once outdoor temperatures"
+        },
+        {
+          "size": "19px",
+          "text": "The number on the thermometer is only part of it. "
+        },
+        {
+          "size": "19px",
+          "text": "Every home is different, but these are the spots t"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "FROZEN PIPES \u2022 MIDVALE, UTAH",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 78,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 8530,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/resources__frozen-pipes-midvale.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/resources/winterize-swamp-cooler-utah",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/resources/winterize-swamp-cooler-utah",
+      "slug": "resources__winterize-swamp-cooler-utah",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Swamp Cooler Winterizing Checklist for Midvale Homes",
+      "title": "Swamp Cooler Winterizing Checklist for Midvale Homes | Utah Guide",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 487.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 543.1,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 487.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 543.1,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Before the first hard freeze, usually by mid-Octob"
+        },
+        {
+          "size": "19px",
+          "text": "Swamp coolers are common on Midvale rooftops, espe"
+        },
+        {
+          "size": "19px",
+          "text": "A cooler that isn't winterized can cause problems "
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "SWAMP COOLER WINTERIZING \u2022 MIDVALE, UTAH",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 69,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 7913,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/resources__winterize-swamp-cooler-utah.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/resources/upstairs-unit-leak-who-pays-utah",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah",
+      "slug": "resources__upstairs-unit-leak-who-pays-utah",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment",
+      "title": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 519.4,
+        "w": 322,
+        "h": 56,
+        "bottom": 575.4,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "It depends on where the leak began, your HOA's gov"
+        },
+        {
+          "size": "19px",
+          "text": "Unit-to-unit leaks are some of the most confusing "
+        },
+        {
+          "size": "19px",
+          "text": "The HOA's master policy covers the parts of the bu"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "UNIT-TO-UNIT LEAKS \u2022 MIDVALE, UTAH",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 76,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 8301,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [],
+      "screenshot": "qa/render-final5/desktop/resources__upstairs-unit-leak-who-pays-utah.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/resources/can-mold-grow-in-utah",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/resources/can-mold-grow-in-utah",
+      "slug": "resources__can-mold-grow-in-utah",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale",
+      "title": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 487.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 543.1,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 487.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 543.1,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Yes. Outdoor air is dry, but a wet wall cavity or "
+        },
+        {
+          "size": "19px",
+          "text": "It's one of the most common things Midvale homeown"
+        },
+        {
+          "size": "19px",
+          "text": "Mold spores are already in every home, floating in"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "MOLD AFTER A LEAK \u2022 MIDVALE, UTAH",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 103,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 8724,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/resources__can-mold-grow-in-utah.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    },
+    {
+      "route": "/resources/basement-flooding-spring-snowmelt-utah",
+      "url": "http://127.0.0.1:8350/midvale-water-damage/resources/basement-flooding-spring-snowmelt-utah",
+      "slug": "resources__basement-flooding-spring-snowmelt-utah",
+      "http_status": 200,
+      "h1_count": 1,
+      "h1_visible": 1,
+      "h1_text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale",
+      "title": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale",
+      "scrollWidth": 1440,
+      "innerWidth": 1440,
+      "hero_btn_call": {
+        "x": 184,
+        "y": 542.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 598.1,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "hero_btn_help": {
+        "x": 522,
+        "y": 542.1,
+        "w": 322,
+        "h": 56,
+        "bottom": 598.1,
+        "text": "Request Emergency Help",
+        "visible": true
+      },
+      "hero_btn_pairs": 2,
+      "header_phone": {
+        "x": 1149,
+        "y": 10.7,
+        "w": 167,
+        "h": 50.6,
+        "bottom": 61.3,
+        "text": "(385) 337-3560",
+        "visible": true
+      },
+      "img_total": 1,
+      "img_broken": [],
+      "img_rendered": 1,
+      "menu_btn": {
+        "h": 0,
+        "w": 0,
+        "visible": false
+      },
+      "tap_small": [],
+      "nav_min_h": 48,
+      "footer_min_h": 48,
+      "nav_link_count": 3,
+      "footer_link_count": 27,
+      "body_font_samples": [
+        {
+          "size": "19px",
+          "text": "Melting mountain snow saturates the valley's clay "
+        },
+        {
+          "size": "19px",
+          "text": "Every spring, the snowpack in the Wasatch melts an"
+        },
+        {
+          "size": "19px",
+          "text": "If the meter moves with everything off, look for a"
+        }
+      ],
+      "eyebrow_size": "18px",
+      "worst_contrast": {
+        "ratio": 10.85,
+        "text": "SPRING BASEMENT FLOODING \u2022 MIDVALE, UTAH",
+        "color": "rgb(242, 200, 155)",
+        "bg": "rgb(7, 33, 30)"
+      },
+      "contrast_sampled": 82,
+      "body_bg": "rgb(255, 255, 255)",
+      "maps_iframe": true,
+      "page_height": 8543,
+      "console_errors": [],
+      "page_errors": [],
+      "failed_local": [],
+      "failed_env_google_maps": [
+        "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+      ],
+      "screenshot": "qa/render-final5/desktop/resources__basement-flooding-spring-snowmelt-utah.png",
+      "screenshot_mode": "full_page",
+      "ok": true
+    }
+  ],
+  "followup": "Slow-scroll re-check (400px steps, 250ms) for the 4 routes with lazy-image flags; opacity-aware contrast audit on 4 pages; segmented full-page screenshots for home + hardwood."
+}

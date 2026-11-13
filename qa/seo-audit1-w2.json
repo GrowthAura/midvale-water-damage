@@ -1,0 +1,2242 @@
+{
+ "audit": "seo-audit1-w2 structured data / schema",
+ "site": "Midvale UT",
+ "data_sha256": "21c6e7f2b89bab95f9f7da2ee5b5fb53c118edeee4abc587f8066dc0589d638f",
+ "data_sha256_expected": "21c6e7f2b89bab95f9f7da2ee5b5fb53c118edeee4abc587f8066dc0589d638f",
+ "data_sha256_match": true,
+ "served_from": "http://127.0.0.1:8312/midvale-water-damage",
+ "served_port": 8312,
+ "homepage_check": {
+  "h1_contains_Midvale": true,
+  "phone_(385) 337-3560_present": true,
+  "http": 200
+ },
+ "routes_audited": 31,
+ "totals": {
+  "faq_data": 142,
+  "faq_schema": 142,
+  "faq_visible": 142,
+  "schema_type_counts": {
+   "HomeAndConstructionBusiness": 1,
+   "FAQPage": 28,
+   "WebSite": 1,
+   "BreadcrumbList": 31,
+   "Service": 19
+  },
+  "pages_with_localhost_in_schema": 31,
+  "areaserved_postalCodes": [
+   "84044",
+   "84047",
+   "84115",
+   "84121"
+  ],
+  "areaserved_cities": [
+   "Cottonwood Heights",
+   "Magna",
+   "Midvale",
+   "South Salt Lake"
+  ],
+  "telephones_in_schema": [
+   "+13853373560"
+  ]
+ },
+ "localhost_pages": [
+  {
+   "page": "/",
+   "localhost_occurrences_in_schema": 3
+  },
+  {
+   "page": "/about",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/contact",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/emergency-water-extraction",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/basement-flooding-cleanup",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/window-well-flooding",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/burst-pipe-water-damage",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/sewage-backup-cleanup",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/water-heater-leak-cleanup",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/swamp-cooler-leak-water-damage",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/ceiling-water-damage",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/crawl-space-water-damage",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/hardwood-floor-cabinet-drying",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/condo-apartment-water-damage",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/commercial-water-damage",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/storm-flood-damage",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/mold-remediation",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/water-leak-detection",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/water-damage-repair",
+   "localhost_occurrences_in_schema": 4
+  },
+  {
+   "page": "/locations/cottonwood-heights-ut",
+   "localhost_occurrences_in_schema": 5
+  },
+  {
+   "page": "/locations/south-salt-lake-ut",
+   "localhost_occurrences_in_schema": 5
+  },
+  {
+   "page": "/locations/magna-ut",
+   "localhost_occurrences_in_schema": 5
+  },
+  {
+   "page": "/midvale-water-sewer-emergency-contacts",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/privacy-policy",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/terms-of-use",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/disclaimer",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/resources/frozen-pipes-midvale",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/resources/winterize-swamp-cooler-utah",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/resources/upstairs-unit-leak-who-pays-utah",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/resources/can-mold-grow-in-utah",
+   "localhost_occurrences_in_schema": 2
+  },
+  {
+   "page": "/resources/basement-flooding-spring-snowmelt-utah",
+   "localhost_occurrences_in_schema": 2
+  }
+ ],
+ "adjudicated_non_issues": [
+  {
+   "check": "breadcrumb-name-mismatch (7 pages, first run)",
+   "finding": "First script pass compared raw HTML '&amp;' against schema '&' without unescaping; visible text renders as '&'. After html.unescape, schema names == visible names on all 31 pages. NOT a defect."
+  },
+  {
+   "check": "commercial FAQ item 5 schema/visible vs data (first run)",
+   "finding": "Data answer ends 'Sewage Backup Cleanup (/sewage-backup-cleanup/)' \u2014 a link annotation, not visible text. Visible page renders it as an anchor 'Sewage Backup Cleanup' and schema carries the same plain text. Schema vs visible is EXACT; the only data FAQ answer with such an annotation site-wide. NOT a defect."
+  },
+  {
+   "check": "openingHours Mo-Su 00:00-24:00 (homepage LocalBusiness)",
+   "finding": "'Mo-Su' literal is not in the data, but '24/7' is (trustChips, intros, FAQ answers); Mo-Su 00:00-24:00 is the schema encoding of 24/7. Traced, NOT invented."
+  },
+  {
+   "check": "suspicious schema keys (ratings/reviews/years/prices/street address/credentials)",
+   "finding": "Zero occurrences of aggregateRating/ratingValue/reviewCount/foundingDate/priceRange/price/streetAddress/hasCredential/award/sameAs etc. in any of the 80 JSON-LD blocks. Absence is not a defect."
+  }
+ ],
+ "per_page": {
+  "/": {
+   "route": "/",
+   "file": "index.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 4,
+   "json_ld_invalid": 0,
+   "types": [
+    "HomeAndConstructionBusiness",
+    "FAQPage",
+    "WebSite",
+    "BreadcrumbList"
+   ],
+   "faq_data": 6,
+   "faq_schema": 6,
+   "faq_visible": 6,
+   "breadcrumb_visible": [],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    }
+   ],
+   "service": null,
+   "localbusiness": {
+    "type": "HomeAndConstructionBusiness",
+    "name": "Water Damage Restoration Midvale UT",
+    "telephone": "+13853373560",
+    "url": "http://localhost:3000/",
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Midvale",
+      "addressRegion": "UT",
+      "postalCode": "84047"
+     },
+     {
+      "@type": "City",
+      "name": "Cottonwood Heights",
+      "addressRegion": "UT",
+      "postalCode": "84121"
+     },
+     {
+      "@type": "City",
+      "name": "South Salt Lake",
+      "addressRegion": "UT",
+      "postalCode": "84115"
+     },
+     {
+      "@type": "City",
+      "name": "Magna",
+      "addressRegion": "UT",
+      "postalCode": "84044"
+     }
+    ],
+    "openingHours": "Mo-Su 00:00-24:00",
+    "address": null
+   },
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/about": {
+   "route": "/about",
+   "file": "about.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 2,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "About Our Midvale Water Damage Restoration Team",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "About Our Midvale Water Damage Restoration Team",
+     "item": "http://localhost:3000/about"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/contact": {
+   "route": "/contact",
+   "file": "contact.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 2,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Call for 24/7 Water Damage Help in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Call for 24/7 Water Damage Help in Midvale, UT 84047",
+     "item": "http://localhost:3000/contact"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/emergency-water-extraction": {
+   "route": "/emergency-water-extraction",
+   "file": "emergency-water-extraction.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 6,
+   "faq_schema": 6,
+   "faq_visible": 6,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+     "item": "http://localhost:3000/emergency-water-extraction"
+    }
+   ],
+   "service": {
+    "name": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+    "serviceType": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+    "url": "http://localhost:3000/emergency-water-extraction",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/basement-flooding-cleanup": {
+   "route": "/basement-flooding-cleanup",
+   "file": "basement-flooding-cleanup.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Emergency Basement Flooding Cleanup in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Emergency Basement Flooding Cleanup in Midvale, UT 84047",
+     "item": "http://localhost:3000/basement-flooding-cleanup"
+    }
+   ],
+   "service": {
+    "name": "Emergency Basement Flooding Cleanup in Midvale, UT 84047",
+    "serviceType": "Emergency Basement Flooding Cleanup in Midvale, UT 84047",
+    "url": "http://localhost:3000/basement-flooding-cleanup",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/window-well-flooding": {
+   "route": "/window-well-flooding",
+   "file": "window-well-flooding.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047",
+     "item": "http://localhost:3000/window-well-flooding"
+    }
+   ],
+   "service": {
+    "name": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047",
+    "serviceType": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047",
+    "url": "http://localhost:3000/window-well-flooding",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/burst-pipe-water-damage": {
+   "route": "/burst-pipe-water-damage",
+   "file": "burst-pipe-water-damage.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047",
+     "item": "http://localhost:3000/burst-pipe-water-damage"
+    }
+   ],
+   "service": {
+    "name": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047",
+    "serviceType": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047",
+    "url": "http://localhost:3000/burst-pipe-water-damage",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/sewage-backup-cleanup": {
+   "route": "/sewage-backup-cleanup",
+   "file": "sewage-backup-cleanup.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+     "item": "http://localhost:3000/sewage-backup-cleanup"
+    }
+   ],
+   "service": {
+    "name": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+    "serviceType": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+    "url": "http://localhost:3000/sewage-backup-cleanup",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/water-heater-leak-cleanup": {
+   "route": "/water-heater-leak-cleanup",
+   "file": "water-heater-leak-cleanup.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047",
+     "item": "http://localhost:3000/water-heater-leak-cleanup"
+    }
+   ],
+   "service": {
+    "name": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047",
+    "serviceType": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047",
+    "url": "http://localhost:3000/water-heater-leak-cleanup",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/swamp-cooler-leak-water-damage": {
+   "route": "/swamp-cooler-leak-water-damage",
+   "file": "swamp-cooler-leak-water-damage.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047",
+     "item": "http://localhost:3000/swamp-cooler-leak-water-damage"
+    }
+   ],
+   "service": {
+    "name": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047",
+    "serviceType": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047",
+    "url": "http://localhost:3000/swamp-cooler-leak-water-damage",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/ceiling-water-damage": {
+   "route": "/ceiling-water-damage",
+   "file": "ceiling-water-damage.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Professional Ceiling Water Damage Repair in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Professional Ceiling Water Damage Repair in Midvale, UT 84047",
+     "item": "http://localhost:3000/ceiling-water-damage"
+    }
+   ],
+   "service": {
+    "name": "Professional Ceiling Water Damage Repair in Midvale, UT 84047",
+    "serviceType": "Professional Ceiling Water Damage Repair in Midvale, UT 84047",
+    "url": "http://localhost:3000/ceiling-water-damage",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/crawl-space-water-damage": {
+   "route": "/crawl-space-water-damage",
+   "file": "crawl-space-water-damage.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047",
+     "item": "http://localhost:3000/crawl-space-water-damage"
+    }
+   ],
+   "service": {
+    "name": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047",
+    "serviceType": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047",
+    "url": "http://localhost:3000/crawl-space-water-damage",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/hardwood-floor-cabinet-drying": {
+   "route": "/hardwood-floor-cabinet-drying",
+   "file": "hardwood-floor-cabinet-drying.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+     "item": "http://localhost:3000/hardwood-floor-cabinet-drying"
+    }
+   ],
+   "service": {
+    "name": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+    "serviceType": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+    "url": "http://localhost:3000/hardwood-floor-cabinet-drying",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/condo-apartment-water-damage": {
+   "route": "/condo-apartment-water-damage",
+   "file": "condo-apartment-water-damage.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047",
+     "item": "http://localhost:3000/condo-apartment-water-damage"
+    }
+   ],
+   "service": {
+    "name": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047",
+    "serviceType": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047",
+    "url": "http://localhost:3000/condo-apartment-water-damage",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/commercial-water-damage": {
+   "route": "/commercial-water-damage",
+   "file": "commercial-water-damage.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047",
+     "item": "http://localhost:3000/commercial-water-damage"
+    }
+   ],
+   "service": {
+    "name": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047",
+    "serviceType": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047",
+    "url": "http://localhost:3000/commercial-water-damage",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/storm-flood-damage": {
+   "route": "/storm-flood-damage",
+   "file": "storm-flood-damage.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047",
+     "item": "http://localhost:3000/storm-flood-damage"
+    }
+   ],
+   "service": {
+    "name": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047",
+    "serviceType": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047",
+    "url": "http://localhost:3000/storm-flood-damage",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/mold-remediation": {
+   "route": "/mold-remediation",
+   "file": "mold-remediation.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Professional Mold Remediation in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Professional Mold Remediation in Midvale, UT 84047",
+     "item": "http://localhost:3000/mold-remediation"
+    }
+   ],
+   "service": {
+    "name": "Professional Mold Remediation in Midvale, UT 84047",
+    "serviceType": "Professional Mold Remediation in Midvale, UT 84047",
+    "url": "http://localhost:3000/mold-remediation",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/water-leak-detection": {
+   "route": "/water-leak-detection",
+   "file": "water-leak-detection.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+     "item": "http://localhost:3000/water-leak-detection"
+    }
+   ],
+   "service": {
+    "name": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+    "serviceType": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+    "url": "http://localhost:3000/water-leak-detection",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/water-damage-repair": {
+   "route": "/water-damage-repair",
+   "file": "water-damage-repair.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Local Water Damage Repair & Rebuild in Midvale, UT 84047",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Local Water Damage Repair & Rebuild in Midvale, UT 84047",
+     "item": "http://localhost:3000/water-damage-repair"
+    }
+   ],
+   "service": {
+    "name": "Local Water Damage Repair & Rebuild in Midvale, UT 84047",
+    "serviceType": "Local Water Damage Repair & Rebuild in Midvale, UT 84047",
+    "url": "http://localhost:3000/water-damage-repair",
+    "areaServed": {
+     "@type": "City",
+     "name": "Midvale",
+     "addressRegion": "UT",
+     "postalCode": "84047"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/locations/cottonwood-heights-ut": {
+   "route": "/locations/cottonwood-heights-ut",
+   "file": "locations/cottonwood-heights-ut.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Nearby Cities We Serve",
+     "href": "/midvale-water-damage#areas",
+     "current": false
+    },
+    {
+     "name": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Nearby Cities We Serve",
+     "item": "http://localhost:3000/#areas"
+    },
+    {
+     "position": 3,
+     "name": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121",
+     "item": "http://localhost:3000/locations/cottonwood-heights-ut"
+    }
+   ],
+   "service": {
+    "name": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121",
+    "serviceType": "Water Damage Restoration",
+    "url": "http://localhost:3000/locations/cottonwood-heights-ut",
+    "areaServed": {
+     "@type": "City",
+     "name": "Cottonwood Heights",
+     "addressRegion": "UT",
+     "postalCode": "84121"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/locations/south-salt-lake-ut": {
+   "route": "/locations/south-salt-lake-ut",
+   "file": "locations/south-salt-lake-ut.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Nearby Cities We Serve",
+     "href": "/midvale-water-damage#areas",
+     "current": false
+    },
+    {
+     "name": "Emergency Water Damage Restoration in South Salt Lake, UT 84115",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Nearby Cities We Serve",
+     "item": "http://localhost:3000/#areas"
+    },
+    {
+     "position": 3,
+     "name": "Emergency Water Damage Restoration in South Salt Lake, UT 84115",
+     "item": "http://localhost:3000/locations/south-salt-lake-ut"
+    }
+   ],
+   "service": {
+    "name": "Emergency Water Damage Restoration in South Salt Lake, UT 84115",
+    "serviceType": "Water Damage Restoration",
+    "url": "http://localhost:3000/locations/south-salt-lake-ut",
+    "areaServed": {
+     "@type": "City",
+     "name": "South Salt Lake",
+     "addressRegion": "UT",
+     "postalCode": "84115"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/locations/magna-ut": {
+   "route": "/locations/magna-ut",
+   "file": "locations/magna-ut.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 3,
+   "json_ld_invalid": 0,
+   "types": [
+    "Service",
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Nearby Cities We Serve",
+     "href": "/midvale-water-damage#areas",
+     "current": false
+    },
+    {
+     "name": "Local Water Damage Restoration in Magna, UT 84044",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Nearby Cities We Serve",
+     "item": "http://localhost:3000/#areas"
+    },
+    {
+     "position": 3,
+     "name": "Local Water Damage Restoration in Magna, UT 84044",
+     "item": "http://localhost:3000/locations/magna-ut"
+    }
+   ],
+   "service": {
+    "name": "Local Water Damage Restoration in Magna, UT 84044",
+    "serviceType": "Water Damage Restoration",
+    "url": "http://localhost:3000/locations/magna-ut",
+    "areaServed": {
+     "@type": "City",
+     "name": "Magna",
+     "addressRegion": "UT",
+     "postalCode": "84044"
+    },
+    "provider": {
+     "@type": "HomeAndConstructionBusiness",
+     "name": "Water Damage Restoration Midvale UT",
+     "telephone": "+13853373560",
+     "url": "http://localhost:3000/"
+    }
+   },
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/midvale-water-sewer-emergency-contacts": {
+   "route": "/midvale-water-sewer-emergency-contacts",
+   "file": "midvale-water-sewer-emergency-contacts.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 2,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Midvale Water & Sewer Emergency Contacts (84047)",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Midvale Water & Sewer Emergency Contacts (84047)",
+     "item": "http://localhost:3000/midvale-water-sewer-emergency-contacts"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/privacy-policy": {
+   "route": "/privacy-policy",
+   "file": "privacy-policy.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 1,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList"
+   ],
+   "faq_data": 0,
+   "faq_schema": 0,
+   "faq_visible": 0,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Privacy Policy",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Privacy Policy",
+     "item": "http://localhost:3000/privacy-policy"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "n/a (no FAQ anywhere)",
+   "faq_schema_vs_data": "n/a",
+   "faq_visible_vs_data": "n/a",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/terms-of-use": {
+   "route": "/terms-of-use",
+   "file": "terms-of-use.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 1,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList"
+   ],
+   "faq_data": 0,
+   "faq_schema": 0,
+   "faq_visible": 0,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Terms of Use",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Terms of Use",
+     "item": "http://localhost:3000/terms-of-use"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "n/a (no FAQ anywhere)",
+   "faq_schema_vs_data": "n/a",
+   "faq_visible_vs_data": "n/a",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/disclaimer": {
+   "route": "/disclaimer",
+   "file": "disclaimer.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 1,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList"
+   ],
+   "faq_data": 0,
+   "faq_schema": 0,
+   "faq_visible": 0,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Disclaimer",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Disclaimer",
+     "item": "http://localhost:3000/disclaimer"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "n/a (no FAQ anywhere)",
+   "faq_schema_vs_data": "n/a",
+   "faq_visible_vs_data": "n/a",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/resources/frozen-pipes-midvale": {
+   "route": "/resources/frozen-pipes-midvale",
+   "file": "resources/frozen-pipes-midvale.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 2,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts",
+     "item": "http://localhost:3000/resources/frozen-pipes-midvale"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/resources/winterize-swamp-cooler-utah": {
+   "route": "/resources/winterize-swamp-cooler-utah",
+   "file": "resources/winterize-swamp-cooler-utah.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 2,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Swamp Cooler Winterizing Checklist for Midvale Homes",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Swamp Cooler Winterizing Checklist for Midvale Homes",
+     "item": "http://localhost:3000/resources/winterize-swamp-cooler-utah"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/resources/upstairs-unit-leak-who-pays-utah": {
+   "route": "/resources/upstairs-unit-leak-who-pays-utah",
+   "file": "resources/upstairs-unit-leak-who-pays-utah.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 2,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment",
+     "item": "http://localhost:3000/resources/upstairs-unit-leak-who-pays-utah"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/resources/can-mold-grow-in-utah": {
+   "route": "/resources/can-mold-grow-in-utah",
+   "file": "resources/can-mold-grow-in-utah.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 2,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale",
+     "item": "http://localhost:3000/resources/can-mold-grow-in-utah"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  },
+  "/resources/basement-flooding-spring-snowmelt-utah": {
+   "route": "/resources/basement-flooding-spring-snowmelt-utah",
+   "file": "resources/basement-flooding-spring-snowmelt-utah.html",
+   "http": 200,
+   "served_equals_disk": true,
+   "json_ld_blocks": 2,
+   "json_ld_invalid": 0,
+   "types": [
+    "BreadcrumbList",
+    "FAQPage"
+   ],
+   "faq_data": 5,
+   "faq_schema": 5,
+   "faq_visible": 5,
+   "breadcrumb_visible": [
+    {
+     "name": "Home",
+     "href": "/midvale-water-damage",
+     "current": false
+    },
+    {
+     "name": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale",
+     "href": null,
+     "current": true
+    }
+   ],
+   "breadcrumb_schema": [
+    {
+     "position": 1,
+     "name": "Home",
+     "item": "http://localhost:3000/"
+    },
+    {
+     "position": 2,
+     "name": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale",
+     "item": "http://localhost:3000/resources/basement-flooding-spring-snowmelt-utah"
+    }
+   ],
+   "service": null,
+   "localbusiness": null,
+   "faq_schema_vs_visible": "EXACT MATCH",
+   "faq_schema_vs_data": "EXACT MATCH",
+   "faq_visible_vs_data": "EXACT MATCH",
+   "notes": [],
+   "suspicious_schema_keys": []
+  }
+ },
+ "problems": [
+  {
+   "severity": "P3",
+   "page": "/",
+   "check": "breadcrumb-no-visible",
+   "detail": "BreadcrumbList schema present but no visible breadcrumb nav found (homepage only; single-item Home breadcrumb is harmless but invisible markup)",
+   "evidence": ""
+  },
+  {
+   "severity": "P3",
+   "page": "/locations/cottonwood-heights-ut",
+   "check": "service-type-generic",
+   "detail": "serviceType is generic 'Water Damage Restoration' rather than the page-specific H1 '24/7 Water Damage Restoration in Cottonwood Heights, UT 84121'; truthful but less specific (Service name itself matches H1 exactly)",
+   "evidence": ""
+  },
+  {
+   "severity": "P3",
+   "page": "/locations/south-salt-lake-ut",
+   "check": "service-type-generic",
+   "detail": "serviceType is generic 'Water Damage Restoration' rather than the page-specific H1 'Emergency Water Damage Restoration in South Salt Lake, UT 84115'; truthful but less specific (Service name itself matches H1 exactly)",
+   "evidence": ""
+  },
+  {
+   "severity": "P3",
+   "page": "/locations/magna-ut",
+   "check": "service-type-generic",
+   "detail": "serviceType is generic 'Water Damage Restoration' rather than the page-specific H1 'Local Water Damage Restoration in Magna, UT 84044'; truthful but less specific (Service name itself matches H1 exactly)",
+   "evidence": ""
+  },
+  {
+   "severity": "P1",
+   "page": "/",
+   "check": "schema-localhost-url",
+   "detail": "3 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/about",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/contact",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/emergency-water-extraction",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/basement-flooding-cleanup",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/window-well-flooding",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/burst-pipe-water-damage",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/sewage-backup-cleanup",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/water-heater-leak-cleanup",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/swamp-cooler-leak-water-damage",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/ceiling-water-damage",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/crawl-space-water-damage",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/hardwood-floor-cabinet-drying",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/condo-apartment-water-damage",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/commercial-water-damage",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/storm-flood-damage",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/mold-remediation",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/water-leak-detection",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/water-damage-repair",
+   "check": "schema-localhost-url",
+   "detail": "4 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/locations/cottonwood-heights-ut",
+   "check": "schema-localhost-url",
+   "detail": "5 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/locations/south-salt-lake-ut",
+   "check": "schema-localhost-url",
+   "detail": "5 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/locations/magna-ut",
+   "check": "schema-localhost-url",
+   "detail": "5 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/midvale-water-sewer-emergency-contacts",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/privacy-policy",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/terms-of-use",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/disclaimer",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/resources/frozen-pipes-midvale",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/resources/winterize-swamp-cooler-utah",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/resources/upstairs-unit-leak-who-pays-utah",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/resources/can-mold-grow-in-utah",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P1",
+   "page": "/resources/basement-flooding-spring-snowmelt-utah",
+   "check": "schema-localhost-url",
+   "detail": "2 'localhost' occurrence(s) inside JSON-LD (url/item values point at http://localhost:3000, not the live site URL)",
+   "evidence": "publish_prefix.py docstring: gh-pages procedure is now 'copy out/* + .nojekyll, NO rewriting' \u2014 so these localhost schema URLs would go live unchanged."
+  },
+  {
+   "severity": "P3",
+   "page": "site-wide",
+   "check": "breadcrumb-home-url-form",
+   "detail": "Visible breadcrumb Home link is href=\"/midvale-water-damage\" (subpath-relative, no trailing slash) while the schema Home item is an absolute URL (currently localhost). After the localhost base-URL fix, confirm the schema Home item URL form matches the visible href / canonical form.",
+   "evidence": "emergency-water-extraction.html nav.breadcrumb: <a href=\"/midvale-water-damage\">Home</a> vs schema item \"http://localhost:3000/\""
+  }
+ ],
+ "problem_counts": {
+  "P3": 5,
+  "P1": 31
+ }
+}

@@ -1,0 +1,5540 @@
+{
+ "contrast": {
+  "/": [
+   {
+    "text": "Midvale, UT",
+    "size": 18,
+    "weight": "700",
+    "fg": "rgb(157, 84, 24)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 5.65,
+    "cls": "brand-city"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 18,
+    "weight": "800",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "header-phone"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "700",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "btn btn-call"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "700",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "btn btn-call"
+   },
+   {
+    "text": "Emergency Water Extraction",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Basement Flooding Cleanup",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Window Well Flooding",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Burst & Frozen Pipe Cleanup",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Sewage Backup Cleanup",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Water Heater & Appliance Leaks",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Swamp Cooler Leaks",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Ceiling Leaks & Ice Dams",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   }
+  ],
+  "/emergency-water-extraction": [
+   {
+    "text": "Midvale, UT",
+    "size": 18,
+    "weight": "700",
+    "fg": "rgb(157, 84, 24)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 5.65,
+    "cls": "brand-city"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 18,
+    "weight": "800",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "header-phone"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "700",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "btn btn-call"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "700",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "btn btn-call"
+   },
+   {
+    "text": "Hardwood Floor & Cabinet Drying",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Basements",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Basement Flooding Cleanup",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Kitchens and Laundry Rooms",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Water Heater & Appliance Leak Cleanup",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Upper Floors, Condos and Townhomes",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Condo & Apartment Water Damage",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Garages, Window Wells and Entryways",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   }
+  ],
+  "/contact": [
+   {
+    "text": "Midvale, UT",
+    "size": 18,
+    "weight": "700",
+    "fg": "rgb(157, 84, 24)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 5.65,
+    "cls": "brand-city"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 18,
+    "weight": "800",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "header-phone"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "700",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "btn btn-call"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "700",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "btn btn-call"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(246, 241, 231)",
+    "ratio": 7.96,
+    "cls": ""
+   },
+   {
+    "text": "Midvale Water & Sewer Emergency Contacts",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Is there an emergency water damage phone number fo",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "How fast will someone come?",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Can I send photos before the crew arrives?",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Do you give price ranges over the phone?",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "Do you help businesses and property managers?",
+    "size": 24,
+    "weight": "700",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": ""
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(223, 234, 231)",
+    "bg": "rgb(14, 59, 56)",
+    "ratio": 10.03,
+    "cls": ""
+   }
+  ],
+  "/about": [
+   {
+    "text": "Midvale, UT",
+    "size": 18,
+    "weight": "700",
+    "fg": "rgb(157, 84, 24)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 5.65,
+    "cls": "brand-city"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 18,
+    "weight": "800",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "header-phone"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "700",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "btn btn-call"
+   },
+   {
+    "text": "(385) 337-3560",
+    "size": 19,
+    "weight": "700",
+    "fg": "rgb(255, 255, 255)",
+    "bg": "rgb(157, 84, 24)",
+    "ratio": 5.65,
+    "cls": "btn btn-call"
+   },
+   {
+    "text": "Emergency Water Extraction",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Basement Flooding Cleanup",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Window Well Flooding",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Burst Pipe Water Damage",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Sewage Backup Cleanup",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Water Heater & Appliance Leak Cleanup",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Swamp Cooler Leak Water Damage",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   },
+   {
+    "text": "Ceiling Water Damage",
+    "size": 19,
+    "weight": "400",
+    "fg": "rgb(21, 82, 76)",
+    "bg": "rgb(255, 255, 255)",
+    "ratio": 8.96,
+    "cls": "body-link"
+   }
+  ]
+ },
+ "btn2": {
+  "/": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 284.6,
+      "bottom": 332.6,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 348.6,
+      "bottom": 396.6,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 27506.1,
+      "bottom": 27554.1,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 27570.1,
+      "bottom": 27618.1,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 174.6,
+     "bottom": 264.6
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 284.6,
+      "bottom": 332.6,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 348.6,
+      "bottom": 396.6,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 27506.1,
+      "bottom": 27554.1,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 27570.1,
+      "bottom": 27618.1,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 174.6,
+     "bottom": 264.6
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 407.5,
+      "bottom": 463.5,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 479.5,
+      "bottom": 535.5,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 24215.7,
+      "bottom": 24271.7,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 24287.7,
+      "bottom": 24343.7,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 240,
+     "bottom": 367.5
+    },
+    "headerH": 114.8
+   }
+  },
+  "/about": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 301.4,
+      "bottom": 349.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 365.4,
+      "bottom": 413.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 10326.9,
+      "bottom": 10374.9,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 10390.9,
+      "bottom": 10438.9,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 191.4,
+     "bottom": 281.4
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 301.4,
+      "bottom": 349.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 365.4,
+      "bottom": 413.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 10326.9,
+      "bottom": 10374.9,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 10390.9,
+      "bottom": 10438.9,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 191.4,
+     "bottom": 281.4
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 523.3,
+      "bottom": 579.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 595.3,
+      "bottom": 651.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 8885.2,
+      "bottom": 8941.2,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 8957.2,
+      "bottom": 9013.2,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 483.3
+    },
+    "headerH": 114.8
+   }
+  },
+  "/contact": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 301.4,
+      "bottom": 349.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 365.4,
+      "bottom": 413.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 9336.3,
+      "bottom": 9384.3,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 9400.3,
+      "bottom": 9448.3,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 191.4,
+     "bottom": 281.4
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 301.4,
+      "bottom": 349.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 365.4,
+      "bottom": 413.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 9336.3,
+      "bottom": 9384.3,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 9400.3,
+      "bottom": 9448.3,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 191.4,
+     "bottom": 281.4
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 492.7,
+      "bottom": 548.7,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 564.7,
+      "bottom": 620.7,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 8198.8,
+      "bottom": 8254.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 8270.8,
+      "bottom": 8326.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 325.2,
+     "bottom": 452.7
+    },
+    "headerH": 114.8
+   }
+  },
+  "/emergency-water-extraction": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18647.5,
+      "bottom": 18695.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18711.5,
+      "bottom": 18759.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18647.5,
+      "bottom": 18695.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18711.5,
+      "bottom": 18759.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 523.3,
+      "bottom": 579.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 595.3,
+      "bottom": 651.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16387.3,
+      "bottom": 16443.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16459.3,
+      "bottom": 16515.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 483.3
+    },
+    "headerH": 114.8
+   }
+  },
+  "/basement-flooding-cleanup": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17952.8,
+      "bottom": 18000.8,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18016.8,
+      "bottom": 18064.8,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17952.8,
+      "bottom": 18000.8,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18016.8,
+      "bottom": 18064.8,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15545.5,
+      "bottom": 15601.5,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15617.5,
+      "bottom": 15673.5,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/window-well-flooding": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17581,
+      "bottom": 17629,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17645,
+      "bottom": 17693,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17581,
+      "bottom": 17629,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17645,
+      "bottom": 17693,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 523.3,
+      "bottom": 579.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 595.3,
+      "bottom": 651.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15083.1,
+      "bottom": 15139.1,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15155.1,
+      "bottom": 15211.1,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 483.3
+    },
+    "headerH": 114.8
+   }
+  },
+  "/burst-pipe-water-damage": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18615.4,
+      "bottom": 18663.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18679.4,
+      "bottom": 18727.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18615.4,
+      "bottom": 18663.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18679.4,
+      "bottom": 18727.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16392.3,
+      "bottom": 16448.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16464.3,
+      "bottom": 16520.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/sewage-backup-cleanup": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18020.7,
+      "bottom": 18068.7,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18084.7,
+      "bottom": 18132.7,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18020.7,
+      "bottom": 18068.7,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18084.7,
+      "bottom": 18132.7,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 523.3,
+      "bottom": 579.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 595.3,
+      "bottom": 651.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15558.2,
+      "bottom": 15614.2,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15630.2,
+      "bottom": 15686.2,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 483.3
+    },
+    "headerH": 114.8
+   }
+  },
+  "/water-heater-leak-cleanup": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17324.5,
+      "bottom": 17372.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17388.5,
+      "bottom": 17436.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17324.5,
+      "bottom": 17372.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17388.5,
+      "bottom": 17436.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 14842.7,
+      "bottom": 14898.7,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 14914.7,
+      "bottom": 14970.7,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/swamp-cooler-leak-water-damage": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17467.5,
+      "bottom": 17515.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17531.5,
+      "bottom": 17579.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17467.5,
+      "bottom": 17515.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17531.5,
+      "bottom": 17579.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15563.9,
+      "bottom": 15619.9,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15635.9,
+      "bottom": 15691.9,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/ceiling-water-damage": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 16487.1,
+      "bottom": 16535.1,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 16551.1,
+      "bottom": 16599.1,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 16487.1,
+      "bottom": 16535.1,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 16551.1,
+      "bottom": 16599.1,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 14437.4,
+      "bottom": 14493.4,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 14509.4,
+      "bottom": 14565.4,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/crawl-space-water-damage": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 16682.5,
+      "bottom": 16730.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 16746.5,
+      "bottom": 16794.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 16682.5,
+      "bottom": 16730.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 16746.5,
+      "bottom": 16794.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 14294.4,
+      "bottom": 14350.4,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 14366.4,
+      "bottom": 14422.4,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/hardwood-floor-cabinet-drying": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18895.9,
+      "bottom": 18943.9,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18959.9,
+      "bottom": 19007.9,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18895.9,
+      "bottom": 18943.9,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18959.9,
+      "bottom": 19007.9,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16602.4,
+      "bottom": 16658.4,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16674.4,
+      "bottom": 16730.4,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/condo-apartment-water-damage": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 385.2,
+      "bottom": 433.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 449.2,
+      "bottom": 497.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19078.3,
+      "bottom": 19126.3,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19142.3,
+      "bottom": 19190.3,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 365.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 385.2,
+      "bottom": 433.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 449.2,
+      "bottom": 497.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19078.3,
+      "bottom": 19126.3,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19142.3,
+      "bottom": 19190.3,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 365.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 638.8,
+      "bottom": 694.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 710.8,
+      "bottom": 766.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16539.9,
+      "bottom": 16595.9,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16611.9,
+      "bottom": 16667.9,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 386.3,
+     "bottom": 598.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/commercial-water-damage": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18846,
+      "bottom": 18894,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18910,
+      "bottom": 18958,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18846,
+      "bottom": 18894,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18910,
+      "bottom": 18958,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16576.7,
+      "bottom": 16632.7,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16648.7,
+      "bottom": 16704.7,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/storm-flood-damage": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18300.4,
+      "bottom": 18348.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18364.4,
+      "bottom": 18412.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18300.4,
+      "bottom": 18348.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18364.4,
+      "bottom": 18412.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15825,
+      "bottom": 15881,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15897,
+      "bottom": 15953,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/mold-remediation": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18296.8,
+      "bottom": 18344.8,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18360.8,
+      "bottom": 18408.8,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18296.8,
+      "bottom": 18344.8,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18360.8,
+      "bottom": 18408.8,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 523.3,
+      "bottom": 579.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 595.3,
+      "bottom": 651.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15499,
+      "bottom": 15555,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 15571,
+      "bottom": 15627,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 483.3
+    },
+    "headerH": 114.8
+   }
+  },
+  "/water-leak-detection": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18522.5,
+      "bottom": 18570.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18586.5,
+      "bottom": 18634.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18522.5,
+      "bottom": 18570.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 18586.5,
+      "bottom": 18634.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 608.3,
+      "bottom": 664.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 680.3,
+      "bottom": 736.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16341.5,
+      "bottom": 16397.5,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16413.5,
+      "bottom": 16469.5,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 568.3
+    },
+    "headerH": 114.8
+   }
+  },
+  "/water-damage-repair": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17250,
+      "bottom": 17298,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17314,
+      "bottom": 17362,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17250,
+      "bottom": 17298,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 17314,
+      "bottom": 17362,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 14857.8,
+      "bottom": 14913.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 14929.8,
+      "bottom": 14985.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/locations/cottonwood-heights-ut": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19826.9,
+      "bottom": 19874.9,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19890.9,
+      "bottom": 19938.9,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19826.9,
+      "bottom": 19874.9,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19890.9,
+      "bottom": 19938.9,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16923.1,
+      "bottom": 16979.1,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 16995.1,
+      "bottom": 17051.1,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/locations/south-salt-lake-ut": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 20760.2,
+      "bottom": 20808.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 20824.2,
+      "bottom": 20872.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 20760.2,
+      "bottom": 20808.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 20824.2,
+      "bottom": 20872.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 608.3,
+      "bottom": 664.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 680.3,
+      "bottom": 736.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 17429.2,
+      "bottom": 17485.2,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 17501.2,
+      "bottom": 17557.2,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 568.3
+    },
+    "headerH": 114.8
+   }
+  },
+  "/locations/magna-ut": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19757.4,
+      "bottom": 19805.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19821.4,
+      "bottom": 19869.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19757.4,
+      "bottom": 19805.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 19821.4,
+      "bottom": 19869.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 17084.8,
+      "bottom": 17140.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 17156.8,
+      "bottom": 17212.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/midvale-water-sewer-emergency-contacts": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 13488.5,
+      "bottom": 13536.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 13552.5,
+      "bottom": 13600.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 13488.5,
+      "bottom": 13536.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 13552.5,
+      "bottom": 13600.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 523.3,
+      "bottom": 579.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 595.3,
+      "bottom": 651.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 12020,
+      "bottom": 12076,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 12092,
+      "bottom": 12148,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 483.3
+    },
+    "headerH": 114.8
+   }
+  },
+  "/privacy-policy": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 265.2,
+      "bottom": 313.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 329.2,
+      "bottom": 377.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 5737.1,
+      "bottom": 5785.1,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 5801.1,
+      "bottom": 5849.1,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 245.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 265.2,
+      "bottom": 313.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 329.2,
+      "bottom": 377.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 5737.1,
+      "bottom": 5785.1,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 5801.1,
+      "bottom": 5849.1,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 245.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 371.1,
+      "bottom": 427.1,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 443.1,
+      "bottom": 499.1,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 5068.8,
+      "bottom": 5124.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 5140.8,
+      "bottom": 5196.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 288.6,
+     "bottom": 331.1
+    },
+    "headerH": 114.8
+   }
+  },
+  "/terms-of-use": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 265.2,
+      "bottom": 313.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 329.2,
+      "bottom": 377.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 5063.8,
+      "bottom": 5111.8,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 5127.8,
+      "bottom": 5175.8,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 245.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 265.2,
+      "bottom": 313.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 329.2,
+      "bottom": 377.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 5063.8,
+      "bottom": 5111.8,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 5127.8,
+      "bottom": 5175.8,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 245.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 371.1,
+      "bottom": 427.1,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 443.1,
+      "bottom": 499.1,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 4427.7,
+      "bottom": 4483.7,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 4499.7,
+      "bottom": 4555.7,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 288.6,
+     "bottom": 331.1
+    },
+    "headerH": 114.8
+   }
+  },
+  "/disclaimer": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 265.2,
+      "bottom": 313.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 329.2,
+      "bottom": 377.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 3792.4,
+      "bottom": 3840.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 3856.4,
+      "bottom": 3904.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 245.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 265.2,
+      "bottom": 313.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 329.2,
+      "bottom": 377.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 3792.4,
+      "bottom": 3840.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 3856.4,
+      "bottom": 3904.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 245.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 371.1,
+      "bottom": 427.1,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 443.1,
+      "bottom": 499.1,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 3355.5,
+      "bottom": 3411.5,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 3427.5,
+      "bottom": 3483.5,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 288.6,
+     "bottom": 331.1
+    },
+    "headerH": 114.8
+   }
+  },
+  "/resources/frozen-pipes-midvale": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 331.4,
+      "bottom": 379.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 395.4,
+      "bottom": 443.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15235,
+      "bottom": 15283,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15299,
+      "bottom": 15347,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 191.4,
+     "bottom": 311.4
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 331.4,
+      "bottom": 379.4,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 395.4,
+      "bottom": 443.4,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15235,
+      "bottom": 15283,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15299,
+      "bottom": 15347,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 191.4,
+     "bottom": 311.4
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 535.2,
+      "bottom": 591.2,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 607.2,
+      "bottom": 663.2,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 12986.2,
+      "bottom": 13042.2,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 13058.2,
+      "bottom": 13114.2,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 325.2,
+     "bottom": 495.2
+    },
+    "headerH": 114.8
+   }
+  },
+  "/resources/winterize-swamp-cooler-utah": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 14255.6,
+      "bottom": 14303.6,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 14319.6,
+      "bottom": 14367.6,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 325.2,
+      "bottom": 373.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 389.2,
+      "bottom": 437.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 14255.6,
+      "bottom": 14303.6,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 14319.6,
+      "bottom": 14367.6,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 305.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 11885.2,
+      "bottom": 11941.2,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 11957.2,
+      "bottom": 12013.2,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/resources/upstairs-unit-leak-who-pays-utah": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15077.5,
+      "bottom": 15125.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15141.5,
+      "bottom": 15189.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15077.5,
+      "bottom": 15125.5,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15141.5,
+      "bottom": 15189.5,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 608.3,
+      "bottom": 664.3,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 680.3,
+      "bottom": 736.3,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 12855.6,
+      "bottom": 12911.6,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 12927.6,
+      "bottom": 12983.6,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 568.3
+    },
+    "headerH": 114.8
+   }
+  },
+  "/resources/can-mold-grow-in-utah": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15342.2,
+      "bottom": 15390.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15406.2,
+      "bottom": 15454.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 355.2,
+      "bottom": 403.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 419.2,
+      "bottom": 467.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15342.2,
+      "bottom": 15390.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15406.2,
+      "bottom": 15454.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 335.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 565.8,
+      "bottom": 621.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 637.8,
+      "bottom": 693.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 13588.6,
+      "bottom": 13644.6,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 13660.6,
+      "bottom": 13716.6,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 355.8,
+     "bottom": 525.8
+    },
+    "headerH": 114.8
+   }
+  },
+  "/resources/basement-flooding-spring-snowmelt-utah": {
+   "320x568": {
+    "vpH": 568,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 385.2,
+      "bottom": 433.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 449.2,
+      "bottom": 497.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15353.6,
+      "bottom": 15401.6,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15417.6,
+      "bottom": 15465.6,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 365.2
+    },
+    "headerH": 107
+   },
+   "320x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 385.2,
+      "bottom": 433.2,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 449.2,
+      "bottom": 497.2,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15353.6,
+      "bottom": 15401.6,
+      "size": 18,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 272,
+      "h": 48,
+      "top": 15417.6,
+      "bottom": 15465.6,
+      "size": 18,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 24,
+     "lh": 30,
+     "top": 215.2,
+     "bottom": 365.2
+    },
+    "headerH": 107
+   },
+   "390x844": {
+    "vpH": 844,
+    "btns": [
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 638.8,
+      "bottom": 694.8,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 710.8,
+      "bottom": 766.8,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     },
+     {
+      "text": "(385) 337-3560",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 13308.5,
+      "bottom": 13364.5,
+      "size": 19,
+      "bg": "rgb(157, 84, 24)"
+     },
+     {
+      "text": "Request Emergency Help",
+      "href": "tel:+13853373560",
+      "w": 342,
+      "h": 56,
+      "top": 13380.5,
+      "bottom": 13436.5,
+      "size": 19,
+      "bg": "rgb(255, 255, 255)"
+     }
+    ],
+    "h1": {
+     "size": 34,
+     "lh": 42.5,
+     "top": 386.3,
+     "bottom": 598.8
+    },
+    "headerH": 114.8
+   }
+  }
+ },
+ "sticky390": {
+  "found": true,
+  "display": "none",
+  "h": 0,
+  "top": 0,
+  "linkH": 0,
+  "bodyPadBottom": "63px",
+  "coversFooter": true
+ },
+ "sticky_bottom": {
+  "barTop": 781.4,
+  "barH": 62.6,
+  "underBar": "Call (385) 337-3560 \u00b7 24/7 <A>",
+  "footerBaseVisible": true
+ },
+ "faq": {
+  "found": true,
+  "before": {
+   "h": 193.8,
+   "disp": "block",
+   "vis": "visible"
+  },
+  "afterClick": {
+   "h": 193.8,
+   "disp": "block"
+  }
+ },
+ "imgs_after_scroll": {
+  "total": 20,
+  "bad": [
+   {
+    "src": "storm-flood-damage.webp",
+    "broken": true
+   },
+   {
+    "src": "mold-remediation.webp",
+    "broken": true
+   },
+   {
+    "src": "cottonwood-heights-ut.webp",
+    "broken": true
+   },
+   {
+    "src": "south-salt-lake-ut.webp",
+    "broken": true
+   },
+   {
+    "src": "magna-ut.webp",
+    "broken": true
+   }
+  ]
+ },
+ "tables320": [
+  {
+   "w": 392.1,
+   "parentTag": "DIV",
+   "parentCls": "table-wrap",
+   "parentOverflowX": "auto",
+   "parentScrollW": 392,
+   "docOverflow": 0
+  }
+ ],
+ "cards1440": {
+  "1416": [
+   545.5,
+   545.5,
+   545.5
+  ],
+  "1990": [
+   513.1,
+   513.1,
+   513.1
+  ],
+  "2531": [
+   483.1,
+   483.1,
+   483.1
+  ],
+  "3042": [
+   513.2,
+   513.2,
+   513.2
+  ],
+  "3583": [
+   513.1,
+   513.1,
+   513.1
+  ],
+  "4124": [
+   480.8
+  ],
+  "9443": [
+   445.1,
+   445.1,
+   445.1
+  ]
+ },
+ "footer": {
+  "heads": [
+   {
+    "text": "Services",
+    "size": 18,
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Nearby Cities We Serve",
+    "size": 18,
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "About & Resources",
+    "size": 18,
+    "color": "rgb(255, 255, 255)"
+   },
+   {
+    "text": "Emergency Help",
+    "size": 18,
+    "color": "rgb(255, 255, 255)"
+   }
+  ],
+  "linkSize": {},
+  "linkH": {},
+  "linkColors": {},
+  "mapH": 320
+ },
+ "sections": {
+  "sections": [
+   {
+    "cls": "hero hero-photo",
+    "pt": 72,
+    "pb": 64
+   },
+   {
+    "cls": "section",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section alt",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section alt",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section alt",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section alt",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section alt",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section",
+    "pt": 64,
+    "pb": 64
+   },
+   {
+    "cls": "section final-cta",
+    "pt": 64,
+    "pb": 64
+   }
+  ],
+  "bodyLH": 30.6,
+  "bodySize": 18
+ }
+}

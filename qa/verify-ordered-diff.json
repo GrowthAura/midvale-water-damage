@@ -1,0 +1,2167 @@
+{
+ "/": {
+  "expected_tokens": 2405,
+  "actual_tokens": 2188,
+  "missing_tokens": 254,
+  "seg_missing": [
+   {
+    "seg": "block52:p",
+    "missing": 19,
+    "total": 19,
+    "text": "clean water turns into gray water in about 48 hours as bacteria grow so speed changes the whole job"
+   },
+   {
+    "seg": "block65:ul[0]",
+    "missing": 1,
+    "total": 25,
+    "text": "cottonwood heights ut 84121 snowmelt seepage ice dams and burst pipes in bench homes below the canyons water damage restoration cottonwood heights locations/cot"
+   },
+   {
+    "seg": "block65:ul[1]",
+    "missing": 1,
+    "total": 22,
+    "text": "south salt lake ut 84115 apartment leaks sewer backups and warehouse floods water damage restoration south salt lake locations/south salt lake ut"
+   },
+   {
+    "seg": "block65:ul[2]",
+    "missing": 1,
+    "total": 21,
+    "text": "magna ut 84044 older home pipe failures sewer lines and crawl spaces near main street water damage restoration magna locations/magna ut"
+   },
+   {
+    "seg": "faq0:q",
+    "missing": 9,
+    "total": 9,
+    "text": "how fast can a crew reach my midvale home"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 30,
+    "total": 30,
+    "text": "a crew is dispatched immediately after your call day or night travel time depends on where you are in 84047 and traffic on i 15 state street and 7200 south"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 10,
+    "total": 10,
+    "text": "can wet carpet and pad be saved after a leak"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 26,
+    "total": 26,
+    "text": "often yes if the water is clean and extraction starts within 24 to 48 hours pad soaked by gray water or sewage has to be removed"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 11,
+    "total": 11,
+    "text": "can mold grow in midvale when utah air is so dry"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 29,
+    "total": 29,
+    "text": "yes outdoor air is dry but a wet wall cavity or carpet pad stays damp inside and mold can start growing on wet drywall within 24 to 48 hours"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 11,
+    "total": 11,
+    "text": "who do i call first for a sewer backup in midvale"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 32,
+    "total": 32,
+    "text": "stop using water then call your sewer provider to check the public line midvalley sewer district asks residents to call it first after that call a crew to clean"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 5,
+    "total": 5,
+    "text": "how long does drying take"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 31,
+    "total": 31,
+    "text": "most homes dry in about 3 to 5 days hardwood crawl spaces and thick materials can take longer and we only stop when readings match the dry parts of the home"
+   },
+   {
+    "seg": "faq5:q",
+    "missing": 9,
+    "total": 9,
+    "text": "do you work with renters landlords and property managers"
+   },
+   {
+    "seg": "faq5:a",
+    "missing": 29,
+    "total": 29,
+    "text": "yes as a water damage cleanup company used to multi unit buildings we keep separate records for each unit so owners tenants and hoas each get what they need"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 19,
+    "text": "clean water turns into gray water in about 48 hours as bacteria grow so speed changes the whole job"
+   },
+   {
+    "tokens": 232,
+    "text": "how fast can a crew reach my midvale home a crew is dispatched immediately after your call day or night travel time depends on where you are in 84047 and traffic on i 15 state street and 7200 south can wet carpet and pad"
+   }
+  ]
+ },
+ "/about": {
+  "expected_tokens": 1079,
+  "actual_tokens": 995,
+  "missing_tokens": 104,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 8,
+    "total": 8,
+    "text": "are you available on nights weekends and holidays"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 11,
+    "total": 11,
+    "text": "yes calls are answered 24/7 and a crew is dispatched immediately"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 7,
+    "total": 7,
+    "text": "do you handle both drying and repairs"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 18,
+    "total": 18,
+    "text": "yes the same team dries the structure and rebuilds it so there s no gap between the two"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 5,
+    "total": 5,
+    "text": "do you work with insurance"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 22,
+    "total": 22,
+    "text": "yes we provide the photos moisture readings and material lists insurers ask for and you deal with your own policy and deductible"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 8,
+    "total": 8,
+    "text": "do you work with renters and property managers"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 10,
+    "total": 10,
+    "text": "yes we keep separate records for tenants owners and hoas"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 5,
+    "total": 5,
+    "text": "what areas do you serve"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 10,
+    "total": 10,
+    "text": "midvale 84047 plus cottonwood heights south salt lake and magna"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 104,
+    "text": "are you available on nights weekends and holidays yes calls are answered 24/7 and a crew is dispatched immediately do you handle both drying and repairs yes the same team dries the structure and rebuilds it so there s no"
+   }
+  ]
+ },
+ "/contact": {
+  "expected_tokens": 800,
+  "actual_tokens": 711,
+  "missing_tokens": 107,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 12,
+    "total": 12,
+    "text": "is there an emergency water damage phone number for nights and weekends"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 14,
+    "total": 18,
+    "text": "yes 385 337 3560 is answered 24/7 and that same emergency water damage phone number works on holidays"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 5,
+    "total": 5,
+    "text": "how fast will someone come"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 16,
+    "total": 16,
+    "text": "a crew is dispatched immediately after your call travel time depends on your location and traffic"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 8,
+    "total": 8,
+    "text": "can i send photos before the crew arrives"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 15,
+    "total": 15,
+    "text": "yes mention it when you call and we ll tell you how to send them"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 8,
+    "total": 8,
+    "text": "do you give price ranges over the phone"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 15,
+    "total": 15,
+    "text": "we can share general ranges a final estimate depends on what we find on site"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 6,
+    "total": 7,
+    "text": "do you help businesses and property managers"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 8,
+    "total": 8,
+    "text": "yes offices shops restaurants apartment buildings and hoas"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 13,
+    "text": "is there an emergency water damage phone number for nights and weekends yes"
+   },
+   {
+    "tokens": 6,
+    "text": "is answered 24/7 and that same"
+   },
+   {
+    "tokens": 76,
+    "text": "water damage phone number works on holidays how fast will someone come a crew is dispatched immediately after your call travel time depends on your location and traffic can i send photos before the crew arrives yes menti"
+   },
+   {
+    "tokens": 12,
+    "text": "businesses and property managers yes offices shops restaurants apartment buildings and hoas"
+   }
+  ]
+ },
+ "/emergency-water-extraction": {
+  "expected_tokens": 1983,
+  "actual_tokens": 1819,
+  "missing_tokens": 185,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 6,
+    "total": 6,
+    "text": "how long does water extraction take"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 30,
+    "total": 30,
+    "text": "most residential extraction takes about 2 to 6 hours depending on the volume of water and the size of the area drying then runs for about 3 to 5 days"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 9,
+    "total": 9,
+    "text": "do i need to leave my home during extraction"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 25,
+    "total": 25,
+    "text": "usually not for clean water for sewage or heavy contamination we recommend keeping children pets and anyone with breathing problems out of the affected area"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 11,
+    "total": 11,
+    "text": "can you remove water from under hardwood or vinyl plank floors"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 24,
+    "total": 24,
+    "text": "yes floor drying mats pull water out from under hardwood and vinyl or laminate planks can be lifted so the concrete below dries properly"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 11,
+    "total": 11,
+    "text": "what if the water is coming from the unit above me"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 23,
+    "total": 23,
+    "text": "call the property manager or hoa then call us we extract and dry your unit and document it separately from the source unit"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 5,
+    "total": 5,
+    "text": "will mold grow after extraction"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 23,
+    "total": 23,
+    "text": "not if drying is done properly we monitor moisture every day and only stop when readings match the dry parts of your home"
+   },
+   {
+    "seg": "faq5:q",
+    "missing": 7,
+    "total": 7,
+    "text": "do you work nights weekends and holidays"
+   },
+   {
+    "seg": "faq5:a",
+    "missing": 11,
+    "total": 11,
+    "text": "yes calls are answered 24/7 and a crew is dispatched immediately"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 185,
+    "text": "how long does water extraction take most residential extraction takes about 2 to 6 hours depending on the volume of water and the size of the area drying then runs for about 3 to 5 days do i need to leave my home during "
+   }
+  ]
+ },
+ "/basement-flooding-cleanup": {
+  "expected_tokens": 1879,
+  "actual_tokens": 1718,
+  "missing_tokens": 182,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 9,
+    "total": 9,
+    "text": "does homeowners insurance cover a flooded basement in utah"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 30,
+    "total": 30,
+    "text": "sudden plumbing failures like a burst pipe or failed water heater are usually covered groundwater seepage and surface flooding are often excluded and sewer back"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 10,
+    "total": 10,
+    "text": "how long does it take to dry a flooded basement"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 18,
+    "total": 18,
+    "text": "most basements dry in about 3 to 5 days concrete thick paneling and wet subfloors can add time"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 9,
+    "total": 9,
+    "text": "can i stay in my home during basement cleanup"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 23,
+    "total": 23,
+    "text": "yes in most clean water cases if sewage is involved keep everyone out of the basement until it has been cleaned and disinfected"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 9,
+    "total": 9,
+    "text": "why does my basement smell musty after it dried"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 27,
+    "total": 27,
+    "text": "water may still be trapped under flooring in paneling cavities or in the pad a musty smell is a sign to check moisture readings before mold starts"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 8,
+    "total": 8,
+    "text": "will water keep coming back through the floor"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 39,
+    "total": 39,
+    "text": "groundwater seepage can return during the next wet spell drainage fixes outside sealing cracks and a sump system may be needed and we can tell you which areas t"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 182,
+    "text": "does homeowners insurance cover a flooded basement in utah sudden plumbing failures like a burst pipe or failed water heater are usually covered groundwater seepage and surface flooding are often excluded and sewer backu"
+   }
+  ]
+ },
+ "/window-well-flooding": {
+  "expected_tokens": 1941,
+  "actual_tokens": 1785,
+  "missing_tokens": 177,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 9,
+    "total": 9,
+    "text": "does homeowners insurance cover window well flooding in utah"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 30,
+    "total": 31,
+    "text": "it depends on the policy and the cause many policies exclude surface water and groundwater while some cover sudden events our photos and moisture logs help your"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 8,
+    "total": 8,
+    "text": "can i just dry the carpet with fans"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 27,
+    "total": 27,
+    "text": "fans dry the surface but water under the pad and inside the wall under the window stays wet that trapped moisture is where mold and odors start"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 12,
+    "total": 12,
+    "text": "should i break the window to let water out of the well"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 24,
+    "total": 24,
+    "text": "no it sends all the water into the room at once and the water carries dirt from outside lower the water from outside instead"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 10,
+    "total": 10,
+    "text": "how long does drying take after a window well flood"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 19,
+    "total": 19,
+    "text": "most rooms dry in about 3 to 5 days wet framing under the window can take a little longer"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 8,
+    "total": 8,
+    "text": "will a window well cover stop all flooding"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 30,
+    "total": 30,
+    "text": "it stops most rain and snow from entering the well but not groundwater or runoff from a badly sloped yard covers work best together with good drainage and downs"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 34,
+    "text": "does homeowners insurance cover window well flooding in utah it depends on the policy and the cause many policies exclude surface water and groundwater while some cover sudden events our photos and moisture logs"
+   },
+   {
+    "tokens": 143,
+    "text": "your adjuster decide either way can i just dry the carpet with fans fans dry the surface but water under the pad and inside the wall under the window stays wet that trapped moisture is where mold and odors start should i"
+   }
+  ]
+ },
+ "/burst-pipe-water-damage": {
+  "expected_tokens": 2059,
+  "actual_tokens": 1885,
+  "missing_tokens": 197,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 10,
+    "total": 10,
+    "text": "how do i know if a frozen pipe has burst"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 36,
+    "total": 36,
+    "text": "if water stopped during a freeze and comes back with hissing or you see wet spots bulging ceilings or a moving meter with everything off a pipe has likely split"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 12,
+    "total": 12,
+    "text": "should i use a hair dryer or torch to thaw a pipe"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 37,
+    "total": 37,
+    "text": "never use an open flame a hair dryer or space heater at a safe distance is fine but if the pipe may already be split shut off the main first so thawing doesn t "
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 9,
+    "total": 9,
+    "text": "how long does drying take after a burst pipe"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 19,
+    "total": 19,
+    "text": "most rooms dry in about 3 to 5 days inside walls ceilings and subfloors can take a little longer"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 9,
+    "total": 9,
+    "text": "do i need a plumber and a restoration crew"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 33,
+    "total": 33,
+    "text": "yes a plumber repairs the pipe and a restoration crew removes the water and dries the structure we work around the plumber s schedule so walls aren t closed unt"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 11,
+    "total": 11,
+    "text": "what if the burst pipe was in the unit above me"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 21,
+    "total": 21,
+    "text": "call the property manager or hoa then call us we dry your unit and keep records separate from the source unit"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 197,
+    "text": "how do i know if a frozen pipe has burst if water stopped during a freeze and comes back with hissing or you see wet spots bulging ceilings or a moving meter with everything off a pipe has likely split shut off the main "
+   }
+  ]
+ },
+ "/sewage-backup-cleanup": {
+  "expected_tokens": 1910,
+  "actual_tokens": 1743,
+  "missing_tokens": 188,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 9,
+    "total": 9,
+    "text": "can i clean up a small sewage backup myself"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 37,
+    "total": 37,
+    "text": "a few cups on a hard floor can be cleaned with gloves eye protection and a disinfectant anything that reaches carpet drywall or a larger area needs category 3 w"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 6,
+    "total": 6,
+    "text": "how long does sewage cleanup take"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 21,
+    "total": 21,
+    "text": "cleanup and removal usually take 1 to 2 days and drying takes about 3 to 5 more rebuild follows after that"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 8,
+    "total": 8,
+    "text": "is it safe to stay in my home"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 46,
+    "total": 46,
+    "text": "keep everyone out of the affected area in most homes you can stay in clean parts of the house if the hvac is off and the area is sealed small children and anyon"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 5,
+    "total": 5,
+    "text": "will the smell go away"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 26,
+    "total": 26,
+    "text": "yes once contaminated materials are removed and the area is disinfected dried and air scrubbed a smell that lasts usually means something contaminated was left "
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 8,
+    "total": 8,
+    "text": "does homeowners insurance pay for sewer backup cleanup"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 22,
+    "total": 22,
+    "text": "only if your policy includes a sewer or water backup endorsement in most cases check your declarations page or call your agent"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 188,
+    "text": "can i clean up a small sewage backup myself a few cups on a hard floor can be cleaned with gloves eye protection and a disinfectant anything that reaches carpet drywall or a larger area needs category 3 water cleanup wit"
+   }
+  ]
+ },
+ "/water-heater-leak-cleanup": {
+  "expected_tokens": 1852,
+  "actual_tokens": 1733,
+  "missing_tokens": 142,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 8,
+    "total": 8,
+    "text": "does homeowners insurance cover a burst water heater"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 28,
+    "total": 28,
+    "text": "most utah policies cover the sudden water damage but not the cost of the tank itself or damage from a leak that went on for a long time"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 7,
+    "total": 7,
+    "text": "is water from a washing machine clean"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 22,
+    "total": 22,
+    "text": "no washer drain water is gray water and can carry soap bacteria and lint so carpet pad it reaches is usually removed"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 10,
+    "total": 10,
+    "text": "how long does drying take after a water heater leak"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 16,
+    "total": 16,
+    "text": "most rooms dry in about 3 to 5 days cabinets subfloors and hardwood can take longer"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 6,
+    "total": 6,
+    "text": "do i need a plumber too"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 17,
+    "total": 17,
+    "text": "yes a plumber replaces the tank or line our crew removes the water and dries the structure"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 7,
+    "total": 7,
+    "text": "can a slow fridge leak cause mold"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 21,
+    "total": 21,
+    "text": "yes slow leaks behind fridges and under dishwashers are a common source of hidden mold because they stay wet for weeks"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 142,
+    "text": "does homeowners insurance cover a burst water heater most utah policies cover the sudden water damage but not the cost of the tank itself or damage from a leak that went on for a long time is water from a washing machine"
+   }
+  ]
+ },
+ "/swamp-cooler-leak-water-damage": {
+  "expected_tokens": 1767,
+  "actual_tokens": 1654,
+  "missing_tokens": 136,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 11,
+    "total": 11,
+    "text": "should i keep running my swamp cooler if it s leaking"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 17,
+    "total": 17,
+    "text": "no turn it off and shut its water valve running it keeps sending water into the attic"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 7,
+    "total": 7,
+    "text": "will insurance cover swamp cooler water damage"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 26,
+    "total": 27,
+    "text": "sudden overflow damage is often covered damage from a long slow leak or skipped maintenance may not be our photos and moisture logs help your adjuster decide"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 9,
+    "total": 9,
+    "text": "can i just paint over a swamp cooler stain"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 23,
+    "total": 23,
+    "text": "not until the area behind it is dry painting over wet drywall or insulation traps moisture and lets mold grow out of sight"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 8,
+    "total": 8,
+    "text": "how long does attic and ceiling drying take"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 15,
+    "total": 15,
+    "text": "usually about 3 to 5 days longer if the roof deck or joists were soaked"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 9,
+    "total": 9,
+    "text": "when should i winterize my swamp cooler in midvale"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 11,
+    "total": 11,
+    "text": "before the first hard freeze usually by early to mid october"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 58,
+    "text": "should i keep running my swamp cooler if it s leaking no turn it off and shut its water valve running it keeps sending water into the attic will insurance cover swamp cooler water damage sudden overflow damage is often c"
+   },
+   {
+    "tokens": 78,
+    "text": "your adjuster decide can i just paint over a swamp cooler stain not until the area behind it is dry painting over wet drywall or insulation traps moisture and lets mold grow out of sight how long does attic and ceiling d"
+   }
+  ]
+ },
+ "/ceiling-water-damage": {
+  "expected_tokens": 1783,
+  "actual_tokens": 1657,
+  "missing_tokens": 147,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 9,
+    "total": 9,
+    "text": "can i just paint over a ceiling water stain"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 26,
+    "total": 26,
+    "text": "only after the source is fixed and the area behind it is confirmed dry painting over wet drywall traps moisture and the stain usually comes back"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 6,
+    "total": 7,
+    "text": "is a ceiling water stain an emergency"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 27,
+    "total": 27,
+    "text": "a dry old stain is not urgent a stain that is growing soft bulging or dripping is because the ceiling may fail and mold may be starting"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 6,
+    "total": 6,
+    "text": "does insurance cover ceiling water damage"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 27,
+    "total": 27,
+    "text": "damage from a sudden event like a burst pipe or overflow is often covered a slow leak from worn grout or an old roof may not be"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 6,
+    "total": 6,
+    "text": "how long does ceiling drying take"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 14,
+    "total": 14,
+    "text": "usually about 2 to 4 days once the wet drywall and insulation are removed"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 7,
+    "total": 7,
+    "text": "why does the stain keep coming back"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 19,
+    "total": 19,
+    "text": "either the source wasn t fully fixed or wet insulation or wood above the ceiling is still holding moisture"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 41,
+    "text": "can i just paint over a ceiling water stain only after the source is fixed and the area behind it is confirmed dry painting over wet drywall traps moisture and the stain usually comes back is a ceiling water stain an"
+   },
+   {
+    "tokens": 106,
+    "text": "a dry old stain is not urgent a stain that is growing soft bulging or dripping is because the ceiling may fail and mold may be starting does insurance cover ceiling water damage damage from a sudden event like a burst pi"
+   }
+  ]
+ },
+ "/crawl-space-water-damage": {
+  "expected_tokens": 1783,
+  "actual_tokens": 1664,
+  "missing_tokens": 141,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 9,
+    "total": 9,
+    "text": "can i dry my crawl space with a fan"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 20,
+    "total": 20,
+    "text": "a fan moves air but doesn t remove moisture without dehumidifiers wet joists and soil can stay damp for weeks"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 9,
+    "total": 9,
+    "text": "is water in a crawl space covered by insurance"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 23,
+    "total": 24,
+    "text": "water from a sudden pipe burst is often covered groundwater and slow leaks often are not our photos and readings help your adjuster decide"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 7,
+    "total": 7,
+    "text": "how long does crawl space drying take"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 18,
+    "total": 18,
+    "text": "usually about 3 to 7 days depending on the size how wet the wood is and the weather"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 7,
+    "total": 7,
+    "text": "will a vapor barrier stop all water"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 19,
+    "total": 19,
+    "text": "it slows moisture rising from the ground but does not stop flooding from pipes sewer lines or surface water"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 8,
+    "total": 8,
+    "text": "do wet floor joists need to be replaced"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 21,
+    "total": 21,
+    "text": "usually not most wet floor joists can be dried and treated replacement is only needed if rot has already weakened them"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 58,
+    "text": "can i dry my crawl space with a fan a fan moves air but doesn t remove moisture without dehumidifiers wet joists and soil can stay damp for weeks is water in a crawl space covered by insurance water from a sudden pipe bu"
+   },
+   {
+    "tokens": 83,
+    "text": "your adjuster decide how long does crawl space drying take usually about 3 to 7 days depending on the size how wet the wood is and the weather will a vapor barrier stop all water it slows moisture rising from the ground "
+   }
+  ]
+ },
+ "/hardwood-floor-cabinet-drying": {
+  "expected_tokens": 1906,
+  "actual_tokens": 1791,
+  "missing_tokens": 137,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 10,
+    "total": 10,
+    "text": "how long does it take for cupped hardwood to flatten"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 16,
+    "total": 16,
+    "text": "often 1 to 3 weeks after drying as the wood settles wait before sanding or refinishing"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 9,
+    "total": 9,
+    "text": "should i sand my floor if it s cupped"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 26,
+    "total": 26,
+    "text": "not until it is fully dry and has had time to settle sanding too early is the most common reason a cupped floor ends up crowned"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 8,
+    "total": 8,
+    "text": "can a dehumidifier alone dry my hardwood floor"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 16,
+    "total": 16,
+    "text": "it helps but water trapped under the boards comes out much faster with floor drying mats"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 7,
+    "total": 7,
+    "text": "do my countertops have to come off"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 14,
+    "total": 14,
+    "text": "usually not drying through the toe kick and cabinet bases keeps countertops in place"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 7,
+    "total": 7,
+    "text": "does insurance cover hardwood floor water damage"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 24,
+    "total": 24,
+    "text": "if the water came from a sudden event like a burst line or failed appliance it is often covered slow leaks may not be"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 137,
+    "text": "how long does it take for cupped hardwood to flatten often 1 to 3 weeks after drying as the wood settles wait before sanding or refinishing should i sand my floor if it s cupped not until it is fully dry and has had time"
+   }
+  ]
+ },
+ "/condo-apartment-water-damage": {
+  "expected_tokens": 1881,
+  "actual_tokens": 1784,
+  "missing_tokens": 121,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 13,
+    "total": 13,
+    "text": "my upstairs neighbor caused the leak do i still call my own insurer"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 17,
+    "total": 17,
+    "text": "usually yes your insurer can handle your claim and pursue the other party s insurer if needed"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 9,
+    "total": 9,
+    "text": "can drying start before the hoa decides who pays"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 12,
+    "total": 12,
+    "text": "yes and it should delay makes the damage and the claim bigger"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 9,
+    "total": 9,
+    "text": "i rent is my landlord responsible for my belongings"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 14,
+    "total": 14,
+    "text": "usually not your belongings are covered by your renters policy if you have one"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 7,
+    "total": 7,
+    "text": "will you work with our property manager"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 15,
+    "total": 15,
+    "text": "yes we coordinate access share records and give the manager one summary for the building"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 8,
+    "total": 8,
+    "text": "how long does drying take in a condo"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 17,
+    "total": 17,
+    "text": "most units dry in about 3 to 5 days concrete floors in podium buildings can take longer"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 121,
+    "text": "my upstairs neighbor caused the leak do i still call my own insurer usually yes your insurer can handle your claim and pursue the other party s insurer if needed can drying start before the hoa decides who pays yes and i"
+   }
+  ]
+ },
+ "/commercial-water-damage": {
+  "expected_tokens": 1790,
+  "actual_tokens": 1709,
+  "missing_tokens": 102,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 6,
+    "total": 6,
+    "text": "can we stay open during drying"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 12,
+    "total": 12,
+    "text": "often yes containment and after hours scheduling let unaffected areas stay open"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 5,
+    "total": 5,
+    "text": "can carpet tile be saved"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 15,
+    "total": 15,
+    "text": "often with clean water extracted quickly tiles can also be lifted dried or replaced individually"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 6,
+    "total": 6,
+    "text": "do you work nights and weekends"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 11,
+    "total": 11,
+    "text": "yes calls are answered 24/7 and a crew is dispatched immediately"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 9,
+    "total": 9,
+    "text": "who pays when water comes from a neighboring suite"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 14,
+    "total": 15,
+    "text": "it depends on the lease and the policies involved clear records help sort it out"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 7,
+    "total": 7,
+    "text": "do you handle sewage in commercial buildings"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 17,
+    "total": 17,
+    "text": "yes restroom and drain backups are handled as category 3 water sewage backup cleanup sewage backup cleanup"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 75,
+    "text": "can we stay open during drying often yes containment and after hours scheduling let unaffected areas stay open can carpet tile be saved often with clean water extracted quickly tiles can also be lifted dried or replaced "
+   },
+   {
+    "tokens": 27,
+    "text": "sort it out do you handle sewage in commercial buildings yes restroom and drain backups are handled as category 3 water sewage backup cleanup sewage backup cleanup"
+   }
+  ]
+ },
+ "/storm-flood-damage": {
+  "expected_tokens": 1752,
+  "actual_tokens": 1659,
+  "missing_tokens": 115,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 5,
+    "total": 5,
+    "text": "is storm water really contaminated"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 20,
+    "total": 20,
+    "text": "yes it carries soil chemicals oil and bacteria from yards and streets so it is handled as category 3 water"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 8,
+    "total": 8,
+    "text": "can carpet be saved after a flash flood"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 12,
+    "total": 12,
+    "text": "usually not carpet and pad soaked by floodwater are removed for safety"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 8,
+    "total": 8,
+    "text": "does homeowners insurance cover flash floods in utah"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 11,
+    "total": 11,
+    "text": "usually not surface flooding is typically covered only by flood insurance"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 6,
+    "total": 6,
+    "text": "how long does flood cleanup take"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 16,
+    "total": 16,
+    "text": "removal and cleaning usually take 1 to 3 days and drying about 3 to 5 more"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 7,
+    "total": 7,
+    "text": "should i start cleaning up mud myself"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 22,
+    "total": 22,
+    "text": "if it s safe removing loose mud early helps wear boots and gloves and leave walls and flooring decisions to the crew"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 115,
+    "text": "is storm water really contaminated yes it carries soil chemicals oil and bacteria from yards and streets so it is handled as category 3 water can carpet be saved after a flash flood usually not carpet and pad soaked by f"
+   }
+  ]
+ },
+ "/mold-remediation": {
+  "expected_tokens": 1855,
+  "actual_tokens": 1739,
+  "missing_tokens": 136,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 4,
+    "total": 4,
+    "text": "is black mold dangerous"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 27,
+    "total": 27,
+    "text": "any mold can cause problems for sensitive people whatever its color color alone doesn t tell you the type large or hidden growth should be removed properly"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 5,
+    "total": 5,
+    "text": "can i remove mold myself"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 26,
+    "total": 26,
+    "text": "very small spots on hard surfaces can be cleaned with gloves and a mask anything larger hidden in walls or recurring needs containment and proper removal"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 6,
+    "total": 6,
+    "text": "will mold come back after remediation"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 14,
+    "total": 14,
+    "text": "not if the moisture is fixed mold returns when the water source isn t"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 7,
+    "total": 7,
+    "text": "do i need to leave during remediation"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 18,
+    "total": 18,
+    "text": "usually not containment keeps the rest of the home separate though sensitive people may prefer to stay elsewhere"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 4,
+    "total": 4,
+    "text": "does insurance cover mold"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 25,
+    "total": 25,
+    "text": "mold from a sudden covered water event may be covered often up to a limit mold from long term leaks or humidity usually isn t"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 136,
+    "text": "is black mold dangerous any mold can cause problems for sensitive people whatever its color color alone doesn t tell you the type large or hidden growth should be removed properly can i remove mold myself very small spot"
+   }
+  ]
+ },
+ "/water-leak-detection": {
+  "expected_tokens": 1874,
+  "actual_tokens": 1776,
+  "missing_tokens": 120,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 6,
+    "total": 6,
+    "text": "can thermal imaging see through walls"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 22,
+    "total": 22,
+    "text": "not exactly it shows surface temperature differences that point to wet areas behind the surface which are then confirmed with moisture meters"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 6,
+    "total": 6,
+    "text": "will you need to cut holes"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 18,
+    "total": 18,
+    "text": "often not when an opening is needed the map keeps it as small and as targeted as possible"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 6,
+    "total": 6,
+    "text": "do you fix the leaking pipe"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 15,
+    "total": 15,
+    "text": "a plumber repairs the pipe we find the leak document it and dry the damage"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 6,
+    "total": 6,
+    "text": "how long does leak detection take"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 17,
+    "total": 17,
+    "text": "most homes take about 1 to 3 hours depending on size and how many areas are checked"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 6,
+    "total": 7,
+    "text": "can moisture mapping help my insurance claim"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 18,
+    "total": 18,
+    "text": "yes it shows where water went and how far it spread which helps your adjuster set the scope"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 99,
+    "text": "can thermal imaging see through walls not exactly it shows surface temperature differences that point to wet areas behind the surface which are then confirmed with moisture meters will you need to cut holes often not whe"
+   },
+   {
+    "tokens": 21,
+    "text": "my insurance claim yes it shows where water went and how far it spread which helps your adjuster set the scope"
+   }
+  ]
+ },
+ "/water-damage-repair": {
+  "expected_tokens": 1695,
+  "actual_tokens": 1575,
+  "missing_tokens": 142,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 6,
+    "total": 6,
+    "text": "how long does the rebuild take"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 25,
+    "total": 25,
+    "text": "small repairs often take a few days a full basement or multi room rebuild can take 2 to 4 weeks depending on materials and inspections"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 8,
+    "total": 8,
+    "text": "can you match my existing texture and paint"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 23,
+    "total": 23,
+    "text": "usually yes texture is matched by hand and paint is matched from a sample painting to the nearest corner helps the repair disappear"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 12,
+    "total": 12,
+    "text": "do i have to use the same company for drying and repair"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 16,
+    "total": 16,
+    "text": "no but using one crew avoids gaps keeps the documentation consistent and usually shortens the timeline"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 6,
+    "total": 6,
+    "text": "what if my flooring is discontinued"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 19,
+    "total": 19,
+    "text": "we ll show you the closest options and in some cases replacing the whole room keeps the floor consistent"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 10,
+    "total": 10,
+    "text": "will the repaired area be more likely to flood again"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 17,
+    "total": 17,
+    "text": "not if the cause was fixed for basements prone to water we can suggest moisture resistant materials"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 142,
+    "text": "how long does the rebuild take small repairs often take a few days a full basement or multi room rebuild can take 2 to 4 weeks depending on materials and inspections can you match my existing texture and paint usually ye"
+   }
+  ]
+ },
+ "/locations/cottonwood-heights-ut": {
+  "expected_tokens": 1905,
+  "actual_tokens": 1787,
+  "missing_tokens": 143,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 9,
+    "total": 9,
+    "text": "does homeowners insurance cover groundwater seepage in cottonwood heights"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 21,
+    "total": 22,
+    "text": "often not seepage and surface water are commonly excluded while sudden plumbing failures are usually covered our records help your adjuster decide"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 10,
+    "total": 10,
+    "text": "how do i stop ice dams on a bench home"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 27,
+    "total": 27,
+    "text": "keep the attic cold with more insulation and air sealing keep gutters clear and remove snow from the roof edge from the ground with a roof rake"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 7,
+    "total": 7,
+    "text": "how fast can a crew reach 84121"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 27,
+    "total": 27,
+    "text": "a crew is dispatched immediately after your call travel time depends on where you are and road conditions on fort union blvd i 215 and wasatch blvd"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 7,
+    "total": 7,
+    "text": "why does my basement flood every spring"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 14,
+    "total": 14,
+    "text": "usually groundwater from snowmelt drainage outside sealing and sometimes a sump system can help"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 9,
+    "total": 9,
+    "text": "do you serve condos and businesses in cottonwood heights"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 12,
+    "total": 12,
+    "text": "yes we handle condos townhomes offices and shops across 84121 and 84093"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 27,
+    "text": "does homeowners insurance cover groundwater seepage in cottonwood heights often not seepage and surface water are commonly excluded while sudden plumbing failures are usually covered our records"
+   },
+   {
+    "tokens": 116,
+    "text": "your adjuster decide how do i stop ice dams on a bench home keep the attic cold with more insulation and air sealing keep gutters clear and remove snow from the roof edge from the ground with a roof rake how fast can a c"
+   }
+  ]
+ },
+ "/locations/south-salt-lake-ut": {
+  "expected_tokens": 1998,
+  "actual_tokens": 1901,
+  "missing_tokens": 124,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 8,
+    "total": 8,
+    "text": "does my landlord pay for my damaged belongings"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 16,
+    "total": 16,
+    "text": "usually not your own renters policy covers your belongings the landlord s policy covers the building"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 13,
+    "total": 13,
+    "text": "who do i call first for a sewer backup in south salt lake"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 21,
+    "total": 21,
+    "text": "stop using water then call your property manager or sewer provider to check the main line and call a cleanup crew"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 7,
+    "total": 7,
+    "text": "can you work in occupied apartment buildings"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 13,
+    "total": 13,
+    "text": "yes we contain the work area and coordinate with the manager and tenants"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 5,
+    "total": 5,
+    "text": "do you handle warehouse floods"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 11,
+    "total": 11,
+    "text": "yes including large floor extraction stock protection and after hours drying"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 7,
+    "total": 7,
+    "text": "how fast can a crew reach 84115"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 23,
+    "total": 23,
+    "text": "a crew is dispatched immediately after your call travel time depends on location and traffic on i 15 state street and 3300 south"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 124,
+    "text": "does my landlord pay for my damaged belongings usually not your own renters policy covers your belongings the landlord s policy covers the building who do i call first for a sewer backup in south salt lake stop using wat"
+   }
+  ]
+ },
+ "/locations/magna-ut": {
+  "expected_tokens": 1959,
+  "actual_tokens": 1860,
+  "missing_tokens": 124,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 10,
+    "total": 10,
+    "text": "why do sewer lines back up in older magna homes"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 20,
+    "total": 20,
+    "text": "clay and cast iron lines crack and collect tree roots over the years which narrows the pipe until it blocks"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 10,
+    "total": 10,
+    "text": "how do i protect pipes in a magna crawl space"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 17,
+    "total": 17,
+    "text": "insulate exposed pipes close crawl space vents in winter and keep the house heated during cold snaps"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 7,
+    "total": 7,
+    "text": "does a crew serve 84044 at night"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 11,
+    "total": 11,
+    "text": "yes calls are answered 24/7 and a crew is dispatched immediately"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 9,
+    "total": 9,
+    "text": "will insurance cover my older home s water damage"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 16,
+    "total": 16,
+    "text": "sudden events like burst pipes are usually covered slow leaks wear and groundwater often are not"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 9,
+    "total": 9,
+    "text": "can old plaster walls be dried instead of replaced"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 15,
+    "total": 15,
+    "text": "often yes if drying starts quickly plaster that separates from the lath may need repair"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 124,
+    "text": "why do sewer lines back up in older magna homes clay and cast iron lines crack and collect tree roots over the years which narrows the pipe until it blocks how do i protect pipes in a magna crawl space insulate exposed p"
+   }
+  ]
+ },
+ "/midvale-water-sewer-emergency-contacts": {
+  "expected_tokens": 1437,
+  "actual_tokens": 1286,
+  "missing_tokens": 170,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 11,
+    "total": 11,
+    "text": "how do i know which sewer district serves my midvale home"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 22,
+    "total": 22,
+    "text": "look at the sewer charge on your utility bill or property tax notice or call midvale city public works with your address"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 8,
+    "total": 8,
+    "text": "who pays for a sewer backup in midvale"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 28,
+    "total": 28,
+    "text": "if the public main is blocked the provider clears it damage inside your home is usually handled by your own insurance often only with a sewer backup endorsement"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 9,
+    "total": 9,
+    "text": "is a water leak at the meter my responsibility"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 28,
+    "total": 28,
+    "text": "leaks on the city side are usually the city s leaks on your side of the meter are yours call midvale city public works if you re unsure"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 12,
+    "total": 12,
+    "text": "what number do i call for a water main break in midvale"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 8,
+    "total": 8,
+    "text": "midvale city public works at 801 567 7235"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 10,
+    "total": 10,
+    "text": "should i call a plumber or a restoration crew first"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 34,
+    "total": 34,
+    "text": "if water or sewage is still flowing stop it first shut off the main and call your provider or a plumber then call a restoration crew to remove the water and dry"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 170,
+    "text": "how do i know which sewer district serves my midvale home look at the sewer charge on your utility bill or property tax notice or call midvale city public works with your address who pays for a sewer backup in midvale if"
+   }
+  ]
+ },
+ "/privacy-policy": {
+  "expected_tokens": 508,
+  "actual_tokens": 528,
+  "missing_tokens": 0,
+  "seg_missing": [],
+  "missing_runs_3plus": []
+ },
+ "/terms-of-use": {
+  "expected_tokens": 455,
+  "actual_tokens": 476,
+  "missing_tokens": 0,
+  "seg_missing": [],
+  "missing_runs_3plus": []
+ },
+ "/disclaimer": {
+  "expected_tokens": 293,
+  "actual_tokens": 312,
+  "missing_tokens": 0,
+  "seg_missing": [],
+  "missing_runs_3plus": []
+ },
+ "/resources/frozen-pipes-midvale": {
+  "expected_tokens": 1837,
+  "actual_tokens": 1697,
+  "missing_tokens": 167,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 9,
+    "total": 9,
+    "text": "should i leave faucets dripping every night in winter"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 25,
+    "total": 25,
+    "text": "only during the coldest stretches and only on faucets connected to pipes along outside walls or in cold spaces a slow drip keeps water moving"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 4,
+    "total": 4,
+    "text": "can pex pipes freeze"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 17,
+    "total": 17,
+    "text": "yes pex flexes more than copper but fittings and connections can still split when water inside freezes"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 9,
+    "total": 9,
+    "text": "how do i find my main water shut off"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 31,
+    "total": 31,
+    "text": "look where the water line enters the house usually in the basement or utility room near the water heater in homes without basements check a crawl space garage o"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 9,
+    "total": 9,
+    "text": "what if a pipe bursts while i m away"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 32,
+    "total": 32,
+    "text": "that s why keeping the heat on and having someone check the house matters water leak alarms near the water heater and in the basement can also alert you on your"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 10,
+    "total": 11,
+    "text": "is a frozen pipe an emergency if it hasn t burst"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 21,
+    "total": 21,
+    "text": "treat it as one shut off the water to that line if you can and thaw it carefully before it splits"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 141,
+    "text": "should i leave faucets dripping every night in winter only during the coldest stretches and only on faucets connected to pipes along outside walls or in cold spaces a slow drip keeps water moving can pex pipes freeze yes"
+   },
+   {
+    "tokens": 26,
+    "text": "if it hasn t burst treat it as one shut off the water to that line if you can and thaw it carefully before it splits"
+   }
+  ]
+ },
+ "/resources/winterize-swamp-cooler-utah": {
+  "expected_tokens": 1663,
+  "actual_tokens": 1544,
+  "missing_tokens": 139,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 10,
+    "total": 10,
+    "text": "do i need to winterize a swamp cooler every year"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 14,
+    "total": 14,
+    "text": "yes water left in the system will freeze during a salt lake valley winter"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 12,
+    "total": 12,
+    "text": "can i leave water in the line if the valve is off"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 19,
+    "total": 19,
+    "text": "no water still in the line between the valve and the cooler can freeze and split it drain it"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 6,
+    "total": 6,
+    "text": "is a cooler cover really necessary"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 21,
+    "total": 21,
+    "text": "it keeps snow rain and wind out of the cooler and duct which cuts down on leaks and drafts all winter"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 10,
+    "total": 10,
+    "text": "what if i already see a stain on my ceiling"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 20,
+    "total": 20,
+    "text": "shut off the cooler s water and power then have the ceiling and attic checked for wet insulation and mold"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 6,
+    "total": 6,
+    "text": "can i winterize a cooler myself"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 21,
+    "total": 21,
+    "text": "many homeowners do but roof work can be dangerous if you re not comfortable on the roof hire an hvac company"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 139,
+    "text": "do i need to winterize a swamp cooler every year yes water left in the system will freeze during a salt lake valley winter can i leave water in the line if the valve is off no water still in the line between the valve an"
+   }
+  ]
+ },
+ "/resources/upstairs-unit-leak-who-pays-utah": {
+  "expected_tokens": 1699,
+  "actual_tokens": 1579,
+  "missing_tokens": 145,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 14,
+    "total": 14,
+    "text": "should i call my own insurance company if the leak wasn t my fault"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 17,
+    "total": 17,
+    "text": "usually yes your insurer can handle your claim and seek repayment from the responsible party s insurer"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 9,
+    "total": 9,
+    "text": "can drying start before the hoa decides who pays"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 15,
+    "total": 15,
+    "text": "yes and it should waiting only makes the damage and the claim larger for everyone"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 12,
+    "total": 12,
+    "text": "my landlord says my belongings aren t their problem is that right"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 17,
+    "total": 17,
+    "text": "usually yes a renters policy covers a tenant s belongings the landlord s policy covers the building"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 5,
+    "total": 5,
+    "text": "what is loss assessment coverage"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 24,
+    "total": 25,
+    "text": "it s part of many ho 6 policies and can help pay your share of an hoa deductible or special assessment after a covered loss"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 14,
+    "total": 14,
+    "text": "how long does it take to dry a condo after a leak from above"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 18,
+    "total": 18,
+    "text": "most units dry in about 3 to 5 days ceilings wall cavities and concrete floors can take longer"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 99,
+    "text": "should i call my own insurance company if the leak wasn t my fault usually yes your insurer can handle your claim and seek repayment from the responsible party s insurer can drying start before the hoa decides who pays y"
+   },
+   {
+    "tokens": 46,
+    "text": "pay your share of an hoa deductible or special assessment after a covered loss how long does it take to dry a condo after a leak from above most units dry in about 3 to 5 days ceilings wall cavities and concrete floors c"
+   }
+  ]
+ },
+ "/resources/can-mold-grow-in-utah": {
+  "expected_tokens": 1617,
+  "actual_tokens": 1496,
+  "missing_tokens": 147,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 8,
+    "total": 8,
+    "text": "is black mold more dangerous than other mold"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 27,
+    "total": 27,
+    "text": "color doesn t tell you the type and any mold can cause problems for sensitive people large or hidden growth should be removed properly whatever its color"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 9,
+    "total": 9,
+    "text": "can i just run a dehumidifier after a leak"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 22,
+    "total": 22,
+    "text": "a dehumidifier helps but water trapped in walls pad and subfloors needs air movement and sometimes opening up to dry in time"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 7,
+    "total": 7,
+    "text": "will mold die once the area dries"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 18,
+    "total": 18,
+    "text": "it stops growing but dead mold can still cause odors and irritation so it should still be removed"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 9,
+    "total": 9,
+    "text": "how do i know if my walls are dry"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 17,
+    "total": 17,
+    "text": "moisture readings in the wet area should match readings in a dry area of the same home"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 5,
+    "total": 5,
+    "text": "does homeowners insurance cover mold"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 25,
+    "total": 25,
+    "text": "mold from a sudden covered water event may be covered often up to a limit mold from long term leaks or humidity usually isn t"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 147,
+    "text": "is black mold more dangerous than other mold color doesn t tell you the type and any mold can cause problems for sensitive people large or hidden growth should be removed properly whatever its color can i just run a dehu"
+   }
+  ]
+ },
+ "/resources/basement-flooding-spring-snowmelt-utah": {
+  "expected_tokens": 1628,
+  "actual_tokens": 1501,
+  "missing_tokens": 151,
+  "seg_missing": [
+   {
+    "seg": "faq0:q",
+    "missing": 7,
+    "total": 7,
+    "text": "when is spring runoff season in midvale"
+   },
+   {
+    "seg": "faq0:a",
+    "missing": 15,
+    "total": 15,
+    "text": "usually from about march through june peaking when warm weather melts high elevation snow quickly"
+   },
+   {
+    "seg": "faq1:q",
+    "missing": 7,
+    "total": 7,
+    "text": "will the water stop on its own"
+   },
+   {
+    "seg": "faq1:a",
+    "missing": 22,
+    "total": 22,
+    "text": "usually once runoff slows and the soil drains but the water already inside needs to be removed and dried to prevent mold"
+   },
+   {
+    "seg": "faq2:q",
+    "missing": 10,
+    "total": 10,
+    "text": "can i seal the floor from inside to stop it"
+   },
+   {
+    "seg": "faq2:a",
+    "missing": 26,
+    "total": 26,
+    "text": "sealing cracks helps with small seepage but strong groundwater pressure often finds another way in drainage outside and a sump system work better for serious se"
+   },
+   {
+    "seg": "faq3:q",
+    "missing": 6,
+    "total": 6,
+    "text": "should i pull up my carpet"
+   },
+   {
+    "seg": "faq3:a",
+    "missing": 28,
+    "total": 28,
+    "text": "leave wall to wall carpet down until a crew can lift and dry it properly pulling it yourself can tear the backing and make it harder to save"
+   },
+   {
+    "seg": "faq4:q",
+    "missing": 6,
+    "total": 6,
+    "text": "why does it happen every year"
+   },
+   {
+    "seg": "faq4:a",
+    "missing": 24,
+    "total": 24,
+    "text": "the soil and drainage around your home haven t changed fixing grading downspouts and window wells or adding a sump system breaks the cycle"
+   }
+  ],
+  "missing_runs_3plus": [
+   {
+    "tokens": 151,
+    "text": "when is spring runoff season in midvale usually from about march through june peaking when warm weather melts high elevation snow quickly will the water stop on its own usually once runoff slows and the soil drains but t"
+   }
+  ]
+ }
+}

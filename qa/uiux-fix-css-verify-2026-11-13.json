@@ -1,0 +1,4335 @@
+{
+ "/": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 394.6,
+    "bottom": 442.6,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 378.6,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 394.6,
+    "bottom": 442.6,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 378.6,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 479.5,
+    "bottom": 535.5,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 463.5,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 503.1,
+    "bottom": 559.1,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 559.1,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Emergency Water Extraction",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   },
+   "cards": {
+    "services": {
+     "cols": 4,
+     "nCards": 16,
+     "rows": [
+      {
+       "top": 1416,
+       "n": 4,
+       "heights": [
+        620.8
+       ],
+       "widths": [
+        247
+       ],
+       "imgHeights": [
+        137.8
+       ]
+      },
+      {
+       "top": 2065,
+       "n": 4,
+       "heights": [
+        558.5
+       ],
+       "widths": [
+        247
+       ],
+       "imgHeights": [
+        137.8
+       ]
+      },
+      {
+       "top": 2652,
+       "n": 4,
+       "heights": [
+        618.5
+       ],
+       "widths": [
+        247
+       ],
+       "imgHeights": [
+        137.8
+       ]
+      },
+      {
+       "top": 3298,
+       "n": 4,
+       "heights": [
+        526.2
+       ],
+       "widths": [
+        247
+       ],
+       "imgHeights": [
+        137.8
+       ]
+      }
+     ]
+    },
+    "areas": {
+     "cols": 3,
+     "nCards": 3,
+     "rows": [
+      {
+       "top": 8630,
+       "n": 3,
+       "heights": [
+        445.1
+       ],
+       "widths": [
+        338.7
+       ],
+       "imgHeights": [
+        189.4
+       ]
+      }
+     ]
+    }
+   }
+  }
+ },
+ "/about": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 407.4,
+    "bottom": 455.4,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 391.4,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 407.4,
+    "bottom": 455.4,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 391.4,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 595.3,
+    "bottom": 651.3,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 579.3,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Emergency Water Extraction",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/contact": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 407.4,
+    "bottom": 455.4,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 391.4,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 407.4,
+    "bottom": 455.4,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 391.4,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 564.7,
+    "bottom": 620.7,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 548.7,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 487.1,
+    "bottom": 543.1,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 543.1,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 7.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/emergency-water-extraction": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 595.3,
+    "bottom": 651.3,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 579.3,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 551.7,
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Hardwood Floor & Cabinet Drying",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/basement-flooding-cleanup": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 551.7,
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "1. Groundwater Seepage",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/window-well-flooding": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 595.3,
+    "bottom": 651.3,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 579.3,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Window Well Drain Clogged",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/burst-pipe-water-damage": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Water Leak Detection",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/sewage-backup-cleanup": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 595.3,
+    "bottom": 651.3,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 579.3,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Water Damage Repair",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/water-heater-leak-cleanup": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Water Heaters",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/swamp-cooler-leak-water-damage": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Ceiling Water Damage",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/ceiling-water-damage": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Upstairs Bathrooms",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/crawl-space-water-damage": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Supply Line and Drain Leaks",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/hardwood-floor-cabinet-drying": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Crawl Space Water Damage",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/condo-apartment-water-damage": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 6,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 506.2,
+    "bottom": 554.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 490.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 6,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 506.2,
+    "bottom": 554.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 490.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 710.8,
+    "bottom": 766.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 694.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 3,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 606.7,
+    "bottom": 662.7,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 662.7,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Sewage Backup Cleanup",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/commercial-water-damage": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 551.7,
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Fort Union Blvd and Union Park",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/storm-flood-damage": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 551.7,
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Window Wells",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/mold-remediation": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 393.7,
+    "bottom": 441.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 377.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 393.7,
+    "bottom": 441.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 377.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 595.3,
+    "bottom": 651.3,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 579.3,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Finished Basements",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/water-leak-detection": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 680.3,
+    "bottom": 736.3,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 664.3,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Burst Pipe Water Damage",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/water-damage-repair": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Hardwood Floor & Cabinet Drying",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/locations/cottonwood-heights-ut": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 668.3,
+    "bottom": 724.3,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 652.3,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 551.7,
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Winter: Frozen Pipes and Ice Dams",
+      "size": 24,
+      "ratio": 8.96,
+      "min": 3
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/locations/south-salt-lake-ut": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 710.8,
+    "bottom": 766.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 694.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Sewage Backup Cleanup",
+      "size": 19,
+      "ratio": 7.68,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/locations/magna-ut": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 551.7,
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 607.7,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Basement Flooding Cleanup",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/midvale-water-sewer-emergency-contacts": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 393.7,
+    "bottom": 441.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 377.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 393.7,
+    "bottom": 441.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 377.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 3,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 595.3,
+    "bottom": 651.3,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 579.3,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 487.1,
+    "bottom": 543.1,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 543.1,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Sewage Backup Cleanup",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/privacy-policy": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 1,
+   "h2Size": 28,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 318.7,
+    "bottom": 366.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 302.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 1,
+   "h2Size": 28,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 318.7,
+    "bottom": 366.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 302.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 1,
+   "h2Size": 28,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 443.1,
+    "bottom": 499.1,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 427.1,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 1,
+   "h2Size": 32,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 367.5,
+    "bottom": 423.5,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 423.5,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 10.03,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/terms-of-use": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 1,
+   "h2Size": 28,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 318.7,
+    "bottom": 366.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 302.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 1,
+   "h2Size": 28,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 318.7,
+    "bottom": 366.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 302.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 1,
+   "h2Size": 28,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 443.1,
+    "bottom": 499.1,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 427.1,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 1,
+   "h2Size": 32,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 367.5,
+    "bottom": 423.5,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 423.5,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 10.03,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/disclaimer": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 1,
+   "h2Size": 28,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 318.7,
+    "bottom": 366.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 302.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 1,
+   "h2Size": 28,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 318.7,
+    "bottom": 366.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 302.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 1,
+   "h2Size": 28,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 443.1,
+    "bottom": 499.1,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 427.1,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 1,
+   "h2Size": 32,
+   "h3Size": null,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 367.5,
+    "bottom": 423.5,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 423.5,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 10.03,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/resources/frozen-pipes-midvale": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 6,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 482.4,
+    "bottom": 530.4,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 466.4,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 6,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 482.4,
+    "bottom": 530.4,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 466.4,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 607.2,
+    "bottom": 663.2,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 591.2,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Burst Pipe Water Damage",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/resources/winterize-swamp-cooler-utah": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 487.1,
+    "bottom": 543.1,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 543.1,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Swamp Cooler Leak Water Damage",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/resources/upstairs-unit-leak-who-pays-utah": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 680.3,
+    "bottom": 736.3,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 664.3,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 519.4,
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 575.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Condo & Apartment Water Damage",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/resources/can-mold-grow-in-utah": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 431.2,
+    "bottom": 479.2,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 415.2,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 4,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 637.8,
+    "bottom": 693.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 621.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 2,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 487.1,
+    "bottom": 543.1,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 543.1,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Basement Flooding Cleanup",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "/resources/basement-flooding-spring-snowmelt-utah": {
+  "320x568": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "320x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 30,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 468.7,
+    "bottom": 516.7,
+    "h": 48,
+    "w": 272,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 452.7,
+    "h": 48,
+    "w": 272
+   }
+  },
+  "390x844": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 34,
+   "h1Lines": 5,
+   "h2Size": 28,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 710.8,
+    "bottom": 766.8,
+    "h": 56,
+    "w": 342,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 694.8,
+    "h": 56,
+    "w": 342
+   }
+  },
+  "1440": {
+   "overflow": 0,
+   "h1Count": 1,
+   "h1Size": 44,
+   "h1Lines": 3,
+   "h2Size": 32,
+   "h3Size": 24,
+   "btn2": {
+    "text": "Request Emergency Help",
+    "top": 574.4,
+    "bottom": 630.4,
+    "h": 56,
+    "w": 322,
+    "visible": true
+   },
+   "btn1": {
+    "bottom": 630.4,
+    "h": 56,
+    "w": 322
+   },
+   "contrast": {
+    "worst5": [
+     {
+      "text": "Midvale, UT",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 18,
+      "ratio": 5.65,
+      "min": 4.5
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "(385) 337-3560",
+      "size": 19,
+      "ratio": 5.65,
+      "min": 3
+     },
+     {
+      "text": "Window Well Flooding",
+      "size": 19,
+      "ratio": 8.96,
+      "min": 4.5
+     }
+    ],
+    "belowAA": []
+   }
+  }
+ },
+ "_tables390": {
+  "/": [
+   {
+    "i": 0,
+    "scrollW": 396,
+    "clientW": 342,
+    "maxScroll": 54,
+    "tableW": 396,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/about": [
+   {
+    "i": 0,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/contact": [
+   {
+    "i": 0,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/emergency-water-extraction": [
+   {
+    "i": 0,
+    "scrollW": 431,
+    "clientW": 342,
+    "maxScroll": 89,
+    "tableW": 431,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 393,
+    "clientW": 342,
+    "maxScroll": 51,
+    "tableW": 393,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/basement-flooding-cleanup": [
+   {
+    "i": 0,
+    "scrollW": 405,
+    "clientW": 342,
+    "maxScroll": 63,
+    "tableW": 405,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/window-well-flooding": [
+   {
+    "i": 0,
+    "scrollW": 381,
+    "clientW": 342,
+    "maxScroll": 39,
+    "tableW": 381,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/burst-pipe-water-damage": [
+   {
+    "i": 0,
+    "scrollW": 405,
+    "clientW": 342,
+    "maxScroll": 63,
+    "tableW": 405,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 380,
+    "clientW": 342,
+    "maxScroll": 38,
+    "tableW": 380,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/sewage-backup-cleanup": [
+   {
+    "i": 0,
+    "scrollW": 368,
+    "clientW": 342,
+    "maxScroll": 26,
+    "tableW": 368,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/water-heater-leak-cleanup": [
+   {
+    "i": 0,
+    "scrollW": 400,
+    "clientW": 342,
+    "maxScroll": 58,
+    "tableW": 400,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/swamp-cooler-leak-water-damage": [
+   {
+    "i": 0,
+    "scrollW": 345,
+    "clientW": 342,
+    "maxScroll": 3,
+    "tableW": 345,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 388,
+    "clientW": 342,
+    "maxScroll": 46,
+    "tableW": 388,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 2,
+    "scrollW": 384,
+    "clientW": 342,
+    "maxScroll": 42,
+    "tableW": 384,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/ceiling-water-damage": [
+   {
+    "i": 0,
+    "scrollW": 399,
+    "clientW": 342,
+    "maxScroll": 57,
+    "tableW": 399,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/crawl-space-water-damage": [
+   {
+    "i": 0,
+    "scrollW": 386,
+    "clientW": 342,
+    "maxScroll": 44,
+    "tableW": 386,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/hardwood-floor-cabinet-drying": [
+   {
+    "i": 0,
+    "scrollW": 385,
+    "clientW": 342,
+    "maxScroll": 43,
+    "tableW": 385,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 410,
+    "clientW": 342,
+    "maxScroll": 68,
+    "tableW": 410,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/condo-apartment-water-damage": [
+   {
+    "i": 0,
+    "scrollW": 419,
+    "clientW": 342,
+    "maxScroll": 77,
+    "tableW": 419,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 390,
+    "clientW": 342,
+    "maxScroll": 48,
+    "tableW": 390,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/commercial-water-damage": [
+   {
+    "i": 0,
+    "scrollW": 452,
+    "clientW": 342,
+    "maxScroll": 110,
+    "tableW": 452,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/storm-flood-damage": [
+   {
+    "i": 0,
+    "scrollW": 457,
+    "clientW": 342,
+    "maxScroll": 115,
+    "tableW": 457,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 404,
+    "clientW": 342,
+    "maxScroll": 62,
+    "tableW": 404,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/mold-remediation": [
+   {
+    "i": 0,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/water-leak-detection": [
+   {
+    "i": 0,
+    "scrollW": 427,
+    "clientW": 342,
+    "maxScroll": 85,
+    "tableW": 427,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/water-damage-repair": [
+   {
+    "i": 0,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 412,
+    "clientW": 342,
+    "maxScroll": 70,
+    "tableW": 412,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/locations/cottonwood-heights-ut": [
+   {
+    "i": 0,
+    "scrollW": 381,
+    "clientW": 342,
+    "maxScroll": 39,
+    "tableW": 381,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/locations/south-salt-lake-ut": [
+   {
+    "i": 0,
+    "scrollW": 404,
+    "clientW": 342,
+    "maxScroll": 62,
+    "tableW": 404,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/locations/magna-ut": [
+   {
+    "i": 0,
+    "scrollW": 630,
+    "clientW": 342,
+    "maxScroll": 288,
+    "tableW": 630,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/midvale-water-sewer-emergency-contacts": [
+   {
+    "i": 0,
+    "scrollW": 373,
+    "clientW": 342,
+    "maxScroll": 31,
+    "tableW": 373,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/privacy-policy": [],
+  "/terms-of-use": [],
+  "/disclaimer": [],
+  "/resources/frozen-pipes-midvale": [
+   {
+    "i": 0,
+    "scrollW": 423,
+    "clientW": 342,
+    "maxScroll": 81,
+    "tableW": 423,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/resources/winterize-swamp-cooler-utah": [
+   {
+    "i": 0,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/resources/upstairs-unit-leak-who-pays-utah": [
+   {
+    "i": 0,
+    "scrollW": 401,
+    "clientW": 342,
+    "maxScroll": 59,
+    "tableW": 401,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/resources/can-mold-grow-in-utah": [
+   {
+    "i": 0,
+    "scrollW": 370,
+    "clientW": 342,
+    "maxScroll": 28,
+    "tableW": 370,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 2,
+    "scrollW": 421,
+    "clientW": 342,
+    "maxScroll": 79,
+    "tableW": 421,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ],
+  "/resources/basement-flooding-spring-snowmelt-utah": [
+   {
+    "i": 0,
+    "scrollW": 430,
+    "clientW": 342,
+    "maxScroll": 88,
+    "tableW": 430,
+    "afterOpacity": "1",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   },
+   {
+    "i": 1,
+    "scrollW": 342,
+    "clientW": 342,
+    "maxScroll": 0,
+    "tableW": 342,
+    "afterOpacity": "0",
+    "afterDisplay": "block",
+    "afterBg": "linear-gradient(270deg, rgba(14, 59, 56, 0.28) 0px, rgba(14,"
+   }
+  ]
+ },
+ "_magnaFade": {
+  "scrollW": 630,
+  "clientW": 342,
+  "max": 288,
+  "opacity0": "1",
+  "opacityMid": "1",
+  "opacityMax": "0",
+  "scrollLeftMax": 288
+ },
+ "_screenshots": {
+  "error": "BrowserContext.new_page: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> /home/hatch/.cache/ms-playwright/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-time"
+ }
+}

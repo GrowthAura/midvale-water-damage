@@ -1,0 +1,5972 @@
+{
+ "identity": {
+  "h1": "24/7 Water Damage Restoration in Midvale, UT 84047",
+  "phone": true,
+  "title": "Water Damage Restoration Midvale UT | 24/7 Emergency Crew Dispatched Now"
+ },
+ "pages": [
+  {
+   "route": "/",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/home.webp",
+     "alt": "Restoration crew extracting standing water from a flooded Mi",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x645"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/emergency-water-extraction.webp",
+     "alt": "Submersible pump and extraction hose in standing water on a ",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/basement-flooding-cleanup.webp",
+     "alt": "Wet carpet and pad being pulled back in a flooded finished b",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/window-well-flooding.webp",
+     "alt": "Basement window well half full of snowmelt water",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/burst-pipe-water-damage.webp",
+     "alt": "Burst frozen pipe joint with ice and water spraying in a dar",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/sewage-backup-cleanup.webp",
+     "alt": "Floor drain with sewage backup water in a dark basement bath",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/water-heater-leak-cleanup.webp",
+     "alt": "Corroded water heater valve dripping onto a wet concrete flo",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/swamp-cooler-leak-water-damage.webp",
+     "alt": "Rooftop swamp cooler drain pan overflowing onto a wet roof d",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/ceiling-water-damage.webp",
+     "alt": "Brown water stain spreading across a ceiling with a drip for",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/crawl-space-water-damage.webp",
+     "alt": "Wet floor joists and standing water in a dark dirt crawl spa",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/hardwood-floor-cabinet-drying.webp",
+     "alt": "Cupped hardwood floor planks with a drying mat and air mover",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/condo-apartment-water-damage.webp",
+     "alt": "Water dripping from a ceiling light fixture in a dark apartm",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/commercial-water-damage.webp",
+     "alt": "Air movers and a dehumidifier drying wet commercial carpet t",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/storm-flood-damage.webp",
+     "alt": "Dirty storm runoff water flooding a garage floor with a sump",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/mold-remediation.webp",
+     "alt": "HEPA air scrubber with ducting beside plastic containment sh",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/water-leak-detection.webp",
+     "alt": "Moisture meter pressed against a wet wall beside a thermal c",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/water-damage-repair.webp",
+     "alt": "Fresh drywall texture and new white trim being finished in a",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/cottonwood-heights-ut.webp",
+     "alt": "Bench homes below snowy Wasatch canyons in Cottonwood Height",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/south-salt-lake-ut.webp",
+     "alt": "Apartment blocks and warehouse buildings in South Salt Lake,",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/magna-ut.webp",
+     "alt": "Older brick homes and storefronts on historic Main Street in",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "337x189"
+    }
+   ],
+   "img_total_render": 20,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/cards/water-damage-repair.webp",
+     "alt": "Fresh drywall texture and new white trim being finished in a",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/cottonwood-heights-ut.webp",
+     "alt": "Bench homes below snowy Wasatch canyons in Cottonwood Height",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/south-salt-lake-ut.webp",
+     "alt": "Apartment blocks and warehouse buildings in South Salt Lake,",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "337x189"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/magna-ut.webp",
+     "alt": "Older brick homes and storefronts on historic Main Street in",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "337x189"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 559.1,
+    "top": 503.1,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 535.5,
+    "top": 479.5,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/home.webp",
+     "alt": "Restoration crew extracting standing water from a flooded Mi",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1072"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/emergency-water-extraction.webp",
+     "alt": "Submersible pump and extraction hose in standing water on a ",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/basement-flooding-cleanup.webp",
+     "alt": "Wet carpet and pad being pulled back in a flooded finished b",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/window-well-flooding.webp",
+     "alt": "Basement window well half full of snowmelt water",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/burst-pipe-water-damage.webp",
+     "alt": "Burst frozen pipe joint with ice and water spraying in a dar",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/sewage-backup-cleanup.webp",
+     "alt": "Floor drain with sewage backup water in a dark basement bath",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/water-heater-leak-cleanup.webp",
+     "alt": "Corroded water heater valve dripping onto a wet concrete flo",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/swamp-cooler-leak-water-damage.webp",
+     "alt": "Rooftop swamp cooler drain pan overflowing onto a wet roof d",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/ceiling-water-damage.webp",
+     "alt": "Brown water stain spreading across a ceiling with a drip for",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/crawl-space-water-damage.webp",
+     "alt": "Wet floor joists and standing water in a dark dirt crawl spa",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/hardwood-floor-cabinet-drying.webp",
+     "alt": "Cupped hardwood floor planks with a drying mat and air mover",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/condo-apartment-water-damage.webp",
+     "alt": "Water dripping from a ceiling light fixture in a dark apartm",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/commercial-water-damage.webp",
+     "alt": "Air movers and a dehumidifier drying wet commercial carpet t",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/storm-flood-damage.webp",
+     "alt": "Dirty storm runoff water flooding a garage floor with a sump",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/mold-remediation.webp",
+     "alt": "HEPA air scrubber with ducting beside plastic containment sh",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/water-leak-detection.webp",
+     "alt": "Moisture meter pressed against a wet wall beside a thermal c",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/water-damage-repair.webp",
+     "alt": "Fresh drywall texture and new white trim being finished in a",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/cottonwood-heights-ut.webp",
+     "alt": "Bench homes below snowy Wasatch canyons in Cottonwood Height",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/south-salt-lake-ut.webp",
+     "alt": "Apartment blocks and warehouse buildings in South Salt Lake,",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    },
+    {
+     "src": "/midvale-water-damage/images/cards/magna-ut.webp",
+     "alt": "Older brick homes and storefronts on historic Main Street in",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "340x191"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 396.6,
+    "top": 348.6,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/about",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/about.webp",
+     "alt": "Midvale water damage restoration crew with extraction equipm",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x629"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "About Our Midvale Water Damage Restoration Team"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "ABOUT OUR TEAM \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 651.3,
+    "top": 595.3,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "About Our Midvale Water Damage Restoration Team"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "ABOUT OUR TEAM \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/about.webp",
+     "alt": "Midvale water damage restoration crew with extraction equipm",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1058"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 413.4,
+    "top": 365.4,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "About Our Midvale Water Damage Restoration Team"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "ABOUT OUR TEAM \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/contact",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/contact.webp",
+     "alt": "Restoration crew answering an emergency call beside drying e",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x629"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Call for 24/7 Water Damage Help in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "CONTACT \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 543.1,
+    "top": 487.1,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 620.7,
+    "top": 564.7,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Call for 24/7 Water Damage Help in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "CONTACT \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/contact.webp",
+     "alt": "Restoration crew answering an emergency call beside drying e",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x963"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 413.4,
+    "top": 365.4,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Call for 24/7 Water Damage Help in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "CONTACT \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/emergency-water-extraction",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/emergency-water-extraction.webp",
+     "alt": "Crew operating a truck-mounted extraction unit in a flooded ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x693"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/emergency-water-extraction-1.webp",
+     "alt": "A restoration crew with a truck-mounted extraction unit runn",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/emergency-water-extraction-2.webp",
+     "alt": "A yellow wet/dry vacuum standing on a wooden floor in a room",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/emergency-water-extraction-3.webp",
+     "alt": "A worker lifting the edge of a damp carpet while a carpet ex",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Rapid Emergency Water Extraction in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "EMERGENCY WATER EXTRACTION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 607.7,
+    "top": 551.7,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 651.3,
+    "top": 595.3,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Rapid Emergency Water Extraction in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "EMERGENCY WATER EXTRACTION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/emergency-water-extraction.webp",
+     "alt": "Crew operating a truck-mounted extraction unit in a flooded ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1123"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/emergency-water-extraction-1.webp",
+     "alt": "A restoration crew with a truck-mounted extraction unit runn",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/emergency-water-extraction-2.webp",
+     "alt": "A yellow wet/dry vacuum standing on a wooden floor in a room",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/emergency-water-extraction-3.webp",
+     "alt": "A worker lifting the edge of a damp carpet while a carpet ex",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Rapid Emergency Water Extraction in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "EMERGENCY WATER EXTRACTION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/basement-flooding-cleanup",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/basement-flooding-cleanup.webp",
+     "alt": "Flooded finished basement in a Midvale rambler, crew pumping",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-1.webp",
+     "alt": "An empty carpeted basement bedroom with a small high window,",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-2.webp",
+     "alt": "A finished basement room with grey walls, white doors, light",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp",
+     "alt": "An aerial view of a leafy suburban neighborhood with detache",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp",
+     "alt": "An aerial view of a leafy suburban neighborhood with detache",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "BASEMENT FLOODING CLEANUP \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "BASEMENT FLOODING CLEANUP \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/basement-flooding-cleanup.webp",
+     "alt": "Flooded finished basement in a Midvale rambler, crew pumping",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1198"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-1.webp",
+     "alt": "An empty carpeted basement bedroom with a small high window,",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-2.webp",
+     "alt": "A finished basement room with grey walls, white doors, light",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp",
+     "alt": "An aerial view of a leafy suburban neighborhood with detache",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-2.webp",
+     "alt": "A finished basement room with grey walls, white doors, light",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp",
+     "alt": "An aerial view of a leafy suburban neighborhood with detache",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "BASEMENT FLOODING CLEANUP \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/window-well-flooding",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/window-well-flooding.webp",
+     "alt": "Basement window well filled with snowmelt water in Midvale, ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/window-well-flooding-1.webp",
+     "alt": "A rain-soaked suburban street with houses and an American fl",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/window-well-flooding-2.webp",
+     "alt": "A metal downspout dripping water onto a stone foundation wal",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/window-well-flooding-3.webp",
+     "alt": "Suburban houses under a cloudy sky with evergreen trees and ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/window-well-flooding-3.webp",
+     "alt": "Suburban houses under a cloudy sky with evergreen trees and ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WINDOW WELL FLOODING \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 651.3,
+    "top": 595.3,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WINDOW WELL FLOODING \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/window-well-flooding.webp",
+     "alt": "Basement window well filled with snowmelt water in Midvale, ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1123"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/window-well-flooding-1.webp",
+     "alt": "A rain-soaked suburban street with houses and an American fl",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/window-well-flooding-2.webp",
+     "alt": "A metal downspout dripping water onto a stone foundation wal",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/window-well-flooding-3.webp",
+     "alt": "Suburban houses under a cloudy sky with evergreen trees and ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/window-well-flooding-3.webp",
+     "alt": "Suburban houses under a cloudy sky with evergreen trees and ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WINDOW WELL FLOODING \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/burst-pipe-water-damage",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp",
+     "alt": "Split copper pipe spraying water inside a dark wall cavity",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-1.webp",
+     "alt": "A snow-capped pipe outlet with an icicle hanging against a b",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-2.webp",
+     "alt": "A concrete wall with large patches of peeling, water-damaged",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-3.webp",
+     "alt": "A worker's hands gripping a weathered metal pipe fitting dur",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "BURST PIPE WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "BURST PIPE WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp",
+     "alt": "Split copper pipe spraying water inside a dark wall cavity",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1133"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-1.webp",
+     "alt": "A snow-capped pipe outlet with an icicle hanging against a b",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-2.webp",
+     "alt": "A concrete wall with large patches of peeling, water-damaged",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-3.webp",
+     "alt": "A worker's hands gripping a weathered metal pipe fitting dur",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-3.webp",
+     "alt": "A worker's hands gripping a weathered metal pipe fitting dur",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "BURST PIPE WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/sewage-backup-cleanup",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/sewage-backup-cleanup.webp",
+     "alt": "Crew in protective gear cleaning a sewage backup in a Midval",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x629"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-1.webp",
+     "alt": "A worker in a white protective suit and blue gloves holding ",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-2.webp",
+     "alt": "A rusted metal drain grate set into concrete, with green lea",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp",
+     "alt": "An aerial view of a suburban neighborhood in autumn, with de",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp",
+     "alt": "An aerial view of a suburban neighborhood in autumn, with de",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "SEWAGE BACKUP CLEANUP \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 651.3,
+    "top": 595.3,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "SEWAGE BACKUP CLEANUP \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/sewage-backup-cleanup.webp",
+     "alt": "Crew in protective gear cleaning a sewage backup in a Midval",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1058"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-1.webp",
+     "alt": "A worker in a white protective suit and blue gloves holding ",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-2.webp",
+     "alt": "A rusted metal drain grate set into concrete, with green lea",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp",
+     "alt": "An aerial view of a suburban neighborhood in autumn, with de",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-2.webp",
+     "alt": "A rusted metal drain grate set into concrete, with green lea",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp",
+     "alt": "An aerial view of a suburban neighborhood in autumn, with de",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "SEWAGE BACKUP CLEANUP \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/water-heater-leak-cleanup",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/water-heater-leak-cleanup.webp",
+     "alt": "Leaking water heater in a dark Midvale utility closet",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-1.webp",
+     "alt": "Wall-mounted water heater and a washing machine in a white t",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-2.webp",
+     "alt": "A man shutting off a valve on a water heater while holding a",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-3.webp",
+     "alt": "White wall-mounted tankless water heater with pipes in a bat",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-3.webp",
+     "alt": "White wall-mounted tankless water heater with pipes in a bat",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER HEATER LEAK CLEANUP \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER HEATER LEAK CLEANUP \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/water-heater-leak-cleanup.webp",
+     "alt": "Leaking water heater in a dark Midvale utility closet",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1133"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-1.webp",
+     "alt": "Wall-mounted water heater and a washing machine in a white t",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-2.webp",
+     "alt": "A man shutting off a valve on a water heater while holding a",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-3.webp",
+     "alt": "White wall-mounted tankless water heater with pipes in a bat",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-3.webp",
+     "alt": "White wall-mounted tankless water heater with pipes in a bat",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER HEATER LEAK CLEANUP \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/swamp-cooler-leak-water-damage",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/swamp-cooler-leak-water-damage.webp",
+     "alt": "Rooftop swamp cooler leaking onto a wet roof deck in Midvale",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x629"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-1.webp",
+     "alt": "Dark water stains and mildew streaks running down a white wa",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-2.webp",
+     "alt": "Gray two-story suburban houses with green lawns along a side",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-3.webp",
+     "alt": "Apartment building facade in Boise, Idaho with window air co",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-3.webp",
+     "alt": "Apartment building facade in Boise, Idaho with window air co",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "SWAMP COOLER LEAK DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "SWAMP COOLER LEAK DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/swamp-cooler-leak-water-damage.webp",
+     "alt": "Rooftop swamp cooler leaking onto a wet roof deck in Midvale",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1101"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-1.webp",
+     "alt": "Dark water stains and mildew streaks running down a white wa",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-2.webp",
+     "alt": "Gray two-story suburban houses with green lawns along a side",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-3.webp",
+     "alt": "Apartment building facade in Boise, Idaho with window air co",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-2.webp",
+     "alt": "Gray two-story suburban houses with green lawns along a side",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-3.webp",
+     "alt": "Apartment building facade in Boise, Idaho with window air co",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "SWAMP COOLER LEAK DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/ceiling-water-damage",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/ceiling-water-damage.webp",
+     "alt": "Sagging water-stained ceiling with ice dam on a low-slope Mi",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/ceiling-water-damage-1.webp",
+     "alt": "Man on a ladder sanding a green drywall ceiling with a power",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/ceiling-water-damage-2.webp",
+     "alt": "A worker's arm holding a trowel, plastering the corner where",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/ceiling-water-damage-3.webp",
+     "alt": "Room under renovation with a stepladder, drop cloths on the ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/ceiling-water-damage-3.webp",
+     "alt": "Room under renovation with a stepladder, drop cloths on the ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Professional Ceiling Water Damage Repair in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "CEILING WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Professional Ceiling Water Damage Repair in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "CEILING WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/ceiling-water-damage.webp",
+     "alt": "Sagging water-stained ceiling with ice dam on a low-slope Mi",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1101"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/ceiling-water-damage-1.webp",
+     "alt": "Man on a ladder sanding a green drywall ceiling with a power",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/ceiling-water-damage-2.webp",
+     "alt": "A worker's arm holding a trowel, plastering the corner where",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/ceiling-water-damage-3.webp",
+     "alt": "Room under renovation with a stepladder, drop cloths on the ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/ceiling-water-damage-2.webp",
+     "alt": "A worker's arm holding a trowel, plastering the corner where",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/ceiling-water-damage-3.webp",
+     "alt": "Room under renovation with a stepladder, drop cloths on the ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Professional Ceiling Water Damage Repair in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "CEILING WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/crawl-space-water-damage",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/crawl-space-water-damage.webp",
+     "alt": "Technician with a headlamp in a dark dirt crawl space under ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x629"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/crawl-space-water-damage-1.webp",
+     "alt": "A low crawl space under a house with wooden floor joists, da",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/crawl-space-water-damage-2.webp",
+     "alt": "White plumbing pipes under wooden floor joists in a crawl sp",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/crawl-space-water-damage-3.webp",
+     "alt": "Clear plastic sheeting, the kind of poly material used as a ",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "CRAWL SPACE WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "CRAWL SPACE WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/crawl-space-water-damage.webp",
+     "alt": "Technician with a headlamp in a dark dirt crawl space under ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1101"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/crawl-space-water-damage-1.webp",
+     "alt": "A low crawl space under a house with wooden floor joists, da",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/crawl-space-water-damage-2.webp",
+     "alt": "White plumbing pipes under wooden floor joists in a crawl sp",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/crawl-space-water-damage-3.webp",
+     "alt": "Clear plastic sheeting, the kind of poly material used as a ",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "CRAWL SPACE WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/hardwood-floor-cabinet-drying",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/hardwood-floor-cabinet-drying.webp",
+     "alt": "Cupped hardwood floor with drying mats and air movers in a M",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x629"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-1.webp",
+     "alt": "Close-up of worn wooden floor planks with peeling finish and",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-2.webp",
+     "alt": "Gray kitchen cabinets with a wooden countertop, sink and fau",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-3.webp",
+     "alt": "Sunlight falling across a herringbone parquet wood floor in ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-3.webp",
+     "alt": "Sunlight falling across a herringbone parquet wood floor in ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "HARDWOOD FLOOR WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "HARDWOOD FLOOR WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/hardwood-floor-cabinet-drying.webp",
+     "alt": "Cupped hardwood floor with drying mats and air movers in a M",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1133"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-1.webp",
+     "alt": "Close-up of worn wooden floor planks with peeling finish and",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-2.webp",
+     "alt": "Gray kitchen cabinets with a wooden countertop, sink and fau",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-3.webp",
+     "alt": "Sunlight falling across a herringbone parquet wood floor in ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-2.webp",
+     "alt": "Gray kitchen cabinets with a wooden countertop, sink and fau",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-3.webp",
+     "alt": "Sunlight falling across a herringbone parquet wood floor in ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "HARDWOOD FLOOR WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/condo-apartment-water-damage",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/condo-apartment-water-damage.webp",
+     "alt": "Water leaking through the ceiling of a stacked Midvale apart",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x748"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-1.webp",
+     "alt": "White brick apartment building with black metal balconies un",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-2.webp",
+     "alt": "A worker in a white hard hat, safety glasses and orange high",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp",
+     "alt": "Grey plastic drain and waste pipes running along an exterior",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-2.webp",
+     "alt": "A worker in a white hard hat, safety glasses and orange high",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp",
+     "alt": "Grey plastic drain and waste pipes running along an exterior",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "CONDO WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 662.7,
+    "top": 606.7,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 766.8,
+    "top": 710.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "CONDO WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/condo-apartment-water-damage.webp",
+     "alt": "Water leaking through the ceiling of a stacked Midvale apart",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1239"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-1.webp",
+     "alt": "White brick apartment building with black metal balconies un",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-2.webp",
+     "alt": "A worker in a white hard hat, safety glasses and orange high",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp",
+     "alt": "Grey plastic drain and waste pipes running along an exterior",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-2.webp",
+     "alt": "A worker in a white hard hat, safety glasses and orange high",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp",
+     "alt": "Grey plastic drain and waste pipes running along an exterior",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 497.2,
+    "top": 449.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "CONDO WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/commercial-water-damage",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/commercial-water-damage.webp",
+     "alt": "After-hours drying in a dark Midvale restaurant, air movers ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/commercial-water-damage-1.webp",
+     "alt": "Glass office towers with lit windows, seen from above",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/commercial-water-damage-2.webp",
+     "alt": "Four people working on laptops at desks in a bright open-pla",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/commercial-water-damage-3.webp",
+     "alt": "A large open office floor with a wet floor being dried by se",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/commercial-water-damage-3.webp",
+     "alt": "A large open office floor with a wet floor being dried by se",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "COMMERCIAL WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "COMMERCIAL WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/commercial-water-damage.webp",
+     "alt": "After-hours drying in a dark Midvale restaurant, air movers ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1165"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/commercial-water-damage-1.webp",
+     "alt": "Glass office towers with lit windows, seen from above",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/commercial-water-damage-2.webp",
+     "alt": "Four people working on laptops at desks in a bright open-pla",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/commercial-water-damage-3.webp",
+     "alt": "A large open office floor with a wet floor being dried by se",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/commercial-water-damage-3.webp",
+     "alt": "A large open office floor with a wet floor being dried by se",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "COMMERCIAL WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/storm-flood-damage",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/storm-flood-damage.webp",
+     "alt": "Storm runoff flooding a Midvale garage at night",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x693"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/storm-flood-damage-1.webp",
+     "alt": "A suburban street flooded with standing water between bare t",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/storm-flood-damage-2.webp",
+     "alt": "Rainwater pouring off the edge of a corrugated roof during h",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/storm-flood-damage-3.webp",
+     "alt": "Cars driving through a flooded road lined with trees in the ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/storm-flood-damage-3.webp",
+     "alt": "Cars driving through a flooded road lined with trees in the ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "STORM WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 607.7,
+    "top": 551.7,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "STORM WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/storm-flood-damage.webp",
+     "alt": "Storm runoff flooding a Midvale garage at night",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1165"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/storm-flood-damage-1.webp",
+     "alt": "A suburban street flooded with standing water between bare t",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/storm-flood-damage-2.webp",
+     "alt": "Rainwater pouring off the edge of a corrugated roof during h",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/storm-flood-damage-3.webp",
+     "alt": "Cars driving through a flooded road lined with trees in the ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/storm-flood-damage-3.webp",
+     "alt": "Cars driving through a flooded road lined with trees in the ",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "STORM WATER DAMAGE \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/mold-remediation",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/mold-remediation.webp",
+     "alt": "Mold remediation containment with HEPA air scrubber in a Mid",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/mold-remediation-1.webp",
+     "alt": "Green and black mold streaks across a white painted block wa",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/mold-remediation-2.webp",
+     "alt": "A worker in a white protective suit, respirator and blue glo",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/mold-remediation-3.webp",
+     "alt": "Black mildew stains streaking down a light-coloured wall",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/mold-remediation-3.webp",
+     "alt": "Black mildew stains streaking down a light-coloured wall",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Professional Mold Remediation in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "MOLD REMEDIATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 651.3,
+    "top": 595.3,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Professional Mold Remediation in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "MOLD REMEDIATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/mold-remediation.webp",
+     "alt": "Mold remediation containment with HEPA air scrubber in a Mid",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1058"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/mold-remediation-1.webp",
+     "alt": "Green and black mold streaks across a white painted block wa",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/mold-remediation-2.webp",
+     "alt": "A worker in a white protective suit, respirator and blue glo",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/mold-remediation-3.webp",
+     "alt": "Black mildew stains streaking down a light-coloured wall",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/mold-remediation-3.webp",
+     "alt": "Black mildew stains streaking down a light-coloured wall",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Professional Mold Remediation in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "MOLD REMEDIATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/water-leak-detection",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/water-leak-detection.webp",
+     "alt": "Technician with a thermal imaging camera finding hidden wate",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x629"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-leak-detection-1.webp",
+     "alt": "A round water pressure gauge on a red pipe showing psi and k",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-leak-detection-2.webp",
+     "alt": "A patch of plaster fallen from a blue painted wall, exposing",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-leak-detection-3.webp",
+     "alt": "A technician repairing an orange pump housing on a workbench",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/water-leak-detection-3.webp",
+     "alt": "A technician repairing an orange pump housing on a workbench",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER LEAK DETECTION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 736.3,
+    "top": 680.3,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER LEAK DETECTION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/water-leak-detection.webp",
+     "alt": "Technician with a thermal imaging camera finding hidden wate",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1176"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-leak-detection-1.webp",
+     "alt": "A round water pressure gauge on a red pipe showing psi and k",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-leak-detection-2.webp",
+     "alt": "A patch of plaster fallen from a blue painted wall, exposing",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-leak-detection-3.webp",
+     "alt": "A technician repairing an orange pump housing on a workbench",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/water-leak-detection-3.webp",
+     "alt": "A technician repairing an orange pump housing on a workbench",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER LEAK DETECTION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/water-damage-repair",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/water-damage-repair.webp",
+     "alt": "Newly rebuilt room in a Midvale home, fresh drywall and trim",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-damage-repair-1.webp",
+     "alt": "A worker's gloved hand smoothing white joint compound onto a",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-damage-repair-2.webp",
+     "alt": "A worker kneeling to fit a dark wood laminate floor plank, w",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-damage-repair-3.webp",
+     "alt": "A room mid-renovation with freshly painted walls, a stepladd",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/water-damage-repair-3.webp",
+     "alt": "A room mid-renovation with freshly painted walls, a stepladd",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE REPAIR \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE REPAIR \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/water-damage-repair.webp",
+     "alt": "Newly rebuilt room in a Midvale home, fresh drywall and trim",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1133"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-damage-repair-1.webp",
+     "alt": "A worker's gloved hand smoothing white joint compound onto a",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-damage-repair-2.webp",
+     "alt": "A worker kneeling to fit a dark wood laminate floor plank, w",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/water-damage-repair-3.webp",
+     "alt": "A room mid-renovation with freshly painted walls, a stepladd",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/water-damage-repair-3.webp",
+     "alt": "A room mid-renovation with freshly painted walls, a stepladd",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER DAMAGE REPAIR \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/locations/cottonwood-heights-ut",
+   "consoleErrors": [],
+   "failedRequests": [],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp",
+     "alt": "Bench homes below the snowy Wasatch canyons in Cottonwood He",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-1.webp",
+     "alt": "Snow-covered Wasatch mountains in cloud above the Salt Lake ",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-2.webp",
+     "alt": "Aerial view of Salt Lake City with snow-covered mountains ri",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp",
+     "alt": "A snowy city street in Salt Lake City with snow-capped mount",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [
+    {
+     "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp",
+     "alt": "A snowy city street in Salt Lake City with snow-capped mount",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "400x225"
+    }
+   ],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 COTTONWOOD HEIGHTS, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 COTTONWOOD HEIGHTS, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp",
+     "alt": "Bench homes below the snowy Wasatch canyons in Cottonwood He",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1133"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-1.webp",
+     "alt": "Snow-covered Wasatch mountains in cloud above the Salt Lake ",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-2.webp",
+     "alt": "Aerial view of Salt Lake City with snow-covered mountains ri",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp",
+     "alt": "A snowy city street in Salt Lake City with snow-capped mount",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp",
+     "alt": "A snowy city street in Salt Lake City with snow-capped mount",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER DAMAGE RESTORATION \u2022 COTTONWOOD HEIGHTS, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/locations/south-salt-lake-ut",
+   "consoleErrors": [],
+   "failedRequests": [],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/south-salt-lake-ut.webp",
+     "alt": "Apartment and warehouse buildings in South Salt Lake, Utah a",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x661"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/south-salt-lake-ut-1.webp",
+     "alt": "A multi-storey apartment building with balconies under a cle",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/south-salt-lake-ut-2.webp",
+     "alt": "Warehouse shelving stacked with pallets and building materia",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/south-salt-lake-ut-3.webp",
+     "alt": "A technician in gloves and rubber boots cleaning a flooded a",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Water Damage Restoration in South Salt Lake, UT 84115"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 SOUTH SALT LAKE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 736.3,
+    "top": 680.3,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Water Damage Restoration in South Salt Lake, UT 84115"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 SOUTH SALT LAKE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/south-salt-lake-ut.webp",
+     "alt": "Apartment and warehouse buildings in South Salt Lake, Utah a",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1176"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/south-salt-lake-ut-1.webp",
+     "alt": "A multi-storey apartment building with balconies under a cle",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/south-salt-lake-ut-2.webp",
+     "alt": "Warehouse shelving stacked with pallets and building materia",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/south-salt-lake-ut-3.webp",
+     "alt": "A technician in gloves and rubber boots cleaning a flooded a",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Emergency Water Damage Restoration in South Salt Lake, UT 84115"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER DAMAGE RESTORATION \u2022 SOUTH SALT LAKE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/locations/magna-ut",
+   "consoleErrors": [],
+   "failedRequests": [],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/magna-ut.webp",
+     "alt": "Older homes on historic Main Street in Magna, Utah at dusk",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x693"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/magna-ut-1.webp",
+     "alt": "A ranch-style home with a front porch among trees in autumn",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/magna-ut-2.webp",
+     "alt": "A historic brick main street with wooden benches and shopfro",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/magna-ut-3.webp",
+     "alt": "An empty carpeted basement room with closets and a small win",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "400x225"
+    }
+   ],
+   "img_total_render": 4,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Local Water Damage Restoration in Magna, UT 84044"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MAGNA, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 607.7,
+    "top": 551.7,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Local Water Damage Restoration in Magna, UT 84044"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MAGNA, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/magna-ut.webp",
+     "alt": "Older homes on historic Main Street in Magna, Utah at dusk",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1165"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/magna-ut-1.webp",
+     "alt": "A ranch-style home with a front porch among trees in autumn",
+     "loading": "lazy",
+     "complete": true,
+     "naturalWidth": 1200,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/magna-ut-2.webp",
+     "alt": "A historic brick main street with wooden benches and shopfro",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/magna-ut-3.webp",
+     "alt": "An empty carpeted basement room with closets and a small win",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "img_broken_390": [
+    {
+     "src": "/midvale-water-damage/images/body/magna-ut-2.webp",
+     "alt": "A historic brick main street with wooden benches and shopfro",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    },
+    {
+     "src": "/midvale-water-damage/images/body/magna-ut-3.webp",
+     "alt": "An empty carpeted basement room with closets and a small win",
+     "loading": "lazy",
+     "complete": false,
+     "naturalWidth": 0,
+     "displayed": "342x192"
+    }
+   ],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Local Water Damage Restoration in Magna, UT 84044"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MAGNA, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/midvale-water-sewer-emergency-contacts",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/midvale-water-sewer-emergency-contacts.webp",
+     "alt": "Utility crew truck with amber lights beside a sewer manhole ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x596"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Midvale Water & Sewer Emergency Contacts (84047)"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER & SEWER EMERGENCY CONTACTS \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 543.1,
+    "top": 487.1,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 651.3,
+    "top": 595.3,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Midvale Water & Sewer Emergency Contacts (84047)"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER & SEWER EMERGENCY CONTACTS \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/midvale-water-sewer-emergency-contacts.webp",
+     "alt": "Utility crew truck with amber lights beside a sewer manhole ",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x994"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Midvale Water & Sewer Emergency Contacts (84047)"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER & SEWER EMERGENCY CONTACTS \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/privacy-policy",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/privacy-policy.webp",
+     "alt": "Customer paperwork and a laptop on a desk in a dim Midvale o",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x414"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Privacy Policy"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": null
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 423.5,
+    "top": 367.5,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 499.1,
+    "top": 443.1,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Privacy Policy"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": null
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/privacy-policy.webp",
+     "alt": "Customer paperwork and a laptop on a desk in a dim Midvale o",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x489"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 377.2,
+    "top": 329.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Privacy Policy"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": null
+   }
+  },
+  {
+   "route": "/terms-of-use",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/terms-of-use.webp",
+     "alt": "Printed documents and a pen on a desk in a dim office",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x414"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Terms of Use"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": null
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 423.5,
+    "top": 367.5,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 499.1,
+    "top": 443.1,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Terms of Use"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": null
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/terms-of-use.webp",
+     "alt": "Printed documents and a pen on a desk in a dim office",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x489"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 377.2,
+    "top": 329.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Terms of Use"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": null
+   }
+  },
+  {
+   "route": "/disclaimer",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/disclaimer.webp",
+     "alt": "Technician inspecting a water-damaged wall with a moisture m",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x414"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Disclaimer"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": null
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 423.5,
+    "top": 367.5,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 499.1,
+    "top": 443.1,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Disclaimer"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": null
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/disclaimer.webp",
+     "alt": "Technician inspecting a water-damaged wall with a moisture m",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x489"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 377.2,
+    "top": 329.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Disclaimer"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "WATER DAMAGE RESTORATION \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": null
+   }
+  },
+  {
+   "route": "/resources/frozen-pipes-midvale",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp",
+     "alt": "Frozen burst pipe with ice in a dark Midvale crawl space",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x566"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "FROZEN PIPES \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 663.2,
+    "top": 607.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "FROZEN PIPES \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp",
+     "alt": "Frozen burst pipe with ice in a dark Midvale crawl space",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x911"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 443.4,
+    "top": 395.4,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "FROZEN PIPES \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/resources/winterize-swamp-cooler-utah",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/winterize-swamp-cooler-utah.webp",
+     "alt": "Rooftop swamp cooler covered for winter on a snowy Midvale r",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x534"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Swamp Cooler Winterizing Checklist for Midvale Homes"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "SWAMP COOLER WINTERIZING \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 543.1,
+    "top": 487.1,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Swamp Cooler Winterizing Checklist for Midvale Homes"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "SWAMP COOLER WINTERIZING \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/winterize-swamp-cooler-utah.webp",
+     "alt": "Rooftop swamp cooler covered for winter on a snowy Midvale r",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x942"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 437.2,
+    "top": 389.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Swamp Cooler Winterizing Checklist for Midvale Homes"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "SWAMP COOLER WINTERIZING \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/resources/upstairs-unit-leak-who-pays-utah",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/upstairs-unit-leak-who-pays-utah.webp",
+     "alt": "Water dripping from an apartment ceiling into the unit below",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x566"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "UNIT-TO-UNIT LEAKS \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 575.4,
+    "top": 519.4,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 736.3,
+    "top": 680.3,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "UNIT-TO-UNIT LEAKS \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/upstairs-unit-leak-who-pays-utah.webp",
+     "alt": "Water dripping from an apartment ceiling into the unit below",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x1016"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "UNIT-TO-UNIT LEAKS \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/resources/can-mold-grow-in-utah",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/can-mold-grow-in-utah.webp",
+     "alt": "Mold growth on damp drywall in a dark Midvale basement corne",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x534"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "MOLD AFTER A LEAK \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 543.1,
+    "top": 487.1,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 693.8,
+    "top": 637.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "MOLD AFTER A LEAK \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/can-mold-grow-in-utah.webp",
+     "alt": "Mold growth on damp drywall in a dark Midvale basement corne",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x909"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 467.2,
+    "top": 419.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "MOLD AFTER A LEAK \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  },
+  {
+   "route": "/resources/basement-flooding-spring-snowmelt-utah",
+   "consoleErrors": [],
+   "failedRequests": [
+    "https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED",
+    "390:https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed :: net::ERR_TUNNEL_CONNECTION_FAILED"
+   ],
+   "pageerrors": [],
+   "imgs1440": [
+    {
+     "src": "/midvale-water-damage/images/heroes/basement-flooding-spring-snowmelt-utah.webp",
+     "alt": "Spring snowmelt water seeping across a Midvale basement floo",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "1440x589"
+    }
+   ],
+   "img_total_render": 1,
+   "img_broken_render": [],
+   "fonts1440": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "SPRING BASEMENT FLOODING \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "44px",
+    "h2": "32px",
+    "h3": "24px"
+   },
+   "overflow1440": 0,
+   "btn2_1440": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 598.1,
+    "top": 542.1,
+    "vh": 900,
+    "visible": true
+   },
+   "btn2_390": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 766.8,
+    "top": 710.8,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow390": 0,
+   "fonts390": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "18px",
+      "text": "SPRING BASEMENT FLOODING \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "34px",
+    "h2": "28px",
+    "h3": "24px"
+   },
+   "imgs390": [
+    {
+     "src": "/midvale-water-damage/images/heroes/basement-flooding-spring-snowmelt-utah.webp",
+     "alt": "Spring snowmelt water seeping across a Midvale basement floo",
+     "loading": null,
+     "complete": true,
+     "naturalWidth": 1600,
+     "displayed": "390x982"
+    }
+   ],
+   "img_broken_390": [],
+   "btn2_320": {
+    "found": true,
+    "text": "Request Emergency Help",
+    "bottom": 497.2,
+    "top": 449.2,
+    "vh": 844,
+    "visible": true
+   },
+   "overflow320": 0,
+   "fonts320": {
+    "body": "19px",
+    "below19": [
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Home"
+     },
+     {
+      "tag": "li",
+      "cls": "",
+      "fontSize": "18px",
+      "text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale"
+     },
+     {
+      "tag": "p",
+      "cls": "eyebrow",
+      "fontSize": "14px",
+      "text": "SPRING BASEMENT FLOODING \u2022 MIDVALE, UTAH"
+     }
+    ],
+    "h1": "24px",
+    "h2": "28px",
+    "h3": "24px"
+   }
+  }
+ ],
+ "clicks": [
+  {
+   "n": 1,
+   "kind": "card-link",
+   "href": "/midvale-water-damage/emergency-water-extraction",
+   "landed": "http://127.0.0.1:8934/midvale-water-damage/emergency-water-extraction",
+   "subpath_kept": true,
+   "h1": "Rapid Emergency Water Extraction in Midvale, UT 84047"
+  },
+  {
+   "n": 2,
+   "kind": "card-link",
+   "href": "/midvale-water-damage/basement-flooding-cleanup",
+   "landed": "http://127.0.0.1:8934/midvale-water-damage/basement-flooding-cleanup",
+   "subpath_kept": true,
+   "h1": "Emergency Basement Flooding Cleanup in Midvale, UT 84047"
+  },
+  {
+   "n": 3,
+   "kind": "card-link",
+   "href": "/midvale-water-damage/window-well-flooding",
+   "landed": "http://127.0.0.1:8934/midvale-water-damage/window-well-flooding",
+   "subpath_kept": true,
+   "h1": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047"
+  },
+  {
+   "n": 4,
+   "kind": "card-link",
+   "href": "/midvale-water-damage/burst-pipe-water-damage",
+   "landed": "http://127.0.0.1:8934/midvale-water-damage/burst-pipe-water-damage",
+   "subpath_kept": true,
+   "h1": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047"
+  },
+  {
+   "n": 5,
+   "kind": "card-link",
+   "href": "/midvale-water-damage/sewage-backup-cleanup",
+   "landed": "http://127.0.0.1:8934/midvale-water-damage/sewage-backup-cleanup",
+   "subpath_kept": true,
+   "h1": "24/7 Sewage Backup Cleanup in Midvale, UT 84047"
+  },
+  {
+   "n": 6,
+   "kind": "body-link",
+   "href": "/midvale-water-damage/hardwood-floor-cabinet-drying",
+   "landed": "http://127.0.0.1:8934/midvale-water-damage/hardwood-floor-cabinet-drying",
+   "subpath_kept": true,
+   "h1": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047"
+  }
+ ],
+ "contact_form": {
+  "fields": [
+   {
+    "tag": "input",
+    "type": "text",
+    "name": "name",
+    "id": "cf-name",
+    "label": "Name",
+    "fontSize": "19px"
+   },
+   {
+    "tag": "input",
+    "type": "tel",
+    "name": "phone",
+    "id": "cf-phone",
+    "label": "Phone number",
+    "fontSize": "19px"
+   },
+   {
+    "tag": "input",
+    "type": "text",
+    "name": "address",
+    "id": "cf-address",
+    "label": "Address or ZIP code",
+    "fontSize": "19px"
+   },
+   {
+    "tag": "textarea",
+    "type": null,
+    "name": "what-happened",
+    "id": "cf-what",
+    "label": "What happened (short description)",
+    "fontSize": "19px"
+   },
+   {
+    "tag": "input",
+    "type": "radio",
+    "name": "water-running",
+    "id": "",
+    "label": "",
+    "fontSize": "19px"
+   },
+   {
+    "tag": "input",
+    "type": "radio",
+    "name": "water-running",
+    "id": "",
+    "label": "",
+    "fontSize": "19px"
+   },
+   {
+    "tag": "input",
+    "type": "radio",
+    "name": "water-running",
+    "id": "",
+    "label": "",
+    "fontSize": "19px"
+   },
+   {
+    "tag": "input",
+    "type": "text",
+    "name": "best-time",
+    "id": "cf-best-time",
+    "label": "Best time to call",
+    "fontSize": "19px"
+   }
+  ],
+  "submit": [
+   "[Send My Request]"
+  ],
+  "action": null,
+  "method": null,
+  "notice": "Note: this form does not send on this preview site. For the fastest help, please call (385) 337-3560, calling is faster than the form.\n\nName\n\nPhone number\n\nAddress or ZIP code\n\nWhat happened (short description)\n\nIs the water still running?\nYes\nNo\nNot sure\n\nBest time to call\n\n[Send My Request]"
+ }
+}

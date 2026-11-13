@@ -19,12 +19,12 @@ export default function ContactForm() {
     <section className="contact-form" aria-label="Request form">
       <p className="form-notice">
         Note: this form does not send on this preview site. For the fastest
-        help, please call <a href={TEL_HREF}>{SITE.phoneDisplay}</a> — calling
+        help, please call <a href={TEL_HREF}>{SITE.phoneDisplay}</a>, calling
         is faster than the form.
       </p>
       {sent ? (
         <p className="form-sent">
-          Thanks — this preview form doesn&apos;t send. Please call{" "}
+          Thanks, this preview form doesn&apos;t send. Please call{" "}
           <a href={TEL_HREF}>{SITE.phoneDisplay}</a> and a crew will be
           dispatched right away.
         </p>

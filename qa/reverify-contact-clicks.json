@@ -1,0 +1,18 @@
+{
+ "clicks": [
+  {
+   "step": "card->burst-pipe",
+   "url": "http://127.0.0.1:8410/midvale-water-damage/burst-pipe-water-damage",
+   "h1": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047"
+  },
+  {
+   "step": "logo->home",
+   "url": "http://127.0.0.1:8410/midvale-water-damage"
+  },
+  {
+   "step": "footer->mold",
+   "url": "http://127.0.0.1:8410/midvale-water-damage/emergency-water-extraction",
+   "h1": "Professional Mold Remediation in Midvale, UT 84047"
+  }
+ ]
+}

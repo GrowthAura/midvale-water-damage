@@ -1,0 +1,187 @@
+{
+ "cardCount": 19,
+ "svcCount": 16,
+ "rows": {
+  "2595": 1,
+  "3137": 1,
+  "3710": 1,
+  "4254": 1,
+  "4763": 1,
+  "5274": 1,
+  "5816": 1,
+  "6358": 1,
+  "6837": 1,
+  "7346": 1,
+  "7918": 1,
+  "8489": 1,
+  "9031": 1,
+  "9572": 1,
+  "10019": 1,
+  "10528": 1
+ },
+ "locRows": {
+  "20486": 1,
+  "20957": 1,
+  "21397": 1
+ },
+ "gridAreasCols": 1,
+ "locCardCount": 3,
+ "gridCols": "342px",
+ "gridColsCount": 1,
+ "ctas": [
+  {
+   "text": "Emergency Water Extraction\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Basement Flooding Cleanup\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Window Well Flooding\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Burst Pipe Water Damage\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Sewage Backup Cleanup\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Water Heater Leak Cleanup\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Swamp Cooler Leak Water Damage\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Ceiling Water Damage\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Crawl Space Water Damage\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Hardwood Floor & Cabinet Drying\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Condo & Apartment Water Damage\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Commercial Water Damage\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Storm Water Damage\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Mold Remediation\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Water Leak Detection\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Water Damage Repair\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Water Damage Restoration Cottonwood Heights\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Water Damage Restoration South Salt Lake\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  },
+  {
+   "text": "Water Damage Restoration Magna\u00a0\u2192",
+   "color": "rgb(157, 84, 24)",
+   "weight": "700",
+   "size": "18px",
+   "display": "block",
+   "tag": "P"
+  }
+ ],
+ "brandH": 48,
+ "brandW": 342
+}

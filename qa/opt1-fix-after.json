@@ -1,0 +1,830 @@
+{
+  "routes": {
+    "/": {
+      "hero": {
+        "w": 390,
+        "h": 1072,
+        "visible_pct": 24.2
+      },
+      "b2bottom390": 541.7,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": false,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/about": {
+      "hero": {
+        "w": 390,
+        "h": 1058,
+        "visible_pct": 24.6
+      },
+      "b2bottom390": 657.5,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/contact": {
+      "hero": {
+        "w": 390,
+        "h": 963,
+        "visible_pct": 27.0
+      },
+      "b2bottom390": 626.9,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/emergency-water-extraction": {
+      "hero": {
+        "w": 390,
+        "h": 1123,
+        "visible_pct": 23.1
+      },
+      "b2bottom390": 657.5,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/basement-flooding-cleanup": {
+      "hero": {
+        "w": 390,
+        "h": 1198,
+        "visible_pct": 21.7
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/window-well-flooding": {
+      "hero": {
+        "w": 390,
+        "h": 1123,
+        "visible_pct": 23.1
+      },
+      "b2bottom390": 657.5,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/burst-pipe-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1133,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/sewage-backup-cleanup": {
+      "hero": {
+        "w": 390,
+        "h": 1058,
+        "visible_pct": 24.6
+      },
+      "b2bottom390": 657.5,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0",
+        "howto-1"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/water-heater-leak-cleanup": {
+      "hero": {
+        "w": 390,
+        "h": 1133,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0",
+        "howto-1"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/swamp-cooler-leak-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1101,
+        "visible_pct": 23.6
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/ceiling-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1101,
+        "visible_pct": 23.6
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0",
+        "howto-1"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/crawl-space-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1101,
+        "visible_pct": 23.6
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/hardwood-floor-cabinet-drying": {
+      "hero": {
+        "w": 390,
+        "h": 1133,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0",
+        "howto-1"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/condo-apartment-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1239,
+        "visible_pct": 21.0
+      },
+      "b2bottom390": 773.1,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0",
+        "howto-1"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/commercial-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1165,
+        "visible_pct": 22.3
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0",
+        "howto-1"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/storm-flood-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1165,
+        "visible_pct": 22.3
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/mold-remediation": {
+      "hero": {
+        "w": 390,
+        "h": 1058,
+        "visible_pct": 24.6
+      },
+      "b2bottom390": 657.5,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/water-leak-detection": {
+      "hero": {
+        "w": 390,
+        "h": 1176,
+        "visible_pct": 22.1
+      },
+      "b2bottom390": 742.5,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0",
+        "howto-1",
+        "howto-2"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/water-damage-repair": {
+      "hero": {
+        "w": 390,
+        "h": 1133,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/locations/cottonwood-heights-ut": {
+      "hero": {
+        "w": 390,
+        "h": 1133,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/locations/south-salt-lake-ut": {
+      "hero": {
+        "w": 390,
+        "h": 1176,
+        "visible_pct": 22.1
+      },
+      "b2bottom390": 742.5,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/locations/magna-ut": {
+      "hero": {
+        "w": 390,
+        "h": 1165,
+        "visible_pct": 22.3
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": true,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/midvale-water-sewer-emergency-contacts": {
+      "hero": {
+        "w": 390,
+        "h": 994,
+        "visible_pct": 26.1
+      },
+      "b2bottom390": 657.5,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [
+        "howto-0",
+        "howto-1"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/privacy-policy": {
+      "hero": {
+        "w": 390,
+        "h": 489,
+        "visible_pct": 53.1
+      },
+      "b2bottom390": 505.3,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/terms-of-use": {
+      "hero": {
+        "w": 390,
+        "h": 489,
+        "visible_pct": 53.1
+      },
+      "b2bottom390": 505.3,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/disclaimer": {
+      "hero": {
+        "w": 390,
+        "h": 489,
+        "visible_pct": 53.1
+      },
+      "b2bottom390": 505.3,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/resources/frozen-pipes-midvale": {
+      "hero": {
+        "w": 390,
+        "h": 911,
+        "visible_pct": 28.5
+      },
+      "b2bottom390": 669.4,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [
+        "howto-0",
+        "howto-1"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/resources/winterize-swamp-cooler-utah": {
+      "hero": {
+        "w": 390,
+        "h": 942,
+        "visible_pct": 27.6
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/resources/upstairs-unit-leak-who-pays-utah": {
+      "hero": {
+        "w": 390,
+        "h": 1016,
+        "visible_pct": 25.6
+      },
+      "b2bottom390": 742.5,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [
+        "howto-0",
+        "howto-1"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/resources/can-mold-grow-in-utah": {
+      "hero": {
+        "w": 390,
+        "h": 909,
+        "visible_pct": 28.6
+      },
+      "b2bottom390": 700,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [
+        "howto-0"
+      ],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    },
+    "/resources/basement-flooding-spring-snowmelt-utah": {
+      "hero": {
+        "w": 390,
+        "h": 982,
+        "visible_pct": 26.5
+      },
+      "b2bottom390": 773.1,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "1066",
+      "idBreadcrumb": true,
+      "idHeroImage": true,
+      "idService": false,
+      "howtoIds": [],
+      "ldHasBreadcrumbFrag": true,
+      "ldHasHeroImageFrag": true
+    }
+  },
+  "button2_320": {
+    "/": 440.6,
+    "/about": 453.4,
+    "/contact": 453.4,
+    "/emergency-water-extraction": 477.2,
+    "/basement-flooding-cleanup": 514.7,
+    "/window-well-flooding": 477.2,
+    "/burst-pipe-water-damage": 514.7,
+    "/sewage-backup-cleanup": 477.2,
+    "/water-heater-leak-cleanup": 514.7,
+    "/swamp-cooler-leak-water-damage": 514.7,
+    "/ceiling-water-damage": 477.2,
+    "/crawl-space-water-damage": 514.7,
+    "/hardwood-floor-cabinet-drying": 477.2,
+    "/condo-apartment-water-damage": 552.2,
+    "/commercial-water-damage": 477.2,
+    "/storm-flood-damage": 477.2,
+    "/mold-remediation": 439.7,
+    "/water-leak-detection": 514.7,
+    "/water-damage-repair": 477.2,
+    "/locations/cottonwood-heights-ut": 514.7,
+    "/locations/south-salt-lake-ut": 514.7,
+    "/locations/magna-ut": 477.2,
+    "/midvale-water-sewer-emergency-contacts": 439.7,
+    "/privacy-policy": 364.7,
+    "/terms-of-use": 364.7,
+    "/disclaimer": 364.7,
+    "/resources/frozen-pipes-midvale": 528.4,
+    "/resources/winterize-swamp-cooler-utah": 477.2,
+    "/resources/upstairs-unit-leak-who-pays-utah": 514.7,
+    "/resources/can-mold-grow-in-utah": 477.2,
+    "/resources/basement-flooding-spring-snowmelt-utah": 514.7
+  },
+  "logo": {
+    "320": {
+      "w": 272,
+      "h": 48
+    },
+    "1440": {
+      "w": 287.9,
+      "h": 48
+    },
+    "390": {
+      "w": 342,
+      "h": 48
+    }
+  },
+  "radio": {
+    "1440": [
+      {
+        "text": "Yes",
+        "w": 57,
+        "h": 48
+      },
+      {
+        "text": "No",
+        "w": 53,
+        "h": 48
+      },
+      {
+        "text": "Not sure",
+        "w": 104,
+        "h": 48
+      }
+    ]
+  },
+  "console_errors": [],
+  "home": {
+    "ctaCount": 19,
+    "ctas": [
+      {
+        "text": "Emergency Water Extraction \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Basement Flooding Cleanup \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Window Well Flooding \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Burst Pipe Water Damage \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Sewage Backup Cleanup \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Water Heater Leak Cleanup \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Swamp Cooler Leak Water Damage \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Ceiling Water Damage \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Crawl Space Water Damage \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Hardwood Floor & Cabinet Drying \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Condo & Apartment Water Damage \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Commercial Water Damage \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Storm Water Damage \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Mold Remediation \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Water Leak Detection \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Water Damage Repair \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Water Damage Restoration Cottonwood Heights \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Water Damage Restoration South Salt Lake \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      },
+      {
+        "text": "Water Damage Restoration Magna \u2192",
+        "color": "rgb(157, 84, 24)",
+        "fontWeight": "700",
+        "fontSize": "18px",
+        "display": "block"
+      }
+    ],
+    "gridCols": 4,
+    "serviceRows": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "locRows": [
+      3
+    ],
+    "ctaBottomSpreadPerRow": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "cardWidths": [
+      247
+    ]
+  },
+  "form": {
+    "labels": [
+      "Name",
+      "Phone number",
+      "Address or ZIP code",
+      "What happened (short description)",
+      "Is the water still running?",
+      "Yes",
+      "No",
+      "Not sure",
+      "Best time to call"
+    ],
+    "submit": "[Send My Request]"
+  }
+}

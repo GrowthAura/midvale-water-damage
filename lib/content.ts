@@ -22,10 +22,17 @@ export const SITE = {
   metaDescription:
     "24/7 water damage restoration in Midvale, UT 84047. Extraction, drying, sewage and mold cleanup. Crew dispatched now. Call (385) 337-3560.",
   // LOCAL-ONLY placeholder base. No domain exists in the Doc (OPEN item 1).
-  // Override with NEXT_PUBLIC_SITE_URL when the real domain arrives, then
-  // regenerate sitemap/canonicals before any publish.
-  base:
-    process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000",
+  // Export with NEXT_PUBLIC_SITE_URL set to the live base — currently the
+  // GitHub Pages URL (https://growthaura.github.io/midvale-water-damage/)
+  // — then regenerate sitemap/canonicals before any publish. A real-domain
+  // swap comes only if he gives one.
+  // (strip a trailing slash — every use site appends its own "/" or
+  // route, so a trailing slash here would double-slash every canonical,
+  // schema URL and sitemap loc; caught by the SEO FIX 1 static check.)
+  base: (process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000").replace(
+    /\/$/,
+    "",
+  ),
 } as const;
 
 export const HERO = {
@@ -380,7 +387,7 @@ export const ALL_ROUTES: string[] = [
 ];
 
 // HERO + A-to-Z ROUND (2026-11-10): one UNIQUE darkened photographic hero
-// image per page (21 heroes, 0 repeats) + one photographic card image per
+// image per page (31 heroes, 0 repeats) + one photographic card image per
 // service/location card (19 cards, 0 repeats, different scene from the hero).
 // All generated fresh for Midvale only — zero past-site images, no "AI" word
 // in filename/path/alt/metadata, AI metadata stripped (exiftool + byte-scan),
@@ -421,14 +428,14 @@ export const HERO_IMAGE: Record<string, PageImage> = {
   "resources/winterize-swamp-cooler-utah": { src: "/images/heroes/winterize-swamp-cooler-utah.webp", alt: "Rooftop swamp cooler covered for winter on a snowy Midvale roof" },
   "resources/upstairs-unit-leak-who-pays-utah": { src: "/images/heroes/upstairs-unit-leak-who-pays-utah.webp", alt: "Water dripping from an apartment ceiling into the unit below in Midvale" },
   "resources/can-mold-grow-in-utah": { src: "/images/heroes/can-mold-grow-in-utah.webp", alt: "Mold growth on damp drywall in a dark Midvale basement corner" },
-  "resources/basement-flooding-spring-snowmelt-utah": { src: "/images/heroes/basement-flooding-spring-snowmelt-utah.webp", alt: "Spring snowmelt water seeping across a Midvale basement floor" },
+  "resources/basement-flooding-spring-snowmelt-utah": { src: "/images/heroes/basement-flooding-spring-snowmelt-utah.webp", alt: "Spring snowmelt water pooling at a home foundation as a downspout discharges, with melting snow piles and snowy hills behind" },
 };
 
 export const CARD_IMAGE: Record<string, PageImage> = {
   "emergency-water-extraction": { src: "/images/cards/emergency-water-extraction.webp", alt: "Submersible pump and extraction hose in standing water on a basement floor" },
   "basement-flooding-cleanup": { src: "/images/cards/basement-flooding-cleanup.webp", alt: "Wet carpet and pad being pulled back in a flooded finished basement" },
   "window-well-flooding": { src: "/images/cards/window-well-flooding.webp", alt: "Basement window well half full of snowmelt water" },
-  "burst-pipe-water-damage": { src: "/images/cards/burst-pipe-water-damage.webp", alt: "Burst frozen pipe joint with ice and water spraying in a dark crawl space" },
+  "burst-pipe-water-damage": { src: "/images/cards/burst-pipe-water-damage.webp", alt: "Split copper pipe spraying water inside an opened wall cavity with wet wooden studs" },
   "sewage-backup-cleanup": { src: "/images/cards/sewage-backup-cleanup.webp", alt: "Floor drain with sewage backup water in a dark basement bathroom" },
   "water-heater-leak-cleanup": { src: "/images/cards/water-heater-leak-cleanup.webp", alt: "Corroded water heater valve dripping onto a wet concrete floor" },
   "swamp-cooler-leak-water-damage": { src: "/images/cards/swamp-cooler-leak-water-damage.webp", alt: "Rooftop swamp cooler drain pan overflowing onto a wet roof deck" },
@@ -441,7 +448,7 @@ export const CARD_IMAGE: Record<string, PageImage> = {
   "mold-remediation": { src: "/images/cards/mold-remediation.webp", alt: "HEPA air scrubber with ducting beside plastic containment sheeting" },
   "water-leak-detection": { src: "/images/cards/water-leak-detection.webp", alt: "Moisture meter pressed against a wet wall beside a thermal camera" },
   "water-damage-repair": { src: "/images/cards/water-damage-repair.webp", alt: "Fresh drywall texture and new white trim being finished in a room" },
-  "cottonwood-heights-ut": { src: "/images/cards/cottonwood-heights-ut.webp", alt: "Bench homes below snowy Wasatch canyons in Cottonwood Heights, Utah" },
+  "cottonwood-heights-ut": { src: "/images/cards/cottonwood-heights-ut.webp", alt: "Winding canyon highway with cars through steep rocky autumn slopes in Cottonwood Canyon, Utah" },
   "south-salt-lake-ut": { src: "/images/cards/south-salt-lake-ut.webp", alt: "Apartment blocks and warehouse buildings in South Salt Lake, Utah" },
   "magna-ut": { src: "/images/cards/magna-ut.webp", alt: "Older brick homes and storefronts on historic Main Street in Magna, Utah" },
 };

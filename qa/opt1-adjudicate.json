@@ -1,0 +1,3768 @@
+{
+ "images": {
+  "/": {
+   "m390": {
+    "total": 20,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 20,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/basement-flooding-cleanup": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/window-well-flooding": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/burst-pipe-water-damage": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/sewage-backup-cleanup": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/water-heater-leak-cleanup": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/swamp-cooler-leak-water-damage": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/ceiling-water-damage": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/crawl-space-water-damage": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/hardwood-floor-cabinet-drying": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/condo-apartment-water-damage": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/commercial-water-damage": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/storm-flood-damage": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/mold-remediation": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/water-leak-detection": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/water-damage-repair": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/locations/cottonwood-heights-ut": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  },
+  "/locations/magna-ut": {
+   "m390": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   },
+   "desktop": {
+    "total": 4,
+    "initial_bad": [],
+    "rescued": [],
+    "final_bad": [],
+    "pageerrors": []
+   }
+  }
+ },
+ "tables": {
+  "/": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/about": [
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   }
+  ],
+  "/contact": [
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   },
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   }
+  ],
+  "/emergency-water-extraction": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/basement-flooding-cleanup": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/window-well-flooding": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/burst-pipe-water-damage": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/sewage-backup-cleanup": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   }
+  ],
+  "/water-heater-leak-cleanup": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/swamp-cooler-leak-water-damage": [
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   },
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/ceiling-water-damage": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/crawl-space-water-damage": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/hardwood-floor-cabinet-drying": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/condo-apartment-water-damage": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/commercial-water-damage": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/storm-flood-damage": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/mold-remediation": [
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   }
+  ],
+  "/water-leak-detection": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/water-damage-repair": [
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   },
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/locations/cottonwood-heights-ut": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/locations/south-salt-lake-ut": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   }
+  ],
+  "/locations/magna-ut": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   }
+  ],
+  "/midvale-water-sewer-emergency-contacts": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/resources/frozen-pipes-midvale": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/resources/winterize-swamp-cooler-utah": [
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   }
+  ],
+  "/resources/upstairs-unit-leak-who-pays-utah": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/resources/can-mold-grow-in-utah": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   },
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   }
+  ],
+  "/resources/basement-flooding-spring-snowmelt-utah": [
+   {
+    "overflowing": true,
+    "cue_at_scroll0": 1,
+    "cue_at_max": 0,
+    "cue_back_at_0": 1
+   },
+   {
+    "overflowing": false,
+    "cue_at_scroll0": 0,
+    "cue_at_max": 0,
+    "cue_back_at_0": 0
+   }
+  ]
+ },
+ "fonts": {
+  "/": {
+   "desktop": {
+    "total": 69,
+    "badCount": 0,
+    "bad": []
+   },
+   "m390": {
+    "total": 69,
+    "badCount": 0,
+    "bad": []
+   }
+  },
+  "/about": {
+   "desktop": {
+    "total": 56,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "About Our Midvale Water Damage Restoration Team"
+     }
+    ]
+   },
+   "m390": {
+    "total": 56,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "About Our Midvale Water Damage Restoration Team"
+     }
+    ]
+   }
+  },
+  "/contact": {
+   "desktop": {
+    "total": 44,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Call for 24/7 Water Damage Help in Midvale, UT 84047"
+     }
+    ]
+   },
+   "m390": {
+    "total": 44,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Call for 24/7 Water Damage Help in Midvale, UT 84047"
+     }
+    ]
+   }
+  },
+  "/emergency-water-extraction": {
+   "desktop": {
+    "total": 56,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Rapid Emergency Water Extraction in Midvale, UT 84047"
+     }
+    ]
+   },
+   "m390": {
+    "total": 56,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Rapid Emergency Water Extraction in Midvale, UT 84047"
+     }
+    ]
+   }
+  },
+  "/basement-flooding-cleanup": {
+   "desktop": {
+    "total": 50,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047"
+     }
+    ]
+   },
+   "m390": {
+    "total": 50,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047"
+     }
+    ]
+   }
+  },
+  "/window-well-flooding": {
+   "desktop": {
+    "total": 56,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047"
+     }
+    ]
+   },
+   "m390": {
+    "total": 56,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047"
+     }
+    ]
+   }
+  },
+  "/burst-pipe-water-damage": {
+   "desktop": {
+    "total": 61,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 840"
+     }
+    ]
+   },
+   "m390": {
+    "total": 61,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 840"
+     }
+    ]
+   }
+  },
+  "/sewage-backup-cleanup": {
+   "desktop": {
+    "total": 49,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047"
+     }
+    ]
+   },
+   "m390": {
+    "total": 49,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047"
+     }
+    ]
+   }
+  },
+  "/water-heater-leak-cleanup": {
+   "desktop": {
+    "total": 65,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, "
+     }
+    ]
+   },
+   "m390": {
+    "total": 65,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, "
+     }
+    ]
+   }
+  },
+  "/swamp-cooler-leak-water-damage": {
+   "desktop": {
+    "total": 45,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84"
+     }
+    ]
+   },
+   "m390": {
+    "total": 45,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84"
+     }
+    ]
+   }
+  },
+  "/ceiling-water-damage": {
+   "desktop": {
+    "total": 57,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Professional Ceiling Water Damage Repair in Midvale, UT 8404"
+     }
+    ]
+   },
+   "m390": {
+    "total": 57,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Professional Ceiling Water Damage Repair in Midvale, UT 8404"
+     }
+    ]
+   }
+  },
+  "/crawl-space-water-damage": {
+   "desktop": {
+    "total": 62,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84"
+     }
+    ]
+   },
+   "m390": {
+    "total": 62,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84"
+     }
+    ]
+   }
+  },
+  "/hardwood-floor-cabinet-drying": {
+   "desktop": {
+    "total": 60,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047"
+     }
+    ]
+   },
+   "m390": {
+    "total": 60,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047"
+     }
+    ]
+   }
+  },
+  "/condo-apartment-water-damage": {
+   "desktop": {
+    "total": 66,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Mid"
+     }
+    ]
+   },
+   "m390": {
+    "total": 66,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Mid"
+     }
+    ]
+   }
+  },
+  "/commercial-water-damage": {
+   "desktop": {
+    "total": 74,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Commercial Water Damage Restoration in Midvale, UT 8404"
+     }
+    ]
+   },
+   "m390": {
+    "total": 74,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Commercial Water Damage Restoration in Midvale, UT 8404"
+     }
+    ]
+   }
+  },
+  "/storm-flood-damage": {
+   "desktop": {
+    "total": 66,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047"
+     }
+    ]
+   },
+   "m390": {
+    "total": 66,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047"
+     }
+    ]
+   }
+  },
+  "/mold-remediation": {
+   "desktop": {
+    "total": 71,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Professional Mold Remediation in Midvale, UT 84047"
+     }
+    ]
+   },
+   "m390": {
+    "total": 71,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Professional Mold Remediation in Midvale, UT 84047"
+     }
+    ]
+   }
+  },
+  "/water-leak-detection": {
+   "desktop": {
+    "total": 82,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT"
+     }
+    ]
+   },
+   "m390": {
+    "total": 82,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT"
+     }
+    ]
+   }
+  },
+  "/water-damage-repair": {
+   "desktop": {
+    "total": 56,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047"
+     }
+    ]
+   },
+   "m390": {
+    "total": 56,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047"
+     }
+    ]
+   }
+  },
+  "/locations/cottonwood-heights-ut": {
+   "desktop": {
+    "total": 77,
+    "badCount": 3,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 8412"
+     }
+    ]
+   },
+   "m390": {
+    "total": 77,
+    "badCount": 3,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 8412"
+     }
+    ]
+   }
+  },
+  "/locations/south-salt-lake-ut": {
+   "desktop": {
+    "total": 70,
+    "badCount": 3,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Water Damage Restoration in South Salt Lake, UT 84"
+     }
+    ]
+   },
+   "m390": {
+    "total": 70,
+    "badCount": 3,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Emergency Water Damage Restoration in South Salt Lake, UT 84"
+     }
+    ]
+   }
+  },
+  "/locations/magna-ut": {
+   "desktop": {
+    "total": 75,
+    "badCount": 3,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Local Water Damage Restoration in Magna, UT 84044"
+     }
+    ]
+   },
+   "m390": {
+    "total": 75,
+    "badCount": 3,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Nearby Cities We Serve"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Local Water Damage Restoration in Magna, UT 84044"
+     }
+    ]
+   }
+  },
+  "/midvale-water-sewer-emergency-contacts": {
+   "desktop": {
+    "total": 44,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Midvale Water & Sewer Emergency Contacts (84047)"
+     }
+    ]
+   },
+   "m390": {
+    "total": 44,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Midvale Water & Sewer Emergency Contacts (84047)"
+     }
+    ]
+   }
+  },
+  "/privacy-policy": {
+   "desktop": {
+    "total": 30,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Privacy Policy"
+     }
+    ]
+   },
+   "m390": {
+    "total": 30,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Privacy Policy"
+     }
+    ]
+   }
+  },
+  "/terms-of-use": {
+   "desktop": {
+    "total": 23,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Terms of Use"
+     }
+    ]
+   },
+   "m390": {
+    "total": 23,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Terms of Use"
+     }
+    ]
+   }
+  },
+  "/disclaimer": {
+   "desktop": {
+    "total": 14,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Disclaimer"
+     }
+    ]
+   },
+   "m390": {
+    "total": 14,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Disclaimer"
+     }
+    ]
+   }
+  },
+  "/resources/frozen-pipes-midvale": {
+   "desktop": {
+    "total": 62,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "How to Keep Pipes From Freezing in Midvale, and What to Do I"
+     }
+    ]
+   },
+   "m390": {
+    "total": 62,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "How to Keep Pipes From Freezing in Midvale, and What to Do I"
+     }
+    ]
+   }
+  },
+  "/resources/winterize-swamp-cooler-utah": {
+   "desktop": {
+    "total": 60,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Swamp Cooler Winterizing Checklist for Midvale Homes"
+     }
+    ]
+   },
+   "m390": {
+    "total": 60,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Swamp Cooler Winterizing Checklist for Midvale Homes"
+     }
+    ]
+   }
+  },
+  "/resources/upstairs-unit-leak-who-pays-utah": {
+   "desktop": {
+    "total": 57,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or"
+     }
+    ]
+   },
+   "m390": {
+    "total": 57,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or"
+     }
+    ]
+   }
+  },
+  "/resources/can-mold-grow-in-utah": {
+   "desktop": {
+    "total": 59,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Mid"
+     }
+    ]
+   },
+   "m390": {
+    "total": 59,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Mid"
+     }
+    ]
+   }
+  },
+  "/resources/basement-flooding-spring-snowmelt-utah": {
+   "desktop": {
+    "total": 54,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt"
+     }
+    ]
+   },
+   "m390": {
+    "total": 54,
+    "badCount": 2,
+    "bad": [
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Home"
+     },
+     {
+      "tag": "LI",
+      "px": 18,
+      "text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt"
+     }
+    ]
+   }
+  }
+ },
+ "taps": {
+  "/": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 26
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 26
+     }
+    ]
+   }
+  },
+  "/about": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/contact": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [
+     {
+      "labelText": "Yes",
+      "labelW": 57,
+      "labelH": 32,
+      "inputH": 13
+     },
+     {
+      "labelText": "No",
+      "labelW": 53,
+      "labelH": 32,
+      "inputH": 13
+     },
+     {
+      "labelText": "Not sure",
+      "labelW": 104,
+      "labelH": 32,
+      "inputH": 13
+     }
+    ],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 26
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [
+     {
+      "labelText": "Yes",
+      "labelW": 57,
+      "labelH": 32,
+      "inputH": 13
+     },
+     {
+      "labelText": "No",
+      "labelW": 53,
+      "labelH": 32,
+      "inputH": 13
+     },
+     {
+      "labelText": "Not sure",
+      "labelW": 104,
+      "labelH": 32,
+      "inputH": 13
+     }
+    ],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 58
+     }
+    ]
+   }
+  },
+  "/emergency-water-extraction": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/basement-flooding-cleanup": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/window-well-flooding": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/burst-pipe-water-damage": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/sewage-backup-cleanup": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/water-heater-leak-cleanup": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/swamp-cooler-leak-water-damage": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/ceiling-water-damage": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/crawl-space-water-damage": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/hardwood-floor-cabinet-drying": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/condo-apartment-water-damage": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/commercial-water-damage": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/storm-flood-damage": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/mold-remediation": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/water-leak-detection": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/water-damage-repair": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/locations/cottonwood-heights-ut": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/locations/south-salt-lake-ut": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/locations/magna-ut": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/midvale-water-sewer-emergency-contacts": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/privacy-policy": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/terms-of-use": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/disclaimer": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/resources/frozen-pipes-midvale": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/resources/winterize-swamp-cooler-utah": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/resources/upstairs-unit-leak-who-pays-utah": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/resources/can-mold-grow-in-utah": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  },
+  "/resources/basement-flooding-spring-snowmelt-utah": {
+   "desktop": {
+    "brand": {
+     "w": 288,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 51
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   },
+   "m390": {
+    "brand": {
+     "w": 342,
+     "h": 43
+    },
+    "radios": [],
+    "footerLinks": [],
+    "footerSmallCount": 0,
+    "telBar": [
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 48
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "Request Emergency Help",
+      "fixed": false,
+      "h": 56
+     },
+     {
+      "text": "(385) 337-3560",
+      "fixed": false,
+      "h": 56
+     }
+    ]
+   }
+  }
+ },
+ "tel_bar": [
+  {
+   "text": "(385) 337-3560",
+   "fixed": false,
+   "y": 67,
+   "h": 48,
+   "visible": true
+  },
+  {
+   "text": "(385) 337-3560",
+   "fixed": false,
+   "y": -1091,
+   "h": 56,
+   "visible": false
+  },
+  {
+   "text": "Request Emergency Help",
+   "fixed": false,
+   "y": -1019,
+   "h": 56,
+   "visible": false
+  },
+  {
+   "text": "(385) 337-3560",
+   "fixed": false,
+   "y": 18087,
+   "h": 26,
+   "visible": false
+  },
+  {
+   "text": "(385) 337-3560",
+   "fixed": false,
+   "y": 22717,
+   "h": 56,
+   "visible": false
+  },
+  {
+   "text": "Request Emergency Help",
+   "fixed": false,
+   "y": 22789,
+   "h": 56,
+   "visible": false
+  },
+  {
+   "text": "(385) 337-3560",
+   "fixed": false,
+   "y": 23403,
+   "h": 48,
+   "visible": false
+  },
+  {
+   "text": "Call (385) 337-3560",
+   "fixed": false,
+   "y": 25224,
+   "h": 48,
+   "visible": false
+  },
+  {
+   "text": "(385) 337-3560",
+   "fixed": false,
+   "y": 25403,
+   "h": 48,
+   "visible": false
+  },
+  {
+   "text": "Call (385) 337-3560 \u00b7 24/7",
+   "fixed": true,
+   "y": 781,
+   "h": 63,
+   "visible": true
+  }
+ ]
+}

@@ -1,0 +1,2972 @@
+{
+ "data_sha_ok": true,
+ "images": {
+  "counts": {
+   "heroes": 31,
+   "cards": 19,
+   "body": 57,
+   "total": 107
+  },
+  "weights": {
+   "heroes": 3721012,
+   "cards": 633910,
+   "body": 2833532,
+   "total": 7188454
+  },
+  "hero_dims": {
+   "about.webp": [
+    1600,
+    1066
+   ],
+   "basement-flooding-cleanup.webp": [
+    1600,
+    1066
+   ],
+   "basement-flooding-spring-snowmelt-utah.webp": [
+    1600,
+    1066
+   ],
+   "burst-pipe-water-damage.webp": [
+    1600,
+    1066
+   ],
+   "can-mold-grow-in-utah.webp": [
+    1600,
+    1066
+   ],
+   "ceiling-water-damage.webp": [
+    1600,
+    1066
+   ],
+   "commercial-water-damage.webp": [
+    1600,
+    1066
+   ],
+   "condo-apartment-water-damage.webp": [
+    1600,
+    1066
+   ],
+   "contact.webp": [
+    1600,
+    1066
+   ],
+   "cottonwood-heights-ut.webp": [
+    1600,
+    1066
+   ],
+   "crawl-space-water-damage.webp": [
+    1600,
+    1066
+   ],
+   "disclaimer.webp": [
+    1600,
+    1066
+   ],
+   "emergency-water-extraction.webp": [
+    1600,
+    1066
+   ],
+   "frozen-pipes-midvale.webp": [
+    1600,
+    1066
+   ],
+   "hardwood-floor-cabinet-drying.webp": [
+    1600,
+    1066
+   ],
+   "home.webp": [
+    1600,
+    1066
+   ],
+   "magna-ut.webp": [
+    1600,
+    1066
+   ],
+   "midvale-water-sewer-emergency-contacts.webp": [
+    1600,
+    1066
+   ],
+   "mold-remediation.webp": [
+    1600,
+    1066
+   ],
+   "privacy-policy.webp": [
+    1600,
+    1066
+   ],
+   "sewage-backup-cleanup.webp": [
+    1600,
+    1066
+   ],
+   "south-salt-lake-ut.webp": [
+    1600,
+    1066
+   ],
+   "storm-flood-damage.webp": [
+    1600,
+    1066
+   ],
+   "swamp-cooler-leak-water-damage.webp": [
+    1600,
+    1066
+   ],
+   "terms-of-use.webp": [
+    1600,
+    1066
+   ],
+   "upstairs-unit-leak-who-pays-utah.webp": [
+    1600,
+    1066
+   ],
+   "water-damage-repair.webp": [
+    1600,
+    1066
+   ],
+   "water-heater-leak-cleanup.webp": [
+    1600,
+    1066
+   ],
+   "water-leak-detection.webp": [
+    1600,
+    1066
+   ],
+   "window-well-flooding.webp": [
+    1600,
+    1066
+   ],
+   "winterize-swamp-cooler-utah.webp": [
+    1600,
+    1066
+   ]
+  },
+  "card_dims": {
+   "basement-flooding-cleanup.webp": [
+    680,
+    383
+   ],
+   "burst-pipe-water-damage.webp": [
+    680,
+    383
+   ],
+   "ceiling-water-damage.webp": [
+    680,
+    383
+   ],
+   "commercial-water-damage.webp": [
+    680,
+    383
+   ],
+   "condo-apartment-water-damage.webp": [
+    680,
+    383
+   ],
+   "cottonwood-heights-ut.webp": [
+    680,
+    383
+   ],
+   "crawl-space-water-damage.webp": [
+    680,
+    383
+   ],
+   "emergency-water-extraction.webp": [
+    680,
+    383
+   ],
+   "hardwood-floor-cabinet-drying.webp": [
+    680,
+    383
+   ],
+   "magna-ut.webp": [
+    680,
+    383
+   ],
+   "mold-remediation.webp": [
+    680,
+    383
+   ],
+   "sewage-backup-cleanup.webp": [
+    680,
+    383
+   ],
+   "south-salt-lake-ut.webp": [
+    680,
+    383
+   ],
+   "storm-flood-damage.webp": [
+    680,
+    383
+   ],
+   "swamp-cooler-leak-water-damage.webp": [
+    680,
+    383
+   ],
+   "water-damage-repair.webp": [
+    680,
+    383
+   ],
+   "water-heater-leak-cleanup.webp": [
+    680,
+    383
+   ],
+   "water-leak-detection.webp": [
+    680,
+    383
+   ],
+   "window-well-flooding.webp": [
+    680,
+    383
+   ]
+  },
+  "body_dims": {
+   "basement-flooding-cleanup-1.webp": [
+    800,
+    450
+   ],
+   "basement-flooding-cleanup-2.webp": [
+    800,
+    450
+   ],
+   "basement-flooding-cleanup-3.webp": [
+    800,
+    450
+   ],
+   "burst-pipe-water-damage-1.webp": [
+    800,
+    450
+   ],
+   "burst-pipe-water-damage-2.webp": [
+    800,
+    450
+   ],
+   "burst-pipe-water-damage-3.webp": [
+    800,
+    450
+   ],
+   "ceiling-water-damage-1.webp": [
+    800,
+    450
+   ],
+   "ceiling-water-damage-2.webp": [
+    800,
+    450
+   ],
+   "ceiling-water-damage-3.webp": [
+    800,
+    450
+   ],
+   "commercial-water-damage-1.webp": [
+    800,
+    450
+   ],
+   "commercial-water-damage-2.webp": [
+    800,
+    450
+   ],
+   "commercial-water-damage-3.webp": [
+    800,
+    450
+   ],
+   "condo-apartment-water-damage-1.webp": [
+    800,
+    450
+   ],
+   "condo-apartment-water-damage-2.webp": [
+    800,
+    450
+   ],
+   "condo-apartment-water-damage-3.webp": [
+    800,
+    450
+   ],
+   "cottonwood-heights-ut-1.webp": [
+    800,
+    450
+   ],
+   "cottonwood-heights-ut-2.webp": [
+    800,
+    450
+   ],
+   "cottonwood-heights-ut-3.webp": [
+    800,
+    450
+   ],
+   "crawl-space-water-damage-1.webp": [
+    800,
+    450
+   ],
+   "crawl-space-water-damage-2.webp": [
+    800,
+    450
+   ],
+   "crawl-space-water-damage-3.webp": [
+    800,
+    450
+   ],
+   "emergency-water-extraction-1.webp": [
+    800,
+    450
+   ],
+   "emergency-water-extraction-2.webp": [
+    800,
+    450
+   ],
+   "emergency-water-extraction-3.webp": [
+    800,
+    450
+   ],
+   "hardwood-floor-cabinet-drying-1.webp": [
+    800,
+    450
+   ],
+   "hardwood-floor-cabinet-drying-2.webp": [
+    800,
+    450
+   ],
+   "hardwood-floor-cabinet-drying-3.webp": [
+    800,
+    450
+   ],
+   "magna-ut-1.webp": [
+    800,
+    450
+   ],
+   "magna-ut-2.webp": [
+    800,
+    450
+   ],
+   "magna-ut-3.webp": [
+    800,
+    450
+   ],
+   "mold-remediation-1.webp": [
+    800,
+    450
+   ],
+   "mold-remediation-2.webp": [
+    800,
+    450
+   ],
+   "mold-remediation-3.webp": [
+    800,
+    450
+   ],
+   "sewage-backup-cleanup-1.webp": [
+    800,
+    450
+   ],
+   "sewage-backup-cleanup-2.webp": [
+    800,
+    450
+   ],
+   "sewage-backup-cleanup-3.webp": [
+    800,
+    450
+   ],
+   "south-salt-lake-ut-1.webp": [
+    800,
+    450
+   ],
+   "south-salt-lake-ut-2.webp": [
+    800,
+    450
+   ],
+   "south-salt-lake-ut-3.webp": [
+    800,
+    450
+   ],
+   "storm-flood-damage-1.webp": [
+    800,
+    450
+   ],
+   "storm-flood-damage-2.webp": [
+    800,
+    450
+   ],
+   "storm-flood-damage-3.webp": [
+    800,
+    450
+   ],
+   "swamp-cooler-leak-water-damage-1.webp": [
+    800,
+    450
+   ],
+   "swamp-cooler-leak-water-damage-2.webp": [
+    800,
+    450
+   ],
+   "swamp-cooler-leak-water-damage-3.webp": [
+    800,
+    450
+   ],
+   "water-damage-repair-1.webp": [
+    800,
+    450
+   ],
+   "water-damage-repair-2.webp": [
+    800,
+    450
+   ],
+   "water-damage-repair-3.webp": [
+    800,
+    450
+   ],
+   "water-heater-leak-cleanup-1.webp": [
+    800,
+    450
+   ],
+   "water-heater-leak-cleanup-2.webp": [
+    800,
+    450
+   ],
+   "water-heater-leak-cleanup-3.webp": [
+    800,
+    450
+   ],
+   "water-leak-detection-1.webp": [
+    800,
+    450
+   ],
+   "water-leak-detection-2.webp": [
+    800,
+    450
+   ],
+   "water-leak-detection-3.webp": [
+    800,
+    450
+   ],
+   "window-well-flooding-1.webp": [
+    800,
+    450
+   ],
+   "window-well-flooding-2.webp": [
+    800,
+    450
+   ],
+   "window-well-flooding-3.webp": [
+    800,
+    450
+   ]
+  },
+  "hero_dims_bad": {},
+  "card_dims_bad": {},
+  "body_dims_bad": {},
+  "metadata_leftover": {},
+  "alt_burst_card": "<re.Match object; span=(3671, 16466), match='burst-pipe-water-damage\",\\n    h3: \"Burst & Froze>",
+  "alt_burst_card_new": true,
+  "alt_burst_card_old_gone": true,
+  "body_images_keys": [
+   "/basement-flooding-cleanup",
+   "/burst-pipe-water-damage",
+   "/ceiling-water-damage",
+   "/commercial-water-damage",
+   "/condo-apartment-water-damage"
+  ],
+  "cottonwood3_entry": {
+   "src": "/images/body/cottonwood-heights-ut-3.webp",
+   "alt": "Snowy city rooftops in the Salt Lake Valley with snow-capped mountains under low cloud",
+   "afterH2": 8,
+   "layout": "split"
+  },
+  "alt_cotton_new": true,
+  "alt_cotton_old_gone": true,
+  "new_hero_sha": {
+   "disclaimer.webp": "3443f783e195",
+   "upstairs-unit-leak-who-pays-utah.webp": "b52193f61644",
+   "water-damage-repair.webp": "b4d6e0703ef7"
+  },
+  "magna1_sha": "787af0bd91d1",
+  "magna1_size": 145698
+ },
+ "per_page": {
+  "/": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "24/7 Water Damage Restoration in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Restoration crew extracting standing water from a flooded Midvale home at dusk, Wasatch mountains in the background",
+   "hero_src": "/midvale-water-damage/images/heroes/home.webp",
+   "has_breadcrumb_id": false,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 26,
+   "ld_types": {
+    "HomeAndConstructionBusiness": 1,
+    "City": 4,
+    "PostalAddress": 4,
+    "FAQPage": 1,
+    "Question": 6,
+    "Answer": 6,
+    "WebSite": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 1,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 20,
+    "HowTo": 1,
+    "HowToStep": 6
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/",
+    "https://growthaura.github.io/midvale-water-damage/#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-0",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-1",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-10",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-11",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-12",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-13",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-14",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-15",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-16",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-17",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-18",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-2",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-3",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-4",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-5",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-6",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-7",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-8",
+    "https://growthaura.github.io/midvale-water-damage/#card-image-9",
+    "https://growthaura.github.io/midvale-water-damage/#faq",
+    "https://growthaura.github.io/midvale-water-damage/#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/#faq",
+    "https://growthaura.github.io/midvale-water-damage/#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "unresolved_refs": [],
+   "main_words": 3766,
+   "doc_words": 2107,
+   "hidden_words_est": 0,
+   "faq_visible": 24,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 63
+  },
+  "/about": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/about",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "About Our Midvale Water Damage Restoration Team",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Midvale water damage restoration crew with extraction equipment outside a home at dusk",
+   "hero_src": "/midvale-water-damage/images/heroes/about.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 5,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "AboutPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1,
+    "HowTo": 1,
+    "HowToStep": 7
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/about",
+    "https://growthaura.github.io/midvale-water-damage/about#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/about#faq",
+    "https://growthaura.github.io/midvale-water-damage/about#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/about#howto-0"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/about#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/about#faq",
+    "https://growthaura.github.io/midvale-water-damage/about#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/about#howto-0"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 1506,
+   "doc_words": 929,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 59
+  },
+  "/contact": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/contact",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Call for 24/7 Water Damage Help in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Restoration crew answering an emergency call beside drying equipment in a dark Midvale home",
+   "hero_src": "/midvale-water-damage/images/heroes/contact.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [],
+   "ld_blocks": 4,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "ContactPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/contact",
+    "https://growthaura.github.io/midvale-water-damage/contact#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/contact#faq",
+    "https://growthaura.github.io/midvale-water-damage/contact#hero-image"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/contact#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/contact#faq",
+    "https://growthaura.github.io/midvale-water-damage/contact#hero-image"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 1137,
+   "doc_words": 679,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 45
+  },
+  "/emergency-water-extraction": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Crew operating a truck-mounted extraction unit in a flooded Midvale basement",
+   "hero_src": "/midvale-water-damage/images/heroes/emergency-water-extraction.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 6,
+    "Answer": 6,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 4
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#faq",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#faq",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/emergency-water-extraction#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2812,
+   "doc_words": 1762,
+   "hidden_words_est": 0,
+   "faq_visible": 11,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 50
+  },
+  "/basement-flooding-cleanup": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Flooded finished basement in a Midvale rambler, crew pumping out water",
+   "hero_src": "/midvale-water-damage/images/heroes/basement-flooding-cleanup.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 7
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#faq",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#faq",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/basement-flooding-cleanup#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2716,
+   "doc_words": 1662,
+   "hidden_words_est": 0,
+   "faq_visible": 13,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 48
+  },
+  "/window-well-flooding": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/window-well-flooding",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Basement window well filled with snowmelt water in Midvale, Utah",
+   "hero_src": "/midvale-water-damage/images/heroes/window-well-flooding.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 8
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#faq",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#faq",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/window-well-flooding#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2822,
+   "doc_words": 1744,
+   "hidden_words_est": 0,
+   "faq_visible": 15,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 45
+  },
+  "/burst-pipe-water-damage": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Split copper pipe spraying water inside a dark wall cavity",
+   "hero_src": "/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 7
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/burst-pipe-water-damage#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2912,
+   "doc_words": 1825,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 48
+  },
+  "/sewage-backup-cleanup": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Crew in protective gear cleaning a sewage backup in a Midvale bathroom",
+   "hero_src": "/midvale-water-damage/images/heroes/sewage-backup-cleanup.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0",
+    "howto-1"
+   ],
+   "ld_blocks": 10,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 2,
+    "HowToStep": 15
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#faq",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#faq",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/sewage-backup-cleanup#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2966,
+   "doc_words": 1699,
+   "hidden_words_est": 0,
+   "faq_visible": 9,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 46
+  },
+  "/water-heater-leak-cleanup": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Leaking water heater in a dark Midvale utility closet",
+   "hero_src": "/midvale-water-damage/images/heroes/water-heater-leak-cleanup.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0",
+    "howto-1"
+   ],
+   "ld_blocks": 10,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 2,
+    "HowToStep": 13
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#faq",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#faq",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/water-heater-leak-cleanup#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2861,
+   "doc_words": 1678,
+   "hidden_words_est": 0,
+   "faq_visible": 11,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 50
+  },
+  "/swamp-cooler-leak-water-damage": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Rooftop swamp cooler leaking onto a wet roof deck in Midvale",
+   "hero_src": "/midvale-water-damage/images/heroes/swamp-cooler-leak-water-damage.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 7
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/swamp-cooler-leak-water-damage#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2645,
+   "doc_words": 1611,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 45
+  },
+  "/ceiling-water-damage": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Professional Ceiling Water Damage Repair in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Sagging water-stained ceiling with ice dam on a low-slope Midvale roof",
+   "hero_src": "/midvale-water-damage/images/heroes/ceiling-water-damage.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0",
+    "howto-1"
+   ],
+   "ld_blocks": 10,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 2,
+    "HowToStep": 14
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/ceiling-water-damage#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2748,
+   "doc_words": 1601,
+   "hidden_words_est": 0,
+   "faq_visible": 15,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 49
+  },
+  "/crawl-space-water-damage": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Technician with a headlamp in a dark dirt crawl space under a Midvale home",
+   "hero_src": "/midvale-water-damage/images/heroes/crawl-space-water-damage.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 7
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/crawl-space-water-damage#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2659,
+   "doc_words": 1617,
+   "hidden_words_est": 0,
+   "faq_visible": 10,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 46
+  },
+  "/hardwood-floor-cabinet-drying": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Cupped hardwood floor with drying mats and air movers in a Midvale kitchen",
+   "hero_src": "/midvale-water-damage/images/heroes/hardwood-floor-cabinet-drying.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0",
+    "howto-1"
+   ],
+   "ld_blocks": 10,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 2,
+    "HowToStep": 11
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#faq",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#faq",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/hardwood-floor-cabinet-drying#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2897,
+   "doc_words": 1742,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 47
+  },
+  "/condo-apartment-water-damage": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Water leaking through the ceiling of a stacked Midvale apartment unit",
+   "hero_src": "/midvale-water-damage/images/heroes/condo-apartment-water-damage.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0",
+    "howto-1"
+   ],
+   "ld_blocks": 10,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 2,
+    "HowToStep": 14
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/condo-apartment-water-damage#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2893,
+   "doc_words": 1708,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 47
+  },
+  "/commercial-water-damage": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/commercial-water-damage",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "After-hours drying in a dark Midvale restaurant, air movers running",
+   "hero_src": "/midvale-water-damage/images/heroes/commercial-water-damage.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0",
+    "howto-1"
+   ],
+   "ld_blocks": 10,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 2,
+    "HowToStep": 15
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/commercial-water-damage#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2773,
+   "doc_words": 1651,
+   "hidden_words_est": 0,
+   "faq_visible": 10,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 47
+  },
+  "/storm-flood-damage": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/storm-flood-damage",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Storm runoff flooding a Midvale garage at night",
+   "hero_src": "/midvale-water-damage/images/heroes/storm-flood-damage.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 8
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#faq",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/storm-flood-damage#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2557,
+   "doc_words": 1609,
+   "hidden_words_est": 0,
+   "faq_visible": 15,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 48
+  },
+  "/mold-remediation": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/mold-remediation",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Professional Mold Remediation in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Mold remediation containment with HEPA air scrubber in a Midvale home",
+   "hero_src": "/midvale-water-damage/images/heroes/mold-remediation.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 8
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#faq",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#faq",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/mold-remediation#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2646,
+   "doc_words": 1673,
+   "hidden_words_est": 0,
+   "faq_visible": 11,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 50
+  },
+  "/water-leak-detection": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/water-leak-detection",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Technician with a thermal imaging camera finding hidden water in a Midvale wall",
+   "hero_src": "/midvale-water-damage/images/heroes/water-leak-detection.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0",
+    "howto-1",
+    "howto-2"
+   ],
+   "ld_blocks": 11,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 3,
+    "HowToStep": 15
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#faq",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#howto-2",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#faq",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#howto-1",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#howto-2",
+    "https://growthaura.github.io/midvale-water-damage/water-leak-detection#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2852,
+   "doc_words": 1721,
+   "hidden_words_est": 0,
+   "faq_visible": 9,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 49
+  },
+  "/water-damage-repair": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/water-damage-repair",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Newly rebuilt room in a Midvale home, fresh drywall and trim",
+   "hero_src": "/midvale-water-damage/images/heroes/water-damage-repair.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 5
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#faq",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#faq",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/water-damage-repair#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2441,
+   "doc_words": 1516,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 49
+  },
+  "/locations/cottonwood-heights-ut": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Bench homes below the snowy Wasatch canyons in Cottonwood Heights, Utah",
+   "hero_src": "/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 3,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 6
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#faq",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#faq",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/locations/cottonwood-heights-ut#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2710,
+   "doc_words": 1729,
+   "hidden_words_est": 0,
+   "faq_visible": 14,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 52
+  },
+  "/locations/south-salt-lake-ut": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Emergency Water Damage Restoration in South Salt Lake, UT 84115",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Apartment and warehouse buildings in South Salt Lake, Utah at dusk",
+   "hero_src": "/midvale-water-damage/images/heroes/south-salt-lake-ut.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [],
+   "ld_blocks": 8,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 3,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#faq",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#faq",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/locations/south-salt-lake-ut#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2639,
+   "doc_words": 1811,
+   "hidden_words_est": 0,
+   "faq_visible": 14,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 57
+  },
+  "/locations/magna-ut": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/locations/magna-ut",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Local Water Damage Restoration in Magna, UT 84044",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Older homes on historic Main Street in Magna, Utah at dusk",
+   "hero_src": "/midvale-water-damage/images/heroes/magna-ut.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": true,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 9,
+   "ld_types": {
+    "Service": 1,
+    "City": 1,
+    "PostalAddress": 1,
+    "HomeAndConstructionBusiness": 1,
+    "BreadcrumbList": 1,
+    "ListItem": 3,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 4,
+    "HowTo": 1,
+    "HowToStep": 5
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#business",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#body-image-0",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#body-image-1",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#body-image-2",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#faq",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#service"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#faq",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/locations/magna-ut#service"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2683,
+   "doc_words": 1791,
+   "hidden_words_est": 0,
+   "faq_visible": 10,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 53
+  },
+  "/midvale-water-sewer-emergency-contacts": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Midvale Water & Sewer Emergency Contacts (84047)",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Utility crew truck with amber lights beside a sewer manhole on a dark Midvale street",
+   "hero_src": "/midvale-water-damage/images/heroes/midvale-water-sewer-emergency-contacts.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [
+    "howto-0",
+    "howto-1"
+   ],
+   "ld_blocks": 6,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1,
+    "HowTo": 2,
+    "HowToStep": 9
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#faq",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#howto-1"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#faq",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/midvale-water-sewer-emergency-contacts#howto-1"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2112,
+   "doc_words": 1236,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 46
+  },
+  "/privacy-policy": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/privacy-policy",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Privacy Policy",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Customer paperwork and a laptop on a desk in a dim Midvale office",
+   "hero_src": "/midvale-water-damage/images/heroes/privacy-policy.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [],
+   "ld_blocks": 3,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/privacy-policy",
+    "https://growthaura.github.io/midvale-water-damage/privacy-policy#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/privacy-policy#hero-image"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/privacy-policy#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/privacy-policy#hero-image"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 714,
+   "doc_words": 505,
+   "hidden_words_est": 0,
+   "faq_visible": 0,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 43
+  },
+  "/terms-of-use": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/terms-of-use",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Terms of Use",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Printed documents and a pen on a desk in a dim office",
+   "hero_src": "/midvale-water-damage/images/heroes/terms-of-use.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [],
+   "ld_blocks": 3,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/terms-of-use",
+    "https://growthaura.github.io/midvale-water-damage/terms-of-use#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/terms-of-use#hero-image"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/terms-of-use#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/terms-of-use#hero-image"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 666,
+   "doc_words": 450,
+   "hidden_words_est": 0,
+   "faq_visible": 0,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 43
+  },
+  "/disclaimer": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/disclaimer",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Disclaimer",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Technician inspecting a water-damaged wall with a moisture meter in a dark room",
+   "hero_src": "/midvale-water-damage/images/heroes/disclaimer.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [],
+   "ld_blocks": 3,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/disclaimer",
+    "https://growthaura.github.io/midvale-water-damage/disclaimer#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/disclaimer#hero-image"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/disclaimer#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/disclaimer#hero-image"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 489,
+   "doc_words": 291,
+   "hidden_words_est": 0,
+   "faq_visible": 0,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 43
+  },
+  "/resources/frozen-pipes-midvale": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Frozen burst pipe with ice in a dark Midvale crawl space",
+   "hero_src": "/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [
+    "howto-0",
+    "howto-1"
+   ],
+   "ld_blocks": 6,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1,
+    "HowTo": 2,
+    "HowToStep": 13
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#howto-1"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/resources/frozen-pipes-midvale#howto-1"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2565,
+   "doc_words": 1633,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 46
+  },
+  "/resources/winterize-swamp-cooler-utah": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Swamp Cooler Winterizing Checklist for Midvale Homes",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Rooftop swamp cooler covered for winter on a snowy Midvale roof",
+   "hero_src": "/midvale-water-damage/images/heroes/winterize-swamp-cooler-utah.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 5,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1,
+    "HowTo": 1,
+    "HowToStep": 10
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah",
+    "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah#howto-0"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/resources/winterize-swamp-cooler-utah#howto-0"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2292,
+   "doc_words": 1488,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 46
+  },
+  "/resources/upstairs-unit-leak-who-pays-utah": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Water dripping from an apartment ceiling into the unit below in Midvale",
+   "hero_src": "/midvale-water-damage/images/heroes/upstairs-unit-leak-who-pays-utah.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [
+    "howto-0",
+    "howto-1"
+   ],
+   "ld_blocks": 6,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1,
+    "HowTo": 2,
+    "HowToStep": 11
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#howto-1"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#howto-0",
+    "https://growthaura.github.io/midvale-water-damage/resources/upstairs-unit-leak-who-pays-utah#howto-1"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2390,
+   "doc_words": 1490,
+   "hidden_words_est": 0,
+   "faq_visible": 8,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 45
+  },
+  "/resources/can-mold-grow-in-utah": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Mold growth on damp drywall in a dark Midvale basement corner",
+   "hero_src": "/midvale-water-damage/images/heroes/can-mold-grow-in-utah.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [
+    "howto-0"
+   ],
+   "ld_blocks": 5,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1,
+    "HowTo": 1,
+    "HowToStep": 8
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah",
+    "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah#howto-0"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah#hero-image",
+    "https://growthaura.github.io/midvale-water-damage/resources/can-mold-grow-in-utah#howto-0"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 2137,
+   "doc_words": 1428,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 47
+  },
+  "/resources/basement-flooding-spring-snowmelt-utah": {
+   "robots": "index, follow",
+   "canonical": "https://growthaura.github.io/midvale-water-damage/resources/basement-flooding-spring-snowmelt-utah",
+   "canonical_ok": true,
+   "h1_count": 1,
+   "h1_text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale",
+   "h1_ok": true,
+   "hero_img_tag": true,
+   "hero_width": "1600",
+   "hero_height": "1066",
+   "hero_alt": "Spring snowmelt water pooling at a home foundation as a downspout discharges, with melting snow piles and snowy hills behind",
+   "hero_src": "/midvale-water-damage/images/heroes/basement-flooding-spring-snowmelt-utah.webp",
+   "has_breadcrumb_id": true,
+   "has_hero_id": true,
+   "has_service_id": false,
+   "howto_ids": [],
+   "ld_blocks": 4,
+   "ld_types": {
+    "BreadcrumbList": 1,
+    "ListItem": 2,
+    "FAQPage": 1,
+    "Question": 5,
+    "Answer": 5,
+    "WebPage": 1,
+    "SpeakableSpecification": 1,
+    "ImageObject": 1
+   },
+   "defined_ids": [
+    "https://growthaura.github.io/midvale-water-damage/resources/basement-flooding-spring-snowmelt-utah",
+    "https://growthaura.github.io/midvale-water-damage/resources/basement-flooding-spring-snowmelt-utah#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/basement-flooding-spring-snowmelt-utah#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/basement-flooding-spring-snowmelt-utah#hero-image"
+   ],
+   "ref_ids": [
+    "https://growthaura.github.io/midvale-water-damage/#website",
+    "https://growthaura.github.io/midvale-water-damage/resources/basement-flooding-spring-snowmelt-utah#breadcrumb",
+    "https://growthaura.github.io/midvale-water-damage/resources/basement-flooding-spring-snowmelt-utah#faq",
+    "https://growthaura.github.io/midvale-water-damage/resources/basement-flooding-spring-snowmelt-utah#hero-image"
+   ],
+   "unresolved_refs": [
+    "https://growthaura.github.io/midvale-water-damage/#website"
+   ],
+   "main_words": 1957,
+   "doc_words": 1446,
+   "hidden_words_est": 0,
+   "faq_visible": 5,
+   "localhost": 0,
+   "double_slash_bad": 0,
+   "href_count": 47
+  }
+ },
+ "schema": {
+  "per_type": {
+   "HomeAndConstructionBusiness": 20,
+   "City": 23,
+   "PostalAddress": 23,
+   "FAQPage": 28,
+   "Question": 142,
+   "Answer": 142,
+   "WebSite": 1,
+   "BreadcrumbList": 31,
+   "ListItem": 64,
+   "WebPage": 29,
+   "SpeakableSpecification": 31,
+   "ImageObject": 107,
+   "HowTo": 36,
+   "HowToStep": 233,
+   "AboutPage": 1,
+   "ContactPage": 1,
+   "Service": 19
+  },
+  "total_blocks": 931,
+  "parse_errors": 0,
+  "contenturls_total": 107,
+  "contenturls_unique": 107,
+  "unresolved_refs": [
+   [
+    "/about",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/contact",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/emergency-water-extraction",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/basement-flooding-cleanup",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/window-well-flooding",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/burst-pipe-water-damage",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/sewage-backup-cleanup",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/water-heater-leak-cleanup",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/swamp-cooler-leak-water-damage",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/ceiling-water-damage",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/crawl-space-water-damage",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/hardwood-floor-cabinet-drying",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/condo-apartment-water-damage",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/commercial-water-damage",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/storm-flood-damage",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/mold-remediation",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/water-leak-detection",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/water-damage-repair",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/locations/cottonwood-heights-ut",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/locations/south-salt-lake-ut",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/locations/magna-ut",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/midvale-water-sewer-emergency-contacts",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/privacy-policy",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/terms-of-use",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/disclaimer",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/resources/frozen-pipes-midvale",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/resources/winterize-swamp-cooler-utah",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/resources/upstairs-unit-leak-who-pays-utah",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/resources/can-mold-grow-in-utah",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ],
+   [
+    "/resources/basement-flooding-spring-snowmelt-utah",
+    [
+     "https://growthaura.github.io/midvale-water-damage/#website"
+    ]
+   ]
+  ],
+  "top_level_types": {
+   "HomeAndConstructionBusiness": 1,
+   "FAQPage": 28,
+   "WebSite": 1,
+   "BreadcrumbList": 31,
+   "WebPage": 29,
+   "ImageObject": 107,
+   "HowTo": 36,
+   "AboutPage": 1,
+   "ContactPage": 1,
+   "Service": 19
+  },
+  "top_level_total": 254,
+  "unresolved_sitewide": [],
+  "contenturl_non200": {},
+  "hero_dims_schema": {
+   "/": [
+    1600,
+    1066
+   ],
+   "/about": [
+    1600,
+    1066
+   ],
+   "/contact": [
+    1600,
+    1066
+   ],
+   "/emergency-water-extraction": [
+    1600,
+    1066
+   ],
+   "/basement-flooding-cleanup": [
+    1600,
+    1066
+   ],
+   "/window-well-flooding": [
+    1600,
+    1066
+   ],
+   "/burst-pipe-water-damage": [
+    1600,
+    1066
+   ],
+   "/sewage-backup-cleanup": [
+    1600,
+    1066
+   ],
+   "/water-heater-leak-cleanup": [
+    1600,
+    1066
+   ],
+   "/swamp-cooler-leak-water-damage": [
+    1600,
+    1066
+   ],
+   "/ceiling-water-damage": [
+    1600,
+    1066
+   ],
+   "/crawl-space-water-damage": [
+    1600,
+    1066
+   ],
+   "/hardwood-floor-cabinet-drying": [
+    1600,
+    1066
+   ],
+   "/condo-apartment-water-damage": [
+    1600,
+    1066
+   ],
+   "/commercial-water-damage": [
+    1600,
+    1066
+   ],
+   "/storm-flood-damage": [
+    1600,
+    1066
+   ],
+   "/mold-remediation": [
+    1600,
+    1066
+   ],
+   "/water-leak-detection": [
+    1600,
+    1066
+   ],
+   "/water-damage-repair": [
+    1600,
+    1066
+   ],
+   "/locations/cottonwood-heights-ut": [
+    1600,
+    1066
+   ],
+   "/locations/south-salt-lake-ut": [
+    1600,
+    1066
+   ],
+   "/locations/magna-ut": [
+    1600,
+    1066
+   ],
+   "/midvale-water-sewer-emergency-contacts": [
+    1600,
+    1066
+   ],
+   "/privacy-policy": [
+    1600,
+    1066
+   ],
+   "/terms-of-use": [
+    1600,
+    1066
+   ],
+   "/disclaimer": [
+    1600,
+    1066
+   ],
+   "/resources/frozen-pipes-midvale": [
+    1600,
+    1066
+   ],
+   "/resources/winterize-swamp-cooler-utah": [
+    1600,
+    1066
+   ],
+   "/resources/upstairs-unit-leak-who-pays-utah": [
+    1600,
+    1066
+   ],
+   "/resources/can-mold-grow-in-utah": [
+    1600,
+    1066
+   ],
+   "/resources/basement-flooding-spring-snowmelt-utah": [
+    1600,
+    1066
+   ]
+  },
+  "hero_dims_schema_bad": {}
+ },
+ "sitemap": {
+  "loc_count": 31,
+  "set_ok": true,
+  "missing": [],
+  "extra": [],
+  "non200": {}
+ },
+ "robots_txt": "User-agent: *\nAllow: /\nSitemap: https://growthaura.github.io/midvale-water-damage/sitemap.xml\n",
+ "global": {
+  "visible_paren": 436,
+  "localhost_total": 1,
+  "double_slash": 0,
+  "404_status": 404,
+  "404_robots": "noindex"
+ },
+ "verbatim": {
+  "/": {
+   "doc_tokens": 1832,
+   "main_words": 806,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/about": {
+   "doc_tokens": 686,
+   "main_words": 479,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/contact": {
+   "doc_tokens": 625,
+   "main_words": 367,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/emergency-water-extraction": {
+   "doc_tokens": 1584,
+   "main_words": 722,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/basement-flooding-cleanup": {
+   "doc_tokens": 1583,
+   "main_words": 708,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/window-well-flooding": {
+   "doc_tokens": 1627,
+   "main_words": 659,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/burst-pipe-water-damage": {
+   "doc_tokens": 1458,
+   "main_words": 693,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/sewage-backup-cleanup": {
+   "doc_tokens": 1600,
+   "main_words": 685,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/water-heater-leak-cleanup": {
+   "doc_tokens": 1334,
+   "main_words": 655,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/swamp-cooler-leak-water-damage": {
+   "doc_tokens": 1522,
+   "main_words": 587,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/ceiling-water-damage": {
+   "doc_tokens": 1471,
+   "main_words": 655,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/crawl-space-water-damage": {
+   "doc_tokens": 1282,
+   "main_words": 615,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/hardwood-floor-cabinet-drying": {
+   "doc_tokens": 1406,
+   "main_words": 627,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/condo-apartment-water-damage": {
+   "doc_tokens": 1335,
+   "main_words": 628,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/commercial-water-damage": {
+   "doc_tokens": 1235,
+   "main_words": 686,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/storm-flood-damage": {
+   "doc_tokens": 1342,
+   "main_words": 662,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/mold-remediation": {
+   "doc_tokens": 1346,
+   "main_words": 650,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/water-leak-detection": {
+   "doc_tokens": 1283,
+   "main_words": 669,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/water-damage-repair": {
+   "doc_tokens": 1245,
+   "main_words": 640,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/locations/cottonwood-heights-ut": {
+   "doc_tokens": 1340,
+   "main_words": 656,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/locations/south-salt-lake-ut": {
+   "doc_tokens": 1464,
+   "main_words": 636,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/locations/magna-ut": {
+   "doc_tokens": 1411,
+   "main_words": 680,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/midvale-water-sewer-emergency-contacts": {
+   "doc_tokens": 1111,
+   "main_words": 453,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/privacy-policy": {
+   "doc_tokens": 378,
+   "main_words": 258,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/terms-of-use": {
+   "doc_tokens": 407,
+   "main_words": 254,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/disclaimer": {
+   "doc_tokens": 293,
+   "main_words": 219,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/resources/frozen-pipes-midvale": {
+   "doc_tokens": 1261,
+   "main_words": 562,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/resources/winterize-swamp-cooler-utah": {
+   "doc_tokens": 1143,
+   "main_words": 523,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/resources/upstairs-unit-leak-who-pays-utah": {
+   "doc_tokens": 1240,
+   "main_words": 560,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/resources/can-mold-grow-in-utah": {
+   "doc_tokens": 1183,
+   "main_words": 562,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "/resources/basement-flooding-spring-snowmelt-utah": {
+   "doc_tokens": 1193,
+   "main_words": 580,
+   "missing_tokens": 0,
+   "missing_sample": []
+  },
+  "faq_total_doc": 142,
+  "faq_schema_questions": 142
+ },
+ "faq_total_doc": 142,
+ "faq_schema_q": 142,
+ "tables_doc": 43,
+ "problems": []
+}

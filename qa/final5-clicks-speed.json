@@ -1,0 +1,830 @@
+{
+  "partA_clicks": [
+    {
+      "test": "A1 homepage service card",
+      "start_url": "http://127.0.0.1:8350/midvale-water-damage/",
+      "clicked_element": "<a class=\"card-wrap-link\" href=\"/midvale-water-damage/emergency-water-extraction\"><span class=\"card-img-link\"><img class=\"card-img\" src=\"/midvale-water-damage/images/cards/emergency-water-extraction.webp\" alt=\"Submersibl",
+      "end_url": "http://127.0.0.1:8350/midvale-water-damage/emergency-water-extraction",
+      "end_h1": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+      "subpath_kept": true,
+      "http_status": 200,
+      "selector_used": "card link to emergency-water-extraction"
+    },
+    {
+      "test": "A2 footer location link Cottonwood Heights",
+      "start_url": "http://127.0.0.1:8350/midvale-water-damage/",
+      "clicked_element": "<a href=\"/midvale-water-damage/locations/cottonwood-heights-ut\">Water Damage Restoration Cottonwood Heights</a>",
+      "end_url": "http://127.0.0.1:8350/midvale-water-damage/locations/cottonwood-heights-ut",
+      "end_h1": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121",
+      "subpath_kept": true,
+      "http_status": 200
+    },
+    {
+      "test": "A3 breadcrumb Home on service page",
+      "start_url": "http://127.0.0.1:8350/midvale-water-damage/emergency-water-extraction",
+      "clicked_element": "<a href=\"/midvale-water-damage\">Home</a>",
+      "end_url": "http://127.0.0.1:8350/midvale-water-damage",
+      "end_h1": "24/7 Water Damage Restoration in Midvale, UT 84047",
+      "subpath_kept": true,
+      "http_status": 200
+    },
+    {
+      "test": "A4 mobile menu link (390px)",
+      "start_url": "http://127.0.0.1:8350/midvale-water-damage/",
+      "clicked_element": "<a href=\"/midvale-water-damage/sewage-backup-cleanup\">Sewage Backup Cleanup</a>",
+      "end_url": "http://127.0.0.1:8350/midvale-water-damage/sewage-backup-cleanup",
+      "end_h1": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+      "subpath_kept": true,
+      "http_status": 200,
+      "menu_state_before_click": "flex|null"
+    },
+    {
+      "test": "A5 footer About link",
+      "start_url": "http://127.0.0.1:8350/midvale-water-damage/",
+      "clicked_element": "<a href=\"/midvale-water-damage/about\">About</a>",
+      "end_url": "http://127.0.0.1:8350/midvale-water-damage/about",
+      "end_h1": "About Our Midvale Water Damage Restoration Team",
+      "subpath_kept": true,
+      "http_status": 200
+    },
+    {
+      "test": "A6 body-copy link on burst-pipe page",
+      "start_url": "http://127.0.0.1:8350/midvale-water-damage/burst-pipe-water-damage",
+      "clicked_element": "text=Water Leak Detection | context=We use thermal imaging and moisture meters to trace the water, then dry the cavity directly: baseboards come off, small holes are drilled behind them, and dry air is pushed through",
+      "end_url": "http://127.0.0.1:8350/midvale-water-damage/water-leak-detection",
+      "end_h1": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+      "subpath_kept": true,
+      "http_status": 200
+    },
+    {
+      "test": "A7 sticky call-bar phone link",
+      "start_url": "http://127.0.0.1:8350/midvale-water-damage/",
+      "clicked_element": ".sticky-bar a[href^='tel:'] text=Call (385) 337-3560 \u00b7 24/7",
+      "sticky_bar_class_after_scroll": "sticky-bar",
+      "tel_href": "tel:+13853373560",
+      "tel_href_expected": "tel:+13853373560",
+      "tel_href_correct": true,
+      "click_outcome": "click raised: TimeoutError: Locator.click: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\".sticky-bar a[href^=\\\"tel:\\\"]\").first\n    - locator resolved to <a href=\"tel:+13853373560\">\u2026</a>\n  - attempting click action\n",
+      "end_url": "http://127.0.0.1:8350/midvale-water-damage/",
+      "url_unchanged": true,
+      "end_h1": "24/7 Water Damage Restoration in Midvale, UT 84047",
+      "subpath_kept": true
+    }
+  ],
+  "partB_speed": [
+    {
+      "page": "homepage",
+      "path": "/",
+      "viewport": "desktop-1440",
+      "conditions": "cpu-x4, no network throttle",
+      "runs": [
+        {
+          "fcp": 312,
+          "lcp": 728,
+          "cls": 0.003669976128472222,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/home.webp"
+        },
+        {
+          "fcp": 1780,
+          "lcp": 1780,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/home.webp"
+        },
+        {
+          "fcp": 920,
+          "lcp": 920,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/home.webp"
+        }
+      ],
+      "fcp_ms_median": 920,
+      "lcp_ms_median": 920,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/home.webp"
+    },
+    {
+      "page": "homepage",
+      "path": "/",
+      "viewport": "mobile-390",
+      "conditions": "cpu-x4 + Fast 3G (1.6Mbps/750kbps, 150ms RTT)",
+      "runs": [
+        {
+          "fcp": 1584,
+          "lcp": 2996,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/home.webp"
+        },
+        {
+          "fcp": 2120,
+          "lcp": 2712,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/home.webp"
+        },
+        {
+          "fcp": 1936,
+          "lcp": 2928,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/home.webp"
+        }
+      ],
+      "fcp_ms_median": 1936,
+      "lcp_ms_median": 2928,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/home.webp"
+    },
+    {
+      "page": "service: emergency-water-extraction",
+      "path": "/emergency-water-extraction",
+      "viewport": "desktop-1440",
+      "conditions": "cpu-x4, no network throttle",
+      "runs": [
+        {
+          "fcp": 1796,
+          "lcp": 1796,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/emergency-water-extraction.webp"
+        },
+        {
+          "fcp": 800,
+          "lcp": 800,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/emergency-water-extraction.webp"
+        },
+        {
+          "fcp": 2636,
+          "lcp": 2636,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/emergency-water-extraction.webp"
+        }
+      ],
+      "fcp_ms_median": 1796,
+      "lcp_ms_median": 1796,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/emergency-water-extraction.webp"
+    },
+    {
+      "page": "service: emergency-water-extraction",
+      "path": "/emergency-water-extraction",
+      "viewport": "mobile-390",
+      "conditions": "cpu-x4 + Fast 3G (1.6Mbps/750kbps, 150ms RTT)",
+      "runs": [
+        {
+          "fcp": 1472,
+          "lcp": 3080,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/emergency-water-extraction.webp"
+        },
+        {
+          "fcp": 1892,
+          "lcp": 3088,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/emergency-water-extraction.webp"
+        },
+        {
+          "fcp": 1996,
+          "lcp": 2864,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/emergency-water-extraction.webp"
+        }
+      ],
+      "fcp_ms_median": 1892,
+      "lcp_ms_median": 3080,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/emergency-water-extraction.webp"
+    },
+    {
+      "page": "service: burst-pipe-water-damage",
+      "path": "/burst-pipe-water-damage",
+      "viewport": "desktop-1440",
+      "conditions": "cpu-x4, no network throttle",
+      "runs": [
+        {
+          "fcp": 2600,
+          "lcp": 2600,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp"
+        },
+        {
+          "fcp": 2176,
+          "lcp": 2176,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp"
+        },
+        {
+          "fcp": 2784,
+          "lcp": 2784,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp"
+        }
+      ],
+      "fcp_ms_median": 2600,
+      "lcp_ms_median": 2600,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp"
+    },
+    {
+      "page": "service: burst-pipe-water-damage",
+      "path": "/burst-pipe-water-damage",
+      "viewport": "mobile-390",
+      "conditions": "cpu-x4 + Fast 3G (1.6Mbps/750kbps, 150ms RTT)",
+      "runs": [
+        {
+          "fcp": 2488,
+          "lcp": 3208,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp"
+        },
+        {
+          "fcp": 1912,
+          "lcp": 3520,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp"
+        },
+        {
+          "fcp": 2192,
+          "lcp": 3992,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp"
+        }
+      ],
+      "fcp_ms_median": 2192,
+      "lcp_ms_median": 3520,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp"
+    },
+    {
+      "page": "service: mold-remediation",
+      "path": "/mold-remediation",
+      "viewport": "desktop-1440",
+      "conditions": "cpu-x4, no network throttle",
+      "runs": [
+        {
+          "fcp": 616,
+          "lcp": 1728,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/mold-remediation.webp"
+        },
+        {
+          "fcp": 3268,
+          "lcp": 3268,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/mold-remediation.webp"
+        },
+        {
+          "fcp": 2380,
+          "lcp": 2380,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/mold-remediation.webp"
+        }
+      ],
+      "fcp_ms_median": 2380,
+      "lcp_ms_median": 2380,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/mold-remediation.webp"
+    },
+    {
+      "page": "service: mold-remediation",
+      "path": "/mold-remediation",
+      "viewport": "mobile-390",
+      "conditions": "cpu-x4 + Fast 3G (1.6Mbps/750kbps, 150ms RTT)",
+      "runs": [
+        {
+          "fcp": 2000,
+          "lcp": 2708,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/mold-remediation.webp"
+        },
+        {
+          "fcp": 2492,
+          "lcp": 3384,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/mold-remediation.webp"
+        },
+        {
+          "fcp": 1404,
+          "lcp": 3388,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/mold-remediation.webp"
+        }
+      ],
+      "fcp_ms_median": 2000,
+      "lcp_ms_median": 3384,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/mold-remediation.webp"
+    },
+    {
+      "page": "location: cottonwood-heights-ut",
+      "path": "/locations/cottonwood-heights-ut",
+      "viewport": "desktop-1440",
+      "conditions": "cpu-x4, no network throttle",
+      "runs": [
+        {
+          "fcp": 1436,
+          "lcp": 1436,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp"
+        },
+        {
+          "fcp": 500,
+          "lcp": 500,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp"
+        },
+        {
+          "fcp": 1992,
+          "lcp": 1992,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp"
+        }
+      ],
+      "fcp_ms_median": 1436,
+      "lcp_ms_median": 1436,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp"
+    },
+    {
+      "page": "location: cottonwood-heights-ut",
+      "path": "/locations/cottonwood-heights-ut",
+      "viewport": "mobile-390",
+      "conditions": "cpu-x4 + Fast 3G (1.6Mbps/750kbps, 150ms RTT)",
+      "runs": [
+        {
+          "fcp": 2064,
+          "lcp": 3668,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp"
+        },
+        {
+          "fcp": 1112,
+          "lcp": 3272,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp"
+        },
+        {
+          "fcp": 1188,
+          "lcp": 3764,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp"
+        }
+      ],
+      "fcp_ms_median": 1188,
+      "lcp_ms_median": 3668,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/cottonwood-heights-ut.webp"
+    },
+    {
+      "page": "resource: frozen-pipes-midvale",
+      "path": "/resources/frozen-pipes-midvale",
+      "viewport": "desktop-1440",
+      "conditions": "cpu-x4, no network throttle",
+      "runs": [
+        {
+          "fcp": 1624,
+          "lcp": 1624,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp"
+        },
+        {
+          "fcp": 2296,
+          "lcp": 2584,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp"
+        },
+        {
+          "fcp": 2168,
+          "lcp": 2168,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp"
+        }
+      ],
+      "fcp_ms_median": 2168,
+      "lcp_ms_median": 2168,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp"
+    },
+    {
+      "page": "resource: frozen-pipes-midvale",
+      "path": "/resources/frozen-pipes-midvale",
+      "viewport": "mobile-390",
+      "conditions": "cpu-x4 + Fast 3G (1.6Mbps/750kbps, 150ms RTT)",
+      "runs": [
+        {
+          "fcp": 1108,
+          "lcp": 2980,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp"
+        },
+        {
+          "fcp": 1592,
+          "lcp": 3088,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp"
+        },
+        {
+          "fcp": 1740,
+          "lcp": 3232,
+          "cls": 0,
+          "lcpEl": "IMG.hero-img",
+          "lcpSrc": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp"
+        }
+      ],
+      "fcp_ms_median": 1592,
+      "lcp_ms_median": 3088,
+      "cls_median": 0,
+      "lcp_element": "IMG.hero-img",
+      "lcp_element_all_runs": [
+        "IMG.hero-img",
+        "IMG.hero-img",
+        "IMG.hero-img"
+      ],
+      "lcp_src": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/frozen-pipes-midvale.webp"
+    }
+  ],
+  "partC_images": [
+    {
+      "n": 1,
+      "file": "public/images/heroes/basement-flooding-spring-snowmelt-utah.webp",
+      "kind": "blog hero (alt fixed this round)",
+      "alt": "Spring snowmelt water pooling at a home foundation as a downspout discharges, with melting snow piles and snowy hills behind",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/basement-flooding-spring-snowmelt-utah.webp",
+      "natural_px": {
+        "w": 1600,
+        "h": 1066
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-01-basement-flooding-spring-snowmelt-utah.png",
+      "mean_saturation_0to1": 0.13,
+      "shows": "Downspout discharging water onto a puddle at a house foundation, melting snow piles alongside, snowy hills behind.",
+      "alt_matches": true,
+      "alt_match_why": "Alt is an exact description of the photo: downspout discharge, pooling water at foundation, melting snow, snowy hills.",
+      "topic_fit": true,
+      "topic_fit_why": "Perfect fit for the 'Basement Flooding & Spring Snowmelt' blog hero."
+    },
+    {
+      "n": 2,
+      "file": "public/images/cards/cottonwood-heights-ut.webp",
+      "kind": "location card (alt fixed this round)",
+      "alt": "Winding canyon highway with cars through steep rocky autumn slopes in Cottonwood Canyon, Utah",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/cards/cottonwood-heights-ut.webp",
+      "natural_px": {
+        "w": 1200,
+        "h": 675
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-02-cottonwood-heights-ut.png",
+      "mean_saturation_0to1": 0.636,
+      "shows": "Winding canyon highway with cars through steep rocky autumn slopes, golden/orange foliage.",
+      "alt_matches": true,
+      "alt_match_why": "Alt matches exactly: winding canyon highway, cars, steep rocky autumn slopes, Cottonwood Canyon.",
+      "topic_fit": true,
+      "topic_fit_why": "Cottonwood Canyon is the defining geography of Cottonwood Heights; strong place fit."
+    },
+    {
+      "n": 3,
+      "file": "public/images/heroes/commercial-water-damage.webp",
+      "kind": "service hero (was B&W in old round \u2014 confirm colour)",
+      "alt": "After-hours drying in a dark Midvale restaurant, air movers running",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/commercial-water-damage.webp",
+      "natural_px": {
+        "w": 1600,
+        "h": 1066
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-03-commercial-water-damage.png",
+      "mean_saturation_0to1": 0.38,
+      "shows": "Dark restaurant interior after hours: chairs stacked on tables, wet floor, two yellow air movers and a grey dehumidifier running.",
+      "alt_matches": true,
+      "alt_match_why": "Alt matches: dark restaurant, after-hours (chairs up, night windows), air movers running. COLOUR CONFIRMED (mean saturation 0.38; yellow movers, warm wood, green LED) \u2014 not B&W.",
+      "topic_fit": true,
+      "topic_fit_why": "Commercial water-damage drying in a restaurant; exact topic fit."
+    },
+    {
+      "n": 4,
+      "file": "public/images/heroes/burst-pipe-water-damage.webp",
+      "kind": "service hero",
+      "alt": "Split copper pipe spraying water inside a dark wall cavity",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/burst-pipe-water-damage.webp",
+      "natural_px": {
+        "w": 1600,
+        "h": 1066
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-04-burst-pipe-water-damage.png",
+      "mean_saturation_0to1": 0.485,
+      "shows": "Split copper pipe spraying water inside a dark, wet wall cavity with torn drywall and damp studs.",
+      "alt_matches": true,
+      "alt_match_why": "Alt matches exactly: split copper pipe, spraying water, dark wall cavity.",
+      "topic_fit": true,
+      "topic_fit_why": "Exact fit for burst-pipe service hero."
+    },
+    {
+      "n": 5,
+      "file": "public/images/heroes/sewage-backup-cleanup.webp",
+      "kind": "service hero",
+      "alt": "Crew in protective gear cleaning a sewage backup in a Midvale bathroom",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/sewage-backup-cleanup.webp",
+      "natural_px": {
+        "w": 1600,
+        "h": 1066
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-05-sewage-backup-cleanup.png",
+      "mean_saturation_0to1": 0.321,
+      "shows": "Three workers in protective suits/respirators cleaning a filthy tiled bathroom floor with sprayer, brush and vacuum hose; dark contaminated water and debris.",
+      "alt_matches": true,
+      "alt_match_why": "Alt matches: crew in protective gear, cleaning a sewage backup, bathroom setting.",
+      "topic_fit": true,
+      "topic_fit_why": "Exact fit for sewage-backup service hero. (Staged/illustration-style photo; topic and alt both pass.)"
+    },
+    {
+      "n": 6,
+      "file": "public/images/heroes/storm-flood-damage.webp",
+      "kind": "service hero",
+      "alt": "Storm runoff flooding a Midvale garage at night",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/storm-flood-damage.webp",
+      "natural_px": {
+        "w": 1600,
+        "h": 1066
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-06-storm-flood-damage.png",
+      "mean_saturation_0to1": 0.319,
+      "shows": "Storm runoff flooding a garage at night, viewed from inside toward the open door: heavy rain, car headlights, flooded street, dark storm clouds.",
+      "alt_matches": true,
+      "alt_match_why": "Alt matches exactly: storm runoff flooding a garage at night.",
+      "topic_fit": true,
+      "topic_fit_why": "Exact fit for storm-flood service hero."
+    },
+    {
+      "n": 7,
+      "file": "public/images/body/burst-pipe-water-damage-1.webp",
+      "kind": "body image",
+      "alt": "A frozen copper water supply pipe split open in a basement, coated in frost with icicles and water spraying from the break.",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/body/burst-pipe-water-damage-1.webp",
+      "natural_px": {
+        "w": 1200,
+        "h": 675
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-07-burst-pipe-water-damage-1.png",
+      "mean_saturation_0to1": 0.219,
+      "shows": "Frozen copper supply pipe split open in a basement, coated in frost with long icicles, water spraying/dripping from the break.",
+      "alt_matches": true,
+      "alt_match_why": "Alt matches exactly: frozen split copper pipe, frost, icicles, water spraying.",
+      "topic_fit": true,
+      "topic_fit_why": "Exact fit as burst-pipe body image."
+    },
+    {
+      "n": 8,
+      "file": "public/images/body/mold-remediation-2.webp",
+      "kind": "body image",
+      "alt": "A worker in a white protective suit, respirator and blue gloves treating a room with a fogging hose",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/body/mold-remediation-2.webp",
+      "natural_px": {
+        "w": 1200,
+        "h": 675
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-08-mold-remediation-2.png",
+      "mean_saturation_0to1": 0.047,
+      "shows": "Worker in a white protective suit, respirator mask and blue gloves holding a fogging/mist hose in a bright, fog-filled room.",
+      "alt_matches": true,
+      "alt_match_why": "Alt matches: white suit, respirator, blue gloves, fogging hose treating a room.",
+      "topic_fit": true,
+      "topic_fit_why": "Fits mold-remediation body slot. NOTE: image is very washed-out / low-contrast (mean saturation 0.047, near-white fog) \u2014 weakest of the 12 visually; see P3-1."
+    },
+    {
+      "n": 9,
+      "file": "public/images/body/water-heater-leak-cleanup-1.webp",
+      "kind": "body image",
+      "alt": "A tall white tank water heater with copper pipes beside a washer and dryer in a basement utility area, with a puddle at its base.",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/body/water-heater-leak-cleanup-1.webp",
+      "natural_px": {
+        "w": 1200,
+        "h": 675
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-09-water-heater-leak-cleanup-1.png",
+      "mean_saturation_0to1": 0.138,
+      "shows": "Tall white tank water heater with copper pipes beside a washer and dryer in a basement utility area, puddle at its base.",
+      "alt_matches": true,
+      "alt_match_why": "Alt matches exactly: tall white tank heater, copper pipes, washer/dryer, basement utility area, puddle at base.",
+      "topic_fit": true,
+      "topic_fit_why": "Exact fit as water-heater-leak body image."
+    },
+    {
+      "n": 10,
+      "file": "public/images/cards/south-salt-lake-ut.webp",
+      "kind": "location card",
+      "alt": "Apartment blocks and warehouse buildings in South Salt Lake, Utah",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/cards/south-salt-lake-ut.webp",
+      "natural_px": {
+        "w": 1200,
+        "h": 675
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-10-south-salt-lake-ut.png",
+      "mean_saturation_0to1": 0.111,
+      "shows": "A red/white/blue UTA TRAX 'Blue Line' light-rail train at a snowy station platform.",
+      "alt_matches": false,
+      "alt_match_why": "Alt says 'Apartment blocks and warehouse buildings in South Salt Lake, Utah' \u2014 the photo shows a TRAX train; there are NO apartment blocks and NO warehouse buildings in it. Diagnostic: heroes/south-salt-lake-ut.webp DOES match its alt (apartments left, warehouses right, at dusk) \u2014 the mismatch is confined to the CARD file.",
+      "topic_fit": "partial",
+      "topic_fit_why": "Weak/partial: the TRAX Blue Line does run through South Salt Lake, so it is a real Utah-transit scene, but the card shows no part of the city itself. See P2-1."
+    },
+    {
+      "n": 11,
+      "file": "public/images/cards/magna-ut.webp",
+      "kind": "location card",
+      "alt": "Older brick homes and storefronts on historic Main Street in Magna, Utah",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/cards/magna-ut.webp",
+      "natural_px": {
+        "w": 1200,
+        "h": 675
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-11-magna-ut.png",
+      "mean_saturation_0to1": 0.298,
+      "shows": "Newer-looking suburban brick homes with garages and a white fence at a street corner, snowy Oquirrh mountains behind, winter evening light.",
+      "alt_matches": false,
+      "alt_match_why": "Alt says 'Older brick homes and storefronts on historic Main Street in Magna, Utah' \u2014 the photo has NO storefronts and NO Main Street; the homes read as a newer subdivision, not historic Main Street. Diagnostic: heroes/magna-ut.webp DOES match its alt (older brick storefronts + older homes on a historic Main Street at dusk) \u2014 the mismatch is confined to the CARD file.",
+      "topic_fit": "partial",
+      "topic_fit_why": "Partial: brick homes + Oquirrh-mountain backdrop are Magna-plausible, but the photo does not show Main Street at all. See P2-2."
+    },
+    {
+      "n": 12,
+      "file": "public/images/heroes/can-mold-grow-in-utah.webp",
+      "kind": "blog hero",
+      "alt": "Mold growth on damp drywall in a dark Midvale basement corner",
+      "served_url": "http://127.0.0.1:8350/midvale-water-damage/images/heroes/can-mold-grow-in-utah.webp",
+      "natural_px": {
+        "w": 1600,
+        "h": 1066
+      },
+      "screenshot": "/home/hatch/workspace/midvale-water-damage/qa/final5-img-12-can-mold-grow-in-utah.png",
+      "mean_saturation_0to1": 0.274,
+      "shows": "Flashlight beam on black mold growth spotting damp drywall in a dark basement corner, vacuum hose on the floor.",
+      "alt_matches": true,
+      "alt_match_why": "Alt matches: mold growth on damp drywall in a dark basement corner.",
+      "topic_fit": true,
+      "topic_fit_why": "Exact fit for the 'Can Mold Grow in Utah?' blog hero."
+    },
+    {
+      "n": "diag-extra",
+      "file": "public/images/heroes/south-salt-lake-ut.webp + public/images/heroes/magna-ut.webp",
+      "kind": "diagnostic extra (NOT part of the 12 \u2014 viewed only to localise the two card mismatches)",
+      "alt": "SSL hero: 'Apartment and warehouse buildings in South Salt Lake, Utah at dusk'; Magna hero: 'Older homes on historic Main Street in Magna, Utah at dusk'",
+      "shows": "SSL hero: apartment block left, warehouse/industrial buildings right, wet street at dusk \u2014 MATCHES its alt. Magna hero: older brick storefronts with awnings + older homes on a wet historic Main Street at dusk, mountains behind \u2014 MATCHES its alt.",
+      "alt_matches": true,
+      "alt_match_why": "Both hero files match their alts exactly, so the alt text is correct and the CARD files are the wrong photos.",
+      "topic_fit": true,
+      "topic_fit_why": "Heroes are correct; only the two card files mismatch.",
+      "screenshot": "qa/final5-diag-hero-south-salt-lake-ut.png / qa/final5-diag-hero-magna-ut.png"
+    }
+  ],
+  "notes": [
+    "A7: the tel: click itself timed out in headless Chromium (no external-protocol handler) \u2014 the href was verified tel:+13853373560 and the URL stayed unchanged. Not a site defect.",
+    "One transient Chromium 'Target crashed' on the first re-run attempt (A1 click); the run completed cleanly on retry with no code change \u2014 environment flake, not a site defect.",
+    "A6 correction: my first selector assumed a body-copy link to emergency-water-extraction on the burst-pipe page; live-DOM probe showed that anchor exists only in header/footer nav there. The genuine body-copy link clicked was 'Water Leak Detection' inside a <p> on the burst-pipe page.",
+    "Speed method: PerformanceObserver (paint + largest-contentful-paint + layout-shift), injected before load; 3 runs per page/viewport, medians reported. Desktop: CPU x4, no network throttle. Mobile: CPU x4 + Fast 3G emulation (1.6Mbps down / 750kbps up, 150ms RTT). Served from 127.0.0.1 on this VM \u2014 LOCAL LAB numbers, not field data, not the live GitHub Pages host.",
+    "Part C: all 12 images opened full-size in the browser and judged from the screenshots; mean saturation (PIL, 80x80 downscale) recorded as objective colour support only \u2014 verdicts are from viewed pixels.",
+    "No site source files were edited. Only new qa/ files: final5-run.py, final5-clicks-speed.json, final5-img-*.png, final5-diag-hero-*.png."
+  ],
+  "meta": {
+    "base": "http://127.0.0.1:8350/midvale-water-damage",
+    "caveat": "LOCAL LAB numbers only \u2014 served from 127.0.0.1 on this VM, not field data and not the live GitHub Pages host. Desktop runs: CPU x4, no network throttle. Mobile runs: CPU x4 + Fast 3G emulation.",
+    "date": "2026-11-13 06:59 UTC"
+  },
+  "problems": [
+    {
+      "id": "P2-1",
+      "severity": "P2",
+      "title": "cards/south-salt-lake-ut.webp \u2014 alt text does not describe the photo",
+      "detail": "Alt: 'Apartment blocks and warehouse buildings in South Salt Lake, Utah'. Viewed photo: a UTA TRAX Blue Line light-rail train at a snowy station. No apartment blocks, no warehouses anywhere in the frame. Screen readers and image search get a false description; the location card also fails to show the city. The hero file (heroes/south-salt-lake-ut.webp) DOES match its alt, so the defect is confined to the card file \u2014 fix by either swapping the card photo for a crop of the matching hero, or rewriting the card alt to describe the train.",
+      "evidence": "qa/final5-img-10-south-salt-lake-ut.png vs qa/final5-diag-hero-south-salt-lake-ut.png"
+    },
+    {
+      "id": "P2-2",
+      "severity": "P2",
+      "title": "cards/magna-ut.webp \u2014 alt text does not describe the photo",
+      "detail": "Alt: 'Older brick homes and storefronts on historic Main Street in Magna, Utah'. Viewed photo: newer-looking suburban brick homes with garages at a street corner, white fence, snowy Oquirrh mountains behind. No storefronts, no Main Street, homes do not read as historic. Same class as P2-1; the hero file (heroes/magna-ut.webp) DOES match its alt (older brick storefronts + homes on a wet Main Street at dusk), so the defect is confined to the card file \u2014 fix by swapping the card photo for a crop of the matching hero, or rewriting the card alt to describe the suburban homes + Oquirrh backdrop.",
+      "evidence": "qa/final5-img-11-magna-ut.png vs qa/final5-diag-hero-magna-ut.png"
+    },
+    {
+      "id": "P3-1",
+      "severity": "P3",
+      "title": "body/mold-remediation-2.webp is very washed-out / low-contrast",
+      "detail": "Alt matches and topic fits, but the photo is dominated by white fog (mean saturation 0.047, near-monochrome white) and reads flat and hazy at display size \u2014 the weakest of the 12 images viewed. Cosmetic; swap only if a stronger fogging-treatment photo is available.",
+      "evidence": "qa/final5-img-08-mold-remediation-2.png"
+    },
+    {
+      "id": "P3-2",
+      "severity": "P3",
+      "title": "Mobile LCP 2.9\u20133.7s in lab (throttled); desktop 0.9\u20132.6s; CLS 0 everywhere",
+      "detail": "Medians of 3 runs, CPU x4 + Fast 3G emulation, local server: mobile LCP 2928\u20133668ms across the 6 pages (worst: location page 3668ms), desktop LCP 920\u20132600ms. LCP element is IMG.hero-img on every page/viewport, and on desktop FCP == LCP, i.e. the 1600x1066 hero image gates first paint. Lab numbers on localhost, NOT field data \u2014 real-hosting values will differ \u2014 but the hero is the clear bottleneck; a smaller mobile hero / fetchpriority + preload could help. CLS 0.0 on all 12 rows is excellent.",
+      "evidence": "partB_speed in this JSON"
+    },
+    {
+      "id": "P3-3",
+      "severity": "P3",
+      "title": "Header nav carries only 3 links (Home + Emergency Water Extraction + Sewage Backup Cleanup) on all viewports",
+      "detail": "Verified in the live DOM: #main-nav contains exactly those 3 links (desktop and the 390px mobile menu alike). The menu itself works (A4: opened, link navigated, subpath kept). All other services/locations are reachable via cards, footer and body links, so nothing is stranded \u2014 but header navigation is minimal. Observation only; change only if the parent wants a fuller nav.",
+      "evidence": "A4 record in this JSON; out/index.html #main-nav"
+    }
+  ],
+  "summary": {
+    "partA": "7/7 clicks PASS (subpath kept, correct H1s); A7 href verified, click itself N/A in headless.",
+    "partB": "CLS 0 on all 12 rows; desktop LCP 920-2600ms; mobile LCP 2928-3668ms (lab, throttled); LCP element IMG.hero-img everywhere.",
+    "partC": "10/12 alt match YES + topic fit YES; 2 alt mismatches (both location CARD files, P2); heroes for both locations verified matching.",
+    "problems": "P1 0, P2 2, P3 3"
+  }
+}

@@ -1,0 +1,78 @@
+SKIP home (already in json)
+SKIP about (already in json)
+SKIP basement-flooding-cleanup (already in json)
+SKIP burst-pipe-water-damage (already in json)
+SKIP ceiling-water-damage (already in json)
+SKIP commercial-water-damage (already in json)
+SKIP condo-apartment-water-damage (already in json)
+SKIP contact (already in json)
+SKIP crawl-space-water-damage (already in json)
+SKIP disclaimer (already in json)
+SKIP emergency-water-extraction (already in json)
+SKIP hardwood-floor-cabinet-drying (already in json)
+SKIP locations-cottonwood-heights-ut (already in json)
+SKIP locations-magna-ut (already in json)
+SKIP locations-south-salt-lake-ut (already in json)
+SKIP midvale-water-sewer-emergency-contacts (already in json)
+SKIP mold-remediation (already in json)
+SKIP privacy-policy (already in json)
+SKIP resources-basement-flooding-spring-snowmelt-utah (already in json)
+SKIP resources-can-mold-grow-in-utah (already in json)
+SKIP resources-frozen-pipes-midvale (already in json)
+SKIP resources-upstairs-unit-leak-who-pays-utah (already in json)
+SKIP resources-winterize-swamp-cooler-utah (already in json)
+SKIP sewage-backup-cleanup (already in json)
+SKIP storm-flood-damage (already in json)
+swamp-cooler-leak-water-damage desktop: H=9132 scrollW=1440 clientW=1440 imgs=4 brokenLocal=0 blanks=1 wide=0
+  FAIL swamp-cooler-leak-water-damage m390 attempt 1: BrowserContext.new_page: Target page, context or browser has been closed
+Browser logs:
+
+<launching> /home/hatch/.cache/ms-playwright/chromium_headless_shell-1243/chrome-headless-shell-linux64/chrome-headless-shell --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --single-process --no-zygote --disable-gpu --disable-dev-shm-usage --user-data-dir=/tmp/playwright_chromiumdev_profile-r9vrV5 --remote-debugging-pipe --no-startup-window
+<launched> pid=28852
+[pid=28852][err] [1113/031630.222281:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[pid=28852][err] [1113/031630.225676:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[pid=28852][err] [1113/031630.225740:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[pid=28852][err] [1113/031630.225804:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory
+[pid=28852][err] [1113/031630.233143:WARNING:media/audio/linux/audio_manager_linux.cc:53] Falling back to ALSA for audio output. PulseAudio is not available or could not be initialized.
+[pid=28852][err] [1113/031630.324555:WARNING:net/proxy_resolution/proxy_config_service_linux.cc:96] Proxy authentication parameters ignored, see bug 16709
+[pid=28852][err] [1113/031630.326823:WARNING:media/gpu/vaapi/vaapi_wrapper.cc:1660] drmGetDevices2() has not found any devices
+[pid=28852][err] [1113/031630.331047:WARNING:net/proxy_resolution/proxy_config_service_linux.cc:96] Proxy authentication parameters ignored, see bug 16709
+[pid=28852][err] [1113/031630.332793:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[pid=28852][err] [1113/031630.332885:WARNING:device/bluetooth/dbus/bluez_dbus_manager.cc:209] Floss manager service not available, cannot set Floss enable/disable.
+[pid=28852][err] [1113/031630.333048:ERROR:dbus/bus.cc:405] Failed to connect to the bus: Could not parse server address: Unknown address type (examples of valid types are "tcp" and on UNIX "unix")
+[pid=28852][err] [1113/031630.339071:ERROR:dbus/object_proxy.cc:572] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[pid=28852][err] [1113/031630.348135:WARNING:net/proxy_resolution/proxy_config_service_linux.cc:96] Proxy authentication parameters ignored, see bug 16709
+[pid=28852][err] [1113/031645.627120:WARNING:net/proxy_resolution/proxy_config_service_linux.cc:96] Proxy authentication parameters ignored, see bug 16709
+  FAIL swamp-cooler-leak-water-damage m390 attempt 2: Browser.new_context: Target page, context or browser has been closed
+swamp-cooler-leak-water-damage m390: ERROR
+  FAIL terms-of-use desktop attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL terms-of-use desktop attempt 2: Browser.new_context: Target page, context or browser has been closed
+terms-of-use desktop: ERROR
+  FAIL terms-of-use m390 attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL terms-of-use m390 attempt 2: Browser.new_context: Target page, context or browser has been closed
+terms-of-use m390: ERROR
+  FAIL water-damage-repair desktop attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL water-damage-repair desktop attempt 2: Browser.new_context: Target page, context or browser has been closed
+water-damage-repair desktop: ERROR
+  FAIL water-damage-repair m390 attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL water-damage-repair m390 attempt 2: Browser.new_context: Target page, context or browser has been closed
+water-damage-repair m390: ERROR
+  FAIL water-heater-leak-cleanup desktop attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL water-heater-leak-cleanup desktop attempt 2: Browser.new_context: Target page, context or browser has been closed
+water-heater-leak-cleanup desktop: ERROR
+  FAIL water-heater-leak-cleanup m390 attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL water-heater-leak-cleanup m390 attempt 2: Browser.new_context: Target page, context or browser has been closed
+water-heater-leak-cleanup m390: ERROR
+  FAIL water-leak-detection desktop attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL water-leak-detection desktop attempt 2: Browser.new_context: Target page, context or browser has been closed
+water-leak-detection desktop: ERROR
+  FAIL water-leak-detection m390 attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL water-leak-detection m390 attempt 2: Browser.new_context: Target page, context or browser has been closed
+water-leak-detection m390: ERROR
+  FAIL window-well-flooding desktop attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL window-well-flooding desktop attempt 2: Browser.new_context: Target page, context or browser has been closed
+window-well-flooding desktop: ERROR
+  FAIL window-well-flooding m390 attempt 1: Browser.new_context: Target page, context or browser has been closed
+  FAIL window-well-flooding m390 attempt 2: Browser.new_context: Target page, context or browser has been closed
+window-well-flooding m390: ERROR
+DONE 31 routes

@@ -60,7 +60,10 @@ export function PhotoHero({
 }) {
   return (
     <section className="hero hero-photo">
-      <img className="hero-img" src={ASSET_PREFIX + image} alt={alt} width={1600} height={900} fetchPriority="high" />
+      {/* CYCLE 1 UI/UX FIX (C-5): id="hero-image" — the hero ImageObject
+          @id (#hero-image) resolves to this real DOM anchor.
+          Attrs 1600x1066: every hero file measures 1600x1066 (PIL). */}
+      <img id="hero-image" className="hero-img" src={ASSET_PREFIX + image} alt={alt} width={1600} height={1066} fetchPriority="high" />
       <div className="hero-shade" aria-hidden="true" />
       <div className="wrap hero-content">
         {breadcrumb}
@@ -215,6 +218,7 @@ export function Footer({ showMap }: { showMap: boolean }) {
             title="Map: Midvale, UT 84047"
             src="https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
             referrerPolicy="no-referrer-when-downgrade"
+            loading="lazy"
           />
         </div>
       ) : null}
@@ -353,7 +357,9 @@ export function StickyBar() {
 
 export function Breadcrumb({ items }: { items: { label: string; href?: string }[] }) {
   return (
-    <nav className="breadcrumb" aria-label="Breadcrumb">
+    // CYCLE 1 UI/UX FIX (C-5): id="breadcrumb" — the BreadcrumbList @id
+    // (#breadcrumb) resolves to this real DOM anchor.
+    <nav id="breadcrumb" className="breadcrumb" aria-label="Breadcrumb">
       <ol>
         {items.map((it, i) => (
           <li key={i}>

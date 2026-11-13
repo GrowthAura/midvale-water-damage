@@ -1,12 +1,15 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import { splitAnnotated, LinkParts } from "@/lib/links";
 import { SITE, HERO, SERVICES, NEIGHBORHOODS, WHY_HOMES, PROCESS, CATEGORY_TABLE, COSTS, LOCATIONS, FAQ, HERO_IMAGE, CARD_IMAGE } from "@/lib/content";
+import { BUSINESS_ID, WEBSITE_ID, heroImageObject, webPageLd, cardImageObjects } from "@/lib/schema";
 import { HeroButtons, Reveal, JsonLd, TEL_HREF, PhotoHero } from "@/components/site";
 import { CardImage } from "@/components/panels";
 
 export const metadata: Metadata = {
   title: SITE.metaTitle,
   description: SITE.metaDescription,
+  robots: { index: true, follow: true },
   // NOTE: Next's Metadata API strips the trailing slash from the homepage
   // canonical AND og:url, so both are emitted as explicit tags below
   // (exactly one of each). No `url` in openGraph here, and none in the
@@ -18,14 +21,20 @@ export const metadata: Metadata = {
 const localBusiness = {
   "@context": "https://schema.org",
   "@type": "HomeAndConstructionBusiness",
+  "@id": BUSINESS_ID,
   name: SITE.brand,
+  description: SITE.metaDescription,
   telephone: SITE.phoneTel,
   url: SITE.base + "/",
+  // The site's own footer map embed query
+  // (https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed),
+  // same query in canonical form.
+  hasMap: "https://www.google.com/maps?q=Midvale,+UT+84047",
   areaServed: [
-    { "@type": "City", name: "Midvale", addressRegion: "UT", postalCode: "84047" },
-    { "@type": "City", name: "Cottonwood Heights", addressRegion: "UT", postalCode: "84121" },
-    { "@type": "City", name: "South Salt Lake", addressRegion: "UT", postalCode: "84115" },
-    { "@type": "City", name: "Magna", addressRegion: "UT", postalCode: "84044" },
+    { "@type": "City", name: "Midvale", address: { "@type": "PostalAddress", addressRegion: "UT", postalCode: "84047" } },
+    { "@type": "City", name: "Cottonwood Heights", address: { "@type": "PostalAddress", addressRegion: "UT", postalCode: "84121" } },
+    { "@type": "City", name: "South Salt Lake", address: { "@type": "PostalAddress", addressRegion: "UT", postalCode: "84115" } },
+    { "@type": "City", name: "Magna", address: { "@type": "PostalAddress", addressRegion: "UT", postalCode: "84044" } },
   ],
   openingHours: "Mo-Su 00:00-24:00",
 };
@@ -33,6 +42,7 @@ const localBusiness = {
 const faqPage = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
+  "@id": SITE.base + "/#faq",
   mainEntity: FAQ.map((f) => ({
     "@type": "Question",
     name: f.q,
@@ -43,17 +53,53 @@ const faqPage = {
 const webSite = {
   "@context": "https://schema.org",
   "@type": "WebSite",
+  "@id": WEBSITE_ID,
   name: SITE.brand,
   url: SITE.base + "/",
+  publisher: { "@id": BUSINESS_ID },
+  inLanguage: "en-US",
 };
 
 const breadcrumb = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
+  "@id": SITE.base + "/#breadcrumb",
   itemListElement: [{ "@type": "ListItem", position: 1, name: "Home", item: SITE.base + "/" }],
 };
 
+const homeWebPage = webPageLd(
+  { route: "/", metaTitle: SITE.metaTitle, metaDescription: SITE.metaDescription },
+  true,
+  // C-1 (Cycle 1): the homepage's own FAQPage + HowTo, as pure @id refs.
+  [SITE.base + "/#faq", SITE.base + "/#howto-0"],
+);
+
+const homeHeroImage = heroImageObject("/", HERO_IMAGE.home);
+
+// C-3 (Cycle 1): one ImageObject per homepage card image (16 service
+// cards + 3 location cards, render order) — caption = alt verbatim,
+// contentUrl = absolute single-prefix URL. 19 blocks.
+const homeCardImages = cardImageObjects();
+
+const homeHowTo = {
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "@id": SITE.base + "/#howto-0",
+  name: "How Our Water Mitigation Midvale 84047 Process Works",
+  step: PROCESS.map((p) => ({
+    "@type": "HowToStep",
+    name: p.lead,
+    text: p.lead + " " + p.rest,
+  })),
+};
+
 export default function HomePage() {
+  // LINKFIX 2026-11-13: one link per target per page — the service cards
+  // below are the FIRST occurrence of their targets in document order,
+  // so their slugs start in the seen set; body copy after them dedupes
+  // against it (the Condo paragraph renders as plain phrase text).
+  const linkSeen = new Set<string>(SERVICES.map((s) => `/${s.slug}`));
+
   return (
     <>
       <link rel="canonical" href={SITE.base + "/"} />
@@ -62,6 +108,12 @@ export default function HomePage() {
       <JsonLd data={faqPage} />
       <JsonLd data={webSite} />
       <JsonLd data={breadcrumb} />
+      <JsonLd data={homeWebPage} />
+      <JsonLd data={homeHeroImage} />
+      <JsonLd data={homeHowTo} />
+      {homeCardImages.map((img, i) => (
+        <JsonLd key={`card-image-${i}`} data={img} />
+      ))}
 
       {/* 1 — HERO: photo hero. Intro is IN the hero, trust chips are IN the
           hero (the separate copper trust band is gone — no duplication). */}
@@ -94,17 +146,28 @@ export default function HomePage() {
           <div className="card-grid">
             {SERVICES.map((s, i) => (
               <article className="card" key={s.slug}>
-                <Link className="card-img-link" href={`/${s.slug}`}>
-                  <CardImage src={CARD_IMAGE[s.slug].src} alt={CARD_IMAGE[s.slug].alt} />
-                </Link>
-                <div className="card-body">
-                  <Link href={`/${s.slug}`}>
+                {/* LINKFIX 2026-11-13: the card is ONE link unit — image +
+                    H3 + summary paragraph (the doc's anchor phrase is the
+                    link text; the ` (/slug/)` annotation never renders). */}
+                <Link className="card-wrap-link" href={`/${s.slug}`}>
+                  <span className="card-img-link">
+                    <CardImage src={CARD_IMAGE[s.slug].src} alt={CARD_IMAGE[s.slug].alt} />
+                  </span>
+                  <div className="card-body">
                     <h3>{s.h3}</h3>
-                  </Link>
-                  <p>
-                    {s.summary} {s.anchor} (/{s.slug}/)
-                  </p>
-                </div>
+                    {/* CYCLE 1 UI/UX FIX (P2-1): the anchor phrase is the
+                        doc's VERBATIM link text — it stays word-for-word,
+                        but it is NOT body copy: it renders as its own
+                        .card-cta line (teal semibold + arrow), pinned to
+                        the bottom of the card body, so it reads as a link
+                        affordance and never as duplicated prose. */}
+                    <p>{s.summary}</p>
+                    <p className="card-cta">
+                      {s.anchor}
+                      <span aria-hidden="true">&nbsp;→</span>
+                    </p>
+                  </div>
+                </Link>
               </article>
             ))}
           </div>
@@ -159,7 +222,10 @@ export default function HomePage() {
               Every job follows the same order, built on IICRC S500 water drying steps, so nothing is missed and your insurer gets a clear record.
             </p>
           </Reveal>
-          <ol className="steps">
+          {/* C-5 (Cycle 1): the homepage HowTo's fragment @id (#howto-0)
+              resolves to this list — the same <ol> the HowTo steps come
+              from (PROCESS, in order). */}
+          <ol className="steps" id="howto-0">
             {PROCESS.map((p) => (
               <li key={p.lead}>
                 <strong>{p.lead}</strong> {p.rest}
@@ -233,7 +299,17 @@ export default function HomePage() {
               Most Utah homeowners policies cover sudden water damage, like a burst pipe or a failed water heater. Gradual leaks, groundwater seepage and surface flooding are often excluded, and sewer backups usually need a separate backup endorsement. Condo owners deal with both an HOA master policy and their own HO-6, and renters rely on a renters policy for belongings.
             </p>
             <p>
-              We give you what adjusters ask for: dated photos, moisture maps, daily drying logs and a clear list of removed materials. Good records are a big part of water mitigation Midvale 84047 claims moving smoothly. If water came from an upstairs unit, see Condo &amp; Apartment Water Damage (/condo-apartment-water-damage/).
+              {/* LINKFIX 2026-11-13: annotation → real link. The Condo
+                  target is already linked by its service card above, so
+                  this renders as plain phrase text (one link per target). */}
+              <LinkParts
+                parts={splitAnnotated(
+                  "We give you what adjusters ask for: dated photos, moisture maps, daily drying logs and a clear list of removed materials. Good records are a big part of water mitigation Midvale 84047 claims moving smoothly. If water came from an upstairs unit, see Condo & Apartment Water Damage (/condo-apartment-water-damage/).",
+                  "/",
+                  linkSeen,
+                )}
+                prefix="ins"
+              />
             </p>
           </Reveal>
         </div>
@@ -255,7 +331,16 @@ export default function HomePage() {
               </li>
             </ul>
             <p>
-              For sewer backups, the Midvale Water &amp; Sewer Emergency Contacts page (/midvale-water-sewer-emergency-contacts/) lists who to call about the public line.
+              {/* LINKFIX 2026-11-13: annotation → real link (first and
+                  only occurrence of this target on the page). */}
+              <LinkParts
+                parts={splitAnnotated(
+                  "For sewer backups, the Midvale Water & Sewer Emergency Contacts page (/midvale-water-sewer-emergency-contacts/) lists who to call about the public line.",
+                  "/",
+                  linkSeen,
+                )}
+                prefix="first30"
+              />
             </p>
           </Reveal>
         </div>
@@ -273,14 +358,24 @@ export default function HomePage() {
           <div className="card-grid">
             {LOCATIONS.map((l, i) => (
               <article className="card" key={l.slug}>
-                <Link className="card-img-link" href={`/locations/${l.slug}`}>
-                  <CardImage src={CARD_IMAGE[l.slug].src} alt={CARD_IMAGE[l.slug].alt} />
+                {/* LINKFIX 2026-11-13: the card is ONE link unit (see the
+                    service cards above). */}
+                <Link className="card-wrap-link" href={`/locations/${l.slug}`}>
+                  <span className="card-img-link">
+                    <CardImage src={CARD_IMAGE[l.slug].src} alt={CARD_IMAGE[l.slug].alt} />
+                  </span>
+                  <div className="card-body">
+                    {/* CYCLE 1 UI/UX FIX (P2-1): same as the service cards —
+                        the anchor phrase stays verbatim as its own CTA line. */}
+                    <p>
+                      <strong>{l.lead}</strong> {l.rest}
+                    </p>
+                    <p className="card-cta">
+                      {l.anchor}
+                      <span aria-hidden="true">&nbsp;→</span>
+                    </p>
+                  </div>
                 </Link>
-                <div className="card-body">
-                  <p>
-                    <strong>{l.lead}</strong> {l.rest} {l.anchor} (/locations/{l.slug}/)
-                  </p>
-                </div>
               </article>
             ))}
           </div>

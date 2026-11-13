@@ -1,0 +1,834 @@
+{
+ "per_page": {
+  "/": {
+   "visible_main_words": 2110,
+   "doc_words_counts": 2107,
+   "doc_tokens_counted": 1832,
+   "missing_tokens_visible_only": 101,
+   "missing_sample": [
+    "24",
+    "crew",
+    "crew",
+    "is",
+    "is",
+    "immediately",
+    "night",
+    "dry"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 25,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/about": {
+   "visible_main_words": 935,
+   "doc_words_counts": 929,
+   "doc_tokens_counted": 686,
+   "missing_tokens_visible_only": 58,
+   "missing_sample": [
+    "calls",
+    "with",
+    "with",
+    "on",
+    "same",
+    "dries",
+    "structure",
+    "so"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 21,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/contact": {
+   "visible_main_words": 757,
+   "doc_words_counts": 679,
+   "doc_tokens_counted": 625,
+   "missing_tokens_visible_only": 62,
+   "missing_sample": [
+    "damage",
+    "and",
+    "and",
+    "and",
+    "and",
+    "do",
+    "do",
+    "we"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 7,
+   "visible_paren": [
+    "(Yes / No / Not sure)"
+   ],
+   "faq_answers_missing_visible": []
+  },
+  "/emergency-water-extraction": {
+   "visible_main_words": 1789,
+   "doc_words_counts": 1762,
+   "doc_tokens_counted": 1584,
+   "missing_tokens_visible_only": 101,
+   "missing_sample": [
+    "crew",
+    "dispatched",
+    "immediately",
+    "of",
+    "of",
+    "of",
+    "call",
+    "call"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 12,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/basement-flooding-cleanup": {
+   "visible_main_words": 1691,
+   "doc_words_counts": 1662,
+   "doc_tokens_counted": 1583,
+   "missing_tokens_visible_only": 101,
+   "missing_sample": [
+    "a",
+    "a",
+    "flooded",
+    "flooded",
+    "paneling",
+    "concrete",
+    "is",
+    "is"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 10,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/window-well-flooding": {
+   "visible_main_words": 1774,
+   "doc_words_counts": 1744,
+   "doc_tokens_counted": 1627,
+   "missing_tokens_visible_only": 85,
+   "missing_sample": [
+    "window",
+    "a",
+    "a",
+    "can",
+    "into",
+    "our",
+    "flood",
+    "yard"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 7,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/burst-pipe-water-damage": {
+   "visible_main_words": 1859,
+   "doc_words_counts": 1825,
+   "doc_tokens_counted": 1458,
+   "missing_tokens_visible_only": 82,
+   "missing_sample": [
+    "burst",
+    "pipe",
+    "pipe",
+    "pipe",
+    "pipe",
+    "a",
+    "split",
+    "split"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 10,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/sewage-backup-cleanup": {
+   "visible_main_words": 1729,
+   "doc_words_counts": 1699,
+   "doc_tokens_counted": 1600,
+   "missing_tokens_visible_only": 93,
+   "missing_sample": [
+    "cleanup",
+    "cleanup",
+    "up",
+    "a",
+    "a",
+    "a",
+    "a",
+    "a"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 8,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/water-heater-leak-cleanup": {
+   "visible_main_words": 1702,
+   "doc_words_counts": 1678,
+   "doc_tokens_counted": 1334,
+   "missing_tokens_visible_only": 62,
+   "missing_sample": [
+    "can",
+    "our",
+    "is",
+    "it",
+    "subfloors",
+    "does",
+    "does",
+    "yes"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 12,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/swamp-cooler-leak-water-damage": {
+   "visible_main_words": 1640,
+   "doc_words_counts": 1611,
+   "doc_tokens_counted": 1522,
+   "missing_tokens_visible_only": 71,
+   "missing_sample": [
+    "swamp",
+    "it",
+    "it",
+    "our",
+    "before",
+    "into",
+    "my",
+    "my"
+   ],
+   "tables_rendered": 3,
+   "tables_doc": 3,
+   "main_hrefs": 7,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/ceiling-water-damage": {
+   "visible_main_words": 1631,
+   "doc_words_counts": 1601,
+   "doc_tokens_counted": 1471,
+   "missing_tokens_visible_only": 78,
+   "missing_sample": [
+    "dripping",
+    "is",
+    "is",
+    "is",
+    "is",
+    "is",
+    "is",
+    "i"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 11,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/crawl-space-water-damage": {
+   "visible_main_words": 1647,
+   "doc_words_counts": 1617,
+   "doc_tokens_counted": 1282,
+   "missing_tokens_visible_only": 60,
+   "missing_sample": [
+    "weeks",
+    "floor",
+    "our",
+    "is",
+    "is",
+    "joists",
+    "joists",
+    "pipe"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 8,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/hardwood-floor-cabinet-drying": {
+   "visible_main_words": 1764,
+   "doc_words_counts": 1742,
+   "doc_tokens_counted": 1406,
+   "missing_tokens_visible_only": 59,
+   "missing_sample": [
+    "flatten",
+    "countertops",
+    "countertops",
+    "is",
+    "often",
+    "if",
+    "if",
+    "cupped"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 9,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/condo-apartment-water-damage": {
+   "visible_main_words": 1751,
+   "doc_words_counts": 1708,
+   "doc_tokens_counted": 1335,
+   "missing_tokens_visible_only": 51,
+   "missing_sample": [
+    "building",
+    "our",
+    "pays",
+    "your",
+    "policy",
+    "how",
+    "decides",
+    "are"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 9,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/commercial-water-damage": {
+   "visible_main_words": 1687,
+   "doc_words_counts": 1651,
+   "doc_tokens_counted": 1235,
+   "missing_tokens_visible_only": 45,
+   "missing_sample": [
+    "when",
+    "dispatched",
+    "immediately",
+    "can",
+    "can",
+    "often",
+    "often",
+    "dried"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 9,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/storm-flood-damage": {
+   "visible_main_words": 1633,
+   "doc_words_counts": 1609,
+   "doc_tokens_counted": 1342,
+   "missing_tokens_visible_only": 62,
+   "missing_sample": [
+    "flash",
+    "crew",
+    "is",
+    "so",
+    "streets",
+    "up",
+    "take",
+    "take"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 10,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/mold-remediation": {
+   "visible_main_words": 1690,
+   "doc_words_counts": 1673,
+   "doc_tokens_counted": 1346,
+   "missing_tokens_visible_only": 57,
+   "missing_sample": [
+    "mold",
+    "mold",
+    "isn't",
+    "isn't",
+    "doesn't",
+    "come",
+    "can",
+    "can"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 12,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/water-leak-detection": {
+   "visible_main_words": 1748,
+   "doc_words_counts": 1721,
+   "doc_tokens_counted": 1283,
+   "missing_tokens_visible_only": 48,
+   "missing_sample": [
+    "keeps",
+    "meters",
+    "repairs",
+    "how",
+    "do",
+    "shows",
+    "areas",
+    "checked"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 11,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/water-damage-repair": {
+   "visible_main_words": 1544,
+   "doc_words_counts": 1516,
+   "doc_tokens_counted": 1245,
+   "missing_tokens_visible_only": 65,
+   "missing_sample": [
+    "weeks",
+    "for",
+    "company",
+    "do",
+    "i",
+    "but",
+    "usually",
+    "usually"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 11,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/locations/cottonwood-heights-ut": {
+   "visible_main_words": 1759,
+   "doc_words_counts": 1729,
+   "doc_tokens_counted": 1340,
+   "missing_tokens_visible_only": 75,
+   "missing_sample": [
+    "on",
+    "on",
+    "on",
+    "every",
+    "snowmelt",
+    "dams",
+    "cold",
+    "our"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 14,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/locations/south-salt-lake-ut": {
+   "visible_main_words": 1846,
+   "doc_words_counts": 1811,
+   "doc_tokens_counted": 1464,
+   "missing_tokens_visible_only": 59,
+   "missing_sample": [
+    "crew",
+    "crew",
+    "immediately",
+    "renters",
+    "do",
+    "do",
+    "first",
+    "floods"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 19,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/locations/magna-ut": {
+   "visible_main_words": 1823,
+   "doc_words_counts": 1791,
+   "doc_tokens_counted": 1411,
+   "missing_tokens_visible_only": 69,
+   "missing_sample": [
+    "pipes",
+    "clay",
+    "lines",
+    "lines",
+    "crew",
+    "immediately",
+    "at",
+    "back"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 15,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/midvale-water-sewer-emergency-contacts": {
+   "visible_main_words": 1264,
+   "doc_words_counts": 1236,
+   "doc_tokens_counted": 1111,
+   "missing_tokens_visible_only": 77,
+   "missing_sample": [
+    "midvale",
+    "midvale",
+    "midvale",
+    "first",
+    "first",
+    "who",
+    "call",
+    "call"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 8,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/privacy-policy": {
+   "visible_main_words": 527,
+   "doc_words_counts": 505,
+   "doc_tokens_counted": 378,
+   "missing_tokens_visible_only": 0,
+   "missing_sample": [],
+   "tables_rendered": 0,
+   "tables_doc": 0,
+   "main_hrefs": 5,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/terms-of-use": {
+   "visible_main_words": 474,
+   "doc_words_counts": 450,
+   "doc_tokens_counted": 407,
+   "missing_tokens_visible_only": 0,
+   "missing_sample": [],
+   "tables_rendered": 0,
+   "tables_doc": 0,
+   "main_hrefs": 5,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/disclaimer": {
+   "visible_main_words": 312,
+   "doc_words_counts": 291,
+   "doc_tokens_counted": 293,
+   "missing_tokens_visible_only": 0,
+   "missing_sample": [],
+   "tables_rendered": 0,
+   "tables_doc": 0,
+   "main_hrefs": 5,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/resources/frozen-pipes-midvale": {
+   "visible_main_words": 1669,
+   "doc_words_counts": 1633,
+   "doc_tokens_counted": 1261,
+   "missing_tokens_visible_only": 50,
+   "missing_sample": [
+    "before",
+    "freeze",
+    "during",
+    "coldest",
+    "can",
+    "is",
+    "only",
+    "only"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 8,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/resources/winterize-swamp-cooler-utah": {
+   "visible_main_words": 1517,
+   "doc_words_counts": 1488,
+   "doc_tokens_counted": 1143,
+   "missing_tokens_visible_only": 51,
+   "missing_sample": [
+    "winterize",
+    "winterize",
+    "freeze",
+    "homeowners",
+    "salt",
+    "lake",
+    "valley",
+    "many"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 8,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/resources/upstairs-unit-leak-who-pays-utah": {
+   "visible_main_words": 1536,
+   "doc_words_counts": 1490,
+   "doc_tokens_counted": 1240,
+   "missing_tokens_visible_only": 64,
+   "missing_sample": [
+    "a",
+    "most",
+    "leak",
+    "covers",
+    "their",
+    "should",
+    "should",
+    "before"
+   ],
+   "tables_rendered": 1,
+   "tables_doc": 1,
+   "main_hrefs": 7,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/resources/can-mold-grow-in-utah": {
+   "visible_main_words": 1462,
+   "doc_words_counts": 1428,
+   "doc_tokens_counted": 1183,
+   "missing_tokens_visible_only": 75,
+   "missing_sample": [
+    "mold",
+    "mold",
+    "mold",
+    "mold",
+    "mold",
+    "mold",
+    "still",
+    "can"
+   ],
+   "tables_rendered": 3,
+   "tables_doc": 3,
+   "main_hrefs": 9,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  },
+  "/resources/basement-flooding-spring-snowmelt-utah": {
+   "visible_main_words": 1479,
+   "doc_words_counts": 1446,
+   "doc_tokens_counted": 1193,
+   "missing_tokens_visible_only": 76,
+   "missing_sample": [
+    "usually",
+    "usually",
+    "soil",
+    "dry",
+    "why",
+    "my",
+    "snow",
+    "melts"
+   ],
+   "tables_rendered": 2,
+   "tables_doc": 2,
+   "main_hrefs": 9,
+   "visible_paren": [],
+   "faq_answers_missing_visible": []
+  }
+ },
+ "links": {
+  "total_distinct_internal": 68,
+  "total_href_instances": 1187,
+  "broken": {},
+  "self_links": {},
+  "orphans": [
+   "/about",
+   "/contact",
+   "/privacy-policy",
+   "/terms-of-use",
+   "/disclaimer",
+   "/resources/frozen-pipes-midvale",
+   "/resources/winterize-swamp-cooler-utah",
+   "/resources/upstairs-unit-leak-who-pays-utah",
+   "/resources/can-mold-grow-in-utah",
+   "/resources/basement-flooding-spring-snowmelt-utah"
+  ],
+  "body_link_instances": 321
+ },
+ "problems": [
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/",
+   "detail": "missing 101: ['24', 'crew', 'crew', 'is', 'is', 'immediately', 'night', 'dry']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/about",
+   "detail": "missing 58: ['calls', 'with', 'with', 'on', 'same', 'dries', 'structure', 'so']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/contact",
+   "detail": "missing 62: ['damage', 'and', 'and', 'and', 'and', 'do', 'do', 'we']"
+  },
+  {
+   "severity": "P1",
+   "check": "visible-paren",
+   "page": "/contact",
+   "detail": "['(Yes / No / Not sure)']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/emergency-water-extraction",
+   "detail": "missing 101: ['crew', 'dispatched', 'immediately', 'of', 'of', 'of', 'call', 'call']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/basement-flooding-cleanup",
+   "detail": "missing 101: ['a', 'a', 'flooded', 'flooded', 'paneling', 'concrete', 'is', 'is']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/window-well-flooding",
+   "detail": "missing 85: ['window', 'a', 'a', 'can', 'into', 'our', 'flood', 'yard']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/burst-pipe-water-damage",
+   "detail": "missing 82: ['burst', 'pipe', 'pipe', 'pipe', 'pipe', 'a', 'split', 'split']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/sewage-backup-cleanup",
+   "detail": "missing 93: ['cleanup', 'cleanup', 'up', 'a', 'a', 'a', 'a', 'a']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/water-heater-leak-cleanup",
+   "detail": "missing 62: ['can', 'our', 'is', 'it', 'subfloors', 'does', 'does', 'yes']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/swamp-cooler-leak-water-damage",
+   "detail": "missing 71: ['swamp', 'it', 'it', 'our', 'before', 'into', 'my', 'my']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/ceiling-water-damage",
+   "detail": "missing 78: ['dripping', 'is', 'is', 'is', 'is', 'is', 'is', 'i']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/crawl-space-water-damage",
+   "detail": "missing 60: ['weeks', 'floor', 'our', 'is', 'is', 'joists', 'joists', 'pipe']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/hardwood-floor-cabinet-drying",
+   "detail": "missing 59: ['flatten', 'countertops', 'countertops', 'is', 'often', 'if', 'if', 'cupped']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/condo-apartment-water-damage",
+   "detail": "missing 51: ['building', 'our', 'pays', 'your', 'policy', 'how', 'decides', 'are']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/commercial-water-damage",
+   "detail": "missing 45: ['when', 'dispatched', 'immediately', 'can', 'can', 'often', 'often', 'dried']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/storm-flood-damage",
+   "detail": "missing 62: ['flash', 'crew', 'is', 'so', 'streets', 'up', 'take', 'take']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/mold-remediation",
+   "detail": "missing 57: ['mold', 'mold', \"isn't\", \"isn't\", \"doesn't\", 'come', 'can', 'can']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/water-leak-detection",
+   "detail": "missing 48: ['keeps', 'meters', 'repairs', 'how', 'do', 'shows', 'areas', 'checked']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/water-damage-repair",
+   "detail": "missing 65: ['weeks', 'for', 'company', 'do', 'i', 'but', 'usually', 'usually']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/locations/cottonwood-heights-ut",
+   "detail": "missing 75: ['on', 'on', 'on', 'every', 'snowmelt', 'dams', 'cold', 'our']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/locations/south-salt-lake-ut",
+   "detail": "missing 59: ['crew', 'crew', 'immediately', 'renters', 'do', 'do', 'first', 'floods']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/locations/magna-ut",
+   "detail": "missing 69: ['pipes', 'clay', 'lines', 'lines', 'crew', 'immediately', 'at', 'back']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/midvale-water-sewer-emergency-contacts",
+   "detail": "missing 77: ['midvale', 'midvale', 'midvale', 'first', 'first', 'who', 'call', 'call']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/resources/frozen-pipes-midvale",
+   "detail": "missing 50: ['before', 'freeze', 'during', 'coldest', 'can', 'is', 'only', 'only']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/resources/winterize-swamp-cooler-utah",
+   "detail": "missing 51: ['winterize', 'winterize', 'freeze', 'homeowners', 'salt', 'lake', 'valley', 'many']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/resources/upstairs-unit-leak-who-pays-utah",
+   "detail": "missing 64: ['a', 'most', 'leak', 'covers', 'their', 'should', 'should', 'before']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/resources/can-mold-grow-in-utah",
+   "detail": "missing 75: ['mold', 'mold', 'mold', 'mold', 'mold', 'mold', 'still', 'can']"
+  },
+  {
+   "severity": "P1",
+   "check": "verbatim-visible",
+   "page": "/resources/basement-flooding-spring-snowmelt-utah",
+   "detail": "missing 76: ['usually', 'usually', 'soil', 'dry', 'why', 'my', 'snow', 'melts']"
+  },
+  {
+   "severity": "P2",
+   "check": "links-orphans",
+   "page": "-",
+   "detail": "['/about', '/contact', '/privacy-policy', '/terms-of-use', '/disclaimer', '/resources/frozen-pipes-midvale', '/resources/winterize-swamp-cooler-utah', '/resources/upstairs-unit-leak-who-pays-utah', '/resources/can-mold-grow-in-utah', '/resources/basement-flooding-spring-snowmelt-utah']"
+  }
+ ],
+ "visible_main_min": 312,
+ "missing_total_visible": 1937,
+ "tables_total": 43
+}

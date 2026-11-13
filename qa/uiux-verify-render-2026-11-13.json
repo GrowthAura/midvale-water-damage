@@ -1,0 +1,8263 @@
+{
+ "pages": {
+  "/": {
+   "route": "/",
+   "desktop": {
+    "h1": {
+     "text": "24/7 Water Damage Restoration in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 503,
+      "w": 322,
+      "h": 56,
+      "bottom": 559
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 503,
+      "w": 322,
+      "h": 56,
+      "bottom": 559
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 559,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 20,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/cards/cottonwood-heights-ut.webp",
+      "alt": "Bench homes below snowy Wasatch canyons in Cottonwood Heights, Utah",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/south-salt-lake-ut.webp",
+      "alt": "Apartment blocks and warehouse buildings in South Salt Lake, Utah",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/magna-ut.webp",
+      "alt": "Older brick homes and storefronts on historic Main Street in Magna, Utah",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "24/7 Water Damage Restoration in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 407,
+      "w": 342,
+      "h": 56,
+      "bottom": 463
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 479,
+      "w": 342,
+      "h": 56,
+      "bottom": 535
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 535,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 20,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/cards/storm-flood-damage.webp",
+      "alt": "Dirty storm runoff water flooding a garage floor with a sump pump",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/mold-remediation.webp",
+      "alt": "HEPA air scrubber with ducting beside plastic containment sheeting",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/water-leak-detection.webp",
+      "alt": "Moisture meter pressed against a wet wall beside a thermal camera",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/water-damage-repair.webp",
+      "alt": "Fresh drywall texture and new white trim being finished in a room",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/cottonwood-heights-ut.webp",
+      "alt": "Bench homes below snowy Wasatch canyons in Cottonwood Heights, Utah",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/south-salt-lake-ut.webp",
+      "alt": "Apartment blocks and warehouse buildings in South Salt Lake, Utah",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/magna-ut.webp",
+      "alt": "Older brick homes and storefronts on historic Main Street in Magna, Utah",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "24/7 Water Damage Restoration in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 331,
+      "w": 272,
+      "h": 48,
+      "bottom": 379
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 395,
+      "w": 272,
+      "h": 48,
+      "bottom": 443
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 443,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 20,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/cards/crawl-space-water-damage.webp",
+      "alt": "Wet floor joists and standing water in a dark dirt crawl space",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/hardwood-floor-cabinet-drying.webp",
+      "alt": "Cupped hardwood floor planks with a drying mat and air mover hose",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/condo-apartment-water-damage.webp",
+      "alt": "Water dripping from a ceiling light fixture in a dark apartment",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/commercial-water-damage.webp",
+      "alt": "Air movers and a dehumidifier drying wet commercial carpet tiles",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/storm-flood-damage.webp",
+      "alt": "Dirty storm runoff water flooding a garage floor with a sump pump",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/mold-remediation.webp",
+      "alt": "HEPA air scrubber with ducting beside plastic containment sheeting",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/water-leak-detection.webp",
+      "alt": "Moisture meter pressed against a wet wall beside a thermal camera",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/water-damage-repair.webp",
+      "alt": "Fresh drywall texture and new white trim being finished in a room",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/cottonwood-heights-ut.webp",
+      "alt": "Bench homes below snowy Wasatch canyons in Cottonwood Heights, Utah",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/south-salt-lake-ut.webp",
+      "alt": "Apartment blocks and warehouse buildings in South Salt Lake, Utah",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/cards/magna-ut.webp",
+      "alt": "Older brick homes and storefronts on historic Main Street in Magna, Utah",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/about": {
+   "route": "/about",
+   "desktop": {
+    "h1": {
+     "text": "About Our Midvale Water Damage Restoration Team",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "About Our Midvale Water Damage Restoration Team",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 523,
+      "w": 342,
+      "h": 56,
+      "bottom": 579
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 595,
+      "w": 342,
+      "h": 56,
+      "bottom": 651
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 651,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "About Our Midvale Water Damage Restoration Team",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 343,
+      "w": 272,
+      "h": 48,
+      "bottom": 391
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 407,
+      "w": 272,
+      "h": 48,
+      "bottom": 455
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 455,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/contact": {
+   "route": "/contact",
+   "desktop": {
+    "h1": {
+     "text": "Call for 24/7 Water Damage Help in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 487,
+      "w": 322,
+      "h": 56,
+      "bottom": 543
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 487,
+      "w": 322,
+      "h": 56,
+      "bottom": 543
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 543,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Call for 24/7 Water Damage Help in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 493,
+      "w": 342,
+      "h": 56,
+      "bottom": 549
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 565,
+      "w": 342,
+      "h": 56,
+      "bottom": 621
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 621,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     },
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Call for 24/7 Water Damage Help in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 343,
+      "w": 272,
+      "h": 48,
+      "bottom": 391
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 407,
+      "w": 272,
+      "h": 48,
+      "bottom": 455
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 455,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/emergency-water-extraction": {
+   "route": "/emergency-water-extraction",
+   "desktop": {
+    "h1": {
+     "text": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 552,
+      "w": 322,
+      "h": 56,
+      "bottom": 608
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 552,
+      "w": 322,
+      "h": 56,
+      "bottom": 608
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 608,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 523,
+      "w": 342,
+      "h": 56,
+      "bottom": 579
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 595,
+      "w": 342,
+      "h": 56,
+      "bottom": 651
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 651,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/emergency-water-extraction-3.webp",
+      "alt": "A worker lifting the edge of a damp carpet while a carpet extractor removes water from the wet carpet pad in a living room.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/basement-flooding-cleanup": {
+   "route": "/basement-flooding-cleanup",
+   "desktop": {
+    "h1": {
+     "text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp",
+      "alt": "An aerial view of a leafy suburban neighborhood with detached houses along curving streets.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-2.webp",
+      "alt": "A worker drying a wet basement living room with blue air movers and a dehumidifier, the carpet peeled back to show the soaked pad.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp",
+      "alt": "An aerial view of a leafy suburban neighborhood with detached houses along curving streets.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Emergency Basement Flooding Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-2.webp",
+      "alt": "A worker drying a wet basement living room with blue air movers and a dehumidifier, the carpet peeled back to show the soaked pad.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp",
+      "alt": "An aerial view of a leafy suburban neighborhood with detached houses along curving streets.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/window-well-flooding": {
+   "route": "/window-well-flooding",
+   "desktop": {
+    "h1": {
+     "text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/window-well-flooding-3.webp",
+      "alt": "A corrugated metal basement window well filled with rainwater at a suburban home, with a wet basement window.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 523,
+      "w": 342,
+      "h": 56,
+      "bottom": 579
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 595,
+      "w": 342,
+      "h": 56,
+      "bottom": 651
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 651,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/window-well-flooding-3.webp",
+      "alt": "A corrugated metal basement window well filled with rainwater at a suburban home, with a wet basement window.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "24/7 Window Well Flooding Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/window-well-flooding-3.webp",
+      "alt": "A corrugated metal basement window well filled with rainwater at a suburban home, with a wet basement window.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/burst-pipe-water-damage": {
+   "route": "/burst-pipe-water-damage",
+   "desktop": {
+    "h1": {
+     "text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-2.webp",
+      "alt": "A concrete wall with large patches of peeling, water-damaged paint.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-3.webp",
+      "alt": "A worker's gloved hands gripping a pipe wrench on a burst copper pipe fitting with a brass valve, water dripping.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Emergency Burst Pipe Water Damage Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-2.webp",
+      "alt": "A concrete wall with large patches of peeling, water-damaged paint.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/burst-pipe-water-damage-3.webp",
+      "alt": "A worker's gloved hands gripping a pipe wrench on a burst copper pipe fitting with a brass valve, water dripping.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/sewage-backup-cleanup": {
+   "route": "/sewage-backup-cleanup",
+   "desktop": {
+    "h1": {
+     "text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp",
+      "alt": "An aerial view of a suburban neighborhood in autumn, with detached houses, trees and a cul-de-sac.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 523,
+      "w": 342,
+      "h": 56,
+      "bottom": 579
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 595,
+      "w": 342,
+      "h": 56,
+      "bottom": 651
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 651,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-2.webp",
+      "alt": "A round metal floor drain in a wet concrete basement floor, with a mop and bucket nearby and a water heater behind.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp",
+      "alt": "An aerial view of a suburban neighborhood in autumn, with detached houses, trees and a cul-de-sac.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-2.webp",
+      "alt": "A round metal floor drain in a wet concrete basement floor, with a mop and bucket nearby and a water heater behind.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp",
+      "alt": "An aerial view of a suburban neighborhood in autumn, with detached houses, trees and a cul-de-sac.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/water-heater-leak-cleanup": {
+   "route": "/water-heater-leak-cleanup",
+   "desktop": {
+    "h1": {
+     "text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-3.webp",
+      "alt": "White wall-mounted tankless water heater with pipes in a bathroom with blue brick walls",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Emergency Water Heater & Appliance Leak Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/water-heater-leak-cleanup-3.webp",
+      "alt": "White wall-mounted tankless water heater with pipes in a bathroom with blue brick walls",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/swamp-cooler-leak-water-damage": {
+   "route": "/swamp-cooler-leak-water-damage",
+   "desktop": {
+    "h1": {
+     "text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-2.webp",
+      "alt": "A Utah ranch house with a large louvered metal evaporative cooler mounted on the roof, with foothills behind.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-3.webp",
+      "alt": "A side-mount evaporative cooler on the stucco wall of a Utah home beside a window, with water dripping from its drain.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     },
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Fast Swamp Cooler Leak Water Damage Repair in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-2.webp",
+      "alt": "A Utah ranch house with a large louvered metal evaporative cooler mounted on the roof, with foothills behind.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-3.webp",
+      "alt": "A side-mount evaporative cooler on the stucco wall of a Utah home beside a window, with water dripping from its drain.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/ceiling-water-damage": {
+   "route": "/ceiling-water-damage",
+   "desktop": {
+    "h1": {
+     "text": "Professional Ceiling Water Damage Repair in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Professional Ceiling Water Damage Repair in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/ceiling-water-damage-2.webp",
+      "alt": "A worker's arm holding a trowel, plastering the corner where a white ceiling meets the wall",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/ceiling-water-damage-3.webp",
+      "alt": "Room under renovation with a stepladder, drop cloths on the floor and a curved ceiling detail",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Professional Ceiling Water Damage Repair in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/ceiling-water-damage-2.webp",
+      "alt": "A worker's arm holding a trowel, plastering the corner where a white ceiling meets the wall",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/ceiling-water-damage-3.webp",
+      "alt": "Room under renovation with a stepladder, drop cloths on the floor and a curved ceiling detail",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/crawl-space-water-damage": {
+   "route": "/crawl-space-water-damage",
+   "desktop": {
+    "h1": {
+     "text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/crawl-space-water-damage-3.webp",
+      "alt": "A worker unrolling a white plastic vapor barrier across the dirt floor of a crawl space under wooden floor joists.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Emergency Crawl Space Water Damage Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/crawl-space-water-damage-3.webp",
+      "alt": "A worker unrolling a white plastic vapor barrier across the dirt floor of a crawl space under wooden floor joists.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/hardwood-floor-cabinet-drying": {
+   "route": "/hardwood-floor-cabinet-drying",
+   "desktop": {
+    "h1": {
+     "text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-2.webp",
+      "alt": "A bright American kitchen with white cabinets, stainless steel appliances, a sink and dark wood flooring.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-3.webp",
+      "alt": "Sunlight falling across a herringbone parquet wood floor in a home interior",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-2.webp",
+      "alt": "A bright American kitchen with white cabinets, stainless steel appliances, a sink and dark wood flooring.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-3.webp",
+      "alt": "Sunlight falling across a herringbone parquet wood floor in a home interior",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/condo-apartment-water-damage": {
+   "route": "/condo-apartment-water-damage",
+   "desktop": {
+    "h1": {
+     "text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 607,
+      "w": 322,
+      "h": 56,
+      "bottom": 663
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 607,
+      "w": 322,
+      "h": 56,
+      "bottom": 663
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 663,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp",
+      "alt": "Grey plastic drain and waste pipes running along an exterior wall",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 639,
+      "w": 342,
+      "h": 56,
+      "bottom": 695
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 711,
+      "w": 342,
+      "h": 56,
+      "bottom": 767
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 767,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-2.webp",
+      "alt": "A worker in a white hard hat, safety glasses and orange high-visibility vest holding a pipe wrench",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp",
+      "alt": "Grey plastic drain and waste pipes running along an exterior wall",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "24/7 Condo, Townhome & Apartment Water Damage Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 442,
+      "w": 272,
+      "h": 48,
+      "bottom": 490
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 506,
+      "w": 272,
+      "h": 48,
+      "bottom": 554
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 554,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-2.webp",
+      "alt": "A worker in a white hard hat, safety glasses and orange high-visibility vest holding a pipe wrench",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp",
+      "alt": "Grey plastic drain and waste pipes running along an exterior wall",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/commercial-water-damage": {
+   "route": "/commercial-water-damage",
+   "desktop": {
+    "h1": {
+     "text": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/commercial-water-damage-3.webp",
+      "alt": "A large open office floor with a wet floor being dried by several blue air movers and a dehumidifier.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/commercial-water-damage-3.webp",
+      "alt": "A large open office floor with a wet floor being dried by several blue air movers and a dehumidifier.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "24/7 Commercial Water Damage Restoration in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/commercial-water-damage-3.webp",
+      "alt": "A large open office floor with a wet floor being dried by several blue air movers and a dehumidifier.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/storm-flood-damage": {
+   "route": "/storm-flood-damage",
+   "desktop": {
+    "h1": {
+     "text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 552,
+      "w": 322,
+      "h": 56,
+      "bottom": 608
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 552,
+      "w": 322,
+      "h": 56,
+      "bottom": 608
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 608,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/storm-flood-damage-3.webp",
+      "alt": "Cars driving through a flooded road lined with trees in the rain",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/storm-flood-damage-3.webp",
+      "alt": "Cars driving through a flooded road lined with trees in the rain",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Emergency Storm & Flash Flood Cleanup in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/storm-flood-damage-3.webp",
+      "alt": "Cars driving through a flooded road lined with trees in the rain",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/mold-remediation": {
+   "route": "/mold-remediation",
+   "desktop": {
+    "h1": {
+     "text": "Professional Mold Remediation in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/mold-remediation-3.webp",
+      "alt": "Black mildew stains streaking down a light-coloured wall",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Professional Mold Remediation in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 523,
+      "w": 342,
+      "h": 56,
+      "bottom": 579
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 595,
+      "w": 342,
+      "h": 56,
+      "bottom": 651
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 651,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/mold-remediation-3.webp",
+      "alt": "Black mildew stains streaking down a light-coloured wall",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Professional Mold Remediation in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 330,
+      "w": 272,
+      "h": 48,
+      "bottom": 378
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 394,
+      "w": 272,
+      "h": 48,
+      "bottom": 442
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 442,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/mold-remediation-3.webp",
+      "alt": "Black mildew stains streaking down a light-coloured wall",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/water-leak-detection": {
+   "route": "/water-leak-detection",
+   "desktop": {
+    "h1": {
+     "text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 608,
+      "w": 342,
+      "h": 56,
+      "bottom": 664
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 680,
+      "w": 342,
+      "h": 56,
+      "bottom": 736
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 736,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/water-leak-detection-3.webp",
+      "alt": "A technician repairing an orange pump housing on a workbench covered with tools",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Local Water Leak Detection & Moisture Mapping in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/water-leak-detection-3.webp",
+      "alt": "A technician repairing an orange pump housing on a workbench covered with tools",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/water-damage-repair": {
+   "route": "/water-damage-repair",
+   "desktop": {
+    "h1": {
+     "text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/water-damage-repair-3.webp",
+      "alt": "A room mid-renovation with freshly painted walls, a stepladder, floor protection and a shop vacuum",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/water-damage-repair-3.webp",
+      "alt": "A room mid-renovation with freshly painted walls, a stepladder, floor protection and a shop vacuum",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     },
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Local Water Damage Repair & Rebuild in Midvale, UT 84047",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/water-damage-repair-2.webp",
+      "alt": "A worker kneeling to fit a dark wood laminate floor plank, with a mallet beside him",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/water-damage-repair-3.webp",
+      "alt": "A room mid-renovation with freshly painted walls, a stepladder, floor protection and a shop vacuum",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/locations/cottonwood-heights-ut": {
+   "route": "/locations/cottonwood-heights-ut",
+   "desktop": {
+    "h1": {
+     "text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp",
+      "alt": "A snowy city street in Salt Lake City with snow-capped mountains in the background",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp",
+      "alt": "A snowy city street in Salt Lake City with snow-capped mountains in the background",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "24/7 Water Damage Restoration in Cottonwood Heights, UT 84121",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp",
+      "alt": "A snowy city street in Salt Lake City with snow-capped mountains in the background",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/locations/south-salt-lake-ut": {
+   "route": "/locations/south-salt-lake-ut",
+   "desktop": {
+    "h1": {
+     "text": "Emergency Water Damage Restoration in South Salt Lake, UT 84115",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Emergency Water Damage Restoration in South Salt Lake, UT 84115",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 608,
+      "w": 342,
+      "h": 56,
+      "bottom": 664
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 680,
+      "w": 342,
+      "h": 56,
+      "bottom": 736
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 736,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Emergency Water Damage Restoration in South Salt Lake, UT 84115",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/locations/magna-ut": {
+   "route": "/locations/magna-ut",
+   "desktop": {
+    "h1": {
+     "text": "Local Water Damage Restoration in Magna, UT 84044",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 552,
+      "w": 322,
+      "h": 56,
+      "bottom": 608
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 552,
+      "w": 322,
+      "h": 56,
+      "bottom": 608
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 608,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/magna-ut-3.webp",
+      "alt": "An older white clapboard house with a new wood-frame addition under construction beside it.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Local Water Damage Restoration in Magna, UT 84044",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/magna-ut-2.webp",
+      "alt": "A quiet older main street with brick and wood storefronts, parked pickup trucks, and dry foothills and mountains behind.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/magna-ut-3.webp",
+      "alt": "An older white clapboard house with a new wood-frame addition under construction beside it.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Local Water Damage Restoration in Magna, UT 84044",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 4,
+    "imgs_broken": [
+     {
+      "src": "/midvale-water-damage/images/body/magna-ut-2.webp",
+      "alt": "A quiet older main street with brick and wood storefronts, parked pickup trucks, and dry foothills and mountains behind.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     },
+     {
+      "src": "/midvale-water-damage/images/body/magna-ut-3.webp",
+      "alt": "An older white clapboard house with a new wood-frame addition under construction beside it.",
+      "ok": false,
+      "w": 0,
+      "h": 0,
+      "loading": "lazy"
+     }
+    ],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/midvale-water-sewer-emergency-contacts": {
+   "route": "/midvale-water-sewer-emergency-contacts",
+   "desktop": {
+    "h1": {
+     "text": "Midvale Water & Sewer Emergency Contacts (84047)",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 487,
+      "w": 322,
+      "h": 56,
+      "bottom": 543
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 487,
+      "w": 322,
+      "h": 56,
+      "bottom": 543
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 543,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Midvale Water & Sewer Emergency Contacts (84047)",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 523,
+      "w": 342,
+      "h": 56,
+      "bottom": 579
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 595,
+      "w": 342,
+      "h": 56,
+      "bottom": 651
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 651,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Midvale Water & Sewer Emergency Contacts (84047)",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 330,
+      "w": 272,
+      "h": 48,
+      "bottom": 378
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 394,
+      "w": 272,
+      "h": 48,
+      "bottom": 442
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 442,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/privacy-policy": {
+   "route": "/privacy-policy",
+   "desktop": {
+    "h1": {
+     "text": "Privacy Policy",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 367,
+      "w": 322,
+      "h": 56,
+      "bottom": 423
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 367,
+      "w": 322,
+      "h": 56,
+      "bottom": 423
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 423,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Privacy Policy",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 371,
+      "w": 342,
+      "h": 56,
+      "bottom": 427
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 443,
+      "w": 342,
+      "h": 56,
+      "bottom": 499
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 499,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Privacy Policy",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 255,
+      "w": 272,
+      "h": 48,
+      "bottom": 303
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 319,
+      "w": 272,
+      "h": 48,
+      "bottom": 367
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 367,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/terms-of-use": {
+   "route": "/terms-of-use",
+   "desktop": {
+    "h1": {
+     "text": "Terms of Use",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 367,
+      "w": 322,
+      "h": 56,
+      "bottom": 423
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 367,
+      "w": 322,
+      "h": 56,
+      "bottom": 423
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 423,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Terms of Use",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 371,
+      "w": 342,
+      "h": 56,
+      "bottom": 427
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 443,
+      "w": 342,
+      "h": 56,
+      "bottom": 499
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 499,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Terms of Use",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 255,
+      "w": 272,
+      "h": 48,
+      "bottom": 303
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 319,
+      "w": 272,
+      "h": 48,
+      "bottom": 367
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 367,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/disclaimer": {
+   "route": "/disclaimer",
+   "desktop": {
+    "h1": {
+     "text": "Disclaimer",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 367,
+      "w": 322,
+      "h": 56,
+      "bottom": 423
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 367,
+      "w": 322,
+      "h": 56,
+      "bottom": 423
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 423,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Disclaimer",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 371,
+      "w": 342,
+      "h": 56,
+      "bottom": 427
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 443,
+      "w": 342,
+      "h": 56,
+      "bottom": 499
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 499,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Disclaimer",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 255,
+      "w": 272,
+      "h": 48,
+      "bottom": 303
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 319,
+      "w": 272,
+      "h": 48,
+      "bottom": 367
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 367,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/resources/frozen-pipes-midvale": {
+   "route": "/resources/frozen-pipes-midvale",
+   "desktop": {
+    "h1": {
+     "text": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 535,
+      "w": 342,
+      "h": 56,
+      "bottom": 591
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 607,
+      "w": 342,
+      "h": 56,
+      "bottom": 663
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 663,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "How to Keep Pipes From Freezing in Midvale, and What to Do If One Bursts",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 418,
+      "w": 272,
+      "h": 48,
+      "bottom": 466
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 482,
+      "w": 272,
+      "h": 48,
+      "bottom": 530
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 530,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/resources/winterize-swamp-cooler-utah": {
+   "route": "/resources/winterize-swamp-cooler-utah",
+   "desktop": {
+    "h1": {
+     "text": "Swamp Cooler Winterizing Checklist for Midvale Homes",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 487,
+      "w": 322,
+      "h": 56,
+      "bottom": 543
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 487,
+      "w": 322,
+      "h": 56,
+      "bottom": 543
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 543,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Swamp Cooler Winterizing Checklist for Midvale Homes",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Swamp Cooler Winterizing Checklist for Midvale Homes",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/resources/upstairs-unit-leak-who-pays-utah": {
+   "route": "/resources/upstairs-unit-leak-who-pays-utah",
+   "desktop": {
+    "h1": {
+     "text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 519,
+      "w": 322,
+      "h": 56,
+      "bottom": 575
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 575,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 608,
+      "w": 342,
+      "h": 56,
+      "bottom": 664
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 680,
+      "w": 342,
+      "h": 56,
+      "bottom": 736
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 736,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Upstairs Unit Leaked Into Yours? Who Pays in a Utah Condo or Apartment",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/resources/can-mold-grow-in-utah": {
+   "route": "/resources/can-mold-grow-in-utah",
+   "desktop": {
+    "h1": {
+     "text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 487,
+      "w": 322,
+      "h": 56,
+      "bottom": 543
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 487,
+      "w": 322,
+      "h": 56,
+      "bottom": 543
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 543,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 566,
+      "w": 342,
+      "h": 56,
+      "bottom": 622
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 638,
+      "w": 342,
+      "h": 56,
+      "bottom": 694
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 694,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     },
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Utah Is Too Dry for Mold? Why Wet Drywall Still Molds in Midvale",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 367,
+      "w": 272,
+      "h": 48,
+      "bottom": 415
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 431,
+      "w": 272,
+      "h": 48,
+      "bottom": 479
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 479,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  },
+  "/resources/basement-flooding-spring-snowmelt-utah": {
+   "route": "/resources/basement-flooding-spring-snowmelt-utah",
+   "desktop": {
+    "h1": {
+     "text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale",
+     "visible": true,
+     "fontSize": 44
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 184,
+      "y": 542,
+      "w": 322,
+      "h": 56,
+      "bottom": 598
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 522,
+      "y": 542,
+      "w": 322,
+      "h": 56,
+      "bottom": 598
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 598,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m390": {
+    "h1": {
+     "text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale",
+     "visible": true,
+     "fontSize": 34
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 639,
+      "w": 342,
+      "h": 56,
+      "bottom": 695
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 711,
+      "w": 342,
+      "h": 56,
+      "bottom": 767
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 767,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     18,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "tables": [
+     {
+      "overflowing": true,
+      "cue_at_scroll0": 1,
+      "cue_at_max": 1
+     },
+     {
+      "overflowing": false,
+      "cue_at_scroll0": 0,
+      "cue_at_max": 0
+     }
+    ],
+    "console_errors": [],
+    "failed_requests": []
+   },
+   "m320": {
+    "h1": {
+     "text": "Water Coming Up Through Your Basement Floor? Spring Snowmelt in Midvale",
+     "visible": true,
+     "fontSize": 30
+    },
+    "overflow": 0,
+    "hero_buttons": [
+     {
+      "text": "(385) 337-3560",
+      "x": 24,
+      "y": 405,
+      "w": 272,
+      "h": 48,
+      "bottom": 453
+     },
+     {
+      "text": "Request Emergency Help",
+      "x": 24,
+      "y": 469,
+      "w": 272,
+      "h": 48,
+      "bottom": 517
+     }
+    ],
+    "btn_equal": true,
+    "btn2_bottom": 517,
+    "btn2_visible_scroll0": true,
+    "body_font_px": [
+     18,
+     18,
+     14,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19,
+     19
+    ],
+    "imgs_total": 1,
+    "imgs_broken": [],
+    "imgs_no_alt": [],
+    "console_errors": [],
+    "failed_requests": []
+   }
+  }
+ },
+ "problems": [
+  {
+   "sev": "P1",
+   "route": "/",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/cards/cottonwood-heights-ut.webp",
+    "/midvale-water-damage/images/cards/south-salt-lake-ut.webp",
+    "/midvale-water-damage/images/cards/magna-ut.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/cards/storm-flood-damage.webp",
+    "/midvale-water-damage/images/cards/mold-remediation.webp",
+    "/midvale-water-damage/images/cards/water-leak-detection.webp",
+    "/midvale-water-damage/images/cards/water-damage-repair.webp",
+    "/midvale-water-damage/images/cards/cottonwood-heights-ut.webp",
+    "/midvale-water-damage/images/cards/south-salt-lake-ut.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/cards/crawl-space-water-damage.webp",
+    "/midvale-water-damage/images/cards/hardwood-floor-cabinet-drying.webp",
+    "/midvale-water-damage/images/cards/condo-apartment-water-damage.webp",
+    "/midvale-water-damage/images/cards/commercial-water-damage.webp",
+    "/midvale-water-damage/images/cards/storm-flood-damage.webp",
+    "/midvale-water-damage/images/cards/mold-remediation.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/about",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/about",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/about",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/contact",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/contact",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/contact",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/emergency-water-extraction",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/emergency-water-extraction",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/emergency-water-extraction",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P2",
+   "route": "/emergency-water-extraction",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 1
+  },
+  {
+   "sev": "P1",
+   "route": "/emergency-water-extraction",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/emergency-water-extraction-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/emergency-water-extraction",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/basement-flooding-cleanup",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/basement-flooding-cleanup",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/basement-flooding-cleanup",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/basement-flooding-cleanup-2.webp",
+    "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/basement-flooding-cleanup",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/basement-flooding-cleanup",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/basement-flooding-cleanup",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/basement-flooding-cleanup-2.webp",
+    "/midvale-water-damage/images/body/basement-flooding-cleanup-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/basement-flooding-cleanup",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/window-well-flooding",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/window-well-flooding-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/window-well-flooding",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/window-well-flooding",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/window-well-flooding-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/window-well-flooding",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/window-well-flooding",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/window-well-flooding",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/window-well-flooding-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/window-well-flooding",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/burst-pipe-water-damage",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/burst-pipe-water-damage",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/burst-pipe-water-damage-2.webp",
+    "/midvale-water-damage/images/body/burst-pipe-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/burst-pipe-water-damage",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/burst-pipe-water-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P2",
+   "route": "/burst-pipe-water-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 1
+  },
+  {
+   "sev": "P1",
+   "route": "/burst-pipe-water-damage",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/burst-pipe-water-damage-2.webp",
+    "/midvale-water-damage/images/body/burst-pipe-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/burst-pipe-water-damage",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/sewage-backup-cleanup",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/sewage-backup-cleanup",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/sewage-backup-cleanup",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/sewage-backup-cleanup-2.webp",
+    "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/sewage-backup-cleanup",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/sewage-backup-cleanup",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/sewage-backup-cleanup",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/sewage-backup-cleanup-2.webp",
+    "/midvale-water-damage/images/body/sewage-backup-cleanup-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/sewage-backup-cleanup",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/water-heater-leak-cleanup",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/water-heater-leak-cleanup",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/water-heater-leak-cleanup-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/water-heater-leak-cleanup",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/water-heater-leak-cleanup",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/water-heater-leak-cleanup",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/water-heater-leak-cleanup-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/water-heater-leak-cleanup",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/swamp-cooler-leak-water-damage",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/swamp-cooler-leak-water-damage",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-2.webp",
+    "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/swamp-cooler-leak-water-damage",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/swamp-cooler-leak-water-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 1
+  },
+  {
+   "sev": "P2",
+   "route": "/swamp-cooler-leak-water-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 2
+  },
+  {
+   "sev": "P1",
+   "route": "/swamp-cooler-leak-water-damage",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-2.webp",
+    "/midvale-water-damage/images/body/swamp-cooler-leak-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/swamp-cooler-leak-water-damage",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/ceiling-water-damage",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/ceiling-water-damage",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/ceiling-water-damage-2.webp",
+    "/midvale-water-damage/images/body/ceiling-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/ceiling-water-damage",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/ceiling-water-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/ceiling-water-damage",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/ceiling-water-damage-2.webp",
+    "/midvale-water-damage/images/body/ceiling-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/ceiling-water-damage",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/crawl-space-water-damage",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/crawl-space-water-damage",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/crawl-space-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/crawl-space-water-damage",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/crawl-space-water-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/crawl-space-water-damage",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/crawl-space-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/crawl-space-water-damage",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/hardwood-floor-cabinet-drying",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/hardwood-floor-cabinet-drying",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-2.webp",
+    "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/hardwood-floor-cabinet-drying",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/hardwood-floor-cabinet-drying",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P2",
+   "route": "/hardwood-floor-cabinet-drying",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 1
+  },
+  {
+   "sev": "P1",
+   "route": "/hardwood-floor-cabinet-drying",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-2.webp",
+    "/midvale-water-damage/images/body/hardwood-floor-cabinet-drying-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/hardwood-floor-cabinet-drying",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/condo-apartment-water-damage",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/condo-apartment-water-damage",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/condo-apartment-water-damage",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/condo-apartment-water-damage-2.webp",
+    "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/condo-apartment-water-damage",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/condo-apartment-water-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P2",
+   "route": "/condo-apartment-water-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 1
+  },
+  {
+   "sev": "P1",
+   "route": "/condo-apartment-water-damage",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/condo-apartment-water-damage-2.webp",
+    "/midvale-water-damage/images/body/condo-apartment-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/condo-apartment-water-damage",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/commercial-water-damage",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/commercial-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/commercial-water-damage",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/commercial-water-damage",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/commercial-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/commercial-water-damage",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/commercial-water-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/commercial-water-damage",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/commercial-water-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/commercial-water-damage",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/storm-flood-damage",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/storm-flood-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/storm-flood-damage",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/storm-flood-damage",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/storm-flood-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/storm-flood-damage",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/storm-flood-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P2",
+   "route": "/storm-flood-damage",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 1
+  },
+  {
+   "sev": "P1",
+   "route": "/storm-flood-damage",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/storm-flood-damage-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/storm-flood-damage",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/mold-remediation",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/mold-remediation-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/mold-remediation",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/mold-remediation",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/mold-remediation-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/mold-remediation",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/mold-remediation",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/mold-remediation-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/mold-remediation",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/water-leak-detection",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/water-leak-detection",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/water-leak-detection-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/water-leak-detection",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/water-leak-detection",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/water-leak-detection",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/water-leak-detection-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/water-leak-detection",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/water-damage-repair",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/water-damage-repair-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/water-damage-repair",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/water-damage-repair",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/water-damage-repair-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/water-damage-repair",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/water-damage-repair",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 1
+  },
+  {
+   "sev": "P1",
+   "route": "/water-damage-repair",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/water-damage-repair-2.webp",
+    "/midvale-water-damage/images/body/water-damage-repair-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/water-damage-repair",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/locations/cottonwood-heights-ut",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/locations/cottonwood-heights-ut",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/locations/cottonwood-heights-ut",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/locations/cottonwood-heights-ut",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/locations/cottonwood-heights-ut",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/locations/cottonwood-heights-ut",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/cottonwood-heights-ut-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/locations/cottonwood-heights-ut",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/locations/south-salt-lake-ut",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/locations/south-salt-lake-ut",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/locations/south-salt-lake-ut",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P3",
+   "route": "/locations/south-salt-lake-ut",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/locations/magna-ut",
+   "vp": "desktop",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/magna-ut-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/locations/magna-ut",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P1",
+   "route": "/locations/magna-ut",
+   "vp": "m390",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/magna-ut-2.webp",
+    "/midvale-water-damage/images/body/magna-ut-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/locations/magna-ut",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/locations/magna-ut",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P1",
+   "route": "/locations/magna-ut",
+   "vp": "m320",
+   "what": "broken images in rendered DOM",
+   "detail": [
+    "/midvale-water-damage/images/body/magna-ut-2.webp",
+    "/midvale-water-damage/images/body/magna-ut-3.webp"
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/locations/magna-ut",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/midvale-water-sewer-emergency-contacts",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/midvale-water-sewer-emergency-contacts",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/midvale-water-sewer-emergency-contacts",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P3",
+   "route": "/midvale-water-sewer-emergency-contacts",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/privacy-policy",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/privacy-policy",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/privacy-policy",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/terms-of-use",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/terms-of-use",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/terms-of-use",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/disclaimer",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/disclaimer",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/disclaimer",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/frozen-pipes-midvale",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/frozen-pipes-midvale",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/resources/frozen-pipes-midvale",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/frozen-pipes-midvale",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/winterize-swamp-cooler-utah",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/winterize-swamp-cooler-utah",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/winterize-swamp-cooler-utah",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/upstairs-unit-leak-who-pays-utah",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/upstairs-unit-leak-who-pays-utah",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/resources/upstairs-unit-leak-who-pays-utah",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/upstairs-unit-leak-who-pays-utah",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/can-mold-grow-in-utah",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/can-mold-grow-in-utah",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/resources/can-mold-grow-in-utah",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P2",
+   "route": "/resources/can-mold-grow-in-utah",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 2
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/can-mold-grow-in-utah",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/basement-flooding-spring-snowmelt-utah",
+   "vp": "desktop",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/basement-flooding-spring-snowmelt-utah",
+   "vp": "m390",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    18,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/resources/basement-flooding-spring-snowmelt-utah",
+   "vp": "m390",
+   "what": "table scroll cue still ON at max scroll",
+   "table": 0
+  },
+  {
+   "sev": "P3",
+   "route": "/resources/basement-flooding-spring-snowmelt-utah",
+   "vp": "m320",
+   "what": "body text < 19px sampled",
+   "px": [
+    18,
+    18,
+    14,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19,
+    19
+   ]
+  },
+  {
+   "sev": "P2",
+   "route": "/contact",
+   "what": "contact form field count != 6",
+   "fields": [
+    {
+     "tag": "input",
+     "type": "text",
+     "name": "name",
+     "label": "",
+     "required": true
+    },
+    {
+     "tag": "input",
+     "type": "tel",
+     "name": "phone",
+     "label": "",
+     "required": true
+    },
+    {
+     "tag": "input",
+     "type": "text",
+     "name": "address",
+     "label": "",
+     "required": false
+    },
+    {
+     "tag": "textarea",
+     "type": "",
+     "name": "what-happened",
+     "label": "",
+     "required": false
+    },
+    {
+     "tag": "input",
+     "type": "radio",
+     "name": "water-running",
+     "label": "Yes",
+     "required": false
+    },
+    {
+     "tag": "input",
+     "type": "radio",
+     "name": "water-running",
+     "label": "No",
+     "required": false
+    },
+    {
+     "tag": "input",
+     "type": "radio",
+     "name": "water-running",
+     "label": "Not sure",
+     "required": false
+    },
+    {
+     "tag": "input",
+     "type": "text",
+     "name": "best-time",
+     "label": "",
+     "required": false
+    }
+   ]
+  }
+ ],
+ "site": {
+  "home_card_grid_1440": {
+   "cards": 16,
+   "cols": 4,
+   "rowSizes": [
+    4,
+    4,
+    4,
+    4
+   ],
+   "gridTemplate": "247px 247px 247px 247px",
+   "cardWidths": [
+    247
+   ],
+   "imgHeights": [
+    138
+   ]
+  },
+  "contact_form": {
+   "fields": [
+    {
+     "tag": "input",
+     "type": "text",
+     "name": "name",
+     "label": "",
+     "required": true
+    },
+    {
+     "tag": "input",
+     "type": "tel",
+     "name": "phone",
+     "label": "",
+     "required": true
+    },
+    {
+     "tag": "input",
+     "type": "text",
+     "name": "address",
+     "label": "",
+     "required": false
+    },
+    {
+     "tag": "textarea",
+     "type": "",
+     "name": "what-happened",
+     "label": "",
+     "required": false
+    },
+    {
+     "tag": "input",
+     "type": "radio",
+     "name": "water-running",
+     "label": "Yes",
+     "required": false
+    },
+    {
+     "tag": "input",
+     "type": "radio",
+     "name": "water-running",
+     "label": "No",
+     "required": false
+    },
+    {
+     "tag": "input",
+     "type": "radio",
+     "name": "water-running",
+     "label": "Not sure",
+     "required": false
+    },
+    {
+     "tag": "input",
+     "type": "text",
+     "name": "best-time",
+     "label": "",
+     "required": false
+    }
+   ],
+   "submitText": "[Send My Request]",
+   "notice": "Note: this form does not send on this preview site. For the fastest help, please call (385) 337-3560, calling is faster than the form.\n\nName\n\nPhone number\n\nAddress or ZIP code\n\nWhat happened (short description)\n\nIs the water still running?\nYes\nNo\nNot sure\n\nBest time to call\n\n[Send My Request]"
+  },
+  "real_clicks": {
+   "card_click": {
+    "url": "http://127.0.0.1:8341/midvale-water-damage/emergency-water-extraction",
+    "h1": "Rapid Emergency Water Extraction in Midvale, UT 84047"
+   },
+   "body_click": {
+    "from_href": "/midvale-water-damage/hardwood-floor-cabinet-drying",
+    "url": "http://127.0.0.1:8341/midvale-water-damage/hardwood-floor-cabinet-drying",
+    "h1": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047"
+   },
+   "logo_click": {
+    "url": "http://127.0.0.1:8341/midvale-water-damage"
+   },
+   "footer_click": {
+    "url": "http://127.0.0.1:8341/midvale-water-damage/about",
+    "h1": "About Our Midvale Water Damage Restoration Team"
+   },
+   "mobile_menu": {
+    "after_click_nav": "flex|Home\nEmergency Water Extraction\nSewage Backup Cleanup"
+   },
+   "mobile_menu_click": {
+    "url": "http://127.0.0.1:8341/midvale-water-damage",
+    "h1": "24/7 Water Damage Restoration in Midvale, UT 84047"
+   }
+  },
+  "failed_local_requests": [],
+  "failed_maps_requests": [],
+  "console_errors_all": [],
+  "problems_count": 173,
+  "btn2_worst_bottom_320": 554,
+  "btn2_worst_bottom_390": 767,
+  "btn2_worst_route_320": "/condo-apartment-water-damage"
+ }
+}

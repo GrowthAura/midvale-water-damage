@@ -1,0 +1,118 @@
+/: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=396.6
+/about: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=413.4
+/contact: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=413.4
+/emergency-water-extraction: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/basement-flooding-cleanup: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/window-well-flooding: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/burst-pipe-water-damage: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/sewage-backup-cleanup: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/water-heater-leak-cleanup: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/swamp-cooler-leak-water-damage: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/ceiling-water-damage: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/crawl-space-water-damage: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/hardwood-floor-cabinet-drying: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/condo-apartment-water-damage: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=497.2
+/commercial-water-damage: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/storm-flood-damage: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/mold-remediation: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/water-leak-detection: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/water-damage-repair: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/locations/cottonwood-heights-ut: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/locations/south-salt-lake-ut: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/locations/magna-ut: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/midvale-water-sewer-emergency-contacts: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/privacy-policy: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=377.2
+/terms-of-use: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=377.2
+/disclaimer: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=377.2
+/resources/frozen-pipes-midvale: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=443.4
+/resources/winterize-swamp-cooler-utah: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=437.2
+/resources/upstairs-unit-leak-who-pays-utah: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/resources/can-mold-grow-in-utah: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=467.2
+/resources/basement-flooding-spring-snowmelt-utah: paren body/main=0/0 overflow d/m390/m320=0/0/0 errs=0 failed=0 btn2vis d/m390/m320=True/True/True btn2bottom m320=497.2
+---- CARD GEOMETRY (desktop, scroll-0) ----
+{'i': 0, 'x': 184, 'y': 1389, 'w': 339, 'h': 503, 'href': '/midvale-water-damage/emergency-water-extraction', 'link_w': 337, 'link_h': 501, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 1, 'x': 551, 'y': 1389, 'w': 339, 'h': 503, 'href': '/midvale-water-damage/basement-flooding-cleanup', 'link_w': 337, 'link_h': 501, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 2, 'x': 917, 'y': 1389, 'w': 339, 'h': 503, 'href': '/midvale-water-damage/window-well-flooding', 'link_w': 337, 'link_h': 501, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 3, 'x': 184, 'y': 1920, 'w': 339, 'h': 503, 'href': '/midvale-water-damage/burst-pipe-water-damage', 'link_w': 337, 'link_h': 501, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 4, 'x': 551, 'y': 1920, 'w': 339, 'h': 503, 'href': '/midvale-water-damage/sewage-backup-cleanup', 'link_w': 337, 'link_h': 501, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 5, 'x': 917, 'y': 1920, 'w': 339, 'h': 503, 'href': '/midvale-water-damage/water-heater-leak-cleanup', 'link_w': 337, 'link_h': 501, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 6, 'x': 184, 'y': 2451, 'w': 339, 'h': 473, 'href': '/midvale-water-damage/swamp-cooler-leak-water-damage', 'link_w': 337, 'link_h': 471, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 7, 'x': 551, 'y': 2451, 'w': 339, 'h': 473, 'href': '/midvale-water-damage/ceiling-water-damage', 'link_w': 337, 'link_h': 471, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 8, 'x': 917, 'y': 2451, 'w': 339, 'h': 473, 'href': '/midvale-water-damage/crawl-space-water-damage', 'link_w': 337, 'link_h': 471, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 9, 'x': 184, 'y': 2952, 'w': 339, 'h': 503, 'href': '/midvale-water-damage/hardwood-floor-cabinet-drying', 'link_w': 337, 'link_h': 501, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 10, 'x': 551, 'y': 2952, 'w': 339, 'h': 503, 'href': '/midvale-water-damage/condo-apartment-water-damage', 'link_w': 337, 'link_h': 501, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 11, 'x': 917, 'y': 2952, 'w': 339, 'h': 503, 'href': '/midvale-water-damage/commercial-water-damage', 'link_w': 337, 'link_h': 501, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 12, 'x': 184, 'y': 3483, 'w': 339, 'h': 472, 'href': '/midvale-water-damage/storm-flood-damage', 'link_w': 337, 'link_h': 470, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 13, 'x': 551, 'y': 3483, 'w': 339, 'h': 472, 'href': '/midvale-water-damage/mold-remediation', 'link_w': 337, 'link_h': 470, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 14, 'x': 917, 'y': 3483, 'w': 339, 'h': 472, 'href': '/midvale-water-damage/water-leak-detection', 'link_w': 337, 'link_h': 470, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 15, 'x': 184, 'y': 3983, 'w': 339, 'h': 472, 'href': '/midvale-water-damage/water-damage-repair', 'link_w': 337, 'link_h': 470, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 16, 'x': 184, 'y': 9081, 'w': 339, 'h': 404, 'href': '/midvale-water-damage/locations/cottonwood-heights-ut', 'link_w': 337, 'link_h': 402, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 17, 'x': 551, 'y': 9081, 'w': 339, 'h': 404, 'href': '/midvale-water-damage/locations/south-salt-lake-ut', 'link_w': 337, 'link_h': 402, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+{'i': 18, 'x': 917, 'y': 9081, 'w': 339, 'h': 404, 'href': '/midvale-water-damage/locations/magna-ut', 'link_w': 337, 'link_h': 402, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'deco': 'none', 'nested_a': 1}
+---- CARD GEOMETRY (scrolled to #services) ----
+{'i': 0, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 1, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 2, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 3, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 4, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 5, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 800]}
+{'i': 6, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 800]}
+{'i': 7, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 8, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 9, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 10, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 11, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 12, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 13, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 14, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 800]}
+{'i': 15, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [1200, 675]}
+{'i': 16, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [0, 0]}
+{'i': 17, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [0, 0]}
+{'i': 18, 'img_w': 337, 'img_h': 189, 'img_ratio': 1.778, 'natural': [0, 0]}
+---- NAV ----
+{
+ "card->emergency_click": {
+  "url": "http://localhost:8324/midvale-water-damage/emergency-water-extraction",
+  "h1": "Rapid Emergency Water Extraction in Midvale, UT 84047",
+  "subpath_kept": true
+ },
+ "logo->home": {
+  "url": "http://localhost:8324/midvale-water-damage",
+  "h1": "24/7 Water Damage Restoration in Midvale, UT 84047",
+  "subpath_kept": false
+ },
+ "bodylink->emergency_contacts": {
+  "url": "http://localhost:8324/midvale-water-damage/midvale-water-sewer-emergency-contacts",
+  "h1": "Midvale Water & Sewer Emergency Contacts (84047)",
+  "subpath_kept": true
+ },
+ "inner_bodylink->hardwood": {
+  "url": "http://localhost:8324/midvale-water-damage/hardwood-floor-cabinet-drying",
+  "h1": "Fast Hardwood Floor & Cabinet Drying in Midvale, UT 84047",
+  "subpath_kept": true
+ },
+ "footer->mold": {
+  "url": "http://localhost:8324/midvale-water-damage/mold-remediation",
+  "h1": "Professional Mold Remediation in Midvale, UT 84047",
+  "subpath_kept": true
+ },
+ "header->sewage": {
+  "url": "http://localhost:8324/midvale-water-damage/sewage-backup-cleanup",
+  "h1": "24/7 Sewage Backup Cleanup in Midvale, UT 84047",
+  "subpath_kept": true
+ },
+ "breadcrumb->home": {
+  "url": "http://localhost:8324/midvale-water-damage",
+  "h1": "24/7 Water Damage Restoration in Midvale, UT 84047",
+  "subpath_kept": false
+ },
+ "desktop_click_errors": []
+}
+---- MOBILE NAV ----
+{
+ "menu_open_state": "flex|main-nav open|aria:true",
+ "menu_scroll_lock": "hidden|fixed",
+ "error": "Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"#main-nav a[href*='burst-pipe-water-damage']\").first\n"
+}
+---- SUMMARY ----
+render problems: 0

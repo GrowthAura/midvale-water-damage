@@ -1,0 +1,354 @@
+{
+ "date": "2026-11-13",
+ "site": "midvale-water-damage",
+ "task": "Stage 1 UI/UX round \u2014 heroes + cards image fix (qa/uiux-images-heroes-cards-2026-11-13.md)",
+ "scope": "9 files (5 heroes 1600x1066, 4 cards 1200x675); ONLY public/images/heroes/ and public/images/cards/ touched",
+ "result": "9/9 replaced, 0 unfilled",
+ "pages_data_json_sha256": "21c6e7f2b89bab95f9f7da2ee5b5fb53c118edeee4abc587f8066dc0589d638f (unchanged, verified after install)",
+ "install_method": "processed to temp file, copied to <target>.new-tmp in target dir, os.replace atomic rename; md5 re-verified after install; no .new-tmp leftovers",
+ "reuse_check_scope": "md5 + 16x16 aHash vs this site (107 files: 31 heroes + 19 cards + 57 body) and vs 5,510 past-site image files across ~/workspace (all site image dirs, qa/screenshots excluded); Pexels IDs vs 491 IDs grepped from past-site logs (IMAGE-LOG/CARD-IMAGE-LOG/image-log*.txt/qa json). Standard: aHash <=8 flags need full-size adjudication; same photo ~0-2/256, different 25+/256.",
+ "files": [
+  {
+   "file": "heroes/water-damage-repair.webp",
+   "target": "1600x1066 hero",
+   "old_verdict": "WEAK \u2014 empty finished room, no repair work/crew/damage; reads as real-estate photo",
+   "outcome": "replaced",
+   "new_source": "pexels",
+   "pexels_id": "5493667",
+   "source_url": "https://images.pexels.com/photos/5493667/pexels-photo-5493667.jpeg",
+   "source_note": "Construction worker in hard hat + respirator fitting new white trim, trowel in hand (Pexels search \"drywall repair\")",
+   "processing": "portrait 1600x2400 cropped y=80..1146 to 1600x1066; WebP q82",
+   "new_file": {
+    "dims": [
+     1600,
+     1066
+    ],
+    "format": "WEBP",
+    "bytes": 99430,
+    "md5": "19f5f4048379328bcae9c0a0afc53467",
+    "old_md5": "95a532fc1e15a4e5a717152405d68562",
+    "old_bytes": 31788
+   },
+   "checks": {
+    "metadata": "0 EXIF/XMP/ICC chunks (single VP8 chunk verified)",
+    "md5_exact_matches": {
+     "this_site_107_files": [],
+     "past_sites_5510_files": []
+    },
+    "ahash16_min_distance": {
+     "this_site_excl_replaced": 77,
+     "this_site_closest": "body/emergency-water-extraction-2.webp",
+     "past_sites_5510_files": 56,
+     "past_sites_closest": "water-damage-restoration-lancaster-ca how-to-file-a-water-damage-insurance-claim sec1"
+    },
+    "pexels_id_in_past_logs": "not in 491-ID used list",
+    "near_dup_this_site": "none \u2014 closest distances 23\u201399/256; the two sub-25 values (Magna card 23 vs body/cottonwood-heights-ut-3) adjudicated different by full-size view"
+   },
+   "viewed_verdict": "PASS \u2014 repair action clear: worker fitting trim with trowel; blank wall left for headline; no legible text/branding; lower trowel hand slightly cut at bottom edge (minor framing nit, noted)"
+  },
+  {
+   "file": "heroes/upstairs-unit-leak-who-pays-utah.webp",
+   "target": "1600x1066 hero",
+   "old_verdict": "WEAK \u2014 ceiling-drip-into-bucket motif duplicating the ceiling hero",
+   "outcome": "replaced",
+   "new_source": "generated",
+   "pexels_id": null,
+   "source_url": null,
+   "source_note": "Generated: upstairs bathroom, water pooling on tile from toilet base, damp wall, towels soaking up water. No fitting real photo on Pexels after \"bathroom water leak\" search (only faucet drips / outdoor taps / inspection shots).",
+   "processing": "none \u2014 generated 1920x1280 resized to 1600x1066; WebP q82",
+   "new_file": {
+    "dims": [
+     1600,
+     1066
+    ],
+    "format": "WEBP",
+    "bytes": 87580,
+    "md5": "6497ba4627640e70ecb056f4d0e75b8f",
+    "old_md5": "272bf7cacb734442a105fa6f1054c336",
+    "old_bytes": 101790
+   },
+   "checks": {
+    "metadata": "0 EXIF/XMP/ICC chunks (single VP8 chunk verified)",
+    "md5_exact_matches": {
+     "this_site_107_files": [],
+     "past_sites_5510_files": []
+    },
+    "ahash16_min_distance": {
+     "this_site_excl_replaced": 61,
+     "this_site_closest": "body/water-leak-detection-2.webp",
+     "past_sites_5510_files": 57,
+     "past_sites_closest": "tulsa-8pages-preview roof-ceiling-stain"
+    },
+    "pexels_id_in_past_logs": "n/a \u2014 generated",
+    "near_dup_this_site": "none \u2014 closest distances 23\u201399/256; the two sub-25 values (Magna card 23 vs body/cottonwood-heights-ut-3) adjudicated different by full-size view"
+   },
+   "viewed_verdict": "PASS \u2014 distinct upstairs-bathroom source angle, zero bucket motif; no people/text/logos; wall staining reads as leak damage, fits the page"
+  },
+  {
+   "file": "heroes/basement-flooding-spring-snowmelt-utah.webp",
+   "target": "1600x1066 hero",
+   "old_verdict": "WEAK \u2014 water-through-basement-window motif duplicating the window-well hero",
+   "outcome": "replaced",
+   "new_source": "generated",
+   "pexels_id": null,
+   "source_url": null,
+   "source_note": "Generated: meltwater pooling against concrete foundation outside, dirty snow banks, downspout dripping into the pool, snowy foothills behind. No fitting real photo on Pexels after \"melting snow house foundation\" + \"sump pump\" searches (icicles / vintage garden pumps only).",
+   "processing": "none \u2014 generated 1920x1280 resized to 1600x1066; WebP q82",
+   "new_file": {
+    "dims": [
+     1600,
+     1066
+    ],
+    "format": "WEBP",
+    "bytes": 276840,
+    "md5": "a8733fb1211625b7316471dfe55e450c",
+    "old_md5": "bd98c982b7e149ad4be60c2f93c1863f",
+    "old_bytes": 141566
+   },
+   "checks": {
+    "metadata": "0 EXIF/XMP/ICC chunks (single VP8 chunk verified)",
+    "md5_exact_matches": {
+     "this_site_107_files": [],
+     "past_sites_5510_files": []
+    },
+    "ahash16_min_distance": {
+     "this_site_excl_replaced": 58,
+     "this_site_closest": "body/cottonwood-heights-ut-2.webp",
+     "past_sites_5510_files": 37,
+     "past_sites_closest": "naples-water-damage-site ceiling-water-damage-repair after-02 thumb"
+    },
+    "pexels_id_in_past_logs": "n/a \u2014 generated",
+    "near_dup_this_site": "none \u2014 closest distances 23\u201399/256; the two sub-25 values (Magna card 23 vs body/cottonwood-heights-ut-3) adjudicated different by full-size view"
+   },
+   "viewed_verdict": "PASS \u2014 exact requested angle, meltwater against foundation, no window scene; no people/text/logos"
+  },
+  {
+   "file": "heroes/basement-flooding-cleanup.webp",
+   "target": "1600x1066 hero",
+   "old_verdict": "WEAK \u2014 pump discharges its jet back onto the flooded floor (logic error)",
+   "outcome": "replaced",
+   "new_source": "generated",
+   "pexels_id": null,
+   "source_url": null,
+   "source_note": "Generated as an edit of the existing hero: same wood-panel flooded basement, worker lifting soaked carpet, pump hose now leading up and OUT through the basement window with the jet spraying outside. No fitting real photo on Pexels after \"flooded basement\" search (no worker+carpet+pump scene). NOTE: the generator rebuilt the scene rather than pixel-preserving the original; composition is equivalent.",
+   "processing": "none \u2014 generated 1920x1280 resized to 1600x1066; WebP q82",
+   "new_file": {
+    "dims": [
+     1600,
+     1066
+    ],
+    "format": "WEBP",
+    "bytes": 139640,
+    "md5": "cd35ad50a3b6a28c09bdb838f31c87ab",
+    "old_md5": "ef9e2a75bc9126d5a03f9865313e7381",
+    "old_bytes": 104374
+   },
+   "checks": {
+    "metadata": "0 EXIF/XMP/ICC chunks (single VP8 chunk verified)",
+    "md5_exact_matches": {
+     "this_site_107_files": [],
+     "past_sites_5510_files": []
+    },
+    "ahash16_min_distance": {
+     "this_site_excl_replaced": 95,
+     "this_site_closest": "heroes/commercial-water-damage.webp",
+     "past_sites_5510_files": 85,
+     "past_sites_closest": "elyria-water-damage hero-water-mitigation"
+    },
+    "pexels_id_in_past_logs": "n/a \u2014 generated",
+    "near_dup_this_site": "none \u2014 closest distances 23\u201399/256; the two sub-25 values (Magna card 23 vs body/cottonwood-heights-ut-3) adjudicated different by full-size view"
+   },
+   "viewed_verdict": "PASS \u2014 hose arcs out the window, water sprays outside the wall (grass visible, no jet lands on the flooded floor); worker + carpet retained; no text/logos"
+  },
+  {
+   "file": "heroes/disclaimer.webp",
+   "target": "1600x1066 hero",
+   "old_verdict": "WEAK \u2014 technician moisture-testing a wall; wrong register for a legal page",
+   "outcome": "replaced",
+   "new_source": "pexels",
+   "pexels_id": "8297022",
+   "source_url": "https://images.pexels.com/photos/8297022/pexels-photo-8297022.jpeg",
+   "source_note": "Tidy office desk: laptop with blank dark screen, calculator, folders, papers; no people (Pexels search \"office desk documents laptop\"). Rejected alternatives: 5520296 (legible CONTRACT headings), 8036339 (legible marked-up manuscript), 8927688 (legible 1040 tax form + euro banknote), 8296951 (colourful folders + Cyrillic keyboard).",
+   "processing": "portrait 1600x2400 cropped y=600..1666 to 1600x1066; WebP q82",
+   "new_file": {
+    "dims": [
+     1600,
+     1066
+    ],
+    "format": "WEBP",
+    "bytes": 34340,
+    "md5": "e02bfc16f9478dd4e64b8ef300e5b4b2",
+    "old_md5": "015dedb20135bccd1652cb880905c8fd",
+    "old_bytes": 112174
+   },
+   "checks": {
+    "metadata": "0 EXIF/XMP/ICC chunks (single VP8 chunk verified)",
+    "md5_exact_matches": {
+     "this_site_107_files": [],
+     "past_sites_5510_files": []
+    },
+    "ahash16_min_distance": {
+     "this_site_excl_replaced": 85,
+     "this_site_closest": "heroes/water-damage-repair.webp",
+     "past_sites_5510_files": 74,
+     "past_sites_closest": "plano3-water-damage home-insurance-policy-7731333"
+    },
+    "pexels_id_in_past_logs": "not in 491-ID used list",
+    "near_dup_this_site": "none \u2014 closest distances 23\u201399/256; the two sub-25 values (Magna card 23 vs body/cottonwood-heights-ut-3) adjudicated different by full-size view"
+   },
+   "viewed_verdict": "PASS \u2014 neutral documents/office register matching privacy/terms heroes; no legible text, no people, no damage; shallow-DOF softness reads fine as a hero background; unbranded card terminal blurred at right edge"
+  },
+  {
+   "file": "cards/burst-pipe-water-damage.webp",
+   "target": "1200x675 card",
+   "old_verdict": "WEAK \u2014 frozen burst pipe; reads as the frozen-pipes page, near-duplicates its hero",
+   "outcome": "replaced",
+   "new_source": "generated",
+   "pexels_id": null,
+   "source_url": null,
+   "source_note": "Generated: split copper pipe in an opened wall cavity spraying water, wet studs, torn drywall, zero ice/frost. No fitting real photo on Pexels after \"burst pipe water damage\" search (outdoor dripping taps / rusty pipes only; no opened-wall split copper).",
+   "processing": "1920x1280 cropped y=100..1180 to 1920x1080, resized to 1200x675; WebP q82",
+   "new_file": {
+    "dims": [
+     1200,
+     675
+    ],
+    "format": "WEBP",
+    "bytes": 126742,
+    "md5": "f48156406e351d6415ca271b3c537a18",
+    "old_md5": "dbe94e644a6a4d373b943c9a11cb927b",
+    "old_bytes": 103254
+   },
+   "checks": {
+    "metadata": "0 EXIF/XMP/ICC chunks (single VP8 chunk verified)",
+    "md5_exact_matches": {
+     "this_site_107_files": [],
+     "past_sites_5510_files": []
+    },
+    "ahash16_min_distance": {
+     "this_site_excl_replaced": 98,
+     "this_site_closest": "body/swamp-cooler-leak-water-damage-1.webp",
+     "past_sites_5510_files": 80,
+     "past_sites_closest": "chesterfield insurance-claims-reviewing-photos-homeowner"
+    },
+    "pexels_id_in_past_logs": "n/a \u2014 generated",
+    "near_dup_this_site": "none \u2014 closest distances 23\u201399/256; the two sub-25 values (Magna card 23 vs body/cottonwood-heights-ut-3) adjudicated different by full-size view"
+   },
+   "viewed_verdict": "PASS \u2014 non-frozen split copper, different angle from the hero (horizontal close-up vs hero vertical split); no ice, no people/text/logos"
+  },
+  {
+   "file": "cards/cottonwood-heights-ut.webp",
+   "target": "1200x675 card",
+   "old_verdict": "WEAK \u2014 near-duplicate of its own hero (same snowy canyon over homes, overlook+bench)",
+   "outcome": "replaced",
+   "new_source": "pexels",
+   "pexels_id": "34409157",
+   "source_url": "https://images.pexels.com/photos/34409157/pexels-photo-34409157.jpeg",
+   "source_note": "Big Cottonwood Canyon with winding canyon road, autumn foliage, rocky cliffs; photo location metadata Cottonwood Heights, Utah; by Alex Moliski (Pexels search \"big cottonwood canyon utah\").",
+   "processing": "portrait 1200x1800 cropped y=700..1375 to 1200x675; WebP q82",
+   "new_file": {
+    "dims": [
+     1200,
+     675
+    ],
+    "format": "WEBP",
+    "bytes": 217136,
+    "md5": "0cdc33ad2f8299a954459d3b5cf0d23b",
+    "old_md5": "34f2fb48ecba0f82637c63914322236c",
+    "old_bytes": 160370
+   },
+   "checks": {
+    "metadata": "0 EXIF/XMP/ICC chunks (single VP8 chunk verified)",
+    "md5_exact_matches": {
+     "this_site_107_files": [],
+     "past_sites_5510_files": []
+    },
+    "ahash16_min_distance": {
+     "this_site_excl_replaced": 90,
+     "this_site_closest": "body/hardwood-floor-cabinet-drying-3.webp",
+     "past_sites_5510_files": 69,
+     "past_sites_closest": "tulsa-gh-sync resources-faucet-dripping"
+    },
+    "pexels_id_in_past_logs": "not in 491-ID used list",
+    "near_dup_this_site": "none \u2014 closest distances 23\u201399/256; the two sub-25 values (Magna card 23 vs body/cottonwood-heights-ut-3) adjudicated different by full-size view"
+   },
+   "viewed_verdict": "PASS \u2014 mouth-of-canyon road angle, totally distinct from the snowy street hero; no people/text/logos"
+  },
+  {
+   "file": "cards/magna-ut.webp",
+   "target": "1200x675 card",
+   "old_verdict": "WEAK \u2014 near-duplicate of its own hero (same wet brick main street + snowy mountain)",
+   "outcome": "replaced",
+   "new_source": "pexels",
+   "pexels_id": "15811732",
+   "source_url": "https://images.pexels.com/photos/15811732/pexels-photo-15811732.jpeg",
+   "source_note": "Residential street of brick homes with snowy Oquirrh-range foothills behind at sunrise (Pexels search \"magna utah\").",
+   "processing": "1200x795 cropped y=60..735 to 1200x675; WebP q82",
+   "new_file": {
+    "dims": [
+     1200,
+     675
+    ],
+    "format": "WEBP",
+    "bytes": 135012,
+    "md5": "e0d2f0f00d2e6cf29ba663b1e26e889f",
+    "old_md5": "b30041366e1eccd58fd4169346b6015a",
+    "old_bytes": 69624
+   },
+   "checks": {
+    "metadata": "0 EXIF/XMP/ICC chunks (single VP8 chunk verified)",
+    "md5_exact_matches": {
+     "this_site_107_files": [],
+     "past_sites_5510_files": []
+    },
+    "ahash16_min_distance": {
+     "this_site_excl_replaced": 23,
+     "this_site_closest": "body/cottonwood-heights-ut-3.webp",
+     "past_sites_5510_files": 18,
+     "past_sites_closest": "plano3-water-damage texas-home-33404353 (adjudicated different, full-size view)"
+    },
+    "pexels_id_in_past_logs": "not in 491-ID used list",
+    "near_dup_this_site": "none \u2014 closest distances 23\u201399/256; the two sub-25 values (Magna card 23 vs body/cottonwood-heights-ut-3) adjudicated different by full-size view"
+   },
+   "viewed_verdict": "PASS \u2014 residential-street + Oquirrh foothills angle, distinct from the main-street storefront hero; no legible text (street sign illegible); aHash 18 vs Plano3 texas-home-33404353 adjudicated DIFFERENT by full-size view (that image is a house under wood-frame construction on a dirt lot); aHash 23 vs this-site body/cottonwood-heights-ut-3 adjudicated DIFFERENT by full-size view (grey overcast cityscape with church + scaffolding)"
+  },
+  {
+   "file": "cards/south-salt-lake-ut.webp",
+   "target": "1200x675 card",
+   "old_verdict": "WEAK \u2014 near-duplicate of its own hero (same apartments-vs-warehouses wet street at dusk)",
+   "outcome": "replaced",
+   "new_source": "pexels",
+   "pexels_id": "20890902",
+   "source_url": "https://images.pexels.com/photos/20890902/pexels-photo-20890902.jpeg",
+   "source_note": "UTA TRAX Blue Line light rail train on a snowy street (Pexels search \"salt lake city train station\").",
+   "processing": "1200x900 cropped y=100..775 to 1200x675; WebP q82",
+   "new_file": {
+    "dims": [
+     1200,
+     675
+    ],
+    "format": "WEBP",
+    "bytes": 149334,
+    "md5": "d8a40778ea484e13a3651e2132db3c4c",
+    "old_md5": "04995fb1c485a3be06243116775eeaea",
+    "old_bytes": 75764
+   },
+   "checks": {
+    "metadata": "0 EXIF/XMP/ICC chunks (single VP8 chunk verified)",
+    "md5_exact_matches": {
+     "this_site_107_files": [],
+     "past_sites_5510_files": []
+    },
+    "ahash16_min_distance": {
+     "this_site_excl_replaced": 83,
+     "this_site_closest": "body/ceiling-water-damage-3.webp",
+     "past_sites_5510_files": 48,
+     "past_sites_closest": "water-damage-restoration-lancaster-ca terms-of-service-sec1"
+    },
+    "pexels_id_in_past_logs": "not in 491-ID used list",
+    "near_dup_this_site": "none \u2014 closest distances 23\u201399/256; the two sub-25 values (Magna card 23 vs body/cottonwood-heights-ut-3) adjudicated different by full-size view"
+   },
+   "viewed_verdict": "PASS \u2014 TRAX corridor angle, distinct from the hero; only legible text is the train\u2019s own \"BLUE LINE\" destination sign + UTA livery, which is the place cue itself, not a watermark"
+  }
+ ]
+}

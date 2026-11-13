@@ -1,0 +1,222 @@
+{
+  "checks": {
+    "data_sha256_unchanged": {
+      "pass": true,
+      "detail": "21c6e7f2b89bab95f9f7da2ee5b5fb53c118edeee4abc587f8066dc0589d638f"
+    },
+    "body_manifest_19_routes_x3": {
+      "pass": true,
+      "detail": "routes=19 images=57"
+    },
+    "body_manifest_all_entries_valid": {
+      "pass": true,
+      "detail": "raw=57 valid=57"
+    },
+    "body_srcs_distinct_57": {
+      "pass": true,
+      "detail": "distinct=57"
+    },
+    "body_afterH2_ascending_per_route": {
+      "pass": true,
+      "detail": "manifest order == render order, so #body-image-N indexes match the rendered order"
+    },
+    "body_alts_nonempty": {
+      "pass": true,
+      "detail": "57/57"
+    },
+    "body_routes_are_exactly_19_service_location": {
+      "pass": true,
+      "detail": "19 routes"
+    },
+    "total_blocks_254": {
+      "pass": true,
+      "detail": "total=254 (was 178, +76 C-3)"
+    },
+    "per_type_counts": {
+      "pass": true,
+      "detail": "{\"HomeAndConstructionBusiness\":1,\"FAQPage\":28,\"WebSite\":1,\"BreadcrumbList\":31,\"WebPage\":29,\"ImageObject\":107,\"HowTo\":36,\"AboutPage\":1,\"ContactPage\":1,\"Service\":19}"
+    },
+    "per_page_counts_baseline_plus_deltas": {
+      "pass": true,
+      "detail": "31/31 pages match auditor baseline + 76 C-3 blocks"
+    },
+    "id_refs_all_resolve": {
+      "pass": true,
+      "detail": "196 pure refs, 0 unresolved"
+    },
+    "no_duplicate_id_definitions_per_page": {
+      "pass": true,
+      "detail": "every @id defined at most once per page"
+    },
+    "total_pure_refs_196": {
+      "pass": true,
+      "detail": "total=196 (was 113, +83 C-1 mainEntity refs)"
+    },
+    "unreferenced_ids_only_webpage_urls_and_bodycard_images": {
+      "pass": true,
+      "detail": "never-referenced=107 (31 WebPage page-URL @ids + 76 body/card ImageObject @ids; #faq/#service/#howto now all referenced)"
+    },
+    "mainEntity_exact_per_page": {
+      "pass": true,
+      "detail": "83 refs total (28 #faq + 19 #service + 36 #howto)"
+    },
+    "mainEntity_total_83": {
+      "pass": true,
+      "detail": "total=83"
+    },
+    "about_is_AboutPage": {
+      "pass": true,
+      "detail": "AboutPage"
+    },
+    "contact_is_ContactPage": {
+      "pass": true,
+      "detail": "ContactPage"
+    },
+    "all_other_pages_WebPage": {
+      "pass": true,
+      "detail": "29 WebPage"
+    },
+    "howto_refactor_byte_identical": {
+      "pass": true,
+      "detail": "35 doc-page HowTo blocks identical to independent recomputation"
+    },
+    "howto_steps_233": {
+      "pass": true,
+      "detail": "doc steps=227 + homepage steps=6 = 233"
+    },
+    "howto_index_map_matches_blocks": {
+      "pass": true,
+      "detail": "map size == HowTo count on every page (single source of truth for C-5 DOM ids)"
+    },
+    "all_content_ols_are_howto_ols": {
+      "pass": true,
+      "detail": "doc content <ol> blocks=35, doc HowTo blocks=35, + homepage HowTo = 36"
+    },
+    "imageobject_total_107": {
+      "pass": true,
+      "detail": "total=107"
+    },
+    "hero_imageobjects_31": {
+      "pass": true,
+      "detail": "heroes=31"
+    },
+    "nonhero_imageobjects_76": {
+      "pass": true,
+      "detail": "non-heroes=76"
+    },
+    "hero_width_height_1600x1066": {
+      "pass": true,
+      "detail": "31/31 width=1600 height=1066 (PIL-measured; never the 1600x900 img attrs)"
+    },
+    "nonhero_imageobjects_no_dimensions": {
+      "pass": true,
+      "detail": "C-3 blocks carry no width/height (not measured for body/cards)"
+    },
+    "nonhero_no_representativeOfPage": {
+      "pass": true,
+      "detail": "only heroes are representativeOfPage"
+    },
+    "imageobject_captions_eq_alt_verbatim": {
+      "pass": true,
+      "detail": "107/107 captions == alt verbatim"
+    },
+    "imageobject_contenturl_eq_base_plus_src": {
+      "pass": true,
+      "detail": "107/107 contentUrl == SITE.base + src (single prefix)"
+    },
+    "imageobject_files_exist_locally": {
+      "pass": true,
+      "detail": "107/107 files exist in public/"
+    },
+    "body_imageobject_ids": {
+      "pass": true,
+      "detail": "57 #body-image-N, one per manifest image"
+    },
+    "card_imageobject_ids": {
+      "pass": true,
+      "detail": "19 #card-image-0..18 on homepage"
+    },
+    "card_files_distinct_from_heroes": {
+      "pass": true,
+      "detail": "19 card files, 0 overlap with hero files"
+    },
+    "card_alts_nonempty_distinct": {
+      "pass": true,
+      "detail": "distinct card files=19"
+    },
+    "forbidden_keys_zero": {
+      "pass": true,
+      "detail": "0 hits across all 254 blocks"
+    },
+    "urls_on_base_or_allowed": {
+      "pass": true,
+      "detail": "966 URL strings, only allowed off-base = schema.org context + footer hasMap"
+    },
+    "urls_no_localhost": {
+      "pass": true,
+      "detail": "localhost=0"
+    },
+    "urls_no_double_slash": {
+      "pass": true,
+      "detail": "double-slash=0"
+    },
+    "urls_no_doubled_subpath": {
+      "pass": true,
+      "detail": "doubled=0"
+    },
+    "webpage_name_desc_url_verbatim": {
+      "pass": true,
+      "detail": "31/31 WebPage name==metaTitle, description==metaDescription, url==canonical, @id==url"
+    },
+    "service_name_desc_image_provider": {
+      "pass": true,
+      "detail": "19/19 Service name==serviceType==h1, description==intro, image/provider refs resolve"
+    },
+    "dom_id_service_in_docpage": {
+      "pass": true,
+      "detail": "page-body section gets id=\"service\" exactly on the 19 Service pages"
+    },
+    "dom_id_howto_in_docpage": {
+      "pass": true,
+      "detail": "content <ol> gets id=\"howto-N\" from the same map as the HowTo @ids"
+    },
+    "dom_id_howto0_homepage": {
+      "pass": true,
+      "detail": "homepage process <ol> gets id=\"howto-0\""
+    },
+    "dom_id_breadcrumb_heroimage_NOT_in_scope": {
+      "pass": true,
+      "detail": "BLOCKED, not silently skipped: Breadcrumb nav + PhotoHero <img> live in components/site.tsx (outside this task's file scope) — see fix doc"
+    },
+    "c6_itemlist_skipped": {
+      "pass": true,
+      "detail": "no ItemList added anywhere (weak/redundant per auditor; see fix doc)"
+    },
+    "only_allowed_files_changed_note": {
+      "pass": true,
+      "detail": "edits were lib/schema.ts, components/doc-page.tsx, app/page.tsx only (verify via git status in the fix doc)"
+    }
+  },
+  "fails": [],
+  "summary": {
+    "total_blocks": 254,
+    "by_type": {
+      "HomeAndConstructionBusiness": 1,
+      "FAQPage": 28,
+      "WebSite": 1,
+      "BreadcrumbList": 31,
+      "WebPage": 29,
+      "ImageObject": 107,
+      "HowTo": 36,
+      "AboutPage": 1,
+      "ContactPage": 1,
+      "Service": 19
+    },
+    "pages": 31,
+    "pure_refs": 196,
+    "main_entity_refs": 83,
+    "image_objects": 107,
+    "url_strings_scanned": 966,
+    "fails": []
+  }
+}

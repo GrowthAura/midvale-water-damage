@@ -7,7 +7,12 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE.base),
   title: SITE.metaTitle,
   description: SITE.metaDescription,
-  robots: { index: true, follow: true },
+  // SEO FIX 2 (2026-11-13): robots lives on the PAGE metadata (app/page.tsx
+  // + the three generateMetadata renderers), NOT here. The root layout's
+  // robots leaked onto the 404 page, which Next also auto-noindexes —
+  // giving the 404 two conflicting robots tags (noindex + index,follow).
+  // With no robots key here, the 404 carries only Next's single auto
+  // noindex, and the 31 real pages keep their explicit index,follow.
   // Next's Metadata API does NOT apply basePath to icons (verified in the
   // built HTML: a bare "/favicon.svg" stayed bare on all 32 pages) —
   // so the icon path is hand-prefixed with ASSET_PREFIX, like plain <img>.

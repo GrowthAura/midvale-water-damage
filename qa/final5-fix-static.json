@@ -1,0 +1,4249 @@
+{
+ "data_sha256": "21c6e7f2b89bab95f9f7da2ee5b5fb53c118edeee4abc587f8066dc0589d638f",
+ "routes": 31,
+ "checks": {
+  "fullness": {
+   "pass": true,
+   "pages": {
+    "/": {
+     "total_visible_words": 2249,
+     "main_words": 2097,
+     "status": "FULL"
+    },
+    "/about": {
+     "total_visible_words": 1081,
+     "main_words": 931,
+     "status": "FULL"
+    },
+    "/contact": {
+     "total_visible_words": 902,
+     "main_words": 751,
+     "status": "FULL"
+    },
+    "/emergency-water-extraction": {
+     "total_visible_words": 1928,
+     "main_words": 1776,
+     "status": "FULL"
+    },
+    "/basement-flooding-cleanup": {
+     "total_visible_words": 1827,
+     "main_words": 1676,
+     "status": "FULL"
+    },
+    "/window-well-flooding": {
+     "total_visible_words": 1914,
+     "main_words": 1763,
+     "status": "FULL"
+    },
+    "/burst-pipe-water-damage": {
+     "total_visible_words": 1994,
+     "main_words": 1842,
+     "status": "FULL"
+    },
+    "/sewage-backup-cleanup": {
+     "total_visible_words": 1866,
+     "main_words": 1715,
+     "status": "FULL"
+    },
+    "/water-heater-leak-cleanup": {
+     "total_visible_words": 1845,
+     "main_words": 1693,
+     "status": "FULL"
+    },
+    "/swamp-cooler-leak-water-damage": {
+     "total_visible_words": 1783,
+     "main_words": 1631,
+     "status": "FULL"
+    },
+    "/ceiling-water-damage": {
+     "total_visible_words": 1766,
+     "main_words": 1615,
+     "status": "FULL"
+    },
+    "/crawl-space-water-damage": {
+     "total_visible_words": 1787,
+     "main_words": 1635,
+     "status": "FULL"
+    },
+    "/hardwood-floor-cabinet-drying": {
+     "total_visible_words": 1911,
+     "main_words": 1759,
+     "status": "FULL"
+    },
+    "/condo-apartment-water-damage": {
+     "total_visible_words": 1880,
+     "main_words": 1729,
+     "status": "FULL"
+    },
+    "/commercial-water-damage": {
+     "total_visible_words": 1819,
+     "main_words": 1668,
+     "status": "FULL"
+    },
+    "/storm-flood-damage": {
+     "total_visible_words": 1776,
+     "main_words": 1625,
+     "status": "FULL"
+    },
+    "/mold-remediation": {
+     "total_visible_words": 1834,
+     "main_words": 1684,
+     "status": "FULL"
+    },
+    "/water-leak-detection": {
+     "total_visible_words": 1888,
+     "main_words": 1737,
+     "status": "FULL"
+    },
+    "/water-damage-repair": {
+     "total_visible_words": 1685,
+     "main_words": 1531,
+     "status": "FULL"
+    },
+    "/locations/cottonwood-heights-ut": {
+     "total_visible_words": 1897,
+     "main_words": 1746,
+     "status": "FULL"
+    },
+    "/locations/south-salt-lake-ut": {
+     "total_visible_words": 1975,
+     "main_words": 1823,
+     "status": "FULL"
+    },
+    "/locations/magna-ut": {
+     "total_visible_words": 1956,
+     "main_words": 1805,
+     "status": "FULL"
+    },
+    "/midvale-water-sewer-emergency-contacts": {
+     "total_visible_words": 1405,
+     "main_words": 1251,
+     "status": "FULL"
+    },
+    "/privacy-policy": {
+     "total_visible_words": 667,
+     "main_words": 524,
+     "status": "FULL"
+    },
+    "/terms-of-use": {
+     "total_visible_words": 614,
+     "main_words": 470,
+     "status": "FULL"
+    },
+    "/disclaimer": {
+     "total_visible_words": 451,
+     "main_words": 309,
+     "status": "FULL"
+    },
+    "/resources/frozen-pipes-midvale": {
+     "total_visible_words": 1812,
+     "main_words": 1656,
+     "status": "FULL"
+    },
+    "/resources/winterize-swamp-cooler-utah": {
+     "total_visible_words": 1654,
+     "main_words": 1503,
+     "status": "FULL"
+    },
+    "/resources/upstairs-unit-leak-who-pays-utah": {
+     "total_visible_words": 1671,
+     "main_words": 1517,
+     "status": "FULL"
+    },
+    "/resources/can-mold-grow-in-utah": {
+     "total_visible_words": 1603,
+     "main_words": 1449,
+     "status": "FULL"
+    },
+    "/resources/basement-flooding-spring-snowmelt-utah": {
+     "total_visible_words": 1620,
+     "main_words": 1468,
+     "status": "FULL"
+    }
+   },
+   "empty_pages": [],
+   "thin_pages": [],
+   "total_main_words": 46379,
+   "total_visible_words": 51060
+  },
+  "verbatim": {
+   "pass": true,
+   "total_segments": 2980,
+   "missing_raw_annotation_syntax": 165,
+   "changed_reordered_raw": 0,
+   "missing_normalized": 0,
+   "changed_normalized": 0,
+   "annotations_total": 165,
+   "annotations_distinct_routes_per_page_sum": 162,
+   "annotations_as_body_links": 143,
+   "annotations_as_plain_text_deduped": 22,
+   "annotations_with_target_not_linked_on_page": [],
+   "body_link_routes_not_in_annotations": [],
+   "annotation_routes_not_linked_on_page": [],
+   "per_page": {
+    "/": {
+     "segments": 124,
+     "missing": 21,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block6:p",
+       "tokens": 27,
+       "present_prefix_tokens": 24,
+       "text": "Truck-mounted and submersible pumps remove standing water fast, so carpet, pad and subfloors have the best chance of being saved. Emergency Water Extraction (/emergency-water-extraction/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      },
+      {
+       "seg": "block8:p",
+       "tokens": 33,
+       "present_prefix_tokens": 30,
+       "text": "Finished basements in Midvale ramblers and split-levels hold water behind paneling and under carpet. We pump out, open what must be opened and dry the rest. Basement Flooding Cleanup (/basement-flooding-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block10:p",
+       "tokens": 34,
+       "present_prefix_tokens": 31,
+       "text": "When a window well fills with snowmelt or storm water, it pours straight into basement bedrooms. We remove the water and dry the window framing, walls and floors. Window Well Flooding (/window-well-flooding/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Window Well Flooding (/window-well-flooding/)"
+       ]
+      },
+      {
+       "seg": "block12:p",
+       "tokens": 30,
+       "present_prefix_tokens": 26,
+       "text": "A split line inside a wall can soak insulation, drywall and floors in minutes. We dry the cavity, not just the surface. Burst Pipe Water Damage (/burst-pipe-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block14:p",
+       "tokens": 30,
+       "present_prefix_tokens": 27,
+       "text": "Sewage is Category 3 water. Our crew removes it, takes out contaminated materials, disinfects and cleans the air so the space is safe again. Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block16:p",
+       "tokens": 30,
+       "present_prefix_tokens": 26,
+       "text": "Hard water wears out tanks, valves and supply lines. We clean up after water heaters, washers, dishwashers, fridge lines and water softeners. Water Heater Leak Cleanup (/water-heater-leak-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Heater Leak Cleanup (/water-heater-leak-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block18:p",
+       "tokens": 36,
+       "present_prefix_tokens": 31,
+       "text": "A stuck float valve or clogged drain pan can soak a roof deck and attic insulation before any stain shows. We dry the attic and ceiling. Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block20:p",
+       "tokens": 26,
+       "present_prefix_tokens": 23,
+       "text": "Upstairs bathrooms, ice dams and roof leaks show up as stains or sagging drywall. We drain, dry and repair safely. Ceiling Water Damage (/ceiling-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Ceiling Water Damage (/ceiling-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block22:p",
+       "tokens": 30,
+       "present_prefix_tokens": 26,
+       "text": "Older homes near Historic Main Street often sit over dirt crawl spaces. We remove water, dry the joists and treat the area. Crawl Space Water Damage (/crawl-space-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Crawl Space Water Damage (/crawl-space-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block24:p",
+       "tokens": 27,
+       "present_prefix_tokens": 23,
+       "text": "Floor drying mats and cavity drying can save cupped hardwood and kitchen cabinets that might otherwise be torn out. Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/)"
+       ]
+      },
+      {
+       "seg": "block26:p",
+       "tokens": 30,
+       "present_prefix_tokens": 26,
+       "text": "Water moves between stacked units fast. We trace it, dry every affected unit and keep separate records for owners, renters and HOAs. Condo & Apartment Water Damage (/condo-apartment-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block28:p",
+       "tokens": 27,
+       "present_prefix_tokens": 24,
+       "text": "Offices, shops and restaurants along Fort Union Blvd, Union Park and 7200 South get after-hours drying to keep doors open. Commercial Water Damage (/commercial-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block30:p",
+       "tokens": 27,
+       "present_prefix_tokens": 24,
+       "text": "Summer storms and runoff can push dirty water into garages and basements. We treat it as contaminated water and clean accordingly. Storm Water Damage (/storm-flood-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Storm Water Damage (/storm-flood-damage/)"
+       ]
+      },
+      {
+       "seg": "block32:p",
+       "tokens": 24,
+       "present_prefix_tokens": 22,
+       "text": "If a leak sat too long, we contain the area, run HEPA air scrubbers and remove mold at the source. Mold Remediation (/mold-remediation/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      },
+      {
+       "seg": "block34:p",
+       "tokens": 24,
+       "present_prefix_tokens": 22,
+       "text": "Thermal imaging and moisture meters find hidden water behind walls and under floors with few or no holes. Water Leak Detection (/water-leak-detection/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Leak Detection (/water-leak-detection/)"
+       ]
+      },
+      {
+       "seg": "block36:p",
+       "tokens": 27,
+       "present_prefix_tokens": 26,
+       "text": "Once everything is dry, we put drywall, texture, paint, flooring and trim back so the space looks like it did before. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block59:p",
+       "tokens": 51,
+       "present_prefix_tokens": 47,
+       "text": "We give you what adjusters ask for: dated photos, moisture maps, daily drying logs and a clear list of removed materials. Good records are a big part of water mitigation Midvale 84047 claims moving smoothly. If water came from an upstairs u",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "If water came from an upstairs unit, see Condo & Apartment Water Damage (/condo-apartment-water-damage/)."
+       ]
+      },
+      {
+       "seg": "block62:p",
+       "tokens": 23,
+       "present_prefix_tokens": 10,
+       "text": "For sewer backups, the Midvale Water & Sewer Emergency Contacts page (/midvale-water-sewer-emergency-contacts/) lists who to call about the public line.",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "For sewer backups, the Midvale Water & Sewer Emergency Contacts page (/midvale-water-sewer-emergency-contacts/) lists who to call about the public line."
+       ]
+      },
+      {
+       "seg": "block65:ul[0]",
+       "tokens": 26,
+       "present_prefix_tokens": 22,
+       "text": "Cottonwood Heights, UT 84121: snowmelt seepage, ice dams and burst pipes in bench homes below the canyons. Water Damage Restoration Cottonwood Heights (/locations/cottonwood-heights-ut/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Restoration Cottonwood Heights (/locations/cottonwood-heights-ut/)"
+       ]
+      },
+      {
+       "seg": "block65:ul[1]",
+       "tokens": 23,
+       "present_prefix_tokens": 18,
+       "text": "South Salt Lake, UT 84115: apartment leaks, sewer backups and warehouse floods. Water Damage Restoration South Salt Lake (/locations/south-salt-lake-ut/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Restoration South Salt Lake (/locations/south-salt-lake-ut/)"
+       ]
+      },
+      {
+       "seg": "block65:ul[2]",
+       "tokens": 22,
+       "present_prefix_tokens": 19,
+       "text": "Magna, UT 84044: older-home pipe failures, sewer lines and crawl spaces near Main Street. Water Damage Restoration Magna (/locations/magna-ut/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Restoration Magna (/locations/magna-ut/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 21
+    },
+    "/about": {
+     "segments": 86,
+     "missing": 16,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block19:ul[0]",
+       "tokens": 6,
+       "present_prefix_tokens": 3,
+       "text": "Emergency Water Extraction (/emergency-water-extraction/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[1]",
+       "tokens": 6,
+       "present_prefix_tokens": 3,
+       "text": "Basement Flooding Cleanup (/basement-flooding-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[2]",
+       "tokens": 6,
+       "present_prefix_tokens": 3,
+       "text": "Window Well Flooding (/window-well-flooding/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Window Well Flooding (/window-well-flooding/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[3]",
+       "tokens": 8,
+       "present_prefix_tokens": 4,
+       "text": "Burst Pipe Water Damage (/burst-pipe-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[4]",
+       "tokens": 6,
+       "present_prefix_tokens": 3,
+       "text": "Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[5]",
+       "tokens": 9,
+       "present_prefix_tokens": 5,
+       "text": "Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[6]",
+       "tokens": 10,
+       "present_prefix_tokens": 5,
+       "text": "Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[7]",
+       "tokens": 6,
+       "present_prefix_tokens": 3,
+       "text": "Ceiling Water Damage (/ceiling-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Ceiling Water Damage (/ceiling-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[8]",
+       "tokens": 8,
+       "present_prefix_tokens": 4,
+       "text": "Crawl Space Water Damage (/crawl-space-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Crawl Space Water Damage (/crawl-space-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[9]",
+       "tokens": 8,
+       "present_prefix_tokens": 4,
+       "text": "Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[10]",
+       "tokens": 8,
+       "present_prefix_tokens": 4,
+       "text": "Condo & Apartment Water Damage (/condo-apartment-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[11]",
+       "tokens": 6,
+       "present_prefix_tokens": 3,
+       "text": "Commercial Water Damage (/commercial-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[12]",
+       "tokens": 6,
+       "present_prefix_tokens": 3,
+       "text": "Storm Water Damage (/storm-flood-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Storm Water Damage (/storm-flood-damage/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[13]",
+       "tokens": 4,
+       "present_prefix_tokens": 2,
+       "text": "Mold Remediation (/mold-remediation/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[14]",
+       "tokens": 6,
+       "present_prefix_tokens": 4,
+       "text": "Water Leak Detection (/water-leak-detection/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Leak Detection (/water-leak-detection/)"
+       ]
+      },
+      {
+       "seg": "block19:ul[15]",
+       "tokens": 6,
+       "present_prefix_tokens": 3,
+       "text": "Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 16
+    },
+    "/contact": {
+     "segments": 72,
+     "missing": 1,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block20:p",
+       "tokens": 12,
+       "present_prefix_tokens": 7,
+       "text": "Full list: Midvale Water & Sewer Emergency Contacts (/midvale-water-sewer-emergency-contacts/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Full list: Midvale Water & Sewer Emergency Contacts (/midvale-water-sewer-emergency-contacts/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 1
+    },
+    "/emergency-water-extraction": {
+     "segments": 104,
+     "missing": 7,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block14:p",
+       "tokens": 51,
+       "present_prefix_tokens": 47,
+       "text": "Hard floors follow their own rules. Water that slips between luxury vinyl plank or laminate seams gets trapped on the concrete below, so planks may need to be lifted. Hardwood can often be saved with floor drying mats if work starts fast; s",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Hardwood can often be saved with floor drying mats if work starts fast; see Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/)."
+       ]
+      },
+      {
+       "seg": "block18:p",
+       "tokens": 41,
+       "present_prefix_tokens": 38,
+       "text": "Finished basements in Midvale ramblers and split-levels collect water from window wells, groundwater, water heaters and sewer lines. Paneling over furring strips and carpet over cold concrete hide water well past the visible edge. Basement ",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block20:p",
+       "tokens": 40,
+       "present_prefix_tokens": 36,
+       "text": "Dishwasher lines, fridge ice-maker lines and washer hoses fail without warning, and hard water speeds up wear on valves and fittings. Water runs under cabinets and into the room below. Water Heater & Appliance Leak Cleanup (/water-heater-le",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block22:p",
+       "tokens": 32,
+       "present_prefix_tokens": 28,
+       "text": "In stacked buildings, water from one unit travels through ceilings and walls into the next. We extract each affected unit and keep separate records. Condo & Apartment Water Damage (/condo-apartment-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block24:p",
+       "tokens": 23,
+       "present_prefix_tokens": 20,
+       "text": "Summer cloudbursts and spring runoff push water down driveways and into window wells, then into basement bedrooms. Window Well Flooding (/window-well-flooding/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Window Well Flooding (/window-well-flooding/)"
+       ]
+      },
+      {
+       "seg": "block26:p",
+       "tokens": 24,
+       "present_prefix_tokens": 21,
+       "text": "Businesses along Fort Union Blvd, Union Park Ave, State Street and 7200 South need extraction that limits downtime. Commercial Water Damage (/commercial-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block29:ul[2]",
+       "tokens": 32,
+       "present_prefix_tokens": 29,
+       "text": "Black water (Category 3): sewer backups, storm runoff and river or canal water. Porous materials are removed, and the area is disinfected and air-scrubbed. See Sewage Backup Cleanup (/sewage-backup-cleanup/).",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "See Sewage Backup Cleanup (/sewage-backup-cleanup/)."
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 7
+    },
+    "/basement-flooding-cleanup": {
+     "segments": 93,
+     "missing": 5,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block8:p",
+       "tokens": 39,
+       "present_prefix_tokens": 36,
+       "text": "When a window well's drain clogs or a downspout empties beside it, water rises above the sill and pours into a basement bedroom. Summer cloudbursts and fast snowmelt cause most of these. Window Well Flooding (/window-well-flooding/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Window Well Flooding (/window-well-flooding/)"
+       ]
+      },
+      {
+       "seg": "block10:p",
+       "tokens": 51,
+       "present_prefix_tokens": 47,
+       "text": "Most Midvale water heaters, softeners and washers live in the basement. Hard water wears tanks and valves, and a failed water heater can empty 40 to 50 gallons onto the floor. Frozen pipes in rim joists and outside walls add winter floods. ",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block12:p",
+       "tokens": 41,
+       "present_prefix_tokens": 38,
+       "text": "A blocked or root-filled sewer line pushes waste up through the lowest drain in the house, which is almost always the basement floor drain. This is Category 3 water and needs a different protocol. Sewage Backup Cleanup (/sewage-backup-clean",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block22:ol[6]",
+       "tokens": 16,
+       "present_prefix_tokens": 13,
+       "text": "Rebuild. Drywall, paneling, carpet, trim and paint go back in. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block31:p",
+       "tokens": 49,
+       "present_prefix_tokens": 45,
+       "text": "Older homes near Main Street, Center Street and Holden Street often have partial basements, rubble or block foundations, and original clay sewer lines. Floor-drain backups and seepage through older walls are common, and moisture can travel ",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Crawl Space Water Damage (/crawl-space-water-damage/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 5
+    },
+    "/window-well-flooding": {
+     "segments": 101,
+     "missing": 2,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block24:ol[7]",
+       "tokens": 15,
+       "present_prefix_tokens": 12,
+       "text": "Rebuild. Drywall, trim, paint and carpet go back in. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block25:p",
+       "tokens": 15,
+       "present_prefix_tokens": 12,
+       "text": "If the water also spread to other rooms, see Basement Flooding Cleanup (/basement-flooding-cleanup/).",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "If the water also spread to other rooms, see Basement Flooding Cleanup (/basement-flooding-cleanup/)."
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 2
+    },
+    "/burst-pipe-water-damage": {
+     "segments": 102,
+     "missing": 5,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block15:p",
+       "tokens": 65,
+       "present_prefix_tokens": 62,
+       "text": "We use thermal imaging and moisture meters to trace the water, then dry the cavity directly: baseboards come off, small holes are drilled behind them, and dry air is pushed through the wall. Wet insulation is removed when readings say it ca",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Leak Detection (/water-leak-detection/)"
+       ]
+      },
+      {
+       "seg": "block20:ol[6]",
+       "tokens": 23,
+       "present_prefix_tokens": 20,
+       "text": "Rebuild after the plumber. Once the pipe is repaired, drywall, texture, paint and flooring go back in. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block24:p",
+       "tokens": 45,
+       "present_prefix_tokens": 41,
+       "text": "That is why quick action and good records matter. Dated photos, moisture readings and a clear record of where the water started help show the damage was sudden. If the pipe served more than one unit, see Condo & Apartment Water Damage (/con",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "If the pipe served more than one unit, see Condo & Apartment Water Damage (/condo-apartment-water-damage/)."
+       ]
+      },
+      {
+       "seg": "block30:p",
+       "tokens": 75,
+       "present_prefix_tokens": 72,
+       "text": "Offices and shops along Fort Union Blvd, Union Park Ave and State Street often find burst pipes on Monday morning after a cold weekend with the heat turned down. Rentals are similar: a vacant unit between tenants or a basement apartment wit",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block36:ul[7]",
+       "tokens": 20,
+       "present_prefix_tokens": 15,
+       "text": "Shut off and drain the swamp cooler line before winter. Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 5
+    },
+    "/sewage-backup-cleanup": {
+     "segments": 98,
+     "missing": 3,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block13:ol[7]",
+       "tokens": 14,
+       "present_prefix_tokens": 11,
+       "text": "Rebuild. Drywall, flooring and trim go back in. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block21:p",
+       "tokens": 30,
+       "present_prefix_tokens": 26,
+       "text": "In condos and apartments, a backup in a lower unit can come from waste sent down a shared stack by units above. Condo & Apartment Water Damage (/condo-apartment-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block23:p",
+       "tokens": 71,
+       "present_prefix_tokens": 69,
+       "text": "Sewage odor comes from bacteria and from contaminated materials still in the room. Removing those materials is the first step. After that, disinfection, HEPA air scrubbing and drying take care of most odor. For stubborn smells in concrete o",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 3
+    },
+    "/water-heater-leak-cleanup": {
+     "segments": 106,
+     "missing": 8,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block23:ol[6]",
+       "tokens": 21,
+       "present_prefix_tokens": 18,
+       "text": "Rebuild flooring, drywall and cabinet parts once the plumber has replaced the appliance or line. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block24:p",
+       "tokens": 17,
+       "present_prefix_tokens": 13,
+       "text": "When water runs under kitchen cabinets or hardwood, see Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/).",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "When water runs under kitchen cabinets or hardwood, see Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/)."
+       ]
+      },
+      {
+       "seg": "block26:p",
+       "tokens": 69,
+       "present_prefix_tokens": 65,
+       "text": "Newer homes and townhomes around Bingham Junction, Jordan Bluffs and View 72 often put the laundry upstairs. When a washer hose bursts there, water goes through the floor into the ceiling below, down wall cavities and sometimes into the nex",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block28:ul[1]",
+       "tokens": 28,
+       "present_prefix_tokens": 24,
+       "text": "Older homes near Historic Main Street: tanks may sit in partial basements or crawl space areas where leaks go unseen. Crawl Space Water Damage (/crawl-space-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Crawl Space Water Damage (/crawl-space-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block28:ul[3]",
+       "tokens": 26,
+       "present_prefix_tokens": 23,
+       "text": "Businesses on Fort Union Blvd and State Street: water heaters in back rooms and restrooms can flood retail floors overnight. Commercial Water Damage (/commercial-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block36:ul[1]",
+       "tokens": 17,
+       "present_prefix_tokens": 13,
+       "text": "Hardwood boards cupping at the edges in the kitchen. Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/)"
+       ]
+      },
+      {
+       "seg": "block36:ul[4]",
+       "tokens": 17,
+       "present_prefix_tokens": 14,
+       "text": "Water stains on the ceiling under an upstairs laundry or bathroom. Ceiling Water Damage (/ceiling-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Ceiling Water Damage (/ceiling-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block37:p",
+       "tokens": 22,
+       "present_prefix_tokens": 19,
+       "text": "Moisture meters and thermal imaging can confirm a hidden leak without tearing out cabinets or floors. Water Leak Detection (/water-leak-detection/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Leak Detection (/water-leak-detection/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 8
+    },
+    "/swamp-cooler-leak-water-damage": {
+     "segments": 93,
+     "missing": 2,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block16:ol[6]",
+       "tokens": 19,
+       "present_prefix_tokens": 16,
+       "text": "Repair the ceiling. Damaged drywall is replaced, textured to match, primed and painted. Ceiling Water Damage (/ceiling-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Ceiling Water Damage (/ceiling-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block35:p",
+       "tokens": 63,
+       "present_prefix_tokens": 61,
+       "text": "Attics are dark, hot in summer and poorly ventilated, which is ideal for mold once wood and insulation get wet. A swamp cooler overflow that goes unnoticed for a week can leave mold on roof sheathing and ceiling joists. If you smell mustine",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 2
+    },
+    "/ceiling-water-damage": {
+     "segments": 101,
+     "missing": 6,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block15:p",
+       "tokens": 32,
+       "present_prefix_tokens": 27,
+       "text": "Rooftop coolers overflow when a float valve sticks, and central air drain lines clog. Both send water onto the ceiling from above. Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block17:p",
+       "tokens": 26,
+       "present_prefix_tokens": 22,
+       "text": "Supply lines running through ceilings, especially near outside walls or over garages, can freeze and split in winter. Burst Pipe Water Damage (/burst-pipe-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block19:p",
+       "tokens": 27,
+       "present_prefix_tokens": 23,
+       "text": "In condos, apartments and townhomes, the source is often a washer, dishwasher or water heater in the unit above. Condo & Apartment Water Damage (/condo-apartment-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block24:ol[6]",
+       "tokens": 21,
+       "present_prefix_tokens": 18,
+       "text": "Replace, texture and paint the ceiling so it blends with the rest of the room. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block38:p",
+       "tokens": 51,
+       "present_prefix_tokens": 48,
+       "text": "Businesses on Fort Union Blvd, Union Park Ave and 7200 South often have drop ceilings. Wet tiles sag, stain and fall, and water runs along the grid to spread the damage. Wet tiles are replaced, the grid is cleaned, and the space above is dr",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block42:p",
+       "tokens": 19,
+       "present_prefix_tokens": 16,
+       "text": "Thermal imaging can confirm whether a ceiling is wet without cutting it open. Water Leak Detection (/water-leak-detection/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Leak Detection (/water-leak-detection/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 6
+    },
+    "/crawl-space-water-damage": {
+     "segments": 101,
+     "missing": 3,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block10:p",
+       "tokens": 36,
+       "present_prefix_tokens": 32,
+       "text": "Crawl spaces get cold in Salt Lake Valley winters, especially near vents and the access hatch. Pipes there freeze and split, and the leak starts when they thaw. Burst Pipe Water Damage (/burst-pipe-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block14:p",
+       "tokens": 30,
+       "present_prefix_tokens": 27,
+       "text": "Cracked drain lines under the house can leak sewage directly into the crawl space. Sewage in crawl space cleanup needs full Category 3 handling. Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block16:p",
+       "tokens": 38,
+       "present_prefix_tokens": 34,
+       "text": "In some older homes, the water heater sits in a crawl space area or a small utility room above it. A failed tank drains straight into the space below. Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 3
+    },
+    "/hardwood-floor-cabinet-drying": {
+     "segments": 103,
+     "missing": 4,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block9:ol[3]",
+       "tokens": 34,
+       "present_prefix_tokens": 30,
+       "text": "Dry from below when possible. In homes with a basement or crawl space under the floor, the subfloor is dried from underneath at the same time. Crawl Space Water Damage (/crawl-space-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Crawl Space Water Damage (/crawl-space-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block22:ul[0]",
+       "tokens": 29,
+       "present_prefix_tokens": 25,
+       "text": "Kitchens across Midvale: dishwasher, fridge ice-maker and sink leaks are the most common causes of wet hardwood and cabinets. Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block25:ul[0]",
+       "tokens": 13,
+       "present_prefix_tokens": 10,
+       "text": "The water was sewage or outside floodwater. Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block33:p",
+       "tokens": 74,
+       "present_prefix_tokens": 70,
+       "text": "Not every wet floor gets wet from above. In homes with a basement or crawl space, a burst pipe, water heater leak or groundwater below can soak the subfloor and push moisture up into the hardwood from underneath. The boards cup even though ",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 4
+    },
+    "/condo-apartment-water-damage": {
+     "segments": 111,
+     "missing": 4,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block9:ul[2]",
+       "tokens": 24,
+       "present_prefix_tokens": 21,
+       "text": "Through drain stacks: a blockage in a shared stack backs sewage into the lowest unit on that line. Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block24:ol[6]",
+       "tokens": 11,
+       "present_prefix_tokens": 8,
+       "text": "Rebuild each unit once dry. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block25:p",
+       "tokens": 14,
+       "present_prefix_tokens": 11,
+       "text": "For ceiling damage in the unit below, see Ceiling Water Damage (/ceiling-water-damage/).",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "For ceiling damage in the unit below, see Ceiling Water Damage (/ceiling-water-damage/)."
+       ]
+      },
+      {
+       "seg": "block32:p",
+       "tokens": 16,
+       "present_prefix_tokens": 12,
+       "text": "For water heater and appliance leaks, see Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/).",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "For water heater and appliance leaks, see Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)."
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 4
+    },
+    "/commercial-water-damage": {
+     "segments": 119,
+     "missing": 5,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block22:ul[6]",
+       "tokens": 14,
+       "present_prefix_tokens": 11,
+       "text": "Storm runoff at storefront entries and loading docks. Storm Water Damage (/storm-flood-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Storm Water Damage (/storm-flood-damage/)"
+       ]
+      },
+      {
+       "seg": "block28:ol[8]",
+       "tokens": 13,
+       "present_prefix_tokens": 10,
+       "text": "Rebuild drywall, flooring, ceiling tiles and finishes. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block30:p",
+       "tokens": 72,
+       "present_prefix_tokens": 68,
+       "text": "In leased commercial space, responsibility is often split by the lease. The landlord may own the building systems, while the tenant owns improvements and contents. We keep separate records for each, so the landlord, tenant and their insurer",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "For apartment and condo buildings, see Condo & Apartment Water Damage (/condo-apartment-water-damage/)."
+       ]
+      },
+      {
+       "seg": "block58:p",
+       "tokens": 17,
+       "present_prefix_tokens": 14,
+       "text": "Yes. Restroom and drain backups are handled as Category 3 water. Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "faq4:a",
+       "tokens": 17,
+       "present_prefix_tokens": 14,
+       "text": "Yes. Restroom and drain backups are handled as Category 3 water. Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 5
+    },
+    "/storm-flood-damage": {
+     "segments": 118,
+     "missing": 5,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block9:p",
+       "tokens": 19,
+       "present_prefix_tokens": 16,
+       "text": "Roof runoff and yard water fill window wells and pour into basement bedrooms. Window Well Flooding (/window-well-flooding/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Window Well Flooding (/window-well-flooding/)"
+       ]
+      },
+      {
+       "seg": "block19:p",
+       "tokens": 22,
+       "present_prefix_tokens": 19,
+       "text": "Heavy rain and hail overwhelm gutters and roof drains, sending water through the roof into ceilings. Ceiling Water Damage (/ceiling-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Ceiling Water Damage (/ceiling-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block22:ol[7]",
+       "tokens": 7,
+       "present_prefix_tokens": 4,
+       "text": "Rebuild. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block30:p",
+       "tokens": 39,
+       "present_prefix_tokens": 36,
+       "text": "Some storm damage is still covered by homeowners policies, such as wind or hail damaging a roof and letting rain inside. Sewer backups caused by a storm usually need a sewer backup endorsement. Sewage Backup Cleanup (/sewage-backup-cleanup/",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block35:p",
+       "tokens": 49,
+       "present_prefix_tokens": 46,
+       "text": "Storefronts along State Street, 7200 South and Fort Union Blvd take on water at entry doors and loading docks, and flat commercial roofs back up when roof drains clog. We extract, remove contaminated materials, disinfect and dry with after-",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 5
+    },
+    "/mold-remediation": {
+     "segments": 115,
+     "missing": 7,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block7:p",
+       "tokens": 37,
+       "present_prefix_tokens": 34,
+       "text": "Wood paneling, drywall and carpet over cold concrete trap moisture from leaks, groundwater and humidity. Mold often grows on the back side of paneling and under carpet pad, out of sight. Basement Flooding Cleanup (/basement-flooding-cleanup",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block9:p",
+       "tokens": 41,
+       "present_prefix_tokens": 38,
+       "text": "A slow leak from a supply line, toilet or shower soaks the inside of the wall long before the outside shows it. Black mold behind drywall is often found only when the wall is opened. Water Leak Detection (/water-leak-detection/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Leak Detection (/water-leak-detection/)"
+       ]
+      },
+      {
+       "seg": "block11:p",
+       "tokens": 31,
+       "present_prefix_tokens": 26,
+       "text": "Swamp cooler overflows, roof leaks, ice dams and bathroom fans venting into the attic all wet the roof deck and insulation. Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block13:p",
+       "tokens": 26,
+       "present_prefix_tokens": 22,
+       "text": "Dirt floors, plumbing leaks and groundwater keep crawl spaces damp, especially in older homes near Historic Main Street. Crawl Space Water Damage (/crawl-space-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Crawl Space Water Damage (/crawl-space-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block22:ol[7]",
+       "tokens": 14,
+       "present_prefix_tokens": 11,
+       "text": "Rebuild. Drywall, insulation and finishes go back in. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block35:p",
+       "tokens": 115,
+       "present_prefix_tokens": 111,
+       "text": "More than half of Midvale homes are rented, and mold in rentals raises extra questions. Tenants often notice the smell or spots first but may not know where the moisture comes from. Landlords need to know whether it's from a leak, a buildin",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block42:p",
+       "tokens": 21,
+       "present_prefix_tokens": 18,
+       "text": "That's why fast drying after any leak is the best mold prevention there is. Emergency Water Extraction (/emergency-water-extraction/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 7
+    },
+    "/water-leak-detection": {
+     "segments": 124,
+     "missing": 6,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block15:ul[3]",
+       "tokens": 21,
+       "present_prefix_tokens": 17,
+       "text": "Outside walls: frozen and split pipes near hose bibs and in rim joists. Burst Pipe Water Damage (/burst-pipe-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block15:ul[5]",
+       "tokens": 20,
+       "present_prefix_tokens": 16,
+       "text": "Basement utility rooms: water heater fittings, softener lines and main valves. Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block28:ol[2]",
+       "tokens": 22,
+       "present_prefix_tokens": 19,
+       "text": "Dry the area. Air movers, dehumidifiers and wall-cavity drying run until readings match the baseline. Emergency Water Extraction (/emergency-water-extraction/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      },
+      {
+       "seg": "block28:ol[3]",
+       "tokens": 15,
+       "present_prefix_tokens": 13,
+       "text": "Check for mold where materials stayed wet for a long time. Mold Remediation (/mold-remediation/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      },
+      {
+       "seg": "block28:ol[4]",
+       "tokens": 7,
+       "present_prefix_tokens": 4,
+       "text": "Rebuild. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block30:p",
+       "tokens": 59,
+       "present_prefix_tokens": 55,
+       "text": "In condos and apartments, finding the source decides who is responsible, so accurate mapping across several units matters. For landlords, a moisture map documents a unit at move-in or move-out. For businesses on Fort Union Blvd, Union Park ",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 6
+    },
+    "/water-damage-repair": {
+     "segments": 99,
+     "missing": 6,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block13:p",
+       "tokens": 42,
+       "present_prefix_tokens": 38,
+       "text": "Matching an existing floor can be tricky, especially older hardwood or discontinued vinyl. Where an exact match isn't available, we talk through options such as replacing a whole room so floors stay consistent. Hardwood Floor & Cabinet Dryi",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Hardwood Floor & Cabinet Drying (/hardwood-floor-cabinet-drying/)"
+       ]
+      },
+      {
+       "seg": "block18:ul[3]",
+       "tokens": 20,
+       "present_prefix_tokens": 17,
+       "text": "Egress windows and window wells are checked so the room stays safe and dry. Window Well Flooding (/window-well-flooding/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Window Well Flooding (/window-well-flooding/)"
+       ]
+      },
+      {
+       "seg": "block19:p",
+       "tokens": 29,
+       "present_prefix_tokens": 26,
+       "text": "This is where rebuild after water damage pays off: getting the basement back as a usable, dry space, not just covering the damage. Basement Flooding Cleanup (/basement-flooding-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block21:p",
+       "tokens": 45,
+       "present_prefix_tokens": 42,
+       "text": "Ceiling repairs after leaks from bathrooms, swamp coolers and ice dams involve new drywall, matching popcorn or knockdown texture, and repainting the full ceiling plane so the patch blends in. Wet attic insulation is replaced before drywall",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Ceiling Water Damage (/ceiling-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block23:ul[0]",
+       "tokens": 29,
+       "present_prefix_tokens": 25,
+       "text": "Condos and townhomes: each unit gets its own scope, so the HOA and each owner's policy can be handled separately. Condo & Apartment Water Damage (/condo-apartment-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block23:ul[2]",
+       "tokens": 15,
+       "present_prefix_tokens": 12,
+       "text": "Businesses: rebuild is scheduled around opening hours where possible. Commercial Water Damage (/commercial-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 6
+    },
+    "/locations/cottonwood-heights-ut": {
+     "segments": 121,
+     "missing": 8,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block16:p",
+       "tokens": 27,
+       "present_prefix_tokens": 24,
+       "text": "If groundwater keeps coming back, we show you which walls took on water so a waterproofing contractor knows where to start. Basement Flooding Cleanup (/basement-flooding-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block20:p",
+       "tokens": 30,
+       "present_prefix_tokens": 26,
+       "text": "Water from a split line runs inside walls and ceilings, so thermal imaging and moisture meters guide where to open and dry. Burst Pipe Water Damage (/burst-pipe-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block22:ul[0]",
+       "tokens": 21,
+       "present_prefix_tokens": 18,
+       "text": "Emergency Water Extraction in Cottonwood Heights: standing water pumped out of basements, kitchens and offices. Emergency Water Extraction (/emergency-water-extraction/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      },
+      {
+       "seg": "block22:ul[2]",
+       "tokens": 21,
+       "present_prefix_tokens": 18,
+       "text": "Window Well Flooding Cleanup in Cottonwood Heights: meltwater and storm water pouring into basement bedrooms. Window Well Flooding (/window-well-flooding/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Window Well Flooding (/window-well-flooding/)"
+       ]
+      },
+      {
+       "seg": "block22:ul[4]",
+       "tokens": 23,
+       "present_prefix_tokens": 20,
+       "text": "Ceiling & Ice Dam Leak Repair in Cottonwood Heights: stains, sagging drywall and wet insulation along exterior walls. Ceiling Water Damage (/ceiling-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Ceiling Water Damage (/ceiling-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block22:ul[5]",
+       "tokens": 20,
+       "present_prefix_tokens": 17,
+       "text": "Sewage Backup Cleanup in Cottonwood Heights: Category 3 cleanup from floor drains and toilets. Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block22:ul[13]",
+       "tokens": 14,
+       "present_prefix_tokens": 12,
+       "text": "Mold Remediation in Cottonwood Heights: containment and removal after leaks. Mold Remediation (/mold-remediation/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      },
+      {
+       "seg": "block22:ul[15]",
+       "tokens": 18,
+       "present_prefix_tokens": 15,
+       "text": "Water Damage Repair in Cottonwood Heights: drywall, texture, flooring and trim rebuilt. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 8
+    },
+    "/locations/south-salt-lake-ut": {
+     "segments": 122,
+     "missing": 13,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block14:table-row0",
+       "tokens": 16,
+       "present_prefix_tokens": 13,
+       "text": "Water coming through the ceiling Unit above, roof or pipe Ceiling Water Damage (/ceiling-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water coming through the ceiling Unit above, roof or pipe Ceiling Water Damage (/ceiling-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block14:table-row1",
+       "tokens": 19,
+       "present_prefix_tokens": 16,
+       "text": "Sewage coming up a floor drain or tub Blocked lateral or shared drain Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage coming up a floor drain or tub Blocked lateral or shared drain Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block14:table-row2",
+       "tokens": 21,
+       "present_prefix_tokens": 17,
+       "text": "Water on the floor near the water heater Tank or fitting failure Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water on the floor near the water heater Tank or fitting failure Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block14:table-row3",
+       "tokens": 18,
+       "present_prefix_tokens": 14,
+       "text": "Wet wall after a cold night Frozen and split pipe Burst Pipe Water Damage (/burst-pipe-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Wet wall after a cold night Frozen and split pipe Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block14:table-row4",
+       "tokens": 18,
+       "present_prefix_tokens": 14,
+       "text": "Leak spreading between apartments Shared walls, stacks or upstairs fixture Condo & Apartment Water Damage (/condo-apartment-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Leak spreading between apartments Shared walls, stacks or upstairs fixture Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block14:table-row5",
+       "tokens": 17,
+       "present_prefix_tokens": 14,
+       "text": "Warehouse or shop floor flooded Roof drain, sprinkler or storm runoff Commercial Water Damage (/commercial-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Warehouse or shop floor flooded Roof drain, sprinkler or storm runoff Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block14:table-row6",
+       "tokens": 14,
+       "present_prefix_tokens": 12,
+       "text": "Musty smell after a past leak Hidden moisture or mold Mold Remediation (/mold-remediation/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Musty smell after a past leak Hidden moisture or mold Mold Remediation (/mold-remediation/)"
+       ]
+      },
+      {
+       "seg": "block14:table-row7",
+       "tokens": 19,
+       "present_prefix_tokens": 16,
+       "text": "High water bill, no visible leak Hidden leak in walls or under floors Water Leak Detection (/water-leak-detection/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "High water bill, no visible leak Hidden leak in walls or under floors Water Leak Detection (/water-leak-detection/)"
+       ]
+      },
+      {
+       "seg": "block18:ul[0]",
+       "tokens": 21,
+       "present_prefix_tokens": 18,
+       "text": "Emergency Water Extraction in South Salt Lake: standing water removed from apartments, homes and businesses. Emergency Water Extraction (/emergency-water-extraction/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      },
+      {
+       "seg": "block18:ul[4]",
+       "tokens": 20,
+       "present_prefix_tokens": 17,
+       "text": "Basement Flooding Cleanup in South Salt Lake: partial and full basements in older homes. Basement Flooding Cleanup (/basement-flooding-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block18:ul[8]",
+       "tokens": 22,
+       "present_prefix_tokens": 19,
+       "text": "Storm & Flash Flood Cleanup in South Salt Lake: runoff into garages, loading docks and lower units. Storm Water Damage (/storm-flood-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Storm Water Damage (/storm-flood-damage/)"
+       ]
+      },
+      {
+       "seg": "block18:ul[11]",
+       "tokens": 22,
+       "present_prefix_tokens": 18,
+       "text": "Crawl Space Water Damage in South Salt Lake: older homes with crawl space sections. Crawl Space Water Damage (/crawl-space-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Crawl Space Water Damage (/crawl-space-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block18:ul[15]",
+       "tokens": 18,
+       "present_prefix_tokens": 15,
+       "text": "Water Damage Repair in South Salt Lake: drywall, flooring and trim rebuilt. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 13
+    },
+    "/locations/magna-ut": {
+     "segments": 122,
+     "missing": 9,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block10:p",
+       "tokens": 36,
+       "present_prefix_tokens": 33,
+       "text": "Each source changes the cleanup. Sewage and storm water are contaminated and need more removal and disinfection; clean water from a pipe or tank can often be dried in place. Basement Flooding Cleanup (/basement-flooding-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block14:p",
+       "tokens": 24,
+       "present_prefix_tokens": 20,
+       "text": "Frozen pipe repair itself is a plumber's job; we handle the water damage around it. Burst Pipe Water Damage (/burst-pipe-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block16:ul[0]",
+       "tokens": 19,
+       "present_prefix_tokens": 16,
+       "text": "Emergency Water Extraction in Magna: standing water removed from basements, kitchens and businesses. Emergency Water Extraction (/emergency-water-extraction/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      },
+      {
+       "seg": "block16:ul[3]",
+       "tokens": 19,
+       "present_prefix_tokens": 16,
+       "text": "Sewage Backup Cleanup in Magna: Category 3 cleanup from floor drains and toilets. Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block16:ul[4]",
+       "tokens": 23,
+       "present_prefix_tokens": 19,
+       "text": "Crawl Space Water Damage in Magna: low-clearance extraction and joist drying in older homes. Crawl Space Water Damage (/crawl-space-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Crawl Space Water Damage (/crawl-space-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block16:ul[13]",
+       "tokens": 14,
+       "present_prefix_tokens": 12,
+       "text": "Mold Remediation in Magna: containment and removal after slow leaks. Mold Remediation (/mold-remediation/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      },
+      {
+       "seg": "block16:ul[15]",
+       "tokens": 16,
+       "present_prefix_tokens": 13,
+       "text": "Water Damage Repair in Magna: drywall, flooring and trim rebuilt. Water Damage Repair (/water-damage-repair/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Damage Repair (/water-damage-repair/)"
+       ]
+      },
+      {
+       "seg": "block35:p",
+       "tokens": 40,
+       "present_prefix_tokens": 36,
+       "text": "Attached homes share walls and sometimes plumbing, so a leak in one unit can reach the next. Each unit gets its own records so owners and any HOA can sort out coverage. Condo & Apartment Water Damage (/condo-apartment-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block37:p",
+       "tokens": 31,
+       "present_prefix_tokens": 28,
+       "text": "Older storefronts along Main Street have older roofs and plumbing, while newer commercial buildings along the main corridors deal with roof drains and sprinkler lines. Commercial Water Damage (/commercial-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Commercial Water Damage (/commercial-water-damage/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 9
+    },
+    "/midvale-water-sewer-emergency-contacts": {
+     "segments": 78,
+     "missing": 3,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block9:ol[3]",
+       "tokens": 31,
+       "present_prefix_tokens": 28,
+       "text": "Call a cleanup crew at (385) 337-3560 for the sewage inside your home. Sewage is Category 3 water and needs proper removal and disinfection. Sewage Backup Cleanup (/sewage-backup-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Sewage Backup Cleanup (/sewage-backup-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block25:p",
+       "tokens": 24,
+       "present_prefix_tokens": 21,
+       "text": "A crew is dispatched immediately to extract the water, dry the structure and document everything for your insurer. Emergency Water Extraction (/emergency-water-extraction/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      },
+      {
+       "seg": "block27:p",
+       "tokens": 48,
+       "present_prefix_tokens": 45,
+       "text": "For street flooding, clogged storm drains or water running toward homes during a storm, contact Midvale City Public Works. For flooding that threatens life or involves power lines, call 911. Once your home is safe, storm water inside needs ",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Storm Water Damage (/storm-flood-damage/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 3
+    },
+    "/privacy-policy": {
+     "segments": 38,
+     "missing": 0,
+     "changed_reordered": 0,
+     "missing_detail": [],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 0
+    },
+    "/terms-of-use": {
+     "segments": 32,
+     "missing": 0,
+     "changed_reordered": 0,
+     "missing_detail": [],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 0
+    },
+    "/disclaimer": {
+     "segments": 20,
+     "missing": 0,
+     "changed_reordered": 0,
+     "missing_detail": [],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 0
+    },
+    "/resources/frozen-pipes-midvale": {
+     "segments": 95,
+     "missing": 3,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block21:ol[6]",
+       "tokens": 25,
+       "present_prefix_tokens": 21,
+       "text": "Call a water damage crew at (385) 337-3560 to remove the water and dry the structure. Burst Pipe Water Damage (/burst-pipe-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Burst Pipe Water Damage (/burst-pipe-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block23:p",
+       "tokens": 88,
+       "present_prefix_tokens": 85,
+       "text": "A split pipe inside a wall doesn't just leak onto the floor. Water runs down the inside of the wall cavity, soaks the insulation, pools on the bottom plate and spreads under flooring into the next room. The drywall face may look dry while t",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      },
+      {
+       "seg": "block27:p",
+       "tokens": 86,
+       "present_prefix_tokens": 82,
+       "text": "More than half of Midvale homes are rented, and many sit in multi-unit buildings. Vacant units between tenants and units with the heat turned down for travel are the most likely to freeze. A burst in one unit can damage the units below and ",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 3
+    },
+    "/resources/winterize-swamp-cooler-utah": {
+     "segments": 91,
+     "missing": 3,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block16:p",
+       "tokens": 32,
+       "present_prefix_tokens": 27,
+       "text": "At that point, the fix usually includes removing wet insulation, drying the attic and ceiling, treating any mold, and replacing ceiling drywall. Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Swamp Cooler Leak Water Damage (/swamp-cooler-leak-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block25:p",
+       "tokens": 83,
+       "present_prefix_tokens": 80,
+       "text": "If your home has central air instead of a swamp cooler, ceiling leaks can still happen from a clogged condensate line or drain pan at the indoor coil. Those leaks happen during summer use, not after freezing. If you have a ceiling stain and",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Ceiling Water Damage (/ceiling-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block31:p",
+       "tokens": 40,
+       "present_prefix_tokens": 38,
+       "text": "Wet insulation usually has to be removed, the attic dried and new insulation added once everything reads dry. That's why catching a leak early, or preventing it with a proper shutdown, saves so much trouble. Mold Remediation (/mold-remediat",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 3
+    },
+    "/resources/upstairs-unit-leak-who-pays-utah": {
+     "segments": 92,
+     "missing": 2,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block4:ol[4]",
+       "tokens": 29,
+       "present_prefix_tokens": 25,
+       "text": "Start drying. Don't wait for everyone to agree on who pays. Water keeps spreading and the damage grows each day. Condo & Apartment Water Damage (/condo-apartment-water-damage/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Condo & Apartment Water Damage (/condo-apartment-water-damage/)"
+       ]
+      },
+      {
+       "seg": "block25:p",
+       "tokens": 14,
+       "present_prefix_tokens": 10,
+       "text": "For appliance-related leaks, see Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/).",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "For appliance-related leaks, see Water Heater & Appliance Leak Cleanup (/water-heater-leak-cleanup/)."
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 2
+    },
+    "/resources/can-mold-grow-in-utah": {
+     "segments": 105,
+     "missing": 4,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block14:ul[0]",
+       "tokens": 23,
+       "present_prefix_tokens": 20,
+       "text": "Finished basements: paneling and drywall over cold concrete in Hillcrest and East Midvale ramblers and split-levels. Basement Flooding Cleanup (/basement-flooding-cleanup/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block17:p",
+       "tokens": 27,
+       "present_prefix_tokens": 25,
+       "text": "If you notice any of these after a leak, the moisture needs to be found and fixed first, then the mold removed properly. Mold Remediation (/mold-remediation/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      },
+      {
+       "seg": "block26:p",
+       "tokens": 102,
+       "present_prefix_tokens": 99,
+       "text": "A leak dried within the first day or two often means extraction, drying and a few small repairs. The same leak left for a week or two can mean opening walls, removing insulation and drywall, containment for mold removal and a much bigger re",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Emergency Water Extraction (/emergency-water-extraction/)"
+       ]
+      },
+      {
+       "seg": "block32:p",
+       "tokens": 29,
+       "present_prefix_tokens": 26,
+       "text": "If you find dampness or spots, stop using the leaking fixture if you can and have the area checked with a moisture meter. Water Leak Detection (/water-leak-detection/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Water Leak Detection (/water-leak-detection/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 4
+    },
+    "/resources/basement-flooding-spring-snowmelt-utah": {
+     "segments": 94,
+     "missing": 4,
+     "changed_reordered": 0,
+     "missing_detail": [
+      {
+       "seg": "block7:ul[4]",
+       "tokens": 20,
+       "present_prefix_tokens": 17,
+       "text": "Window wells: meltwater and runoff fill the well and pour in around the window. Window Well Flooding (/window-well-flooding/)",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Window Well Flooding (/window-well-flooding/)"
+       ]
+      },
+      {
+       "seg": "block11:p",
+       "tokens": 100,
+       "present_prefix_tokens": 97,
+       "text": "Groundwater seepage is usually wide and shallow. It soaks carpet pad across large areas, wicks up the bottom of drywall and paneling, and gets under laminate and vinyl plank. A shop vac picks up the surface water, but the pad, the bottom of",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Basement Flooding Cleanup (/basement-flooding-cleanup/)"
+       ]
+      },
+      {
+       "seg": "block19:p",
+       "tokens": 65,
+       "present_prefix_tokens": 60,
+       "text": "In heavy runoff years, Salt Lake County and local cities often make sandbags available. Locations change from year to year, so check county and city announcements when high runoff is forecast. Sandbags are most useful at window wells, garag",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Midvale Water & Sewer Emergency Contacts (/midvale-water-sewer-emergency-contacts/)"
+       ]
+      },
+      {
+       "seg": "block29:p",
+       "tokens": 86,
+       "present_prefix_tokens": 84,
+       "text": "Seepage water is often clean, but it soaks into carpet pad, the bottom of drywall and paneling, and any cardboard boxes on the floor. Basements stay cool and dark, which slows drying and gives mold a chance to start within a couple of days.",
+       "kind": "missing sentences",
+       "missing_sentences": [
+        "Mold Remediation (/mold-remediation/)"
+       ]
+      }
+     ],
+     "changed_detail": [],
+     "missing_normalized": 0,
+     "changed_normalized": 0,
+     "missing_norm_detail": [],
+     "changed_norm_detail": [],
+     "annotations": 4
+    }
+   },
+   "annotation_audit": {
+    "/": {
+     "annotations": [
+      {
+       "seg": "block6:p",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block8:p",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block10:p",
+       "anchor": "Window Well Flooding",
+       "route": "/window-well-flooding/",
+       "target": "/window-well-flooding",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block12:p",
+       "anchor": "Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:p",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block16:p",
+       "anchor": "Water Heater Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block18:p",
+       "anchor": "Swamp Cooler Leak Water Damage",
+       "route": "/swamp-cooler-leak-water-damage/",
+       "target": "/swamp-cooler-leak-water-damage",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block20:p",
+       "anchor": "Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:p",
+       "anchor": "Crawl Space Water Damage",
+       "route": "/crawl-space-water-damage/",
+       "target": "/crawl-space-water-damage",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block24:p",
+       "anchor": "Hardwood Floor & Cabinet Drying",
+       "route": "/hardwood-floor-cabinet-drying/",
+       "target": "/hardwood-floor-cabinet-drying",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block26:p",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block28:p",
+       "anchor": "Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block30:p",
+       "anchor": "Storm Water Damage",
+       "route": "/storm-flood-damage/",
+       "target": "/storm-flood-damage",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block32:p",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block34:p",
+       "anchor": "Water Leak Detection",
+       "route": "/water-leak-detection/",
+       "target": "/water-leak-detection",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block36:p",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block59:p",
+       "anchor": "If water came from an upstairs unit, see Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block62:p",
+       "anchor": "For sewer backups, the Midvale Water & Sewer Emergency Contacts page",
+       "route": "/midvale-water-sewer-emergency-contacts/",
+       "target": "/midvale-water-sewer-emergency-contacts",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block65:ul[0]",
+       "anchor": "Water Damage Restoration Cottonwood Heights",
+       "route": "/locations/cottonwood-heights-ut/",
+       "target": "/locations/cottonwood-heights-ut",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block65:ul[1]",
+       "anchor": "Water Damage Restoration South Salt Lake",
+       "route": "/locations/south-salt-lake-ut/",
+       "target": "/locations/south-salt-lake-ut",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block65:ul[2]",
+       "anchor": "Water Damage Restoration Magna",
+       "route": "/locations/magna-ut/",
+       "target": "/locations/magna-ut",
+       "route_linked_via_body_link": false,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 21,
+     "ann_distinct_routes": 20,
+     "body_link_count": 1,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/about": {
+     "annotations": [
+      {
+       "seg": "block19:ul[0]",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[1]",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[2]",
+       "anchor": "Window Well Flooding",
+       "route": "/window-well-flooding/",
+       "target": "/window-well-flooding",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[3]",
+       "anchor": "Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[4]",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[5]",
+       "anchor": "Water Heater & Appliance Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[6]",
+       "anchor": "Swamp Cooler Leak Water Damage",
+       "route": "/swamp-cooler-leak-water-damage/",
+       "target": "/swamp-cooler-leak-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[7]",
+       "anchor": "Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[8]",
+       "anchor": "Crawl Space Water Damage",
+       "route": "/crawl-space-water-damage/",
+       "target": "/crawl-space-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[9]",
+       "anchor": "Hardwood Floor & Cabinet Drying",
+       "route": "/hardwood-floor-cabinet-drying/",
+       "target": "/hardwood-floor-cabinet-drying",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[10]",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[11]",
+       "anchor": "Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[12]",
+       "anchor": "Storm Water Damage",
+       "route": "/storm-flood-damage/",
+       "target": "/storm-flood-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[13]",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[14]",
+       "anchor": "Water Leak Detection",
+       "route": "/water-leak-detection/",
+       "target": "/water-leak-detection",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:ul[15]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 16,
+     "ann_distinct_routes": 16,
+     "body_link_count": 16,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/contact": {
+     "annotations": [
+      {
+       "seg": "block20:p",
+       "anchor": "Midvale Water & Sewer Emergency Contacts",
+       "route": "/midvale-water-sewer-emergency-contacts/",
+       "target": "/midvale-water-sewer-emergency-contacts",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 1,
+     "ann_distinct_routes": 1,
+     "body_link_count": 1,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/emergency-water-extraction": {
+     "annotations": [
+      {
+       "seg": "block14:p",
+       "anchor": "Hardwood Floor & Cabinet Drying",
+       "route": "/hardwood-floor-cabinet-drying/",
+       "target": "/hardwood-floor-cabinet-drying",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block18:p",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block20:p",
+       "anchor": "Water Heater & Appliance Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:p",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block24:p",
+       "anchor": "Window Well Flooding",
+       "route": "/window-well-flooding/",
+       "target": "/window-well-flooding",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block26:p",
+       "anchor": "Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block29:ul[2]",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 7,
+     "ann_distinct_routes": 7,
+     "body_link_count": 7,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/basement-flooding-cleanup": {
+     "annotations": [
+      {
+       "seg": "block8:p",
+       "anchor": "Window Well Flooding",
+       "route": "/window-well-flooding/",
+       "target": "/window-well-flooding",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block10:p",
+       "anchor": "Water Heater & Appliance Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block12:p",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ol[6]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block31:p",
+       "anchor": "Crawl Space Water Damage",
+       "route": "/crawl-space-water-damage/",
+       "target": "/crawl-space-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 5,
+     "ann_distinct_routes": 5,
+     "body_link_count": 5,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/window-well-flooding": {
+     "annotations": [
+      {
+       "seg": "block24:ol[7]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block25:p",
+       "anchor": "If the water also spread to other rooms, see Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 2,
+     "ann_distinct_routes": 2,
+     "body_link_count": 2,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/burst-pipe-water-damage": {
+     "annotations": [
+      {
+       "seg": "block15:p",
+       "anchor": "Water Leak Detection",
+       "route": "/water-leak-detection/",
+       "target": "/water-leak-detection",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block20:ol[6]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block24:p",
+       "anchor": "If the pipe served more than one unit, see Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block30:p",
+       "anchor": "Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block36:ul[7]",
+       "anchor": "Swamp Cooler Leak Water Damage",
+       "route": "/swamp-cooler-leak-water-damage/",
+       "target": "/swamp-cooler-leak-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 5,
+     "ann_distinct_routes": 5,
+     "body_link_count": 5,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/sewage-backup-cleanup": {
+     "annotations": [
+      {
+       "seg": "block13:ol[7]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block21:p",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block23:p",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 3,
+     "ann_distinct_routes": 3,
+     "body_link_count": 3,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/water-heater-leak-cleanup": {
+     "annotations": [
+      {
+       "seg": "block23:ol[6]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block24:p",
+       "anchor": "When water runs under kitchen cabinets or hardwood, see Hardwood Floor & Cabinet Drying",
+       "route": "/hardwood-floor-cabinet-drying/",
+       "target": "/hardwood-floor-cabinet-drying",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block26:p",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block28:ul[1]",
+       "anchor": "Crawl Space Water Damage",
+       "route": "/crawl-space-water-damage/",
+       "target": "/crawl-space-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block28:ul[3]",
+       "anchor": "Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block36:ul[1]",
+       "anchor": "Hardwood Floor & Cabinet Drying",
+       "route": "/hardwood-floor-cabinet-drying/",
+       "target": "/hardwood-floor-cabinet-drying",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block36:ul[4]",
+       "anchor": "Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block37:p",
+       "anchor": "Water Leak Detection",
+       "route": "/water-leak-detection/",
+       "target": "/water-leak-detection",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 8,
+     "ann_distinct_routes": 7,
+     "body_link_count": 7,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/swamp-cooler-leak-water-damage": {
+     "annotations": [
+      {
+       "seg": "block16:ol[6]",
+       "anchor": "Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block35:p",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 2,
+     "ann_distinct_routes": 2,
+     "body_link_count": 2,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/ceiling-water-damage": {
+     "annotations": [
+      {
+       "seg": "block15:p",
+       "anchor": "Swamp Cooler Leak Water Damage",
+       "route": "/swamp-cooler-leak-water-damage/",
+       "target": "/swamp-cooler-leak-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block17:p",
+       "anchor": "Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:p",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block24:ol[6]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block38:p",
+       "anchor": "Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block42:p",
+       "anchor": "Water Leak Detection",
+       "route": "/water-leak-detection/",
+       "target": "/water-leak-detection",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 6,
+     "ann_distinct_routes": 6,
+     "body_link_count": 6,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/crawl-space-water-damage": {
+     "annotations": [
+      {
+       "seg": "block10:p",
+       "anchor": "Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:p",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block16:p",
+       "anchor": "Water Heater & Appliance Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 3,
+     "ann_distinct_routes": 3,
+     "body_link_count": 3,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/hardwood-floor-cabinet-drying": {
+     "annotations": [
+      {
+       "seg": "block9:ol[3]",
+       "anchor": "Crawl Space Water Damage",
+       "route": "/crawl-space-water-damage/",
+       "target": "/crawl-space-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ul[0]",
+       "anchor": "Water Heater & Appliance Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block25:ul[0]",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block33:p",
+       "anchor": "Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 4,
+     "ann_distinct_routes": 4,
+     "body_link_count": 4,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/condo-apartment-water-damage": {
+     "annotations": [
+      {
+       "seg": "block9:ul[2]",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block24:ol[6]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block25:p",
+       "anchor": "For ceiling damage in the unit below, see Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block32:p",
+       "anchor": "For water heater and appliance leaks, see Water Heater & Appliance Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 4,
+     "ann_distinct_routes": 4,
+     "body_link_count": 4,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/commercial-water-damage": {
+     "annotations": [
+      {
+       "seg": "block22:ul[6]",
+       "anchor": "Storm Water Damage",
+       "route": "/storm-flood-damage/",
+       "target": "/storm-flood-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block28:ol[8]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block30:p",
+       "anchor": "For apartment and condo buildings, see Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block58:p",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "faq4:a",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 5,
+     "ann_distinct_routes": 4,
+     "body_link_count": 4,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/storm-flood-damage": {
+     "annotations": [
+      {
+       "seg": "block9:p",
+       "anchor": "Window Well Flooding",
+       "route": "/window-well-flooding/",
+       "target": "/window-well-flooding",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:p",
+       "anchor": "Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ol[7]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block30:p",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block35:p",
+       "anchor": "Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 5,
+     "ann_distinct_routes": 5,
+     "body_link_count": 5,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/mold-remediation": {
+     "annotations": [
+      {
+       "seg": "block7:p",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block9:p",
+       "anchor": "Water Leak Detection",
+       "route": "/water-leak-detection/",
+       "target": "/water-leak-detection",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block11:p",
+       "anchor": "Swamp Cooler Leak Water Damage",
+       "route": "/swamp-cooler-leak-water-damage/",
+       "target": "/swamp-cooler-leak-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block13:p",
+       "anchor": "Crawl Space Water Damage",
+       "route": "/crawl-space-water-damage/",
+       "target": "/crawl-space-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ol[7]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block35:p",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block42:p",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 7,
+     "ann_distinct_routes": 7,
+     "body_link_count": 7,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/water-leak-detection": {
+     "annotations": [
+      {
+       "seg": "block15:ul[3]",
+       "anchor": "Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block15:ul[5]",
+       "anchor": "Water Heater & Appliance Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block28:ol[2]",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block28:ol[3]",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block28:ol[4]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block30:p",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 6,
+     "ann_distinct_routes": 6,
+     "body_link_count": 6,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/water-damage-repair": {
+     "annotations": [
+      {
+       "seg": "block13:p",
+       "anchor": "Hardwood Floor & Cabinet Drying",
+       "route": "/hardwood-floor-cabinet-drying/",
+       "target": "/hardwood-floor-cabinet-drying",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block18:ul[3]",
+       "anchor": "Window Well Flooding",
+       "route": "/window-well-flooding/",
+       "target": "/window-well-flooding",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:p",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block21:p",
+       "anchor": "Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block23:ul[0]",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block23:ul[2]",
+       "anchor": "Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 6,
+     "ann_distinct_routes": 6,
+     "body_link_count": 6,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/locations/cottonwood-heights-ut": {
+     "annotations": [
+      {
+       "seg": "block16:p",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block20:p",
+       "anchor": "Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ul[0]",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ul[2]",
+       "anchor": "Window Well Flooding",
+       "route": "/window-well-flooding/",
+       "target": "/window-well-flooding",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ul[4]",
+       "anchor": "Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ul[5]",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ul[13]",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block22:ul[15]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 8,
+     "ann_distinct_routes": 8,
+     "body_link_count": 8,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/locations/south-salt-lake-ut": {
+     "annotations": [
+      {
+       "seg": "block14:table-row0",
+       "anchor": "Water coming through the ceiling Unit above, roof or pipe Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:table-row1",
+       "anchor": "Sewage coming up a floor drain or tub Blocked lateral or shared drain Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:table-row2",
+       "anchor": "Water on the floor near the water heater Tank or fitting failure Water Heater & Appliance Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:table-row3",
+       "anchor": "Wet wall after a cold night Frozen and split pipe Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:table-row4",
+       "anchor": "Leak spreading between apartments Shared walls, stacks or upstairs fixture Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:table-row5",
+       "anchor": "Warehouse or shop floor flooded Roof drain, sprinkler or storm runoff Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:table-row6",
+       "anchor": "Musty smell after a past leak Hidden moisture or mold Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:table-row7",
+       "anchor": "High water bill, no visible leak Hidden leak in walls or under floors Water Leak Detection",
+       "route": "/water-leak-detection/",
+       "target": "/water-leak-detection",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block18:ul[0]",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block18:ul[4]",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block18:ul[8]",
+       "anchor": "Storm Water Damage",
+       "route": "/storm-flood-damage/",
+       "target": "/storm-flood-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block18:ul[11]",
+       "anchor": "Crawl Space Water Damage",
+       "route": "/crawl-space-water-damage/",
+       "target": "/crawl-space-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block18:ul[15]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 13,
+     "ann_distinct_routes": 13,
+     "body_link_count": 13,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/locations/magna-ut": {
+     "annotations": [
+      {
+       "seg": "block10:p",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block14:p",
+       "anchor": "Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block16:ul[0]",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block16:ul[3]",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block16:ul[4]",
+       "anchor": "Crawl Space Water Damage",
+       "route": "/crawl-space-water-damage/",
+       "target": "/crawl-space-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block16:ul[13]",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block16:ul[15]",
+       "anchor": "Water Damage Repair",
+       "route": "/water-damage-repair/",
+       "target": "/water-damage-repair",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block35:p",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block37:p",
+       "anchor": "Commercial Water Damage",
+       "route": "/commercial-water-damage/",
+       "target": "/commercial-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 9,
+     "ann_distinct_routes": 9,
+     "body_link_count": 9,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/midvale-water-sewer-emergency-contacts": {
+     "annotations": [
+      {
+       "seg": "block9:ol[3]",
+       "anchor": "Sewage Backup Cleanup",
+       "route": "/sewage-backup-cleanup/",
+       "target": "/sewage-backup-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block25:p",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block27:p",
+       "anchor": "Storm Water Damage",
+       "route": "/storm-flood-damage/",
+       "target": "/storm-flood-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 3,
+     "ann_distinct_routes": 3,
+     "body_link_count": 3,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/privacy-policy": {
+     "annotations": [],
+     "ann_count": 0,
+     "ann_distinct_routes": 0,
+     "body_link_count": 0,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/terms-of-use": {
+     "annotations": [],
+     "ann_count": 0,
+     "ann_distinct_routes": 0,
+     "body_link_count": 0,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/disclaimer": {
+     "annotations": [],
+     "ann_count": 0,
+     "ann_distinct_routes": 0,
+     "body_link_count": 0,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/resources/frozen-pipes-midvale": {
+     "annotations": [
+      {
+       "seg": "block21:ol[6]",
+       "anchor": "Burst Pipe Water Damage",
+       "route": "/burst-pipe-water-damage/",
+       "target": "/burst-pipe-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block23:p",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block27:p",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 3,
+     "ann_distinct_routes": 3,
+     "body_link_count": 3,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/resources/winterize-swamp-cooler-utah": {
+     "annotations": [
+      {
+       "seg": "block16:p",
+       "anchor": "Swamp Cooler Leak Water Damage",
+       "route": "/swamp-cooler-leak-water-damage/",
+       "target": "/swamp-cooler-leak-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block25:p",
+       "anchor": "Ceiling Water Damage",
+       "route": "/ceiling-water-damage/",
+       "target": "/ceiling-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block31:p",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 3,
+     "ann_distinct_routes": 3,
+     "body_link_count": 3,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/resources/upstairs-unit-leak-who-pays-utah": {
+     "annotations": [
+      {
+       "seg": "block4:ol[4]",
+       "anchor": "Condo & Apartment Water Damage",
+       "route": "/condo-apartment-water-damage/",
+       "target": "/condo-apartment-water-damage",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block25:p",
+       "anchor": "For appliance-related leaks, see Water Heater & Appliance Leak Cleanup",
+       "route": "/water-heater-leak-cleanup/",
+       "target": "/water-heater-leak-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 2,
+     "ann_distinct_routes": 2,
+     "body_link_count": 2,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/resources/can-mold-grow-in-utah": {
+     "annotations": [
+      {
+       "seg": "block14:ul[0]",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block17:p",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block26:p",
+       "anchor": "Emergency Water Extraction",
+       "route": "/emergency-water-extraction/",
+       "target": "/emergency-water-extraction",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block32:p",
+       "anchor": "Water Leak Detection",
+       "route": "/water-leak-detection/",
+       "target": "/water-leak-detection",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 4,
+     "ann_distinct_routes": 4,
+     "body_link_count": 4,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    },
+    "/resources/basement-flooding-spring-snowmelt-utah": {
+     "annotations": [
+      {
+       "seg": "block7:ul[4]",
+       "anchor": "Window Well Flooding",
+       "route": "/window-well-flooding/",
+       "target": "/window-well-flooding",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block11:p",
+       "anchor": "Basement Flooding Cleanup",
+       "route": "/basement-flooding-cleanup/",
+       "target": "/basement-flooding-cleanup",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block19:p",
+       "anchor": "Midvale Water & Sewer Emergency Contacts",
+       "route": "/midvale-water-sewer-emergency-contacts/",
+       "target": "/midvale-water-sewer-emergency-contacts",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      },
+      {
+       "seg": "block29:p",
+       "anchor": "Mold Remediation",
+       "route": "/mold-remediation/",
+       "target": "/mold-remediation",
+       "route_linked_via_body_link": true,
+       "target_linked_on_page": true
+      }
+     ],
+     "ann_count": 4,
+     "ann_distinct_routes": 4,
+     "body_link_count": 4,
+     "body_routes_not_in_annotations": [],
+     "ann_routes_not_linked_on_page": []
+    }
+   }
+  },
+  "faq": {
+   "pass": true,
+   "visible_total": 142,
+   "expected": 142,
+   "mismatched_pages": [],
+   "per_page": {
+    "/": {
+     "visible": 6,
+     "schema": 6,
+     "data": 6,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/about": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/contact": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/emergency-water-extraction": {
+     "visible": 6,
+     "schema": 6,
+     "data": 6,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/basement-flooding-cleanup": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/window-well-flooding": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/burst-pipe-water-damage": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/sewage-backup-cleanup": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/water-heater-leak-cleanup": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/swamp-cooler-leak-water-damage": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/ceiling-water-damage": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/crawl-space-water-damage": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/hardwood-floor-cabinet-drying": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/condo-apartment-water-damage": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/commercial-water-damage": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/storm-flood-damage": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/mold-remediation": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/water-leak-detection": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/water-damage-repair": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/locations/cottonwood-heights-ut": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/locations/south-salt-lake-ut": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/locations/magna-ut": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/midvale-water-sewer-emergency-contacts": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/privacy-policy": {
+     "visible": 0,
+     "schema": 0,
+     "data": 0,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/terms-of-use": {
+     "visible": 0,
+     "schema": 0,
+     "data": 0,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/disclaimer": {
+     "visible": 0,
+     "schema": 0,
+     "data": 0,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/resources/frozen-pipes-midvale": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/resources/winterize-swamp-cooler-utah": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/resources/upstairs-unit-leak-who-pays-utah": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/resources/can-mold-grow-in-utah": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    },
+    "/resources/basement-flooding-spring-snowmelt-utah": {
+     "visible": 5,
+     "schema": 5,
+     "data": 5,
+     "q_text_match": true,
+     "a_text_match": true,
+     "visible_eq_data": true
+    }
+   }
+  },
+  "tables": {
+   "pass": true,
+   "total": 43,
+   "expected": 43,
+   "per_page": {
+    "/": 1,
+    "/about": 1,
+    "/contact": 2,
+    "/emergency-water-extraction": 2,
+    "/basement-flooding-cleanup": 1,
+    "/window-well-flooding": 1,
+    "/burst-pipe-water-damage": 2,
+    "/sewage-backup-cleanup": 2,
+    "/water-heater-leak-cleanup": 1,
+    "/swamp-cooler-leak-water-damage": 3,
+    "/ceiling-water-damage": 1,
+    "/crawl-space-water-damage": 1,
+    "/hardwood-floor-cabinet-drying": 2,
+    "/condo-apartment-water-damage": 2,
+    "/commercial-water-damage": 1,
+    "/storm-flood-damage": 2,
+    "/mold-remediation": 1,
+    "/water-leak-detection": 1,
+    "/water-damage-repair": 2,
+    "/locations/cottonwood-heights-ut": 1,
+    "/locations/south-salt-lake-ut": 2,
+    "/locations/magna-ut": 2,
+    "/midvale-water-sewer-emergency-contacts": 1,
+    "/privacy-policy": 0,
+    "/terms-of-use": 0,
+    "/disclaimer": 0,
+    "/resources/frozen-pipes-midvale": 1,
+    "/resources/winterize-swamp-cooler-utah": 1,
+    "/resources/upstairs-unit-leak-who-pays-utah": 1,
+    "/resources/can-mold-grow-in-utah": 3,
+    "/resources/basement-flooding-spring-snowmelt-utah": 2
+   }
+  },
+  "links": {
+   "pass": true,
+   "body_links": 143,
+   "expected_body": 143,
+   "card_wrap_links": 19,
+   "expected_card": 19,
+   "total_body_plus_card": 162,
+   "expected_total": 162,
+   "unique_internal_targets": 31,
+   "total_internal_href_instances": 1063,
+   "external_href_instances": 0,
+   "broken_targets": {},
+   "orphan_routes": [],
+   "self_links_body_copy": [],
+   "curl_results": {
+    "/": 200,
+    "/about": 200,
+    "/basement-flooding-cleanup": 200,
+    "/burst-pipe-water-damage": 200,
+    "/ceiling-water-damage": 200,
+    "/commercial-water-damage": 200,
+    "/condo-apartment-water-damage": 200,
+    "/contact": 200,
+    "/crawl-space-water-damage": 200,
+    "/disclaimer": 200,
+    "/emergency-water-extraction": 200,
+    "/hardwood-floor-cabinet-drying": 200,
+    "/locations/cottonwood-heights-ut": 200,
+    "/locations/magna-ut": 200,
+    "/locations/south-salt-lake-ut": 200,
+    "/midvale-water-sewer-emergency-contacts": 200,
+    "/mold-remediation": 200,
+    "/privacy-policy": 200,
+    "/resources/basement-flooding-spring-snowmelt-utah": 200,
+    "/resources/can-mold-grow-in-utah": 200,
+    "/resources/frozen-pipes-midvale": 200,
+    "/resources/upstairs-unit-leak-who-pays-utah": 200,
+    "/resources/winterize-swamp-cooler-utah": 200,
+    "/sewage-backup-cleanup": 200,
+    "/storm-flood-damage": 200,
+    "/swamp-cooler-leak-water-damage": 200,
+    "/terms-of-use": 200,
+    "/water-damage-repair": 200,
+    "/water-heater-leak-cleanup": 200,
+    "/water-leak-detection": 200,
+    "/window-well-flooding": 200
+   }
+  },
+  "paren_paths": {
+   "pass": true,
+   "total": 0,
+   "hits": {}
+  },
+  "localhost": {
+   "pass": true,
+   "html_xml_txt_hits": [],
+   "next_js_chunk_hits": 0,
+   "next_js_contexts": []
+  },
+  "double_slash": {
+   "pass": true,
+   "total": 0,
+   "hits": []
+  },
+  "robots_sitemap": {
+   "pass": true,
+   "robots_lines": [
+    "User-agent: *",
+    "Allow: /",
+    "Sitemap: https://growthaura.github.io/midvale-water-damage/sitemap.xml"
+   ],
+   "has_allow_root": true,
+   "has_host_line": false,
+   "sitemap_line": true,
+   "sitemap_locs": 31,
+   "lastmod_all_date_only": true,
+   "sitemap_non200": {}
+  },
+  "robots_meta": {
+   "pass": true,
+   "page_404_meta": [
+    "noindex"
+   ],
+   "pages_not_exactly_index_follow": {}
+  },
+  "jsonld": {
+   "pass": true,
+   "total_blocks": 178,
+   "expected_total": 178,
+   "type_counts": {
+    "HomeAndConstructionBusiness": 1,
+    "FAQPage": 28,
+    "WebSite": 1,
+    "BreadcrumbList": 31,
+    "WebPage": 31,
+    "ImageObject": 31,
+    "HowTo": 36,
+    "Service": 19
+   },
+   "expected_types": {
+    "BreadcrumbList": 31,
+    "FAQPage": 28,
+    "WebPage": 31,
+    "ImageObject": 31,
+    "HowTo": 36,
+    "Service": 19,
+    "HomeAndConstructionBusiness": 1,
+    "WebSite": 1
+   },
+   "type_mismatches": {},
+   "unexpected_types": {},
+   "parse_errors": [],
+   "imageobject_count": 31,
+   "imageobject_non200": {},
+   "imageobject_doubled_subpath": [],
+   "schema_localhost_hits": [],
+   "schema_double_slash_hits": []
+  }
+ },
+ "info_404_jsonld_blocks": 0,
+ "overall_pass": true
+}

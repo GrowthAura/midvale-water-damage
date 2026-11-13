@@ -27,6 +27,7 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   return {
     title: page.metaTitle,
     description: page.metaDescription,
+    robots: { index: true, follow: true },
     alternates: { canonical: `${SITE.base}${page.route}` },
     openGraph: {
       title: page.metaTitle,

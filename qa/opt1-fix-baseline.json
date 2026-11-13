@@ -1,0 +1,532 @@
+{
+  "routes": {
+    "/": {
+      "hero": {
+        "w": 390,
+        "h": 1071.734375,
+        "scale": 1.0054,
+        "visible_fraction": 0.2424,
+        "visible_pct": 24.2
+      },
+      "b2bottom390": 536.875,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/about": {
+      "hero": {
+        "w": 390,
+        "h": 1058.328125,
+        "scale": 0.9928,
+        "visible_fraction": 0.2455,
+        "visible_pct": 24.6
+      },
+      "b2bottom390": 652.65625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/contact": {
+      "hero": {
+        "w": 390,
+        "h": 963.140625,
+        "scale": 0.9035,
+        "visible_fraction": 0.2698,
+        "visible_pct": 27.0
+      },
+      "b2bottom390": 622.0625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/emergency-water-extraction": {
+      "hero": {
+        "w": 390,
+        "h": 1122.921875,
+        "scale": 1.0534,
+        "visible_fraction": 0.2314,
+        "visible_pct": 23.1
+      },
+      "b2bottom390": 652.65625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/basement-flooding-cleanup": {
+      "hero": {
+        "w": 390,
+        "h": 1197.71875,
+        "scale": 1.1236,
+        "visible_fraction": 0.2169,
+        "visible_pct": 21.7
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/window-well-flooding": {
+      "hero": {
+        "w": 390,
+        "h": 1122.921875,
+        "scale": 1.0534,
+        "visible_fraction": 0.2314,
+        "visible_pct": 23.1
+      },
+      "b2bottom390": 652.65625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/burst-pipe-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1133.125,
+        "scale": 1.063,
+        "visible_fraction": 0.2293,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/sewage-backup-cleanup": {
+      "hero": {
+        "w": 390,
+        "h": 1058.328125,
+        "scale": 0.9928,
+        "visible_fraction": 0.2455,
+        "visible_pct": 24.6
+      },
+      "b2bottom390": 652.65625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/water-heater-leak-cleanup": {
+      "hero": {
+        "w": 390,
+        "h": 1133.125,
+        "scale": 1.063,
+        "visible_fraction": 0.2293,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/swamp-cooler-leak-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1100.828125,
+        "scale": 1.0327,
+        "visible_fraction": 0.236,
+        "visible_pct": 23.6
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/ceiling-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1100.828125,
+        "scale": 1.0327,
+        "visible_fraction": 0.236,
+        "visible_pct": 23.6
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/crawl-space-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1100.828125,
+        "scale": 1.0327,
+        "visible_fraction": 0.236,
+        "visible_pct": 23.6
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/hardwood-floor-cabinet-drying": {
+      "hero": {
+        "w": 390,
+        "h": 1133.125,
+        "scale": 1.063,
+        "visible_fraction": 0.2293,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/condo-apartment-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1238.515625,
+        "scale": 1.1618,
+        "visible_fraction": 0.2098,
+        "visible_pct": 21.0
+      },
+      "b2bottom390": 768.25,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/commercial-water-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1165.421875,
+        "scale": 1.0933,
+        "visible_fraction": 0.223,
+        "visible_pct": 22.3
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/storm-flood-damage": {
+      "hero": {
+        "w": 390,
+        "h": 1165.421875,
+        "scale": 1.0933,
+        "visible_fraction": 0.223,
+        "visible_pct": 22.3
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/mold-remediation": {
+      "hero": {
+        "w": 390,
+        "h": 1058.328125,
+        "scale": 0.9928,
+        "visible_fraction": 0.2455,
+        "visible_pct": 24.6
+      },
+      "b2bottom390": 652.65625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/water-leak-detection": {
+      "hero": {
+        "w": 390,
+        "h": 1175.625,
+        "scale": 1.1028,
+        "visible_fraction": 0.221,
+        "visible_pct": 22.1
+      },
+      "b2bottom390": 737.65625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/water-damage-repair": {
+      "hero": {
+        "w": 390,
+        "h": 1133.125,
+        "scale": 1.063,
+        "visible_fraction": 0.2293,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/locations/cottonwood-heights-ut": {
+      "hero": {
+        "w": 390,
+        "h": 1133.125,
+        "scale": 1.063,
+        "visible_fraction": 0.2293,
+        "visible_pct": 22.9
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/locations/south-salt-lake-ut": {
+      "hero": {
+        "w": 390,
+        "h": 1175.625,
+        "scale": 1.1028,
+        "visible_fraction": 0.221,
+        "visible_pct": 22.1
+      },
+      "b2bottom390": 737.65625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/locations/magna-ut": {
+      "hero": {
+        "w": 390,
+        "h": 1165.421875,
+        "scale": 1.0933,
+        "visible_fraction": 0.223,
+        "visible_pct": 22.3
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/midvale-water-sewer-emergency-contacts": {
+      "hero": {
+        "w": 390,
+        "h": 993.734375,
+        "scale": 0.9322,
+        "visible_fraction": 0.2615,
+        "visible_pct": 26.1
+      },
+      "b2bottom390": 652.65625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/privacy-policy": {
+      "hero": {
+        "w": 390,
+        "h": 488.578125,
+        "scale": 0.4583,
+        "visible_fraction": 0.5318,
+        "visible_pct": 53.2
+      },
+      "b2bottom390": 500.46875,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/terms-of-use": {
+      "hero": {
+        "w": 390,
+        "h": 488.578125,
+        "scale": 0.4583,
+        "visible_fraction": 0.5318,
+        "visible_pct": 53.2
+      },
+      "b2bottom390": 500.46875,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/disclaimer": {
+      "hero": {
+        "w": 390,
+        "h": 488.578125,
+        "scale": 0.4583,
+        "visible_fraction": 0.5318,
+        "visible_pct": 53.2
+      },
+      "b2bottom390": 500.46875,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/resources/frozen-pipes-midvale": {
+      "hero": {
+        "w": 390,
+        "h": 911.046875,
+        "scale": 0.8546,
+        "visible_fraction": 0.2852,
+        "visible_pct": 28.5
+      },
+      "b2bottom390": 664.5625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/resources/winterize-swamp-cooler-utah": {
+      "hero": {
+        "w": 390,
+        "h": 941.640625,
+        "scale": 0.8833,
+        "visible_fraction": 0.2759,
+        "visible_pct": 27.6
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/resources/upstairs-unit-leak-who-pays-utah": {
+      "hero": {
+        "w": 390,
+        "h": 1016.4375,
+        "scale": 0.9535,
+        "visible_fraction": 0.2556,
+        "visible_pct": 25.6
+      },
+      "b2bottom390": 737.65625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/resources/can-mold-grow-in-utah": {
+      "hero": {
+        "w": 390,
+        "h": 909.34375,
+        "scale": 0.853,
+        "visible_fraction": 0.2857,
+        "visible_pct": 28.6
+      },
+      "b2bottom390": 695.15625,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    },
+    "/resources/basement-flooding-spring-snowmelt-utah": {
+      "hero": {
+        "w": 390,
+        "h": 982.4375,
+        "scale": 0.9216,
+        "visible_fraction": 0.2645,
+        "visible_pct": 26.4
+      },
+      "b2bottom390": 768.25,
+      "overflow": 0,
+      "imgW": "1600",
+      "imgH": "900",
+      "hasBreadcrumbId": false,
+      "hasHeroImgId": false
+    }
+  },
+  "logo": {
+    "1440": {
+      "w": 287.890625,
+      "h": 43.1875
+    },
+    "390": {
+      "w": 342,
+      "h": 43
+    }
+  },
+  "radio": {
+    "1440": [
+      {
+        "text": "Yes",
+        "w": 57,
+        "h": 32
+      },
+      {
+        "text": "No",
+        "w": 53,
+        "h": 32
+      },
+      {
+        "text": "Not sure",
+        "w": 104,
+        "h": 32
+      }
+    ]
+  },
+  "button2": {
+    "/": 444.59375,
+    "/about": 457.390625,
+    "/contact": 457.390625,
+    "/emergency-water-extraction": 481.1875,
+    "/basement-flooding-cleanup": 518.6875,
+    "/window-well-flooding": 481.1875,
+    "/burst-pipe-water-damage": 518.6875,
+    "/sewage-backup-cleanup": 481.1875,
+    "/water-heater-leak-cleanup": 518.6875,
+    "/swamp-cooler-leak-water-damage": 518.6875,
+    "/ceiling-water-damage": 481.1875,
+    "/crawl-space-water-damage": 518.6875,
+    "/hardwood-floor-cabinet-drying": 481.1875,
+    "/condo-apartment-water-damage": 556.1875,
+    "/commercial-water-damage": 481.1875,
+    "/storm-flood-damage": 481.1875,
+    "/mold-remediation": 443.6875,
+    "/water-leak-detection": 518.6875,
+    "/water-damage-repair": 481.1875,
+    "/locations/cottonwood-heights-ut": 518.6875,
+    "/locations/south-salt-lake-ut": 518.6875,
+    "/locations/magna-ut": 481.1875,
+    "/midvale-water-sewer-emergency-contacts": 443.6875,
+    "/privacy-policy": 368.6875,
+    "/terms-of-use": 368.6875,
+    "/disclaimer": 368.6875,
+    "/resources/frozen-pipes-midvale": 532.390625,
+    "/resources/winterize-swamp-cooler-utah": 481.1875,
+    "/resources/upstairs-unit-leak-who-pays-utah": 518.6875,
+    "/resources/can-mold-grow-in-utah": 481.1875,
+    "/resources/basement-flooding-spring-snowmelt-utah": 518.6875
+  },
+  "console_errors": []
+}

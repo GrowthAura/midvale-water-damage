@@ -1,0 +1,1822 @@
+{
+  "audit": "CYCLE 1 OPT — Technical SEO audit (Batch 2 optimization, audit-only)",
+  "site": "Midvale UT water damage",
+  "date": "2026-11-13",
+  "verdict": "READY — 0 blocking problems (P1 0 / P2 0 / P3 3 carried observations)",
+  "method": {
+    "server": "http://127.0.0.1:8325/midvale-water-damage/ (qa/linkfix-serve.py copy in /tmp, own port)",
+    "export": "Fresh export run by coordinator before this audit (exit 0, NEXT_PUBLIC_SITE_URL=https://growthaura.github.io/midvale-water-damage, no trailing slash). This audit did NOT rebuild.",
+    "data_source": "lib/pages-data.json",
+    "data_sha256": "21c6e7f2b89bab95f9f7da2ee5b5fb53c118edeee4abc587f8066dc0589d638f",
+    "data_sha256_expected": "21c6e7f2b89bab95f9f7da2ee5b5fb53c118edeee4abc587f8066dc0589d638f",
+    "data_sha256_match": true,
+    "evidence": [
+      "qa/opt1-static.json",
+      "qa/opt1-links.json",
+      "qa/opt1-perf.json",
+      "qa/opt1-static.py",
+      "qa/opt1-links.py",
+      "qa/opt1-perf.py"
+    ],
+    "notes": [
+      "No site source file was modified. No push/deploy/token/DNS. Local only.",
+      "Perf numbers are LAB numbers from a local loopback, unthrottled, cold cache, fresh context per load — never field data.",
+      "Schema depth (correctness beyond presence + parse) is the schema worker's job; this audit counts JSON-LD blocks and verifies 0 parse failures only.",
+      "Alt-text scope is presence (107/107 present) plus fresh full-size visual re-check of the two audit-2 alt P3s (both fixed). Full visual alt adjudication of all 107 images was not in scope."
+    ]
+  },
+  "problem_counts": {
+    "P1": 0,
+    "P2": 0,
+    "P3": 3,
+    "total": 3
+  },
+  "problems": [
+    {
+      "severity": "P3",
+      "check": "anchor-word-count",
+      "page": "sitewide (12 pages)",
+      "detail": "12 body-copy anchors exceed the 5-word anchor cap, all verbatim doc wording (accepted tension, carried from audits 1+2): 9x 'Water Heater & Appliance Leak Cleanup' (6w) on /basement-flooding-cleanup, /condo-apartment-water-damage, /crawl-space-water-damage, /emergency-water-extraction, /hardwood-floor-cabinet-drying, /water-leak-detection, /locations/south-salt-lake-ut, /about, /resources/upstairs-unit-leak-who-pays-utah; 2x 'Midvale Water & Sewer Emergency Contacts' (6w) on /contact, /resources/basement-flooding-spring-snowmelt-utah; 1x 8w 'the Midvale Water & Sewer Emergency Contacts page' on /. Both 6w anchors are verbatim substrings of the target pages' doc H1s (verified fresh this round). Shortening them would break the verbatim rule; no fix without his word."
+    },
+    {
+      "severity": "P3",
+      "check": "breadcrumb-double-link",
+      "page": "/locations/* (3 pages)",
+      "detail": "Homepage linked twice inside <main> on all 3 location pages (carried from audits 1+2, observation only): 'Home' -> /midvale-water-damage and 'Nearby Cities We Serve' -> /midvale-water-damage#areas. Verified fresh: BOTH links sit inside <nav aria-label=\"Breadcrumb\"> on all 3 pages. Breadcrumb nav, not body copy; body-copy duplicate targets 0 sitewide."
+    },
+    {
+      "severity": "P3",
+      "check": "breadcrumb-single-item-home",
+      "page": "/",
+      "detail": "Homepage carries a one-item BreadcrumbList (Home only), verified fresh by re-parse, with no visible breadcrumb navigation. Invisible markup, harmless; no second truthful item exists. Carried from audits 1+2."
+    }
+  ],
+  "fixed_since_audit2": [
+    {
+      "audit2": "P3-1 404.html duplicate noindex",
+      "status": "FIXED",
+      "evidence": "out/404.html now carries exactly 1 <meta name=\"robots\" content=\"noindex\"/> (verified by grep + served 404 status); the duplicate tag is gone."
+    },
+    {
+      "audit2": "P3-2 cottonwood card alt wrong",
+      "status": "FIXED",
+      "evidence": "Alt rewritten to 'Winding canyon highway with cars through steep rocky autumn slopes in Cottonwood Canyon, Utah'. I viewed images/cards/cottonwood-heights-ut.webp full-size this round: it IS a winding canyon highway with cars through steep rocky autumn slopes — alt now matches the photo exactly."
+    },
+    {
+      "audit2": "P3-3 snowmelt hero alt wrong",
+      "status": "FIXED",
+      "evidence": "Alt rewritten to 'Spring snowmelt water pooling at a home foundation as a downspout discharges, with melting snow piles and snowy hills behind'. I viewed images/heroes/basement-flooding-spring-snowmelt-utah.webp full-size this round: it IS an exterior downspout discharging meltwater at a home foundation with snow piles and snowy hills behind — alt now matches the photo exactly."
+    }
+  ],
+  "crawlability_indexability": {
+    "robots_txt": {
+      "served_status": 200,
+      "content": "User-agent: *\nAllow: /\nSitemap: https://growthaura.github.io/midvale-water-damage/sitemap.xml\n",
+      "allow_root": true,
+      "has_host_line": false,
+      "served_matches_file": true
+    },
+    "sitemap": {
+      "served_status": 200,
+      "loc_count": 31,
+      "duplicates": [],
+      "lastmod_all_date_only": true,
+      "lastmod_values": [
+        "2026-11-12"
+      ],
+      "all_on_pages_url": true,
+      "homepage_is_root_only": true,
+      "non_home_trailing_slash": [],
+      "set_matches_expected_31": true,
+      "loc_non_200": {}
+    },
+    "llms_txt": {
+      "served_status": 200,
+      "url_count": 31,
+      "set_matches_expected_31": true,
+      "all_on_pages_url": true
+    },
+    "page_404": {
+      "exists": true,
+      "served_status": 404,
+      "robots_meta_tags": [
+        "<meta name=\"robots\" content=\"noindex\"/>"
+      ],
+      "noindex_tag_count": 1,
+      "has_canonical": false
+    },
+    "meta_robots_index_follow_exactly_1": 31,
+    "canonicals_self_referential": 31,
+    "og_url_matches_canonical": 31,
+    "localhost_occurrences_in_out_html_xml_txt": 0,
+    "double_slash_absolute_urls": 0,
+    "local_resource_refs_checked": 120,
+    "local_resource_refs_non_200": {},
+    "maps_iframes_total_pages": 28,
+    "maps_iframes_without_lazy": 0,
+    "malformed_tel_links": "0 — grep for href=\"tel (no colon) and href=\"tel+ over out/: no hits (checked after the Tulsa GSC tel+19183470890 root-cause note landed in MEMORY.md during this audit)"
+  },
+  "meta_headings": {
+    "titles_verbatim_31": 31,
+    "descriptions_verbatim_31": 31,
+    "title_len_range": [
+      10,
+      73
+    ],
+    "titles_over_60ch": 25,
+    "desc_len_range": [
+      47,
+      138
+    ],
+    "descriptions_under_120ch": 26,
+    "duplicate_titles": {},
+    "duplicate_descriptions": {},
+    "duplicate_canonicals": {},
+    "h1_exactly_1_and_verbatim": 31,
+    "h2_rendered_vs_doc": [
+      406,
+      406
+    ],
+    "h3_rendered_vs_doc": [
+      259,
+      259
+    ],
+    "heading_skips": 0,
+    "h4_plus": 0,
+    "viewport_meta_present": 31
+  },
+  "links_images": {
+    "anchors_total": 1344,
+    "anchors_internal": 1063,
+    "anchors_external": 0,
+    "anchors_tel_mailto": 281,
+    "body_copy_links": 143,
+    "card_links": 19,
+    "body_plus_card": 162,
+    "expected_body_plus_card": 162,
+    "breadcrumb_links_in_main": 33,
+    "broken_links": 0,
+    "self_links": 0,
+    "body_self_links": 0,
+    "orphans": [],
+    "inbound_min_max": [
+      5,
+      30
+    ],
+    "duplicate_body_targets": 0,
+    "img_tags": 107,
+    "img_missing_or_empty_alt": 0,
+    "img_non200_src": 0,
+    "img_without_width_height": 0,
+    "disk_webp_files": 107,
+    "total_image_weight_bytes": 11243230,
+    "image_weight_audit2_bytes": 11331800,
+    "image_weight_delta_vs_audit2_bytes": -88570,
+    "q75_reencoded_files_match_claim": true
+  },
+  "schema_presence_only": {
+    "jsonld_blocks_total": 178,
+    "jsonld_blocks_audit2": 80,
+    "jsonld_parse_failures": 0,
+    "jsonld_blocks_per_page": {
+      "/": 7,
+      "/about": 5,
+      "/contact": 4,
+      "/emergency-water-extraction": 6,
+      "/basement-flooding-cleanup": 6,
+      "/window-well-flooding": 6,
+      "/burst-pipe-water-damage": 6,
+      "/sewage-backup-cleanup": 7,
+      "/water-heater-leak-cleanup": 7,
+      "/swamp-cooler-leak-water-damage": 6,
+      "/ceiling-water-damage": 7,
+      "/crawl-space-water-damage": 6,
+      "/hardwood-floor-cabinet-drying": 7,
+      "/condo-apartment-water-damage": 7,
+      "/commercial-water-damage": 7,
+      "/storm-flood-damage": 6,
+      "/mold-remediation": 6,
+      "/water-leak-detection": 8,
+      "/water-damage-repair": 6,
+      "/locations/cottonwood-heights-ut": 6,
+      "/locations/south-salt-lake-ut": 5,
+      "/locations/magna-ut": 6,
+      "/midvale-water-sewer-emergency-contacts": 6,
+      "/privacy-policy": 3,
+      "/terms-of-use": 3,
+      "/disclaimer": 3,
+      "/resources/frozen-pipes-midvale": 6,
+      "/resources/winterize-swamp-cooler-utah": 5,
+      "/resources/upstairs-unit-leak-who-pays-utah": 6,
+      "/resources/can-mold-grow-in-utah": 5,
+      "/resources/basement-flooding-spring-snowmelt-utah": 4
+    },
+    "note": "Block count grew 80 -> 178 since audit 2 (schema best-ever work landed in the fresh export). Presence + parse only; correctness depth is the schema worker's scope."
+  },
+  "performance_lab_only": {
+    "conditions": "local loopback http://127.0.0.1:8325, unthrottled, cold cache (fresh browser context per page load), headless Chromium via Playwright (python). LAB numbers, NOT field data.",
+    "summary": {
+      "320x568": {
+        "fcpMedianMs": 1568,
+        "fcpMaxMs": 3196,
+        "lcpMedianMs": 1624,
+        "lcpMaxMs": 3196,
+        "lcpMinMs": 680,
+        "clsMedian": 0,
+        "clsMax": 0,
+        "overflowMaxPx": 0,
+        "n": 31,
+        "lcpElementTally": {
+          "IMG.hero-img": 31
+        },
+        "lcpWorst5": [
+          {
+            "route": "/burst-pipe-water-damage",
+            "lcpMs": 3196
+          },
+          {
+            "route": "/resources/basement-flooding-spring-snowmelt-utah",
+            "lcpMs": 2936
+          },
+          {
+            "route": "/commercial-water-damage",
+            "lcpMs": 2816
+          },
+          {
+            "route": "/water-heater-leak-cleanup",
+            "lcpMs": 2800
+          },
+          {
+            "route": "/ceiling-water-damage",
+            "lcpMs": 2568
+          }
+        ],
+        "button2WorstBottom": {
+          "route": "/condo-apartment-water-damage",
+          "bottomPx": 556.2,
+          "foldPx": 568
+        },
+        "button2VisibleAtScroll0": 31
+      },
+      "390x844": {
+        "fcpMedianMs": 1416,
+        "fcpMaxMs": 3108,
+        "lcpMedianMs": 1756,
+        "lcpMaxMs": 3108,
+        "lcpMinMs": 884,
+        "clsMedian": 0,
+        "clsMax": 0,
+        "overflowMaxPx": 0,
+        "n": 31,
+        "lcpElementTally": {
+          "IMG.hero-img": 31
+        },
+        "lcpWorst5": [
+          {
+            "route": "/contact",
+            "lcpMs": 3108
+          },
+          {
+            "route": "/burst-pipe-water-damage",
+            "lcpMs": 3096
+          },
+          {
+            "route": "/emergency-water-extraction",
+            "lcpMs": 2836
+          },
+          {
+            "route": "/about",
+            "lcpMs": 2692
+          },
+          {
+            "route": "/ceiling-water-damage",
+            "lcpMs": 2600
+          }
+        ],
+        "button2WorstBottom": {
+          "route": "/resources/basement-flooding-spring-snowmelt-utah",
+          "bottomPx": 768.2,
+          "foldPx": 844
+        },
+        "button2VisibleAtScroll0": 31
+      },
+      "1440x900": {
+        "fcpMedianMs": 1984,
+        "fcpMaxMs": 2712,
+        "lcpMedianMs": 2204,
+        "lcpMaxMs": 3696,
+        "lcpMinMs": 912,
+        "clsMedian": 0,
+        "clsMax": 0,
+        "overflowMaxPx": 0,
+        "n": 31,
+        "lcpElementTally": {
+          "IMG.hero-img": 31
+        },
+        "lcpWorst5": [
+          {
+            "route": "/resources/winterize-swamp-cooler-utah",
+            "lcpMs": 3696
+          },
+          {
+            "route": "/emergency-water-extraction",
+            "lcpMs": 3180
+          },
+          {
+            "route": "/resources/can-mold-grow-in-utah",
+            "lcpMs": 3116
+          },
+          {
+            "route": "/about",
+            "lcpMs": 3088
+          },
+          {
+            "route": "/water-damage-repair",
+            "lcpMs": 2864
+          }
+        ],
+        "button2WorstBottom": {
+          "route": "/condo-apartment-water-damage",
+          "bottomPx": 662.7,
+          "foldPx": 900
+        },
+        "button2VisibleAtScroll0": 31
+      }
+    },
+    "console_error_loads": 0,
+    "failed_non_maps_request_loads": 0,
+    "maps_failed_loads_sandbox_egress": 6,
+    "lcp_vs_audit2": "Medians rose vs audit 2 (320: 672->1624ms, 390: 776->1756ms, 1440: 824->2204ms) AND FCP rose by the same factor (320: 612->1568ms) with CLS still 0 and the LCP element unchanged (IMG.hero-img 93/93). Hero files are byte-identical to audit 2 (top-10 image sizes identical) and total image weight is LOWER. Uniform FCP+LCP inflation with no site-side weight change is consistent with shared-cell CPU contention while parallel Batch 2 workers run — NOT evidence of a site regression. Lab only; re-measure on a quiet cell / real hosting before treating any LCP number as a regression."
+  },
+  "mobile": {
+    "overflow_320_max_px": 0,
+    "overflow_390_max_px": 0,
+    "overflow_1440_max_px": 0,
+    "body_font_19px_all": true,
+    "intro_19px_all": true,
+    "eyebrow_px": "14 @320, 18 @390/1440 (chrome, not body copy — as in audits 1+2)",
+    "button2_visible_scroll0_320": 31,
+    "button2_visible_scroll0_390": 31,
+    "button2_worst_bottom": {
+      "320x568": {
+        "route": "/condo-apartment-water-damage",
+        "bottomPx": 556.2,
+        "foldPx": 568
+      },
+      "390x844": {
+        "route": "/resources/basement-flooding-spring-snowmelt-utah",
+        "bottomPx": 768.2,
+        "foldPx": 844
+      },
+      "1440x900": {
+        "route": "/condo-apartment-water-damage",
+        "bottomPx": 662.7,
+        "foldPx": 900
+      }
+    },
+    "footer_min_px": "48 on all 31 routes x 3 viewports (27 visible links each)",
+    "menu_button_px": "48x48 @320/@390 on all 31 routes",
+    "nav_links_menu_open_px": "58.6 @320/@390 (menu opened); 48 @1440",
+    "header_phone_px": "hidden <=360px by design (@320); 48 @390; 50.6 @1440"
+  },
+  "observations_not_problems": [
+    "Titles 10-73ch, 25/31 over 60ch — all verbatim from the doc; Google truncates display but verbatim wins. No change without his word.",
+    "Descriptions 47-138ch, 26/31 under 120ch — all verbatim from the doc.",
+    "Legal titles short (Disclaimer 10ch / Terms of Use 12ch / Privacy Policy 14ch) — verbatim from the doc; carried accepted tension from audit 1.",
+    "Image weight 11,243,230 B vs audit-2 11,331,800 B (-88,570 B, -0.8%). Top-10 files byte-identical to audit 2 and all 8 q75 re-encodes match their claimed sizes; out/ total == public/ total, so the export is faithful. Which sub-top-10 file(s) account for the delta is not established from available records (no per-file audit-2 manifest beyond top 10) — lighter is the direction the standing image-weight order wants; not a defect.",
+    "Maps embeds do not load in this sandbox (google.com egress blocked) — environmental, needs a real-network eyeball after push. All 29 iframes carry loading=lazy (28 on pages + 1 on 404.html).",
+    "Live mobile-width render in a real browser is still unconfirmed (sandbox Chromium cannot reach public internet); mobile verified on the byte-identical local export. His phone check remains the final confirmation.",
+    "LCP/CLS are lab numbers only (see performance_lab_only.lcp_vs_audit2). No field data exists for this site."
+  ],
+  "per_page": {
+    "/": {
+      "route": "/",
+      "served_status": 200,
+      "title_len": 72,
+      "title_verbatim": true,
+      "desc_len": 138,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "12/12",
+      "h3": "24/24",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 7,
+      "jsonld_parse_failures": 0,
+      "body_links": 1,
+      "card_links": 19,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 20,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1812,
+      "lcp_390": 2492,
+      "lcp_1440": 2580,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": [
+        "P3: breadcrumb-double-link",
+        "P3: breadcrumb-single-item-home"
+      ]
+    },
+    "/about": {
+      "route": "/about",
+      "served_status": 200,
+      "title_len": 52,
+      "title_verbatim": true,
+      "desc_len": 110,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "9/9",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 5,
+      "jsonld_parse_failures": 0,
+      "body_links": 16,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1968,
+      "lcp_390": 2692,
+      "lcp_1440": 3088,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/contact": {
+      "route": "/contact",
+      "served_status": 200,
+      "title_len": 53,
+      "title_verbatim": true,
+      "desc_len": 104,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "8/8",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 4,
+      "jsonld_parse_failures": 0,
+      "body_links": 1,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1232,
+      "lcp_390": 3108,
+      "lcp_1440": 1812,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/emergency-water-extraction": {
+      "route": "/emergency-water-extraction",
+      "served_status": 200,
+      "title_len": 69,
+      "title_verbatim": true,
+      "desc_len": 116,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "12/12",
+      "h3": "11/11",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 7,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 2296,
+      "lcp_390": 2836,
+      "lcp_1440": 3180,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0.0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/basement-flooding-cleanup": {
+      "route": "/basement-flooding-cleanup",
+      "served_status": 200,
+      "title_len": 66,
+      "title_verbatim": true,
+      "desc_len": 120,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "12/12",
+      "h3": "13/13",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 5,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1496,
+      "lcp_390": 1416,
+      "lcp_1440": 2700,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/window-well-flooding": {
+      "route": "/window-well-flooding",
+      "served_status": 200,
+      "title_len": 61,
+      "title_verbatim": true,
+      "desc_len": 108,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "12/12",
+      "h3": "15/15",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 2,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1420,
+      "lcp_390": 1824,
+      "lcp_1440": 2204,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/burst-pipe-water-damage": {
+      "route": "/burst-pipe-water-damage",
+      "served_status": 200,
+      "title_len": 66,
+      "title_verbatim": true,
+      "desc_len": 115,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "14/14",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 5,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 3196,
+      "lcp_390": 3096,
+      "lcp_1440": 2708,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/sewage-backup-cleanup": {
+      "route": "/sewage-backup-cleanup",
+      "served_status": 200,
+      "title_len": 64,
+      "title_verbatim": true,
+      "desc_len": 109,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "14/14",
+      "h3": "9/9",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 7,
+      "jsonld_parse_failures": 0,
+      "body_links": 3,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 2488,
+      "lcp_390": 1796,
+      "lcp_1440": 2024,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/water-heater-leak-cleanup": {
+      "route": "/water-heater-leak-cleanup",
+      "served_status": 200,
+      "title_len": 68,
+      "title_verbatim": true,
+      "desc_len": 112,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "13/13",
+      "h3": "11/11",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 7,
+      "jsonld_parse_failures": 0,
+      "body_links": 7,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 2800,
+      "lcp_390": 1924,
+      "lcp_1440": 1984,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/swamp-cooler-leak-water-damage": {
+      "route": "/swamp-cooler-leak-water-damage",
+      "served_status": 200,
+      "title_len": 64,
+      "title_verbatim": true,
+      "desc_len": 112,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "15/15",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 2,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1604,
+      "lcp_390": 2592,
+      "lcp_1440": 1880,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0.0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/ceiling-water-damage": {
+      "route": "/ceiling-water-damage",
+      "served_status": 200,
+      "title_len": 63,
+      "title_verbatim": true,
+      "desc_len": 106,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "12/12",
+      "h3": "15/15",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 7,
+      "jsonld_parse_failures": 0,
+      "body_links": 6,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 2568,
+      "lcp_390": 2600,
+      "lcp_1440": 2296,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/crawl-space-water-damage": {
+      "route": "/crawl-space-water-damage",
+      "served_status": 200,
+      "title_len": 64,
+      "title_verbatim": true,
+      "desc_len": 112,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "14/14",
+      "h3": "10/10",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 3,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1808,
+      "lcp_390": 2312,
+      "lcp_1440": 2712,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/hardwood-floor-cabinet-drying": {
+      "route": "/hardwood-floor-cabinet-drying",
+      "served_status": 200,
+      "title_len": 63,
+      "title_verbatim": true,
+      "desc_len": 115,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "15/15",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 7,
+      "jsonld_parse_failures": 0,
+      "body_links": 4,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1892,
+      "lcp_390": 2200,
+      "lcp_1440": 1540,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/condo-apartment-water-damage": {
+      "route": "/condo-apartment-water-damage",
+      "served_status": 200,
+      "title_len": 62,
+      "title_verbatim": true,
+      "desc_len": 117,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "15/15",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 7,
+      "jsonld_parse_failures": 0,
+      "body_links": 4,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1488,
+      "lcp_390": 1200,
+      "lcp_1440": 1620,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/commercial-water-damage": {
+      "route": "/commercial-water-damage",
+      "served_status": 200,
+      "title_len": 71,
+      "title_verbatim": true,
+      "desc_len": 109,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "16/16",
+      "h3": "10/10",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 7,
+      "jsonld_parse_failures": 0,
+      "body_links": 4,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 2816,
+      "lcp_390": 1320,
+      "lcp_1440": 2096,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/storm-flood-damage": {
+      "route": "/storm-flood-damage",
+      "served_status": 200,
+      "title_len": 61,
+      "title_verbatim": true,
+      "desc_len": 113,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "14/14",
+      "h3": "15/15",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 5,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1624,
+      "lcp_390": 1628,
+      "lcp_1440": 1792,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/mold-remediation": {
+      "route": "/mold-remediation",
+      "served_status": 200,
+      "title_len": 57,
+      "title_verbatim": true,
+      "desc_len": 113,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "16/16",
+      "h3": "11/11",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 7,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1612,
+      "lcp_390": 1096,
+      "lcp_1440": 1392,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/water-leak-detection": {
+      "route": "/water-leak-detection",
+      "served_status": 200,
+      "title_len": 63,
+      "title_verbatim": true,
+      "desc_len": 106,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "16/16",
+      "h3": "9/9",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 8,
+      "jsonld_parse_failures": 0,
+      "body_links": 6,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1392,
+      "lcp_390": 1388,
+      "lcp_1440": 2000,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/water-damage-repair": {
+      "route": "/water-damage-repair",
+      "served_status": 200,
+      "title_len": 69,
+      "title_verbatim": true,
+      "desc_len": 110,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "15/15",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 6,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1284,
+      "lcp_390": 1396,
+      "lcp_1440": 2864,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/locations/cottonwood-heights-ut": {
+      "route": "/locations/cottonwood-heights-ut",
+      "served_status": 200,
+      "title_len": 68,
+      "title_verbatim": true,
+      "desc_len": 114,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "13/13",
+      "h3": "14/14",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 8,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1592,
+      "lcp_390": 1300,
+      "lcp_1440": 2500,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/locations/south-salt-lake-ut": {
+      "route": "/locations/south-salt-lake-ut",
+      "served_status": 200,
+      "title_len": 71,
+      "title_verbatim": true,
+      "desc_len": 106,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "14/14",
+      "h3": "14/14",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 5,
+      "jsonld_parse_failures": 0,
+      "body_links": 13,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 2104,
+      "lcp_390": 1440,
+      "lcp_1440": 2220,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/locations/magna-ut": {
+      "route": "/locations/magna-ut",
+      "served_status": 200,
+      "title_len": 64,
+      "title_verbatim": true,
+      "desc_len": 112,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "15/15",
+      "h3": "10/10",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 9,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 4,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1588,
+      "lcp_390": 884,
+      "lcp_1440": 1204,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/midvale-water-sewer-emergency-contacts": {
+      "route": "/midvale-water-sewer-emergency-contacts",
+      "served_status": 200,
+      "title_len": 73,
+      "title_verbatim": true,
+      "desc_len": 125,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "11/11",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 3,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1684,
+      "lcp_390": 1876,
+      "lcp_1440": 2212,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/privacy-policy": {
+      "route": "/privacy-policy",
+      "served_status": 200,
+      "title_len": 14,
+      "title_verbatim": true,
+      "desc_len": 91,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "11/11",
+      "h3": "0/0",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 3,
+      "jsonld_parse_failures": 0,
+      "body_links": 0,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 796,
+      "lcp_390": 1208,
+      "lcp_1440": 1708,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/terms-of-use": {
+      "route": "/terms-of-use",
+      "served_status": 200,
+      "title_len": 12,
+      "title_verbatim": true,
+      "desc_len": 47,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "12/12",
+      "h3": "0/0",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 3,
+      "jsonld_parse_failures": 0,
+      "body_links": 0,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1132,
+      "lcp_390": 1016,
+      "lcp_1440": 1036,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/disclaimer": {
+      "route": "/disclaimer",
+      "served_status": 200,
+      "title_len": 10,
+      "title_verbatim": true,
+      "desc_len": 86,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "9/9",
+      "h3": "0/0",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 3,
+      "jsonld_parse_failures": 0,
+      "body_links": 0,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 680,
+      "lcp_390": 1172,
+      "lcp_1440": 912,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/resources/frozen-pipes-midvale": {
+      "route": "/resources/frozen-pipes-midvale",
+      "served_status": 200,
+      "title_len": 69,
+      "title_verbatim": true,
+      "desc_len": 122,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "14/14",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 3,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1504,
+      "lcp_390": 1988,
+      "lcp_1440": 2516,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/resources/winterize-swamp-cooler-utah": {
+      "route": "/resources/winterize-swamp-cooler-utah",
+      "served_status": 200,
+      "title_len": 65,
+      "title_verbatim": true,
+      "desc_len": 127,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "13/13",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 5,
+      "jsonld_parse_failures": 0,
+      "body_links": 3,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 2012,
+      "lcp_390": 2280,
+      "lcp_1440": 3696,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/resources/upstairs-unit-leak-who-pays-utah": {
+      "route": "/resources/upstairs-unit-leak-who-pays-utah",
+      "served_status": 200,
+      "title_len": 70,
+      "title_verbatim": true,
+      "desc_len": 116,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "12/12",
+      "h3": "8/8",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 6,
+      "jsonld_parse_failures": 0,
+      "body_links": 2,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 1396,
+      "lcp_390": 1212,
+      "lcp_1440": 2420,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/resources/can-mold-grow-in-utah": {
+      "route": "/resources/can-mold-grow-in-utah",
+      "served_status": 200,
+      "title_len": 64,
+      "title_verbatim": true,
+      "desc_len": 113,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "14/14",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 5,
+      "jsonld_parse_failures": 0,
+      "body_links": 4,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 0,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 2008,
+      "lcp_390": 1436,
+      "lcp_1440": 3116,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    },
+    "/resources/basement-flooding-spring-snowmelt-utah": {
+      "route": "/resources/basement-flooding-spring-snowmelt-utah",
+      "served_status": 200,
+      "title_len": 71,
+      "title_verbatim": true,
+      "desc_len": 112,
+      "desc_verbatim": true,
+      "h1_count": 1,
+      "h1_match": true,
+      "h2": "14/14",
+      "h3": "5/5",
+      "canonical_self_ref": true,
+      "og_url_match": true,
+      "meta_robots": [
+        "index,follow"
+      ],
+      "jsonld_blocks": 4,
+      "jsonld_parse_failures": 0,
+      "body_links": 4,
+      "card_links": 0,
+      "broken_links": 0,
+      "self_links": 0,
+      "anchor_word_violations": 1,
+      "imgs": 1,
+      "imgs_missing_alt": 0,
+      "overflow_320": 0,
+      "overflow_390": 0,
+      "overflow_1440": 0,
+      "body_font_320": [
+        19
+      ],
+      "body_font_390": [
+        19
+      ],
+      "lcp_320": 2936,
+      "lcp_390": 1756,
+      "lcp_1440": 2108,
+      "cls_320": 0,
+      "cls_390": 0,
+      "cls_1440": 0,
+      "button2_visible_320": true,
+      "button2_visible_390": true,
+      "footer_min_320": 48,
+      "footer_min_390": 48,
+      "problems": []
+    }
+  }
+}
