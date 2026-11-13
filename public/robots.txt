@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://growthaura.github.io/midvale-water-damage/sitemap.xml
