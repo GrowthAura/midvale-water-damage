@@ -61,7 +61,10 @@ export function servicePanel(slug: string, index: number) {
 /* HERO + A-to-Z ROUND: photographic card image (16:9, height auto with
    aspect-ratio — width/height attrs alone must never set the box height).
    Replaces the SVG panel on service + area cards. One unique photo per
-   card, different scene from that page's hero image. */
+   card, different scene from that page's hero image.
+   CYCLE 2 SRCSET: 340w/680w (slots 245px @1440 / 305 @1024 / 340 @<=900px;
+   attrs corrected 800x450 -> 680x383, the true file dims). */
 export function CardImage({ src, alt }: { src: string; alt: string }) {
-  return <img className="card-img" src={ASSET_PREFIX + src} alt={alt} width={800} height={450} loading="lazy" />;
+  const small = src.replace(/\.webp$/, "-340.webp");
+  return <img className="card-img" src={ASSET_PREFIX + src} srcSet={`${ASSET_PREFIX + small} 340w, ${ASSET_PREFIX + src} 680w`} sizes="(max-width: 900px) 340px, (max-width: 1280px) 305px, 245px" alt={alt} width={680} height={383} loading="lazy" />;
 }

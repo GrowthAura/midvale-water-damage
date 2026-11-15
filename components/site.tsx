@@ -7,6 +7,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { SITE, SERVICES, LOCATIONS, GUIDE, ASSET_PREFIX } from "@/lib/content";
+import { HERO_CROP_BP } from "@/lib/hero-crops";
 
 export const TEL_HREF = `tel:${SITE.phoneTel}`;
 
@@ -38,7 +39,27 @@ export function HeroButtons() {
    INTRO inside the hero (verbatim) -> the 2 equal buttons -> trust chips.
    The hero image is a darkened photographic background (LCP image, preloaded
    automatically by Next from fetchPriority="high"); the dark shade keeps white text
-   high-contrast. Content is never hidden by animation. ---------- */
+   high-contrast. Content is never hidden by animation.
+   CYCLE 2 SRCSET + MOBILE CROPS: <picture> serves the per-page portrait
+   mobile crop (heroes/<slug>-m.webp, aspect matched to that page's 390px
+   hero box, media <=700px — the measured crossover where the landscape
+   file starts fitting again) and the <img> carries 800w/1600w srcset
+   (sizes 100vw). The <picture> wrapper is unstyled/static, so the
+   absolute .hero-img keeps .hero-photo as its containing block and the
+   shade/content stacking is unchanged.
+   CYCLE 3 TWO-WIDTH CROPS: a second, wider 3:4 crop (heroes/<slug>-mid.webp,
+   800x1066) serves the mid range where the -m crop degrades (mean visible
+   0.657 across 481-767) and the landscape file does not yet fit. Breakpoints
+   are PER PAGE (lib/hero-crops.ts, measured 2026-11-14): -m applies to mMax
+   (475-575), -mid to midMax (659-767), landscape above. The 3 legal pages
+   have midMax null (boxes already ~1.0 wide at 481 — landscape wins right
+   after -m) and get no -mid file or source. A blanket <=767 -mid source
+   would REGRESS 481 (mid 0.678 vs -m 0.921) and 767 (mid 0.659 vs
+   landscape 0.782); the per-page scheme never regresses any page. ---------- */
+function variantSrc(src: string, suffix: string): string {
+  return src.replace(/\.webp$/, `${suffix}.webp`);
+}
+
 export function PhotoHero({
   image,
   alt,
@@ -58,12 +79,27 @@ export function PhotoHero({
   // (tabs 24-31) -> NO trust line, never invented chips.
   trust?: readonly string[] | null;
 }) {
+  // CYCLE 3: per-hero picture breakpoints (lib/hero-crops.ts). Fallback is
+  // the simple scheme (-m <=480, -mid <=767) if a slug is ever missing.
+  const heroSlug = image.split("/").pop()?.replace(/\.webp$/, "") ?? "";
+  const cropBp = HERO_CROP_BP[heroSlug] ?? { mMax: 480, midMax: 767 };
   return (
     <section className="hero hero-photo">
       {/* CYCLE 1 UI/UX FIX (C-5): id="hero-image" — the hero ImageObject
           @id (#hero-image) resolves to this real DOM anchor.
-          Attrs 1600x1066: every hero file measures 1600x1066 (PIL). */}
-      <img id="hero-image" className="hero-img" src={ASSET_PREFIX + image} alt={alt} width={1600} height={1066} fetchPriority="high" />
+          Attrs 1600x1066: every hero file measures 1600x1066 (PIL).
+          CYCLE 2: <picture> + srcset — mobile portrait crop <=700px,
+          800w/1600w above. Same alt, same photo, no layout change.
+          CYCLE 3: two sources — -m to mMax, -mid to midMax (null = no
+          -mid source, legal pages). Sources are evaluated in order;
+          first match wins. */}
+      <picture>
+        <source media={`(max-width: ${cropBp.mMax}px)`} srcSet={ASSET_PREFIX + variantSrc(image, "-m")} sizes="100vw" />
+        {cropBp.midMax !== null && (
+          <source media={`(max-width: ${cropBp.midMax}px)`} srcSet={`${ASSET_PREFIX + variantSrc(image, "-mid600")} 600w, ${ASSET_PREFIX + variantSrc(image, "-mid700")} 700w, ${ASSET_PREFIX + variantSrc(image, "-mid")} 800w`} sizes="100vw" />
+        )}
+        <img id="hero-image" className="hero-img" src={ASSET_PREFIX + image} srcSet={`${ASSET_PREFIX + variantSrc(image, "-800")} 800w, ${ASSET_PREFIX + image} 1600w`} sizes="100vw" alt={alt} width={1600} height={1066} fetchPriority="high" />
+      </picture>
       <div className="hero-shade" aria-hidden="true" />
       <div className="wrap hero-content">
         {breadcrumb}

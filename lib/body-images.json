@@ -228,7 +228,7 @@
     },
     {
       "src": "/images/body/mold-remediation-2.webp",
-      "alt": "A worker in a white protective suit, respirator and blue gloves treating a room with a fogging hose",
+      "alt": "A worker in a white protective suit, respirator and safety goggles leaning over in a bright living room beside a large window",
       "afterH2": 4,
       "layout": "sticky"
     },
@@ -254,7 +254,7 @@
     },
     {
       "src": "/images/body/sewage-backup-cleanup-3.webp",
-      "alt": "An aerial view of a suburban neighborhood in autumn, with detached houses, trees and a cul-de-sac.",
+      "alt": "A gloved hand scrubbing a toilet bowl with a brush, a bottle of disinfectant cleaner on the floor beside it.",
       "afterH2": 10,
       "layout": "split"
     }
@@ -302,7 +302,7 @@
   "/water-damage-repair": [
     {
       "src": "/images/body/water-damage-repair-1.webp",
-      "alt": "A worker's gloved hand smoothing white joint compound onto a wall with a wide taping knife",
+      "alt": "A worker smoothing joint compound along a wall-ceiling corner with a trowel, over green drywall and white compound patches",
       "afterH2": 2,
       "layout": "split"
     },

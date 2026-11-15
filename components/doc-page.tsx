@@ -484,11 +484,16 @@ export default function DocPage({
         <figure
           className={`body-img-fig${img.layout === "sticky" ? " sticky" : ""}`}
         >
+          {/* CYCLE 2 SRCSET: 400w/800w (slot 400px @1440, ~342px @390);
+              attrs corrected 1200x675 -> 800x450, the true file dims.
+              Same photo, same alt, no layout change. */}
           <img
             src={ASSET_PREFIX + img.src}
+            srcSet={`${ASSET_PREFIX + img.src.replace(/\.webp$/, "-400.webp")} 400w, ${ASSET_PREFIX + img.src} 800w`}
+            sizes="(max-width: 900px) 90vw, 400px"
             alt={img.alt}
-            width={1200}
-            height={675}
+            width={800}
+            height={450}
             loading="lazy"
             decoding="async"
             className="body-img"
