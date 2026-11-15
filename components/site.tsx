@@ -6,7 +6,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState, type ReactNode } from "react";
-import { SITE, SERVICES, LOCATIONS, GUIDE, ASSET_PREFIX } from "@/lib/content";
+import { SITE, SERVICES, LOCATIONS, ASSET_PREFIX } from "@/lib/content";
 import { HERO_CROP_BP } from "@/lib/hero-crops";
 
 export const TEL_HREF = `tel:${SITE.phoneTel}`;
@@ -117,20 +117,30 @@ export function PhotoHero({
 
 /* ---------- header (10X FIX C-O3: mobile had no nav menu — .main-nav was
    display:none <=900px with no hamburger; mobile users could only navigate
-   via footer links. Menu button 46px, Escape closes, aria-expanded.) ---------- */
-const HEADER_SERVICES = [
+   via footer links. Menu button 46px, Escape closes, aria-expanded.)
+   2026-11-16 (owner): nav is Home + Services menu (6 important services)
+   + Areas (homepage #areas section). The other 10 services live in the
+   footer; the guide page is body-linked, so it needs no nav link. ---------- */
+const MENU_SERVICES = [
   "emergency-water-extraction",
+  "water-damage-repair",
+  "basement-flooding-cleanup",
+  "burst-pipe-water-damage",
   "sewage-backup-cleanup",
+  "mold-remediation",
 ];
 
 export function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [servicesOpen, setServicesOpen] = useState(false);
   const menuBtnRef = useRef<HTMLButtonElement>(null);
+  const dropRef = useRef<HTMLDivElement>(null);
   const menuScrollY = useRef(0);
   const pathname = usePathname();
-  // Close the menu on navigation and on Escape (focus returns to the button).
+  // Close the menu and the Services dropdown on navigation.
   useEffect(() => {
     setMenuOpen(false);
+    setServicesOpen(false);
   }, [pathname]);
   // Restore the pre-menu scroll position — ONLY on an explicit close
   // (Escape / menu-button toggle), never on navigation: a menu-link click
@@ -147,6 +157,7 @@ export function Header() {
     const onKey = (e: KeyboardEvent) => {
       if (e.key === "Escape") {
         setMenuOpen(false);
+        setServicesOpen(false);
         restoreMenuScroll();
         menuBtnRef.current?.focus();
       }
@@ -154,6 +165,26 @@ export function Header() {
     document.addEventListener("keydown", onKey);
     return () => document.removeEventListener("keydown", onKey);
   }, [menuOpen]);
+  // Services dropdown: Escape closes it (desktop, menu closed); a click
+  // outside the dropdown closes it. A service-link click navigates, which
+  // closes it via the pathname effect above.
+  useEffect(() => {
+    if (!servicesOpen) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") setServicesOpen(false);
+    };
+    const onDown = (e: MouseEvent) => {
+      if (dropRef.current && !dropRef.current.contains(e.target as Node)) {
+        setServicesOpen(false);
+      }
+    };
+    document.addEventListener("keydown", onKey);
+    document.addEventListener("mousedown", onDown);
+    return () => {
+      document.removeEventListener("keydown", onKey);
+      document.removeEventListener("mousedown", onDown);
+    };
+  }, [servicesOpen]);
   // P3-3 scroll lock while the mobile menu is open (2026-11-12): body
   // position:fixed + overflow:hidden (overflow:hidden alone does NOT lock
   // scroll in Chromium). Scroll position is captured here and restored
@@ -200,14 +231,40 @@ export function Header() {
           <Link href="/" prefetch={false} onClick={() => setMenuOpen(false)}>
             Home
           </Link>
-          {HEADER_SERVICES.map((slug) => {
-            const s = SERVICES.find((x) => x.slug === slug)!;
-            return (
-              <Link key={slug} href={`/${slug}`} onClick={() => setMenuOpen(false)}>
-                {s.anchor}
-              </Link>
-            );
-          })}
+          <div className="nav-drop" ref={dropRef}>
+            <button
+              type="button"
+              className="nav-drop-btn"
+              aria-expanded={servicesOpen}
+              aria-haspopup="true"
+              onClick={() => setServicesOpen((v) => !v)}
+            >
+              Services <span aria-hidden="true" className="nav-caret">▾</span>
+            </button>
+            <ul className={`nav-drop-list${servicesOpen ? " open" : ""}`}>
+              {MENU_SERVICES.map((slug) => {
+                const s = SERVICES.find((x) => x.slug === slug)!;
+                return (
+                  <li key={slug}>
+                    <Link
+                      href={`/${slug}`}
+                      onClick={() => {
+                        setMenuOpen(false);
+                        setServicesOpen(false);
+                      }}
+                    >
+                      {s.anchor}
+                    </Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
+          {/* Areas = the homepage "Nearby Cities We Serve" section (#areas,
+              same target the location-page breadcrumbs already use). */}
+          <Link href="/#areas" prefetch={false} onClick={() => setMenuOpen(false)}>
+            Areas
+          </Link>
         </nav>
         <button
           type="button"
@@ -233,41 +290,49 @@ export function Header() {
   );
 }
 
-/* ---------- footer (map on every page EXCEPT area pages) ---------- */
+/* ---------- footer: slim (2026-11-16, owner: only the important things).
+   Brand + call on top, then compact inline link rows — no map, no 5-column
+   link grid (the old footer was 1,281px tall on desktop, 2,642px on
+   mobile). The 6 menu services live in the header; the other 10 services
+   are here. The 5 blog pages have no other inbound links, so they keep a
+   Resources row here; the guide page is body-linked (3x), so it needs no
+   footer link. Legal pages are noindex (see app/[slug]/page.tsx) but stay
+   linked so they are not orphans. ---------- */
 const FOOTER_SERVICES = [
-  "emergency-water-extraction",
-  "basement-flooding-cleanup",
-  "burst-pipe-water-damage",
-  "sewage-backup-cleanup",
+  "window-well-flooding",
+  "water-heater-leak-cleanup",
+  "swamp-cooler-leak-water-damage",
+  "ceiling-water-damage",
+  "crawl-space-water-damage",
+  "hardwood-floor-cabinet-drying",
+  "condo-apartment-water-damage",
+  "commercial-water-damage",
   "storm-flood-damage",
-  "mold-remediation",
   "water-leak-detection",
-  "water-damage-repair",
 ];
 
-export function Footer({ showMap }: { showMap: boolean }) {
+const FOOTER_BLOGS = [
+  { href: "/resources/frozen-pipes-midvale", label: "Frozen Pipes in Midvale" },
+  { href: "/resources/winterize-swamp-cooler-utah", label: "Swamp Cooler Winterizing Checklist" },
+  { href: "/resources/upstairs-unit-leak-who-pays-utah", label: "Upstairs Leak: Who Pays?" },
+  { href: "/resources/can-mold-grow-in-utah", label: "Can Mold Grow in Utah?" },
+  { href: "/resources/basement-flooding-spring-snowmelt-utah", label: "Basement Flooding & Spring Snowmelt" },
+];
+
+export function Footer() {
   return (
     <footer className="site-footer">
-      {showMap ? (
-        <div className="footer-map">
-          <iframe
-            title="Map: Midvale, UT 84047"
-            src="https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
-            referrerPolicy="no-referrer-when-downgrade"
-            loading="lazy"
-          />
-        </div>
-      ) : null}
-      <div className="wrap footer-grid">
+      <div className="wrap footer-top">
         <div>
           <p className="footer-brand">Water Damage Restoration Midvale UT</p>
-          <p>
-            24/7 water damage restoration in Midvale, UT 84047.
-            <br />
-            <a href={TEL_HREF}>{SITE.phoneDisplay}</a>
-          </p>
+          <p className="footer-tag">24/7 water damage restoration in Midvale, UT 84047.</p>
         </div>
-        <nav aria-label="Services">
+        <a className="footer-phone" href={TEL_HREF}>
+          Call {SITE.phoneDisplay}
+        </a>
+      </div>
+      <div className="wrap footer-links">
+        <div className="footer-row">
           <p className="footer-h">Services</p>
           <ul>
             {FOOTER_SERVICES.map((slug) => {
@@ -279,9 +344,9 @@ export function Footer({ showMap }: { showMap: boolean }) {
               );
             })}
           </ul>
-        </nav>
-        <nav aria-label="Nearby cities">
-          <p className="footer-h">Nearby Cities We Serve</p>
+        </div>
+        <div className="footer-row">
+          <p className="footer-h">Areas</p>
           <ul>
             {LOCATIONS.map((l) => (
               <li key={l.slug}>
@@ -289,12 +354,9 @@ export function Footer({ showMap }: { showMap: boolean }) {
               </li>
             ))}
           </ul>
-        </nav>
-        {/* P2-1 fix 2026-11-12: the 10 new routes (About, Contact, legal,
-            5 blogs) were orphans — 0 inbound links. Footer is chrome, so
-            they link from here; body copy gains no links. */}
-        <nav aria-label="About and resources">
-          <p className="footer-h">About &amp; Resources</p>
+        </div>
+        <div className="footer-row">
+          <p className="footer-h">Company</p>
           <ul>
             <li>
               <Link href="/about">About</Link>
@@ -302,6 +364,21 @@ export function Footer({ showMap }: { showMap: boolean }) {
             <li>
               <Link href="/contact">Contact</Link>
             </li>
+          </ul>
+        </div>
+        <div className="footer-row">
+          <p className="footer-h">Resources</p>
+          <ul>
+            {FOOTER_BLOGS.map((b) => (
+              <li key={b.href}>
+                <Link href={b.href}>{b.label}</Link>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div className="footer-row">
+          <p className="footer-h">Legal</p>
+          <ul>
             <li>
               <Link href="/privacy-policy">Privacy Policy</Link>
             </li>
@@ -311,40 +388,8 @@ export function Footer({ showMap }: { showMap: boolean }) {
             <li>
               <Link href="/disclaimer">Disclaimer</Link>
             </li>
-            <li>
-              <Link href="/resources/frozen-pipes-midvale">Frozen Pipes in Midvale</Link>
-            </li>
-            <li>
-              <Link href="/resources/winterize-swamp-cooler-utah">Swamp Cooler Winterizing Checklist</Link>
-            </li>
-            <li>
-              <Link href="/resources/upstairs-unit-leak-who-pays-utah">Upstairs Leak: Who Pays?</Link>
-            </li>
-            <li>
-              <Link href="/resources/can-mold-grow-in-utah">Can Mold Grow in Utah?</Link>
-            </li>
-            <li>
-              <Link href="/resources/basement-flooding-spring-snowmelt-utah">Basement Flooding &amp; Spring Snowmelt</Link>
-            </li>
           </ul>
-        </nav>
-        <nav aria-label="Help">
-          <p className="footer-h">Emergency Help</p>
-          <ul>
-            <li>
-              <Link href={`/${GUIDE.slug}`}>Midvale Water &amp; Sewer Emergency Contacts</Link>
-            </li>
-            <li>
-              <Link href="/#faq" prefetch={false}>Water Damage Restoration FAQ</Link>
-            </li>
-            <li>
-              <Link href="/#services" prefetch={false}>All Midvale Services</Link>
-            </li>
-            <li>
-              <a href={TEL_HREF}>Call {SITE.phoneDisplay}</a>
-            </li>
-          </ul>
-        </nav>
+        </div>
       </div>
       <div className="wrap footer-base">
         <p>
@@ -356,11 +401,8 @@ export function Footer({ showMap }: { showMap: boolean }) {
   );
 }
 
-/* Footer with the map rule: map on every page EXCEPT area pages. */
 export function FooterSwitch() {
-  const pathname = usePathname();
-  const isArea = pathname !== null && pathname.startsWith("/locations/");
-  return <Footer showMap={!isArea} />;
+  return <Footer />;
 }
 
 /* ---------- sticky mobile call bar (every page, always tappable) ----------

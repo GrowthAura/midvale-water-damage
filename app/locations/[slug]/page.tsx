@@ -1,6 +1,6 @@
 // Generic renderer for the 3 location pages (REBUILD 2026-11-12, tabs
-// 20-22). All content verbatim from lib/pages-data.json. Area pages: NO
-// footer map (FooterSwitch already handles it).
+// 20-22). All content verbatim from lib/pages-data.json. (The footer map
+// the old comment here mentioned was removed 2026-11-16.)
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { SITE, LOCATIONS, HERO_IMAGE } from "@/lib/content";

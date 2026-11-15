@@ -21,10 +21,16 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   const page = docPageByRoute(`/${params.slug}`);
   if (!page) return {};
   const hero = HERO_IMAGE[heroKeyForRoute(page.route)];
+  // 2026-11-16 (owner): the 3 legal pages are noindex, follow — they stay
+  // linked from the footer (so they are not orphans) and stay in the
+  // sitemap; only the robots tag changes. Every other flat route indexes.
+  const NOINDEX_SLUGS = new Set(["privacy-policy", "terms-of-use", "disclaimer"]);
   return {
     title: page.metaTitle,
     description: page.metaDescription,
-    robots: { index: true, follow: true },
+    robots: NOINDEX_SLUGS.has(params.slug)
+      ? { index: false, follow: true }
+      : { index: true, follow: true },
     alternates: { canonical: `${SITE.base}${page.route}` },
     openGraph: {
       title: page.metaTitle,

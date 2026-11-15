@@ -83,6 +83,26 @@ p, li, td, th { font-size: 19px; }
 .main-nav { display: flex; gap: 20px; margin-left: auto; flex-wrap: wrap; }
 .main-nav a { font-size: 18px; text-decoration: none; color: var(--ink); font-weight: 600; white-space: nowrap; /* SEO FIX 1 2026-11-13 (P2-2): nav links were ~30px tall — 48px tap target. */ display: inline-flex; align-items: center; min-height: 48px; }
 .main-nav a:hover { color: var(--copper-dark); }
+/* Services dropdown (2026-11-16, owner: header carries a Services menu
+   with the 6 important services; Areas links to the homepage #areas
+   section). Desktop: absolute panel under the button. Mobile (<=900px):
+   static indented list inside the open menu panel. */
+.nav-drop { position: relative; display: inline-flex; align-items: center; }
+.nav-drop-btn {
+  font-size: 18px; font-weight: 600; color: var(--ink); background: none; border: 0;
+  cursor: pointer; display: inline-flex; align-items: center; gap: 6px;
+  min-height: 48px; padding: 0; font-family: inherit; white-space: nowrap;
+}
+.nav-drop-btn:hover { color: var(--copper-dark); }
+.nav-caret { font-size: 14px; }
+.nav-drop-list {
+  display: none; position: absolute; top: calc(100% + 8px); left: 0; min-width: 320px;
+  background: var(--white); border: 1px solid var(--line); border-radius: 12px;
+  box-shadow: 0 12px 24px rgba(14,59,56,.16); padding: 8px 0;
+  list-style: none; margin: 0; z-index: 60;
+}
+.nav-drop-list.open { display: block; }
+.nav-drop-list a { display: flex; align-items: center; min-height: 48px; padding: 6px 20px; white-space: nowrap; }
 .header-phone {
   font-size: 18px; font-weight: 800; color: var(--white); background: var(--copper-dark);
   text-decoration: none; padding: 10px 20px; border-radius: 12px; white-space: nowrap;
@@ -334,15 +354,27 @@ tbody tr:nth-child(even) { background: var(--mist); }
 .contact-form .radio-row input { width: auto; font-size: 19px; }
 .contact-form .form-sent { font-weight: 700; margin-bottom: 0; }
 
-/* ---------- footer ---------- */
+/* ---------- footer: slim (2026-11-16, owner: only the important things).
+   Brand + call on top, then compact inline link rows with dot separators.
+   Replaces the old 5-column grid + map (1,281px desktop / 2,642px mobile).
+   Footer links keep 48px tap targets (SEO FIX 1 2026-11-13, P2-2). ---------- */
 .site-footer { background: var(--pine); color: #dfeae7; margin-top: 0; }
-.footer-map iframe { display: block; width: 100%; height: 320px; border: 0; }
-.footer-grid { display: grid; grid-template-columns: 1.3fr 1fr 1fr 1fr 1fr; gap: 32px; padding: 56px 24px 36px; }
-.footer-brand { font-size: 18px; font-weight: 800; color: var(--white); }
-.footer-h { font-size: 18px; font-weight: 800; color: var(--white); margin-bottom: 12px; letter-spacing: 0.5px; }
-.site-footer ul { list-style: none; padding: 0; margin: 0; }
-.site-footer li { margin-bottom: 10px; }
-.site-footer a { color: #dfeae7; /* SEO FIX 1 2026-11-13 (P2-2): footer links were 26px tall — 48px tap target. */ display: inline-flex; align-items: center; min-height: 48px; }
+.footer-top { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 40px 24px 28px; flex-wrap: wrap; }
+.footer-brand { font-size: 20px; font-weight: 800; color: var(--white); margin: 0 0 6px; }
+.footer-tag { margin: 0; font-size: 19px; }
+.footer-phone {
+  font-size: 19px; font-weight: 800; color: var(--white); background: var(--copper-dark);
+  text-decoration: none; padding: 12px 24px; border-radius: 12px; white-space: nowrap;
+  display: inline-flex; align-items: center; min-height: 56px;
+}
+.footer-phone:hover { background: #7c3f12; color: var(--white); }
+.footer-links { padding: 0 24px 28px; display: flex; flex-direction: column; gap: 16px; }
+.footer-row { display: flex; gap: 16px; align-items: baseline; border-top: 1px solid rgba(255,255,255,.16); padding-top: 16px; }
+.footer-h { font-size: 18px; font-weight: 800; color: var(--white); margin: 0; letter-spacing: 0.5px; flex-shrink: 0; min-width: 110px; }
+.site-footer ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; }
+.site-footer li { display: inline-flex; align-items: center; margin: 0; }
+.site-footer li + li::before { content: "·"; color: rgba(255,255,255,.5); margin: 0 10px; }
+.site-footer a { color: #dfeae7; display: inline-flex; align-items: center; min-height: 48px; padding: 4px 0; }
 .site-footer a:hover { color: #f2c89b; }
 /* DESIGN ROUND 2026-11-13: the old 96px bottom pad left a dead band
    under the footer on desktop (the sticky bar only exists <=767px,
@@ -368,7 +400,6 @@ tbody tr:nth-child(even) { background: var(--mist); }
   .body-img-fig { order: -1; }
   .body-img-fig.sticky { position: static; }
   .steps { grid-template-columns: 1fr; }
-  .footer-grid { grid-template-columns: 1fr 1fr; }
   .main-nav { display: none; }
   /* 10X FIX C-O3: mobile menu. Button 46px; panel drops below the sticky header. */
   .menu-btn {
@@ -391,6 +422,11 @@ tbody tr:nth-child(even) { background: var(--mist); }
     box-shadow: 0 12px 24px rgba(14,59,56,.16); z-index: 55;
   }
   .main-nav.open a { padding: 14px 0; }
+  /* Services dropdown inside the mobile menu panel: static indented list. */
+  .nav-drop { display: block; }
+  .nav-drop-btn { width: 100%; justify-content: flex-start; padding: 14px 0; }
+  .nav-drop-list { position: static; border: 0; box-shadow: none; padding: 0 0 0 16px; min-width: 0; }
+  .nav-drop-list a { padding: 12px 0; }
 }
 @media (max-width: 767px) {
   .sticky-bar { display: block; position: fixed; left: 0; right: 0; bottom: 0; z-index: 60; }
@@ -416,7 +452,9 @@ tbody tr:nth-child(even) { background: var(--mist); }
   .header-phone { padding: 8px 12px; }
   .header-inner { flex-wrap: wrap; }
   .brand { flex: 1 1 100%; }
-  .footer-grid { grid-template-columns: 1fr; }
+  /* Slim footer: label stacks above its links on small screens. */
+  .footer-row { flex-direction: column; gap: 6px; }
+  .footer-h { min-width: 0; }
   .btn { width: 100%; }
   .hero-buttons { flex-direction: column; max-width: none; }
 }
