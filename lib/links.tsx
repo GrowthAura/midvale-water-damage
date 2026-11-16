@@ -5,7 +5,7 @@
 // is the anchor, the path is the href. The ` (/path/)` text is LINK
 // METADATA and must NEVER render as visible text.
 //
-// Rule (Acworth precedent, qa/parse_tabs.py — the same doc convention):
+// Rule (qa/parse_tabs.py — the same doc convention):
 //   href = path with trailing slash stripped ("/" stays "/").
 //   anchor = the phrase immediately before the paren:
 //     1. text after the last "see " / "learn more about " marker, but
@@ -22,7 +22,7 @@
 //   text. SELF-LINK renders as plain text. NO truncation: the anchor is
 //   the FULL phrase he wrote — a link anchored on only part of his
 //   phrase counts as missing (his standing rule). That overrides
-//   Acworth's 5-word truncation.
+//   a 5-word truncation.
 //   Visible words drop by exactly one token per annotation (the paren
 //   itself); the anchor words stay visible. Verbatim accounting:
 //   expected visible = doc words - annotation tokens - heading-label

@@ -6,7 +6,7 @@
 // is included verbatim from doc-raw.json.
 
 // Subpath prefix for plain <img> srcs (Next's basePath does NOT prefix
-// them — Belleville lesson). Next's <Link> auto-prefixes with basePath,
+// them). Next's <Link> auto-prefixes with basePath,
 // so NEVER hand-prefix Link hrefs (double-prefix).
 export const ASSET_PREFIX = "/midvale-water-damage";
 

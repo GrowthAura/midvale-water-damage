@@ -53,8 +53,8 @@
       "layout": "split"
     },
     {
-      "src": "/images/body/ceiling-water-damage-3.webp",
-      "alt": "Room under renovation with a stepladder, drop cloths on the floor and a curved ceiling detail",
+      "src": "/images/body/ceiling-water-damage-renovation-stepladder.webp",
+      "alt": "A paint-splattered wooden stepladder beside drop cloths, a paint tray and a paint can on a wooden floor in a room under renovation.",
       "afterH2": 7,
       "layout": "split"
     }
@@ -127,8 +127,8 @@
       "layout": "split"
     },
     {
-      "src": "/images/body/emergency-water-extraction-2.webp",
-      "alt": "A yellow wet/dry vacuum standing on a wooden floor in a room under renovation.",
+      "src": "/images/body/water-extraction-yellow-wet-dry-vacuum.webp",
+      "alt": "A yellow wet/dry vacuum with a hose on a sunlit tiled floor.",
       "afterH2": 2,
       "layout": "sticky"
     },

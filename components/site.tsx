@@ -211,12 +211,17 @@ export function Header() {
   return (
     <header className="site-header">
       <div className="wrap header-inner">
-        {/* P3-1: prefetch={false} on home links — the static export carries
-            the home flight payload as /midvale-water-damage/index.txt, but
-            Next prefetches it as /midvale-water-damage.txt -> 404 console
-            noise on every page. Other routes have <slug>.txt and prefetch
-            fine, so only home links are affected. */}
-        <Link className="brand" href="/" prefetch={false}>
+        {/* P3-1 (10x round 2026-11-16): home links are plain <a>, NOT Next
+            Link. The static export carries the home flight payload as
+            /midvale-water-damage/index.txt, but a Link to "/" fetches it
+            as /midvale-water-damage.txt -> 404 console noise on every
+            client-side navigation home (prefetch={false} only stopped
+            the prefetch path, not the click path). A plain anchor does a
+            clean document load with no RSC fetch. Other routes keep
+            Link — their <slug>.txt payloads exist and prefetch fine.
+            href is ASSET_PREFIX + "/" so it is /midvale-water-damage/
+            on the Pages build and / on the Cloudflare build. */}
+        <a className="brand" href={`${ASSET_PREFIX}/`}>
           <span className="brand-mark" aria-hidden="true">
             <svg viewBox="0 0 32 32" width="30" height="30">
               <path d="M16 3C16 3 6 14 6 20a10 10 0 0 0 20 0C26 14 16 3 16 3Z" fill="#c26a24" />
@@ -226,11 +231,11 @@ export function Header() {
             Water Damage Restoration
             <span className="brand-city">Midvale, UT</span>
           </span>
-        </Link>
+        </a>
         <nav id="main-nav" className={`main-nav${menuOpen ? " open" : ""}`} aria-label="Main">
-          <Link href="/" prefetch={false} onClick={() => setMenuOpen(false)}>
+          <a href={`${ASSET_PREFIX}/`} onClick={() => setMenuOpen(false)}>
             Home
-          </Link>
+          </a>
           <div className="nav-drop" ref={dropRef}>
             <button
               type="button"
@@ -261,10 +266,15 @@ export function Header() {
             </ul>
           </div>
           {/* Areas = the homepage "Nearby Cities We Serve" section (#areas,
-              same target the location-page breadcrumbs already use). */}
-          <Link href="/#areas" prefetch={false} onClick={() => setMenuOpen(false)}>
+              same target the location-page breadcrumbs already use).
+              Plain <a> like the other home links (P3-1, see brand above):
+              a Link to /#areas fetches the root flight payload from
+              inner pages and 404s the same way. html has
+              scroll-behavior: smooth, so the native hash jump still
+              smooth-scrolls. */}
+          <a href={`${ASSET_PREFIX}/#areas`} onClick={() => setMenuOpen(false)}>
             Areas
-          </Link>
+          </a>
         </nav>
         <button
           type="button"
@@ -442,14 +452,15 @@ export function Breadcrumb({ items }: { items: { label: string; href?: string }[
         {items.map((it, i) => (
           <li key={i}>
             {it.href ? (
-              // P3-1: home crumb ("/" or "/#...") never prefetches — same
-              // basePath .txt 404 as the logo link; other crumbs prefetch fine.
-              <Link
-                href={it.href}
-                prefetch={it.href === "/" || it.href.startsWith("/#") ? false : undefined}
-              >
-                {it.label}
-              </Link>
+              it.href === "/" || it.href.startsWith("/#") ? (
+                // P3-1 (10x round 2026-11-16): home crumbs are plain <a> —
+                // a Next Link to "/" fetches the root flight payload as
+                // /midvale-water-damage.txt (404) under basePath; a plain
+                // anchor does a clean document load with no RSC fetch.
+                <a href={`${ASSET_PREFIX}${it.href}`}>{it.label}</a>
+              ) : (
+                <Link href={it.href}>{it.label}</Link>
+              )
             ) : (
               <span aria-current="page">{it.label}</span>
             )}
