@@ -275,6 +275,15 @@ export function Header() {
           <a href={`${ASSET_PREFIX}/#areas`} onClick={() => setMenuOpen(false)}>
             Areas
           </a>
+          {/* Contact/About are inner routes — Next Link is fine (only home
+              links must be plain <a> per the P3-1 rule). Order: Home |
+              Services | Areas | Contact Us | About Us | phone. */}
+          <Link href="/contact" onClick={() => setMenuOpen(false)}>
+            Contact Us
+          </Link>
+          <Link href="/about" onClick={() => setMenuOpen(false)}>
+            About Us
+          </Link>
         </nav>
         <button
           type="button"
@@ -329,9 +338,23 @@ const FOOTER_BLOGS = [
   { href: "/resources/basement-flooding-spring-snowmelt-utah", label: "Basement Flooding & Spring Snowmelt" },
 ];
 
-export function Footer() {
+export function Footer({ showMap }: { showMap: boolean }) {
   return (
     <footer className="site-footer">
+      {/* Footer map restored 2026-11-16 (was removed in 33a3d2c): Midvale
+          embed, first child of <footer>, before footer-top. Shown on every
+          page EXCEPT /locations/* (FooterSwitch gating below) — those
+          pages carry their own city map, no double maps. */}
+      {showMap ? (
+        <div className="footer-map">
+          <iframe
+            title="Map: Midvale, UT 84047"
+            src="https://www.google.com/maps?q=Midvale%2C%20UT%2084047&output=embed"
+            referrerPolicy="no-referrer-when-downgrade"
+            loading="lazy"
+          />
+        </div>
+      ) : null}
       <div className="wrap footer-top">
         <div>
           <p className="footer-brand">Water Damage Restoration Midvale UT</p>
@@ -411,8 +434,12 @@ export function Footer() {
   );
 }
 
+/* Footer with the map rule (restored 2026-11-16, old rule from 33a3d2c^):
+   map on every page EXCEPT area pages. */
 export function FooterSwitch() {
-  return <Footer />;
+  const pathname = usePathname();
+  const isArea = pathname !== null && pathname.startsWith("/locations/");
+  return <Footer showMap={!isArea} />;
 }
 
 /* ---------- sticky mobile call bar (every page, always tappable) ----------

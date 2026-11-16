@@ -60,7 +60,7 @@ a:hover { color: var(--copper-dark); }
    not just inherited from body. Heading sizes unchanged. */
 p, li, td, th { font-size: 19px; }
 
-.wrap { max-width: 1120px; margin: 0 auto; padding: 0 24px; }
+.wrap { max-width: 1360px; margin: 0 auto; padding: 0 24px; }
 .section { padding: 64px 0; }
 .section.alt { background: var(--mist); }
 .section.sand { background: var(--sand); }
@@ -73,7 +73,7 @@ p, li, td, th { font-size: 19px; }
   border-bottom: 1px solid var(--line);
 }
 .header-inner { display: flex; align-items: center; gap: 24px; min-height: 72px; flex-wrap: nowrap; }
-.site-header .wrap { max-width: 1240px; }
+.site-header .wrap { max-width: 1360px; }
 .brand { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--pine); flex-shrink: 0; /* CYCLE 1 UI/UX FIX (P3-1): was 43px tall — min-height 48px tap target. Header-inner is 72px, so no layout change. */ min-height: 48px; }
 .brand-mark { display: inline-flex; flex-shrink: 0; }
 .brand-text { font-size: 18px; font-weight: 800; line-height: 1.2; }
@@ -136,8 +136,8 @@ p, li, td, th { font-size: 19px; }
 .hero { background: var(--pine); color: var(--white); padding: 64px 0 72px; position: relative; overflow: hidden; }
 .hero .wrap { position: relative; z-index: 1; }
 .eyebrow { font-size: 18px; font-weight: 800; letter-spacing: 2px; color: #f2c89b; margin: 0 0 16px; }
-.hero h1 { color: var(--white); max-width: 880px; }
-.hero p.intro { color: #eef4f2; max-width: 880px; /* SEO FIX 1 2026-11-13: explicit 19px — the lead paragraph is body copy (measured 19px already; this rule documents it and guards regressions). */ font-size: 19px; }
+.hero h1 { color: var(--white); max-width: 1100px; }
+.hero p.intro { color: #eef4f2; max-width: 1100px; /* SEO FIX 1 2026-11-13: explicit 19px — the lead paragraph is body copy (measured 19px already; this rule documents it and guards regressions). */ font-size: 19px; }
 .hero-art { margin-top: 36px; max-width: 880px; }
 .hero-art .panel { aspect-ratio: 21 / 9; }
 .hero-art .panel { border: 1px solid rgba(255,255,255,.25); }
@@ -163,7 +163,7 @@ p, li, td, th { font-size: 19px; }
 .hero-photo .breadcrumb a { color: #f2c89b; }
 .hero-photo .breadcrumb li { color: #eef4f2; }
 .hero-photo .breadcrumb li + li::before { color: rgba(255,255,255,.6); }
-.hero-trust { margin: 30px 0 0; font-size: 19px; font-weight: 700; color: #f2c89b; max-width: 880px; }
+.hero-trust { margin: 30px 0 0; font-size: 19px; font-weight: 700; color: #f2c89b; max-width: 1100px; }
 .trust-band { background: var(--copper); color: var(--white); padding: 18px 0; }
 .trust-band p { text-align: center; font-size: 19px; font-weight: 700; margin: 0; }
 
@@ -306,14 +306,14 @@ tbody tr:nth-child(even) { background: var(--mist); }
 /* ---------- final CTA ---------- */
 .final-cta { background: var(--pine); color: var(--white); text-align: center; }
 .final-cta h2 { color: var(--white); }
-.final-cta p { color: #eef4f2; max-width: 820px; margin-left: auto; margin-right: auto; }
+.final-cta p { color: #eef4f2; max-width: 1080px; margin-left: auto; margin-right: auto; }
 .final-cta .hero-buttons { justify-content: center; }
 
 /* ---------- inner pages ---------- */
 .page-head { background: var(--sand); padding: 48px 0 40px; border-bottom: 1px solid var(--line); }
-.page-head h1 { max-width: 880px; }
+.page-head h1 { max-width: 1100px; }
 .page-body { padding: 48px 0 72px; }
-.page-body .wrap > p, .page-body .wrap > ul { max-width: 820px; }
+.page-body .wrap > p, .page-body .wrap > ul { max-width: 1080px; }
 /* DESIGN ROUND 2026-11-13 — layout rhythm: a clear 48px beat between
    H2 sections (first H2 sits flush under the hero) and 36px before a
    mid-section H3, so long service/location pages scan instead of
@@ -326,17 +326,17 @@ tbody tr:nth-child(even) { background: var(--mist); }
 .breadcrumb li + li::before { content: "/"; margin-right: 6px; color: var(--muted); }
 .note-box {
   border: 2px solid var(--copper); border-radius: 14px; background: var(--sand);
-  padding: 20px 24px; margin-top: 32px; max-width: 820px;
+  padding: 20px 24px; margin-top: 32px; max-width: 1080px;
 }
 .note-box p:last-child { margin-bottom: 0; }
 
 /* ---------- contact request form (P2-3 fix 2026-11-12) ----------
    Template chrome on /contact only. Labels match the tab's field list;
    the notice states plainly that the form does not send on this static
-   preview. Kept inside .page-body's 820px measure. */
+   preview. Kept inside .page-body's 1080px measure. */
 .contact-form {
   border: 1px solid var(--line); border-radius: 14px; background: var(--sand);
-  padding: 24px; margin-top: 36px; max-width: 820px;
+  padding: 24px; margin-top: 36px; max-width: 1080px;
 }
 .contact-form .form-notice { font-weight: 700; }
 .contact-form form p { margin-bottom: 16px; }
@@ -359,6 +359,12 @@ tbody tr:nth-child(even) { background: var(--mist); }
    Replaces the old 5-column grid + map (1,281px desktop / 2,642px mobile).
    Footer links keep 48px tap targets (SEO FIX 1 2026-11-13, P2-2). ---------- */
 .site-footer { background: var(--pine); color: #dfeae7; margin-top: 0; }
+/* Footer map (restored 2026-11-16) + location maps (2026-11-16): full-width
+   embeds, 320px tall, no border. Footer map is the first child of
+   <footer> (outside .wrap); location maps sit inside .page-body .wrap. */
+.footer-map iframe { display: block; width: 100%; height: 320px; border: 0; }
+.location-map { margin-top: 36px; }
+.location-map iframe { display: block; width: 100%; height: 320px; border: 0; border-radius: 14px; }
 .footer-top { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 40px 24px 28px; flex-wrap: wrap; }
 .footer-brand { font-size: 20px; font-weight: 800; color: var(--white); margin: 0 0 6px; }
 .footer-tag { margin: 0; font-size: 19px; }

@@ -1,0 +1,10 @@
+# Cloudflare Pages cache headers (2026-11-16).
+# Static assets only — HTML is NEVER cached here (max-age=0 default
+# stays), so deploys go live immediately. _next/static/* files are
+# content-hashed by Next.js, so immutable is safe. /images/* are not
+# hashed, but Cloudflare Pages purges the edge cache on every new
+# deployment, so a replaced image goes live with the next deploy.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/images/*
+  Cache-Control: public, max-age=31536000, immutable

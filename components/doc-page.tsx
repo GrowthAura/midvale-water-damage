@@ -531,6 +531,22 @@ export default function DocPage({
       <section className="page-body" id={serviceLd ? "service" : undefined}>
         <div className="wrap">
           {body}
+          {/* Location map (2026-11-16): one per location page, after the
+              verbatim body and before the call buttons. Built from the
+              already-passed areaCity/areaZip — no new data field, no
+              verbatim content moves. q= form, same as the footer map
+              (verified live 2026-11-16: each URL 200, Google resolves to
+              the named city). */}
+          {serviceKind === "location" && areaCity && areaZip ? (
+            <div className="location-map">
+              <iframe
+                title={`Map: ${areaCity}, UT ${areaZip}`}
+                src={`https://www.google.com/maps?q=${areaCity.replace(/ /g, "+")}%2C%20UT%20${areaZip}&output=embed`}
+                referrerPolicy="no-referrer-when-downgrade"
+                loading="lazy"
+              />
+            </div>
+          ) : null}
           <HeroButtons />
         </div>
       </section>
