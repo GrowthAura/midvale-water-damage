@@ -8,7 +8,9 @@
     "build": "next build",
     "export": "next build",
     "dev": "next dev",
-    "start": "next start"
+    "start": "next start",
+    "postbuild": "bash qa/speed-inline-after-build.sh",
+    "postexport": "bash qa/speed-inline-after-build.sh"
   },
   "keywords": [],
   "author": "",

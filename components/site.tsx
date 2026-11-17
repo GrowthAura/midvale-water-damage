@@ -83,8 +83,19 @@ export function PhotoHero({
   // the simple scheme (-m <=480, -mid <=767) if a slug is ever missing.
   const heroSlug = image.split("/").pop()?.replace(/\.webp$/, "") ?? "";
   const cropBp = HERO_CROP_BP[heroSlug] ?? { mMax: 480, midMax: 767 };
+  // SPEED 2026-11-17 (Fix 1): preload the LCP hero image. Whether Next
+  // hoists these <link> tags into <head> is verified from the built HTML
+  // after each build (see qa/FINDINGS-speed-best-ever-2026-11-17.md) —
+  // if they land in <body> next to the <picture> they are harmless but
+  // gain ~nothing, and the fix is judged on the measured LCP delta alone.
+  const midMin = cropBp.mMax + 1;
   return (
     <section className="hero hero-photo">
+      <link rel="preload" as="image" href={ASSET_PREFIX + variantSrc(image, "-m")} media={`(max-width: ${cropBp.mMax}px)`} fetchPriority="high" />
+      {cropBp.midMax !== null && (
+        <link rel="preload" as="image" href={ASSET_PREFIX + variantSrc(image, "-mid")} imageSrcSet={`${ASSET_PREFIX + variantSrc(image, "-mid600")} 600w, ${ASSET_PREFIX + variantSrc(image, "-mid700")} 700w, ${ASSET_PREFIX + variantSrc(image, "-mid")} 800w`} imageSizes="100vw" media={`(min-width: ${midMin}px) and (max-width: ${cropBp.midMax}px)`} fetchPriority="high" />
+      )}
+      <link rel="preload" as="image" href={ASSET_PREFIX + variantSrc(image, "-800")} imageSrcSet={`${ASSET_PREFIX + variantSrc(image, "-800")} 800w, ${ASSET_PREFIX + image} 1600w`} imageSizes="100vw" media={`(min-width: ${cropBp.midMax !== null ? cropBp.midMax + 1 : midMin}px)`} fetchPriority="high" />
       {/* CYCLE 1 UI/UX FIX (C-5): id="hero-image" — the hero ImageObject
           @id (#hero-image) resolves to this real DOM anchor.
           Attrs 1600x1066: every hero file measures 1600x1066 (PIL).
@@ -98,7 +109,7 @@ export function PhotoHero({
         {cropBp.midMax !== null && (
           <source media={`(max-width: ${cropBp.midMax}px)`} srcSet={`${ASSET_PREFIX + variantSrc(image, "-mid600")} 600w, ${ASSET_PREFIX + variantSrc(image, "-mid700")} 700w, ${ASSET_PREFIX + variantSrc(image, "-mid")} 800w`} sizes="100vw" />
         )}
-        <img id="hero-image" className="hero-img" src={ASSET_PREFIX + image} srcSet={`${ASSET_PREFIX + variantSrc(image, "-800")} 800w, ${ASSET_PREFIX + image} 1600w`} sizes="100vw" alt={alt} width={1600} height={1066} fetchPriority="high" />
+        <img id="hero-image" className="hero-img" src={ASSET_PREFIX + image} srcSet={`${ASSET_PREFIX + variantSrc(image, "-800")} 800w, ${ASSET_PREFIX + image} 1600w`} sizes="100vw" alt={alt} width={1600} height={1066} fetchPriority="high" decoding="async" />
       </picture>
       <div className="hero-shade" aria-hidden="true" />
       <div className="wrap hero-content">
