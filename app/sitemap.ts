@@ -27,8 +27,17 @@ const LASTMOD_2026_11_17 = new Set([
   "/water-leak-detection",
 ]);
 
+// The 3 noindex legal pages are NOT in the sitemap (owner order 2026-11-17
+// ~13:40 PKT): they are noindex by design, so listing them would waste crawl
+// budget. 28 locs remain: 16 × 2026-11-17 + 12 × 2026-11-16.
+const EXCLUDED_FROM_SITEMAP = new Set([
+  "/privacy-policy",
+  "/terms-of-use",
+  "/disclaimer",
+]);
+
 export default function sitemap(): MetadataRoute.Sitemap {
-  return DOC_PAGES.map((page) => ({
+  return DOC_PAGES.filter((page) => !EXCLUDED_FROM_SITEMAP.has(page.route)).map((page) => ({
     url: `${SITE.base}${page.route === "/" ? "/" : page.route}`,
     // NOTE: the field is `lastModified` — the earlier `lastmod` key was
     // silently dropped by Next and the built sitemap had NO lastmod at all
