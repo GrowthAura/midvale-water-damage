@@ -354,10 +354,12 @@ tbody tr:nth-child(even) { background: var(--mist); }
 .contact-form .radio-row input { width: auto; font-size: 19px; }
 .contact-form .form-sent { font-weight: 700; margin-bottom: 0; }
 
-/* ---------- footer: slim (2026-11-16, owner: only the important things).
-   Brand + call on top, then compact inline link rows with dot separators.
-   Replaces the old 5-column grid + map (1,281px desktop / 2,642px mobile).
-   Footer links keep 48px tap targets (SEO FIX 1 2026-11-13, P2-2). ---------- */
+/* ---------- footer: multi-column (2026-11-17, owner: like all the other
+   sites — columns, not rows). Map on top, 6-column grid, base bar.
+   Brand column carries the drop mark, name, tagline and big copper Call
+   button. Footer links keep 48px tap targets (SEO FIX 1 2026-11-13,
+   P2-2). Grid columns use minmax(0, …) so long labels can never blow the
+   grid out of the wrap (the clipped-button guard). ---------- */
 .site-footer { background: var(--pine); color: #dfeae7; margin-top: 0; }
 /* Footer map (restored 2026-11-16) + location maps (2026-11-16): full-width
    embeds, 320px tall, no border. Footer map is the first child of
@@ -365,22 +367,22 @@ tbody tr:nth-child(even) { background: var(--mist); }
 .footer-map iframe { display: block; width: 100%; height: 320px; border: 0; }
 .location-map { margin-top: 36px; }
 .location-map iframe { display: block; width: 100%; height: 320px; border: 0; border-radius: 14px; }
-.footer-top { display: flex; align-items: center; justify-content: space-between; gap: 24px; padding: 40px 24px 28px; flex-wrap: wrap; }
-.footer-brand { font-size: 20px; font-weight: 800; color: var(--white); margin: 0 0 6px; }
-.footer-tag { margin: 0; font-size: 19px; }
-.footer-phone {
+.footer-grid { display: grid; grid-template-columns: minmax(0,1.5fr) minmax(0,1.1fr) minmax(0,0.9fr) minmax(0,0.7fr) minmax(0,1.1fr) minmax(0,0.7fr); gap: 32px; padding: 56px 24px 36px; }
+.footer-grid > * { min-width: 0; }
+.footer-brand-row { display: flex; align-items: flex-start; gap: 10px; margin-bottom: 6px; }
+.footer-brand-mark { display: inline-flex; flex-shrink: 0; margin-top: 2px; }
+.footer-brand { font-size: 20px; font-weight: 800; color: var(--white); margin: 0; }
+.footer-tag { margin: 0 0 20px; font-size: 19px; }
+.site-footer a.footer-phone {
   font-size: 19px; font-weight: 800; color: var(--white); background: var(--copper-dark);
   text-decoration: none; padding: 12px 24px; border-radius: 12px; white-space: nowrap;
-  display: inline-flex; align-items: center; min-height: 56px;
+  display: inline-flex; align-items: center; min-height: 56px; max-width: 100%;
 }
-.footer-phone:hover { background: #7c3f12; color: var(--white); }
-.footer-links { padding: 0 24px 28px; display: flex; flex-direction: column; gap: 16px; }
-.footer-row { display: flex; gap: 16px; align-items: baseline; border-top: 1px solid rgba(255,255,255,.16); padding-top: 16px; }
-.footer-h { font-size: 18px; font-weight: 800; color: var(--white); margin: 0; letter-spacing: 0.5px; flex-shrink: 0; min-width: 110px; }
-.site-footer ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; }
-.site-footer li { display: inline-flex; align-items: center; margin: 0; }
-.site-footer li + li::before { content: "·"; color: rgba(255,255,255,.5); margin: 0 10px; }
-.site-footer a { color: #dfeae7; display: inline-flex; align-items: center; min-height: 48px; padding: 4px 0; }
+.site-footer a.footer-phone:hover { background: #7c3f12; color: var(--white); }
+.footer-h { font-size: 18px; font-weight: 800; color: var(--white); margin: 0 0 12px; letter-spacing: 0.5px; }
+.site-footer ul { list-style: none; padding: 0; margin: 0; }
+.site-footer li { margin-bottom: 10px; }
+.site-footer a { color: #dfeae7; display: inline-flex; align-items: center; min-height: 48px; }
 .site-footer a:hover { color: #f2c89b; }
 /* DESIGN ROUND 2026-11-13: the old 96px bottom pad left a dead band
    under the footer on desktop (the sticky bar only exists <=767px,
@@ -433,6 +435,8 @@ tbody tr:nth-child(even) { background: var(--mist); }
   .nav-drop-btn { width: 100%; justify-content: flex-start; padding: 14px 0; }
   .nav-drop-list { position: static; border: 0; box-shadow: none; padding: 0 0 0 16px; min-width: 0; }
   .nav-drop-list a { padding: 12px 0; }
+  /* Footer columns: 3 across at tablet widths. */
+  .footer-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 @media (max-width: 767px) {
   .sticky-bar { display: block; position: fixed; left: 0; right: 0; bottom: 0; z-index: 60; }
@@ -458,9 +462,8 @@ tbody tr:nth-child(even) { background: var(--mist); }
   .header-phone { padding: 8px 12px; }
   .header-inner { flex-wrap: wrap; }
   .brand { flex: 1 1 100%; }
-  /* Slim footer: label stacks above its links on small screens. */
-  .footer-row { flex-direction: column; gap: 6px; }
-  .footer-h { min-width: 0; }
+  /* Footer columns: single stacked column on mobile. */
+  .footer-grid { grid-template-columns: minmax(0, 1fr); gap: 28px; padding: 40px 24px 32px; }
   .btn { width: 100%; }
   .hero-buttons { flex-direction: column; max-width: none; }
 }

@@ -320,14 +320,12 @@ export function Header() {
   );
 }
 
-/* ---------- footer: slim (2026-11-16, owner: only the important things).
-   Brand + call on top, then compact inline link rows — no map, no 5-column
-   link grid (the old footer was 1,281px tall on desktop, 2,642px on
-   mobile). The 6 menu services live in the header; the other 10 services
-   are here. The 5 blog pages have no other inbound links, so they keep a
-   Resources row here; the guide page is body-linked (3x), so it needs no
-   footer link. Legal pages are noindex (see app/[slug]/page.tsx) but stay
-   linked so they are not orphans. ---------- */
+/* ---------- footer: multi-column (2026-11-17, owner: like all the other
+   sites — columns, not rows). Map on top, then a 6-column grid: brand
+   (drop mark, name, tagline, big copper Call button) | Services (the 10
+   footer services) | Areas (3 cities) | Company (About, Contact) |
+   Resources (5 blogs) | Legal (Privacy, Terms, Disclaimer). Same links
+   as the slim footer — none added, none removed. Base bar verbatim. ---------- */
 const FOOTER_SERVICES = [
   "window-well-flooding",
   "water-heater-leak-cleanup",
@@ -353,7 +351,7 @@ export function Footer({ showMap }: { showMap: boolean }) {
   return (
     <footer className="site-footer">
       {/* Footer map restored 2026-11-16 (was removed in 33a3d2c): Midvale
-          embed, first child of <footer>, before footer-top. Shown on every
+          embed, first child of <footer>, before the grid. Shown on every
           page EXCEPT /locations/* (FooterSwitch gating below) — those
           pages carry their own city map, no double maps. */}
       {showMap ? (
@@ -366,17 +364,22 @@ export function Footer({ showMap }: { showMap: boolean }) {
           />
         </div>
       ) : null}
-      <div className="wrap footer-top">
+      <div className="wrap footer-grid">
         <div>
-          <p className="footer-brand">Water Damage Restoration Midvale UT</p>
+          <div className="footer-brand-row">
+            <span className="footer-brand-mark" aria-hidden="true">
+              <svg viewBox="0 0 32 32" width="30" height="30">
+                <path d="M16 3C16 3 6 14 6 20a10 10 0 0 0 20 0C26 14 16 3 16 3Z" fill="#c26a24" />
+              </svg>
+            </span>
+            <p className="footer-brand">Water Damage Restoration Midvale UT</p>
+          </div>
           <p className="footer-tag">24/7 water damage restoration in Midvale, UT 84047.</p>
+          <a className="footer-phone" href={TEL_HREF}>
+            Call {SITE.phoneDisplay}
+          </a>
         </div>
-        <a className="footer-phone" href={TEL_HREF}>
-          Call {SITE.phoneDisplay}
-        </a>
-      </div>
-      <div className="wrap footer-links">
-        <div className="footer-row">
+        <nav aria-label="Services">
           <p className="footer-h">Services</p>
           <ul>
             {FOOTER_SERVICES.map((slug) => {
@@ -388,8 +391,8 @@ export function Footer({ showMap }: { showMap: boolean }) {
               );
             })}
           </ul>
-        </div>
-        <div className="footer-row">
+        </nav>
+        <nav aria-label="Areas">
           <p className="footer-h">Areas</p>
           <ul>
             {LOCATIONS.map((l) => (
@@ -398,8 +401,8 @@ export function Footer({ showMap }: { showMap: boolean }) {
               </li>
             ))}
           </ul>
-        </div>
-        <div className="footer-row">
+        </nav>
+        <nav aria-label="Company">
           <p className="footer-h">Company</p>
           <ul>
             <li>
@@ -409,8 +412,8 @@ export function Footer({ showMap }: { showMap: boolean }) {
               <Link href="/contact">Contact</Link>
             </li>
           </ul>
-        </div>
-        <div className="footer-row">
+        </nav>
+        <nav aria-label="Resources">
           <p className="footer-h">Resources</p>
           <ul>
             {FOOTER_BLOGS.map((b) => (
@@ -419,8 +422,8 @@ export function Footer({ showMap }: { showMap: boolean }) {
               </li>
             ))}
           </ul>
-        </div>
-        <div className="footer-row">
+        </nav>
+        <nav aria-label="Legal">
           <p className="footer-h">Legal</p>
           <ul>
             <li>
@@ -433,7 +436,7 @@ export function Footer({ showMap }: { showMap: boolean }) {
               <Link href="/disclaimer">Disclaimer</Link>
             </li>
           </ul>
-        </div>
+        </nav>
       </div>
       <div className="wrap footer-base">
         <p>
