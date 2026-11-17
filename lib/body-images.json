@@ -41,8 +41,8 @@
   ],
   "/ceiling-water-damage": [
     {
-      "src": "/images/body/ceiling-water-damage-1.webp",
-      "alt": "A man sanding a green drywall ceiling with a power sander",
+      "src": "/images/body/ceiling-water-damage-1-v2.webp",
+      "alt": "Black-and-white photo of a worker standing on drywall stilts sanding a ceiling with a pole sander",
       "afterH2": 2,
       "layout": "sticky"
     },
@@ -181,8 +181,8 @@
   ],
   "/locations/magna-ut": [
     {
-      "src": "/images/body/magna-ut-1.webp",
-      "alt": "Aerial view of a Utah home surrounded by vibrant autumn trees",
+      "src": "/images/body/magna-ut-1-v2.webp",
+      "alt": "Aerial view of a new suburban neighborhood of white two-storey homes with green lawns, driveways and a black pickup truck",
       "afterH2": 1,
       "layout": "split"
     },
@@ -261,14 +261,14 @@
   ],
   "/storm-flood-damage": [
     {
-      "src": "/images/body/storm-flood-damage-1.webp",
-      "alt": "A suburban street flooded with standing water between bare trees and lawns",
+      "src": "/images/body/storm-flood-damage-1-v2.webp",
+      "alt": "A dark Jeep driving through a flooded road with muddy brown water, bare trees and power poles under a storm sky",
       "afterH2": 0,
       "layout": "split"
     },
     {
-      "src": "/images/body/storm-flood-damage-2.webp",
-      "alt": "Rainwater pouring off the edge of a corrugated roof during heavy rain",
+      "src": "/images/body/storm-flood-damage-2-v2.webp",
+      "alt": "Rainwater streaming off the edge of a red clay-tile roof over a white wall during heavy rain",
       "afterH2": 2,
       "layout": "sticky"
     },
@@ -347,8 +347,8 @@
       "layout": "split"
     },
     {
-      "src": "/images/body/water-leak-detection-2.webp",
-      "alt": "A patch of plaster fallen from a blue painted wall, exposing the rough surface beneath",
+      "src": "/images/body/water-leak-detection-2-v2.webp",
+      "alt": "A large brown water stain with cracked, peeling paint on a white interior wall",
       "afterH2": 4,
       "layout": "sticky"
     },

@@ -16,7 +16,7 @@ export default function NotFound() {
   return (
     <section className="page-body">
       <div className="wrap">
-        <h1>Page Not Found</h1>
+        <h1>Page Not Found (404)</h1>
         <p>Sorry, this page does not exist. You can go back to the homepage or call us any hour.</p>
         <p>
           {/* P3-1 (10x round 2026-11-16): plain <a>, not Next Link — a
